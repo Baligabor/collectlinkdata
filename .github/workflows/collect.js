@@ -89,9 +89,9 @@ async function init() {
     }
     console.log(datas)
     await writeJsonFile(resultData, datas);
-    await writeJsonFile("datas/output.json", datas);
-    await writeJsonFile("../../datas/output.json", datas);
-    await writeJsonFile("output.json", datas);
+    await writeJsonFile("datas/output2.json", datas);
+    await writeJsonFile("../../datas/output2.json", datas);
+    //await writeJsonFile("output.json", datas);
 }
 init()
 
