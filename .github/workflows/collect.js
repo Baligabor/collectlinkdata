@@ -54,7 +54,6 @@ async function writeJsonFile(filePath, data) {
 async function init() {
     console.log("Start collecting...")
     const jsonData = await readJsonFile(linksData);
-    console.log(jsonData);
     const datas = [];
 
     if (jsonData && Array.isArray(jsonData)) {
@@ -86,6 +85,7 @@ async function init() {
     } else {
         console.error('Invalid JSON data');
     }
+    console.log(datas)
     await writeJsonFile(resultData, datas);
 }
 init()
