@@ -1,0 +1,24 @@
+[
+    {
+        "link": "https://index.hu/belfold/2024/07/04/laurel-budapest-etterem-michelin-kertesz-utca/",
+        "category": "valami",
+        "type": "article",
+        "title": "aa",    
+        "description": "bb"    
+    },
+    {
+        "link": "https://index.hu/mindekozben/poszt/2024/07/04/szoboszlai-nyaralas-megmutatta-a-baratnojet-foto/",
+        "category": "valami2",
+        "type": "article"    
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=6CqXgs-7ico&list=RD6CqXgs-7ico&start_radio=1",
+        "category": "valami3",
+        "type": "video"    
+    },
+    {
+        "link": "https://www.youtube.com/watch?v=D4hAVemuQXY&list=RD6CqXgs-7ico&index=2",
+        "category": "valami3",
+        "type": "video"    
+    }
+]
