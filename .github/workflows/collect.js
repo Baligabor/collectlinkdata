@@ -4,7 +4,7 @@ import path from 'path';
 import cheerio from 'cheerio';
 
 const linksData = "datas/links.json"; 
-const resultData = "datas/datas.json"; 
+const resultData = "../../datas/datas.json"; 
 
 async function readJsonFile(filePath) {
     try {
@@ -87,11 +87,7 @@ async function init() {
     } else {
         console.error('Invalid JSON data');
     }
-    console.log(datas)
-    //await writeJsonFile(resultData, datas);
-    //await writeJsonFile("datas/output2.json", datas);
-    await writeJsonFile("../../datas/output2.json", datas);
-    //await writeJsonFile("output.json", datas);
+    await writeJsonFile(resultData, datas);
 }
 init()
 
