@@ -1,0 +1,34 @@
+[
+  {
+    "link": "https://index.hu/belfold/2024/07/04/laurel-budapest-etterem-michelin-kertesz-utca/",
+    "title": "aa",
+    "description": "bb",
+    "ogimage": "https://kep.cdn.index.hu/1/0/5711/57119/571198/57119811_4224261_b04a95d413351e2b4345baec37b971a6_wm.png",
+    "category": "valami",
+    "type": "article"
+  },
+  {
+    "link": "https://index.hu/mindekozben/poszt/2024/07/04/szoboszlai-nyaralas-megmutatta-a-baratnojet-foto/",
+    "title": "Index - Mindeközben\n\n- Tengerparti nyaralásukról mutatott képeket Szoboszlai Dominik és barátnője \n\n        ",
+    "description": "MindeközbenElőször láthatjuk a szerelmespárt.   Ahogy azt megírtuk, Szoboszlai Dominik a magyar válogatott labdarúgója és volt bará...",
+    "ogimage": "http://kep.cdn.index.hu/1/0/5711/57119/571199/57119973_f0b5bb25877efd3d72627e96542d76d6_wm.jpg",
+    "category": "valami2",
+    "type": "article"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=6CqXgs-7ico&list=RD6CqXgs-7ico&start_radio=1",
+    "title": "DMX - Where The Hood At? (Dirty) (Music Video) HQ - YouTube",
+    "description": "More DMX: https://www.youtube.com/playlist?list=PLuIRrQLWu9flS1Z0Ofg-zJuSCpUpmalxyDMX performing \"Where The Hood At?\" featuring Ayo Kato. (C) 2003 The Island...",
+    "ogimage": "https://i.ytimg.com/vi/6CqXgs-7ico/hqdefault.jpg",
+    "category": "valami3",
+    "type": "video"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=D4hAVemuQXY&list=RD6CqXgs-7ico&index=2",
+    "title": "Eminem - Sing For The Moment (Official Music Video) - YouTube",
+    "description": "REMASTERED IN HD!Music video by Eminem performing Sing For The Moment. (C) 2002 Aftermath Records#Eminem #SingForTheMoment #Remastered",
+    "ogimage": "https://i.ytimg.com/vi/D4hAVemuQXY/maxresdefault.jpg",
+    "category": "valami3",
+    "type": "video"
+  }
+]
