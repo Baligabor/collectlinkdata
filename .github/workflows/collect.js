@@ -88,8 +88,8 @@ async function init() {
         console.error('Invalid JSON data');
     }
     console.log(datas)
-    await writeJsonFile(resultData, datas);
-    await writeJsonFile("datas/output2.json", datas);
+    //await writeJsonFile(resultData, datas);
+    //await writeJsonFile("datas/output2.json", datas);
     await writeJsonFile("../../datas/output2.json", datas);
     //await writeJsonFile("output.json", datas);
 }
