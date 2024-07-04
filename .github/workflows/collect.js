@@ -44,8 +44,10 @@ async function getLinkDatas(link) {
 
 async function writeJsonFile(filePath, data) {
     try {
+        const absolutePath = path.resolve(filePath);
         const json = JSON.stringify(data, null, 2);
-        await fs.writeFile(filePath, json, 'utf8');
+        await fs.writeFile(absolutePath, json, 'utf8');
+        console.log('File successfully written to', absolutePath);
     } catch (error) {
         console.error('Error writing JSON file:', error);
     }
