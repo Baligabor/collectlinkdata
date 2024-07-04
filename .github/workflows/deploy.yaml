@@ -28,6 +28,14 @@ jobs:
     - name: Run collect
       run: npm run collect
       working-directory: ./.github/workflows/
+
+    - name: Add and commit changes
+      run: |
+        git config --global user.email "baligabor81@gmail.com"
+        git config --global user.name "Baligabor"
+        git add .
+        git commit -m "Add collected data"
+        git push origin main
       
     ##- name: Deploy to GitHub
     ##  run: |
