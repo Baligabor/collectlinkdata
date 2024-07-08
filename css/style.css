@@ -1,22 +1,21 @@
 :root {
-	--primary-color:#b80000;
+    --primary-color: #b80000;
 }
-
 body {
     background: #000;
     color: #fff;
     font-family: monospace;
 }
 a {
-	text-decoration: none;
-	color: var(--primary-color);
+    text-decoration: none;
+    color: var(--primary-color);
 }
 .logo {
     height: 100px;
 }
 .box {
-	margin-bottom: 30px;
-	position: relative;
+    margin-bottom: 30px;
+    position: relative;
 }
 .box-image {
     --aspect-ratio: 16/9;
@@ -49,7 +48,7 @@ a {
     transform: scale(1.1);
 }
 .box:hover .box-title {
-	color: var(--primary-color);
+    color: var(--primary-color);
 }
 .box-title {
     font-weight: bold;
@@ -63,39 +62,42 @@ a {
     transition: all 0.5s ease-in-out;
 }
 .box-description {
-	opacity: 0.8;
+    opacity: 0.8;
+    display: -webkit-box;
+    max-width: 100%;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 .btn-secondary, .search .form-control {
-	background: #000;
-	border-color: #666;
-	color: #fff;
+    background: #000;
+    border-color: #666;
+    color: #fff;
 }
 .search .form-control::placeholder {
-	color: #666;
+    color: #666;
 }
 .form-control:focus {
-	box-shadow: none;
+    box-shadow: none;
 }
 .btn-primary {
-	background: var(--primary-color);
-	border-color: var(--primary-color);
-	color: #fff;
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+    color: #fff;
 }
 .btn-primary:hover {
-	background: #000;
-	color: #aaa;
+    background: #000;
+    color: #aaa;
 }
 .card {
-	color: #fff;
-	background: transparent;
-	border:1px solid var(--primary-color);
+    color: #fff;
+    background: transparent;
+    border: 1px solid var(--primary-color);
 }
 .content {
-	margin: 40px 0;
+    margin: 40px 0;
 }
 .border-top {
-	border-color: #666 !important;
+    border-color: #666 !important;
 }
-footer {
-	
-}
+footer {}
