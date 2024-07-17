@@ -32,7 +32,7 @@ jobs:
         git config --global user.name "Baligabor"
         git add .
         git commit -m "Add collected data"
-        git push https://${{ secrets.DEPLOY_PAT }}@github.com/Baligabor/collectlinkdata.git
+        git push https://${{ secrets.DEPLO }}@github.com/Baligabor/collectlinkdata.git
     ## git push origin main
       
     ##- name: Deploy to GitHub
