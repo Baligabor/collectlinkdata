@@ -70,6 +70,12 @@ async function init() {
                         if (item.description) {
                             linkData.description = item.description;
                         }
+                        if (item.date) {
+                            linkData.date = item.date;
+                        }
+                        if (item.author) {
+                            linkData.author = item.author;
+                        }
                         if (item.category) {
                             linkData.category = item.category;
                         }

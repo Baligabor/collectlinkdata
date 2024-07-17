@@ -4,14 +4,18 @@
         "category": "Bitcoin",
         "type": "Video",
         "title": "Hayek Summer Workshop (Leipzig 2018)",
-        "description": "Financial crises, skyrocketing debt levels, sluggish growth, and growing inequality are among the most pressing policy issues in the industrialized world. The Hayek Summer Workshop provides an opportunity to fifteen selected students to discuss causes, consequences, and remedies of the current low-growth and high debt environment from a Hayekian and Public Choice perspective. Students will spend two full days learning, thinking and arguing about topics such as the link between monetary policy, credit cycles and financial crises. They will explore the political economy of crisis policies as well as unintended consequences of crisis management. The intensive workshop takes place from September 5-7, 2018 at Leipzig University, amidst one of Germany’s youngest and most dynamic cities. Selected students will be accommodated right in the city center, two minutes from the university buildings. The program package also includes welcome drinks, lunch meals, and get-togethers with the instructors."
+        "description": "Financial crises, skyrocketing debt levels, sluggish growth, and growing inequality are among the most pressing policy issues in the industrialized world. The Hayek Summer Workshop provides an opportunity to fifteen selected students to discuss causes, consequences, and remedies of the current low-growth and high debt environment from a Hayekian and Public Choice perspective. Students will spend two full days learning, thinking and arguing about topics such as the link between monetary policy, credit cycles and financial crises. They will explore the political economy of crisis policies as well as unintended consequences of crisis management. The intensive workshop takes place from September 5-7, 2018 at Leipzig University, amidst one of Germany’s youngest and most dynamic cities. Selected students will be accommodated right in the city center, two minutes from the university buildings. The program package also includes welcome drinks, lunch meals, and get-togethers with the instructors.",
+        "date": "2024-07-10",
+        "author": "Test Author"
     },
     {
         "link": "https://www.youtube.com/playlist?list=PLPj3KCksGbSanfYiAp8JSHxIjBm66yPf5",
         "category": "Bitcoin",
         "type": "Video",
         "title": "Mises University (Vienna 2018)",
-        "description": "The Mises University is the world's leading instructional program in the Austrian School of economics. Since 1986, it has been the essential training ground for economists who are looking beyond the mainstream. The program offers courses and seminars on the whole range of the discipline. A core curriculum presents economic foundations, and more than fifty elective classes explore the entire range of economics, in all levels of advancement. The program ends with a Mündliche Prüfung, an optional exam for an honors certificate and cash prizes for the most learned. Subject areas cover market behavior, competition, value and utility, money and banking, business cycles, industrial organization, method, economic history, the philosophy of science, financial economics, and more. You attend what most suits your interests and level of advancement. Classes are interspersed with discussion seminars, faculty panels, and plenary lectures. There are special sessions on economic history, economics and ethics, and political philosophy. Nightly social hours allow time to meet and discuss it all with faculty and other students."
+        "description": "The Mises University is the world's leading instructional program in the Austrian School of economics. Since 1986, it has been the essential training ground for economists who are looking beyond the mainstream. The program offers courses and seminars on the whole range of the discipline. A core curriculum presents economic foundations, and more than fifty elective classes explore the entire range of economics, in all levels of advancement. The program ends with a Mündliche Prüfung, an optional exam for an honors certificate and cash prizes for the most learned. Subject areas cover market behavior, competition, value and utility, money and banking, business cycles, industrial organization, method, economic history, the philosophy of science, financial economics, and more. You attend what most suits your interests and level of advancement. Classes are interspersed with discussion seminars, faculty panels, and plenary lectures. There are special sessions on economic history, economics and ethics, and political philosophy. Nightly social hours allow time to meet and discuss it all with faculty and other students.",
+        "date": "2024-07-10",
+        "author": "Test Author"
     },
     {
         "link": "https://www.youtube.com/playlist?list=PLPj3KCksGbSZsgH48ZDxNdzRXbg_pvMnz",
@@ -32,7 +36,9 @@
         "category": "Bitcoin",
         "type": "Video",
         "title": "Understanding Bitcoin Conference (Malta 2019)",
-        "description": "Understanding Bitcoin conference is organized with a focus on the non-technical, non-developer users that want to increase their knowledge and technical participation in the Bitcoin network. Not everyone has the skills to take full advantage of what Bitcoin has to offer, so this event will help the average user be more familiar with best practices and understanding all aspects of interacting with the Bitcoin network. There will be practical hands on presentations of how to set up features, along with theoretical discussions removing the FUD and misconceptions surrounding the current state of Bitcoin’s Trustless Network."
+        "description": "Understanding Bitcoin conference is organized with a focus on the non-technical, non-developer users that want to increase their knowledge and technical participation in the Bitcoin network. Not everyone has the skills to take full advantage of what Bitcoin has to offer, so this event will help the average user be more familiar with best practices and understanding all aspects of interacting with the Bitcoin network. There will be practical hands on presentations of how to set up features, along with theoretical discussions removing the FUD and misconceptions surrounding the current state of Bitcoin’s Trustless Network.",
+        "date": "2024-07-10",
+        "author": "Test Author"
     },
     {
         "link": "https://www.youtube.com/playlist?list=PLPj3KCksGbSZFi81lduijpsmkhxQv2Gm8",
@@ -67,7 +73,9 @@
         "category": "Development",
         "type": "Video",
         "title": "GPG + Yubikey",
-        "description": "This is the DrDuh guide to using YubiKey as a SmartCard for storing GPG encryption, signing and authentication keys, which can also be used for SSH. Many of the principles in this document are applicable to other smart card devices. Keys stored on YubiKey are non-exportable (as opposed to file-based keys that are stored on disk) and are convenient for everyday use. Instead of having to remember and enter passphrases to unlock SSH/GPG keys, YubiKey needs only a physical touch after being unlocked with a PIN code. All signing and encryption operations happen on the card, rather than in OS memory."
+        "description": "This is the DrDuh guide to using YubiKey as a SmartCard for storing GPG encryption, signing and authentication keys, which can also be used for SSH. Many of the principles in this document are applicable to other smart card devices. Keys stored on YubiKey are non-exportable (as opposed to file-based keys that are stored on disk) and are convenient for everyday use. Instead of having to remember and enter passphrases to unlock SSH/GPG keys, YubiKey needs only a physical touch after being unlocked with a PIN code. All signing and encryption operations happen on the card, rather than in OS memory.",
+        "date": "2024-07-10",
+        "author": "Test Author"
     },
     {
         "link": "https://www.youtube.com/playlist?list=PLPj3KCksGbSYX2cNoOaV-w-9QuZ62LDk_",
@@ -88,7 +96,9 @@
         "category": "Bitcoin",
         "type": "Video",
         "title": "Bitcoin Developer's Mailing List",
-        "description": "The bitcoin-dev mailing list is intended for technical discussions only. There’s things that don’t belong there but need to be discussed anyway. Now this is done in bitcoin-dev, but the volume of this is getting too big. The bitcoin-discuss list will be created as well as a simple website listing all the lists and corresponding policies. A meeting is scheduled on monday to discuss the moderation and policies of said lists."
+        "description": "The bitcoin-dev mailing list is intended for technical discussions only. There’s things that don’t belong there but need to be discussed anyway. Now this is done in bitcoin-dev, but the volume of this is getting too big. The bitcoin-discuss list will be created as well as a simple website listing all the lists and corresponding policies. A meeting is scheduled on monday to discuss the moderation and policies of said lists.",
+        "date": "2024-07-10",
+        "author": "Test Author"
     },
     {
         "link": "https://www.youtube.com/playlist?list=PLPj3KCksGbSZm6k6GlJRhY6T7wSvoEWbG",
