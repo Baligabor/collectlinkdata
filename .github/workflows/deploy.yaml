@@ -10,9 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
     - name: Checkout repository
       uses: actions/checkout@v2
 
@@ -35,7 +32,8 @@ jobs:
         git config --global user.name "Baligabor"
         git add .
         git commit -m "Add collected data"
-        git push origin main
+        git push https://${{ secrets.DEPLOY_PAT }}@github.com/Baligabor/collectlinkdata.git
+    ## git push origin main
       
     ##- name: Deploy to GitHub
     ##  run: |
