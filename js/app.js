@@ -208,7 +208,13 @@ function displayNostrData(data, page = 1) {
 
         const span = document.createElement('span');
         span.classList.add('tag');
-        span.textContent = 'Kind: ' + item.kind;
+        let kind = '';
+        if (item.kind == 1 ) {
+            kind = 'Short Text Note'
+        } else {
+            kind = 'Repost'
+        }
+        span.textContent = kind;
 
         boxDiv.appendChild(boxTitleDiv);
         boxDiv.appendChild(boxDescriptionDiv);
