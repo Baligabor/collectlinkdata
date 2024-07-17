@@ -20,7 +20,7 @@ jobs:
 
     - name: Install dependencies
       run: npm install 
-     working-directory: ./.github/workflows/
+      working-directory: ./.github/workflows/
 
     - name: Run collect
       run: npm run collect
