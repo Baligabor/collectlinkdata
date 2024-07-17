@@ -22,6 +22,10 @@ jobs:
       with:
         node-version: '21.4.0'
 
+    - name: Install dependencies
+      run: npm install 
+      working-directory: ./.github/workflows/
+
     - name: Run nostr
       run: npm run nostr
       working-directory: ./.github/workflows/
