@@ -20,6 +20,7 @@ async function readJsonData() {
 
 async function writeJsonData(data) {
     try {
+        data.sort((a, b) => b.timestamp - a.timestamp);
         await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8');
     } catch (error) {
         console.error('Error writing JSON data:', error);
