@@ -86,10 +86,35 @@ a {
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
-.btn-secondary, .search .form-control {
-    background: #000;
-    border-color: #666;
-    color: #fff;
+.btn-secondary, .filters .form-control, .select2-container--default .select2-selection--multiple {
+    background: #000 !important;
+    border-color: #666 !important;
+    color: #fff !important;
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border: var(--bs-border-width) solid var(--bs-border-color);
+    border-radius: var(--bs-border-radius);
+}
+.select2-container .select2-search--inline .select2-search__field {
+    font-family: monospace;
+    color: #fff !important;
+    margin-top: 0;
+    margin-left: 0;
+    height: 23px;
+}
+.select2-container--default.select2-container--open.select2-container--below .select2-selection--single, .select2-container--default.select2-container--open.select2-container--below .select2-selection--multiple {
+    border-bottom-left-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+}
+.select2-dropdown {
+    background-color: #000;
+}
+.select2-container--default .select2-results__option--highlighted.select2-results__option--selectable {
+    background-color: var(--primary-color);
 }
 .search .form-control::placeholder {
     color: #666;
@@ -136,7 +161,6 @@ a {
     justify-content: center;
     margin-top: 20px;
 }
-
 .pagination-button {
     margin: 0 5px;
     padding: 5px 10px;
@@ -150,14 +174,10 @@ a {
     border-color: #666;
     color: #fff;
 }
-
 .pagination-button.active {
     background-color: #333;
 }
-
-footer {}
-
-@media only screen and (max-width:600px) {
+footer {} @media only screen and (max-width: 600px) {
     .box-image {
         width: 130px;
     }

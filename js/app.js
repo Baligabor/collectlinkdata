@@ -55,12 +55,12 @@ function displayFilters(categoriesData, typesData) {
     });
     $(document).ready(function() {
         $('#typeMultipleSelector').select2({
-            placeholder: 'Please choose...'            
+            placeholder: 'Type'            
         });
     });
     $(document).ready(function() {
         $('#categoryMultipleSelector').select2({
-            placeholder: 'Please choose...'
+            placeholder: 'Category'
         });
     });
 }
