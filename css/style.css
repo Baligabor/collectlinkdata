@@ -116,6 +116,12 @@ a {
 .select2-container--default .select2-results__option--highlighted.select2-results__option--selectable {
     background-color: var(--primary-color);
 }
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: transparent;
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 5px;
+}
 .search .form-control::placeholder {
     color: #666;
 }
