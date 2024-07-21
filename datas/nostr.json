@@ -1,5 +1,19 @@
 [
   {
+    "content": "These details should tell you that if you consider these types of groups (sophisticated adversaries with limitless physical access) as a part of your threat model, then you should:\n\n- Use the most recent phone you possibly can\n\n- Upgrade your phone to the newest possible generation as soon as possible after release if you can help it.\n\n- Use the latest version of GrapheneOS ASAP. Do not delay.\n\n- Use a strong, high entropy passphrase to make bruteforcing the device credential impossible if secure element is ever exploited.\n\n- Set GrapheneOS auto reboot time accordingly so encrypted data goes back at rest when the phone reboots, which makes AFU exploitation impossible. The lower the better.\n\n- Enable duress password. Set it to something easy to trigger but not easy to misfire.\n\n- Turn your phone off in a high risk situation, and trigger duress when in a duress situation.\n\n- Disable your radios when not using them (turn off Wi-Fi, use airplane mode, disable NFC, UWB etc.) for attack surface reduction.\n\n- Set an appropriate USB port control or disable the USB port so they aren't able to connect a device to it.\n\n- Use user profiles (application data and user files within profiles are stored encrypted with separate credentials).\n\n- Enable upcoming GrapheneOS security features like second factor authentication unlock when they come out.\n\n- Communicate only over secure messaging. Some apps like Molly (Signal fork) have features to encrypt the app storage with a passphrase, which access to that app's data impossible even when a profile is compromised  providing the passphrase is secure enough.\n\n- Become disassociated to data. Learn to only keep files or other data as long as it is necessary. If you have no use for them for a long time, then back it up elsewhere, encrypted. Delete anything you don't have a use for in the present. Your data is not your memories. \n\n- Remember that you are only as secure as the people you trust. If they do not meet your safety or security requirements, don't enable them to do things that could cause trouble.\n\nnostr:nevent1qqs8uxurjncnpj8uyzqy5gd3lyevzd8u92xhk2xe9fdln5y03hgwrwgpz4mhxue69uhhyetvv9ujumn0wd68ytnzvuhsygxptfdxtxrw026pxn0w82u9y4x6t3w5kp883d83djpgxuvj6d23s5psgqqqqqqsgwaf3p",
+    "timestamp": "1721559098",
+    "date": "7/21/2024, 10:51:38 AM",
+    "id": "d6639eab76656e390f9cfdbfc46b26a619a1bfeae297c4b3b9b1b61b8ba97e8c",
+    "kind": 6
+  },
+  {
+    "content": "\nhttps://image.nostr.build/99a96c477a110cba1b25d975cd91d0c1330ce6d31d957e5b69808d53dbb29993.jpg",
+    "timestamp": "1721557554",
+    "date": "7/21/2024, 10:25:54 AM",
+    "id": "5d8a781100b43ceb6a2ac6674d3cfd4f9218f26fb0ac3b3fdd8dd1b55ccb6503",
+    "kind": 6
+  },
+  {
     "content": "One of the fascinating parts of A Lodging of Wayfaring Men is this characterization of Jesus as a culmination of numerous traditions developing the ideas of individual sovereignty. \n\n\"So, into this mix comes the monotheist’s enthronement of the individual above the collective; the Greek ideas of men being great enough to approach the gods on their own – with no priesthood between – and even to challenge the gods; the Jewish and Greek high regard for reason and meaning; Hillel’s teaching of the power of integrity; and the Essene discovery that definite commitment has magic in it.\"",
     "timestamp": "1721494763",
     "date": "7/20/2024, 4:59:23 PM",
