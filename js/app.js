@@ -90,75 +90,61 @@ function addSearchEventListener(data) {
         
     });}
 
-function addFilterEventListeners(data) {
-    function onTypeChange(event) {
-        $('#categoryMultipleSelector').off('change', onCategoryChange); // Ideiglenesen eltávolítjuk az eseménykezelőt
-        $('#categoryMultipleSelector').val(null).trigger('change');
-        $('#categoryMultipleSelector').on('change', onCategoryChange); // Visszaállítjuk az eseménykezelőt
-
-        const selectedValues = $(this).val();
-        $('#filterName').text('Type: ' + selectedValues.join(', '));
-        const filteredData = data.filter(item => selectedValues.includes(item.type));
-        filterName.textContent = 'Type: ' + selectedValues.join(', ');
-        displayData(filteredData);
-    }
-
-    function onCategoryChange(event) {
-        $('#typeMultipleSelector').off('change', onTypeChange); // Ideiglenesen eltávolítjuk az eseménykezelőt
-        $('#typeMultipleSelector').val(null).trigger('change');
-        $('#typeMultipleSelector').on('change', onTypeChange);
-        
-        const selectedValues = $(this).val();
-        $('#filterName').text('Category: ' + selectedValues.join(', '));
-        const filteredData = data.filter(item => selectedValues.includes(item.category));
-        filterName.textContent = 'Category: ' + selectedValues.join(', ');
-        displayData(filteredData);
-    }
-
-    $('#typeMultipleSelector').on('change', onTypeChange);
-    $('#categoryMultipleSelector').on('change', onCategoryChange);
-    const filterName = document.getElementById('filtername');
-    const searchInput = document.getElementById('exampleDataList');    
-    const deleteFilter = document.getElementById('delete-filters');
-    /*const typeSelect = document.getElementById('typeMultipleSelector');
-    const categorySelect = document.getElementById('categoryMultipleSelector');*/
-
-    deleteFilter.addEventListener('click', event => {
-        event.preventDefault(); 
-        filterName.innerHTML = '';  
-        searchInput.value = '';
-        $('#typeMultipleSelector').val(null).trigger('change');
-        $('#categoryMultipleSelector').val(null).trigger('change');
-        /*Array.from(typeSelect.options).forEach(option => {
-            option.selected = false;
-        });    
-        Array.from(categorySelect.options).forEach(option => {
-            option.selected = false;
-        });*/
-        displayData(data);
-    });
+    function addFilterEventListeners(data) {
+        const filterName = document.getElementById('filtername');
+        const searchInput = document.getElementById('exampleDataList');    
+        const deleteFilter = document.getElementById('delete-filters');
     
-    /*categorySelect.addEventListener('change', (ev) => {
-        searchInput.value = '';
-        Array.from(typeSelect.options).forEach(option => {
-            option.selected = false;
-        }); 
-        const selectedValues = Array.from(ev.target.selectedOptions).map(option => option.value);
-        filterName.textContent = 'Category: ' + selectedValues.join(', ');
-        const filteredData = data.filter(item => selectedValues.includes(item.category));
-        displayData(filteredData);
-    });    
-    typeSelect.addEventListener('change', (ev) => {
-        searchInput.value = '';
-        Array.from(categorySelect.options).forEach(option => {
-            option.selected = false;
+        function applyFilters() {
+            const selectedTypes = $('#typeMultipleSelector').val() || [];
+            const selectedCategories = $('#categoryMultipleSelector').val() || [];
+            
+            let filteredData = data;
+    
+            if (selectedTypes.length > 0) {
+                filteredData = filteredData.filter(item => selectedTypes.includes(item.type));
+            }
+    
+            if (selectedCategories.length > 0) {
+                filteredData = filteredData.filter(item => selectedCategories.includes(item.category));
+            }
+    
+            let filterText = 'Filters: ';
+            if (selectedTypes.length > 0) {
+                filterText += 'Type: ' + selectedTypes.join(', ');
+            }
+            if (selectedCategories.length > 0) {
+                if (selectedTypes.length > 0) {
+                    filterText += ' | ';
+                }
+                filterText += 'Category: ' + selectedCategories.join(', ');
+            }
+            filterName.textContent = filterText;
+    
+            displayData(filteredData);
+        }
+    
+        function onTypeChange(event) {
+            applyFilters();
+        }
+    
+        function onCategoryChange(event) {
+            applyFilters();
+        }
+    
+        $('#typeMultipleSelector').on('change', onTypeChange);
+        $('#categoryMultipleSelector').on('change', onCategoryChange);
+    
+        deleteFilter.addEventListener('click', event => {
+            event.preventDefault(); 
+            filterName.innerHTML = '';  
+            searchInput.value = '';
+            $('#typeMultipleSelector').val(null).trigger('change');
+            $('#categoryMultipleSelector').val(null).trigger('change');
+            displayData(data);
         });
-        const selectedValues = Array.from(ev.target.selectedOptions).map(option => option.value);
-        filterName.textContent = 'Type: ' + selectedValues.join(', ');
-        const filteredData = data.filter(item => selectedValues.includes(item.type));
-        displayData(filteredData);
-    });*/
-}
+    }
+    
 
 let currentPage = 1;
 const itemsPerPage = 12;
