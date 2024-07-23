@@ -188,7 +188,8 @@ function displayNostrData(data, page = 1) {
         }
 
         const link = document.createElement('a');
-        link.href = 'https://nostrexplorer.com/e/' + item.id;
+        //link.href = 'https://nostrexplorer.com/e/' + item.id;
+        link.href = 'https://njump.me/' + item.id;
         link.target = '_blank';
         link.classList.add('stretched-link');
 
