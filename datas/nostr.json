@@ -1,5 +1,40 @@
 [
   {
+    "content": "We did another round of remastering the sound of chapter 1, it's ready for upload now, should be available soon. ",
+    "timestamp": "1721839153",
+    "date": "7/24/2024, 4:39:13 PM",
+    "id": "a75c43b385a3138c207f4153713fe065258331699daed5857e0b75e60bd99523",
+    "kind": 1
+  },
+  {
+    "content": "“We’re all bored now. But has it ever occurred to you, Wally, that the process that creates this boredom that we see in the world now may very well be a self-perpetuating unconscious form of brainwashing created by a world totalitarian government based on money and that all of this is much more dangerous than one thinks and it’s not just a question of individual survival, Wally, but that somebody who’s bored is asleep and somebody who’s asleep will not say no?” - Andre Gregory in 1981’s My Dinner With Andre\n\nWatch the whole clip at https://www.youtube.com/watch?v=MEkYwYSVAl8\n\n nostr:npub1hqaz3dlyuhfqhktqchawke39l92jj9nt30dsgh2zvd9z7dv3j3gqpkt56s\n\nhttps://m.primal.net/JccK.mp4 ",
+    "timestamp": "1721828024",
+    "date": "7/24/2024, 1:33:44 PM",
+    "id": "ff9e74bdae2d687a6b880f143ac5895794352a0d98a4746bff0434d28bc82a86",
+    "kind": 6
+  },
+  {
+    "content": "I’m halfway through and already considering re-reading and publishing some sort of long form review…\n\nIt’s not high literature from a technical point of view imo, but I’m really struck by some deep passages that put into words things in me I’ve not been able (or perhaps too ashamed) to express before. Definitely a must read for bitcoiners and nostriches who want to build!",
+    "timestamp": "1721823036",
+    "date": "7/24/2024, 12:10:36 PM",
+    "id": "ad6b85c0b24fc45ab28085adbc3929e2ad1c5bbfb3ff72d3dcdf13122779af3e",
+    "kind": 6
+  },
+  {
+    "content": "Nice, let me know how you like it. ",
+    "timestamp": "1721815388",
+    "date": "7/24/2024, 10:03:08 AM",
+    "id": "2bdfd883a28d608af5f842892ca55d0a3b673ad32623bca80dd3a0dbe3067623",
+    "kind": 1
+  },
+  {
+    "content": "Reading A Lodging of Wayfaring Men thanks to nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt 😎👊🏻",
+    "timestamp": "1721815352",
+    "date": "7/24/2024, 10:02:32 AM",
+    "id": "74c6ee957831578143d1f563eda7738ec2d509093f1846708f30c2abec09cd14",
+    "kind": 6
+  },
+  {
     "content": "NWS works with and without encrypted transport. There are lots of different flavors to explore. \n\nWhen used without encryption, the entry node must be run by the user themselves because public entry nodes would be able to listen in otherwise. Two options in those cases: run the entry node locally in tandem with your (unmodified) client, or skip the entry node and modify the client so that data is sent through nostr to the exit node directly (the client is the entry node).\n\nWhen used with encryption, the entry node can also be public. If the encryption doesn't rely on certificate authorities, it just works. You have to make sure you're talking to the right person, but that problem is as old as computer science. For example, ssh will ask you to confirm the fingerprint of the server when you connect.\n\nIf the encryption is https and the certificate was issued for a normal domain, your browser will complain (do you trust this website?) and the user will have to say \"let me pass, even if insecure\". Without ugly hacks (issuing your own root cert for example), I don't know ways to circumvent this. Note that Tor services doen't support https and they don't have to since transport is always Sphinx-encrypted (even hidden from the entry node).\n\nHow do you make sure you're talking to the right server if you use https? Couldn't the entry node just send your traffic somewhete else? We can actually do something that is unique to Nostr here: the exit node can publish its own TLS certificate on nostr and sign it. That's right, you don't need an authority to do that for you if you remain within the NWS system. Clients can fetch the cert from nostr before talking to the entry node and verify against that cert. \n\nHere is another cool part that we haven't talked about yet: the exit node can also be configured to reach the global Internet and not only a local service (we call this NWS v2). In those cases, NWS can be used a bit like a VPN. You can type \"https google dot com\" in your browser and your encrypted traffic would flow from your machine to the entry node, to the exit node, then to Google and back to you. on those cases, nobody complains about the certificate because everything is fine.\n\n\nExciting shit. Gm.",
     "timestamp": "1721728731",
     "date": "7/23/2024, 9:58:51 AM",
