@@ -1,12 +1,13 @@
 import { Relay } from 'nostr-tools/relay';
-import { useWebSocketImplementation } from 'nostr-tools/relay';
+//import { useWebSocketImplementation } from 'nostr-tools/relay';
 import WebSocket from 'ws';
 import fs from 'fs/promises';
 import { bech32 } from 'bech32';
 
 const filePath = '../../datas/nostr.json'
 
-useWebSocketImplementation(WebSocket);
+//useWebSocketImplementation(WebSocket);
+global.WebSocket = WebSocket;
 
 async function readJsonData() {
     try {
@@ -83,4 +84,7 @@ async function main() {
     }
 }
 
+process.on('unhandledRejection', (reason, promise) => {
+    // console.error('Unhandled Rejection at:', promise, 'reason:', reason);
+});
 main();
