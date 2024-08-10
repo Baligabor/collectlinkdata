@@ -7,16 +7,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "collect": "node collect.js",
-    "nostr": "node nostr.js"
+    "nostr": "node nostr.js",
+    "start": "node app.js"
   },
   "author": "Gabor Bali",
   "license": "MIT",
   "dependencies": {
     "bech32": "^2.0.0",
     "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
     "node-fetch": "^3.3.2",
     "nostr": "^0.2.8",
     "nostr-fetch": "^0.15.1",
-    "nostr-tools": "^2.7.1"
+    "nostr-tools": "^2.7.1",
+    "passport": "^0.7.0",
+    "passport-github2": "^0.1.12",
+    "passport-google-oauth20": "^2.0.0"
   }
 }

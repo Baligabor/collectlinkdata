@@ -158,6 +158,10 @@ a {
     font-size: 12px;
     display: inline-block;
 }
+.form {
+    width: 90%;
+    margin: auto;
+}
 .box-meta {
     font-size: 12px;
     margin-bottom: 10px;
