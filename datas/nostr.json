@@ -1,5 +1,12 @@
 [
   {
+    "content": "tldr: the MLS encrypted payload is in a nostr event which has a tag for the group ID.\n\nIt's clear that a message was posted to the group, but not by whom, and thus it's unclear of how many participants are in the group.\n\nThis sounds like a OK tradeoff.",
+    "timestamp": "1723552148",
+    "date": "8/13/2024, 12:29:08 PM",
+    "id": "3c005d0af54419751282e0a152047f62f08e4057a8f4aab0bd911c1be132757a",
+    "kind": 1
+  },
+  {
     "content": "Currently finalizing the edit of the later chapters, soon tm",
     "timestamp": "1723481744",
     "date": "8/12/2024, 4:55:44 PM",
