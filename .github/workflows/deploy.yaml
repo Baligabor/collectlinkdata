@@ -23,9 +23,9 @@ jobs:
       run: npm install 
       working-directory: ./app/node/
 
-    - name: Run collect
-      run: npm run collect
-      working-directory: ./app/node/
+    ##- name: Run collect
+    ##  run: npm run collect
+    ##  working-directory: ./app/node/
 
     - name: Run nostr
       run: npm run nostr
