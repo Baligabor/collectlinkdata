@@ -218,15 +218,5 @@
         "author": "New Author",
         "category": "new category",
         "type": "new type"
-    },
-    {
-        "link": "https:\/\/www.youtube.com\/playlist?list=PLPj3KCksGbSbPVUAhYqILAYQ3uUbh2zOu",
-        "title": "Another",
-        "description": "another description",
-        "ogimage": "https:\/\/i.ytimg.com\/vi\/9H9DhcV4YyM\/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCSwfBu8PoCOb30P3qoEOEFKlLYcA&days_since_epoch=19950",
-        "date": "2024-08-24",
-        "author": "another",
-        "category": "lllll",
-        "type": "Audio"
     }
 ]
