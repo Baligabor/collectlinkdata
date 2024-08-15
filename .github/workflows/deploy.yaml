@@ -30,7 +30,7 @@ jobs:
     ##- name: Run nostr
     ##  run: npm run nostr
     ##  working-directory: ./app/node/
-##
+
     - name: Add and commit changes
       run: |
         git config --global user.email "baligabor81@gmail.com"
