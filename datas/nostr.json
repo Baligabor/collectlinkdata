@@ -1,5 +1,12 @@
 [
   {
+    "content": "I've just published the draft NIP to bring highly secure DM and group messaging to Nostr via the MLS protocol. \n\nI've been studying this space for months now and after looking at a lot of different options, MLS (messaging layer security) stood out as the right way to approach solving DMs and group messages. It's highly scalable, an internet standard, and allows for graceful upgrading over time.\n\nDone right – this NIP allows us to build extremely secure, uncensorable messaging clients that have no centralized coordinators or servers. Which is what I plan to do next. 😉\n\nhttps://github.com/nostr-protocol/nips/pull/1427",
+    "timestamp": "1723754540",
+    "date": "8/15/2024, 8:42:20 PM",
+    "id": "789b6a246b33a7d5c7775239bb369d2a7887d1be06ee7aaf51f3452f885b25c4",
+    "kind": 6
+  },
+  {
     "content": "tldr: the MLS encrypted payload is in a nostr event which has a tag for the group ID.\n\nIt's clear that a message was posted to the group, but not by whom, and thus it's unclear of how many participants are in the group.\n\nThis sounds like a OK tradeoff.",
     "timestamp": "1723552148",
     "date": "8/13/2024, 12:29:08 PM",
