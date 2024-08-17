@@ -1,5 +1,12 @@
 [
   {
+    "content": "🎧 Latest pod: Max Hillebrand (  nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt ) is a Bitcoin builder, educator, and privacy advocate. \n\nMax has contributed to open-source Bitcoin projects including BISQ, JoinMarket, and Wasabi Wallet, while also talking about individual freedom and self-sovereignty.\n\nWe dive straight into the concept of The Second Realm, which is focussed on building parallel economic systems in which sovereign individuals are empowered to pursue life, liberty and happiness without the harassment of the State.\n\nAlong the way we discuss anarchy, agorism, praxeology, and natural law.\n\nMax is a wealth of knowledge and I enjoyed this conversation with him, I hope you do too.\n\nhttps://www.thetransformationofvalue.com/episodes/towards-liberty-and-the-second-realm-with-max-hillebrand",
+    "timestamp": "1723793200",
+    "date": "8/16/2024, 7:26:40 AM",
+    "id": "9a7aad8b2370470d595e98d09404d6f5d861fb64993c9c3cb6c6a50e1c9ab7c9",
+    "kind": 6
+  },
+  {
     "content": "I've just published the draft NIP to bring highly secure DM and group messaging to Nostr via the MLS protocol. \n\nI've been studying this space for months now and after looking at a lot of different options, MLS (messaging layer security) stood out as the right way to approach solving DMs and group messages. It's highly scalable, an internet standard, and allows for graceful upgrading over time.\n\nDone right – this NIP allows us to build extremely secure, uncensorable messaging clients that have no centralized coordinators or servers. Which is what I plan to do next. 😉\n\nhttps://github.com/nostr-protocol/nips/pull/1427",
     "timestamp": "1723754540",
     "date": "8/15/2024, 8:42:20 PM",
