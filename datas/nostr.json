@@ -1,5 +1,54 @@
 [
   {
+    "content": "Great idea!",
+    "timestamp": "1724349865",
+    "date": "8/22/2024, 6:04:25 PM",
+    "id": "eaa593a94f355bd6523ea0f0badf55f2ec7c8b608a8f1341d55b9f23f61dc95b",
+    "kind": 1
+  },
+  {
+    "content": "Nostriga 2024 reminds me of Honeybadger 2019.\n\nWe all have this feeling that we are onto something huge, but in hindsight, we'll be amazed by the magnitude of what we have built.",
+    "timestamp": "1724349780",
+    "date": "8/22/2024, 6:03:00 PM",
+    "id": "f912fa469c4165537034ea9ce5e98d420194ea6e4396ac3e83583de03a0daf69",
+    "kind": 1
+  },
+  {
+    "content": "Yes! \nThe number of zaps (not even the amount) on my original note convinced me to finally do it. \nAmazing. ",
+    "timestamp": "1724313685",
+    "date": "8/22/2024, 8:01:25 AM",
+    "id": "9599bd599d8f2c703ccc2e784b37e2c65942c6051f1c49418ae0acc214ba6e04",
+    "kind": 1
+  },
+  {
+    "content": "Interesting, thanks! \n\nBut could you host files that go to a libsync rss? ",
+    "timestamp": "1724312814",
+    "date": "8/22/2024, 7:46:54 AM",
+    "id": "607a91d7c96dbc73cff4c7694b7872b575e18b900fcdc40608af7fad5d241632",
+    "kind": 1
+  },
+  {
+    "content": "Well done Max. Really looking forward to listening to this. \n\nAs always I have copies of this book for sale on my bookstore. Now 50% off. Pay with bitcoin too. \n\nhttps://thebitcoinshop.uk/product/a-lodging-of-wayfaring-men/",
+    "timestamp": "1724312777",
+    "date": "8/22/2024, 7:46:17 AM",
+    "id": "fe6da2f25a24be2ad468a77be7a99f1058c28b34c615ad469f287ae7674c079b",
+    "kind": 6
+  },
+  {
+    "content": "The recording and editing of the audio book to A Lodging of Wayfaring Men is finished! \n\nHowever, we have a problem:\n\nPaul's rss hosting provider has a limit on how many files can be uploaded per month. At his current plan, it would take many months to upload the entire book. \n\nCan we fundraise to buy the larger hosting package for Paul?\n\nZap if you like to listen to the book faster!\n\nnostr:nevent1qqsg59lgp5gka6q2u4ue0nar39v4jjy5ua9prenwtevv8f9gcjjwargpzpmhxue69uhkummnw3ezumt0d5hsyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlspsgqqqqqqsx0n3he",
+    "timestamp": "1724310940",
+    "date": "8/22/2024, 7:15:40 AM",
+    "id": "61e14e8fe9f2c2355bac75b0020dbeb0c017cca7ca75c6afd360e1b654511772",
+    "kind": 1
+  },
+  {
+    "content": "Yes, Paul Rosenberg will be setting it up eventually. ",
+    "timestamp": "1724310750",
+    "date": "8/22/2024, 7:12:30 AM",
+    "id": "02f0d20e698bc96921141329c2e99ae19d40caeda94a684e532b77c926e7f24e",
+    "kind": 1
+  },
+  {
     "content": "Where is the source available? \nThis repo has just the Readme and binaries https://github.com/fedibtc/fedi-alpha",
     "timestamp": "1724278720",
     "date": "8/21/2024, 10:18:40 PM",
