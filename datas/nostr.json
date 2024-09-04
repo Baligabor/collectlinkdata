@@ -1,5 +1,33 @@
 [
   {
+    "content": "Now even if all nostr relays on the Internet vanish, you can still DM me.",
+    "timestamp": "1725362190",
+    "date": "9/3/2024, 11:16:30 AM",
+    "id": "571e29e7051a8700ddabe0eb35ab64ed2828de176a3ee384b304a9ac512e6cc5",
+    "kind": 6
+  },
+  {
+    "content": "I've set up a Tor hidden service with a local Citrine relay running on my phone and added it to my DM relays.\n\nYou can now message me on nostr through Tor by directly connecting to my phone.",
+    "timestamp": "1725362177",
+    "date": "9/3/2024, 11:16:17 AM",
+    "id": "781d7ebd3858d4bc3323db124f435f22d8c77ea3f0370006bb0ac0701e5a284b",
+    "kind": 6
+  },
+  {
+    "content": "There are so many deep nuggets there.",
+    "timestamp": "1725361656",
+    "date": "9/3/2024, 11:07:36 AM",
+    "id": "e4dfd38467d378e739e5579404df26cdb9c8f0e4e7dd47a215ac67def80735e6",
+    "kind": 1
+  },
+  {
+    "content": "“Keep thinking, keep improving, keep creating. Remember that once people leave their pursuit of the high and great, they are left to define their happiness by comparison with their neighbours. That gets ugly in a hurry. ” Phillip Donson, a lodging of #wayfaring men, on contributing to #bitcoin.  \nhttps://m.primal.net/KbpM.jpg",
+    "timestamp": "1725361624",
+    "date": "9/3/2024, 11:07:04 AM",
+    "id": "78afe9f1451b9210cdba043d71e5bbfa5eab449f79a8aec904a701087d7dc273",
+    "kind": 6
+  },
+  {
     "content": "Hello World!\n\nnuts.cash is an ecash experiment where your cashu tokens are constantly saved in the nostr.\n\nIf someone sent you ecash via DM, you will get it in this wallet.\n\nNostr and Ecash are a match made in heaven, ecash privacy and instant transfer brings a ton of powerful applications to the payment landscape.\n\nYou can configure the relay to connect to, the mint you want to accept and zap all of your friend using ecash.\n\nCome and try it out at https://nuts.cash, you don't have to paste your private key, it works with all nip-07 extensions.\n\nMore to come 🦤\n\nhttps://m.primal.net/Kagv.png ",
     "timestamp": "1725292148",
     "date": "9/2/2024, 3:49:08 PM",
