@@ -1,5 +1,40 @@
 [
   {
+    "content": "A train of thought coming from: \"we can't do ZKPs using sigma protocols or bulletproofs on chain, because we only have ECC operations against one generator (G)\":\n\nImagine one of the very simplest things you can do with 2 generators: proof of discrete log equivalence or DLEQ for short. This is basically the simplest possible generalization of Schnorr; one secret, two bases. This requires two ephemeral commitments (the nonce k mult. the 2 generators) and only one scalar response (one \"signature\", if you like).\n\nOf course, you can't verify such a thing on chain; you can't check sJ = R_2 + hash(..)Q where Q = xJ and P = xG. You can only verify the first version, w.r.t. G: sG = R + eP, which is ofc standard Schnorr, here bip340.\n\nBut .. is there a way adaptors could help? Because an adaptor is something you verify offchain, and so it isn't restricted to one base/ generator.\n\nImagine your goal is \"unlock a payment only if P and Q have the same DL wrt G, J\" (yes I know, bizarre, but I'm fumbling towards the first sentence, here).\n\nObviously if we're including \"verify something offchain before taking an action\", we'll find it sanest to stick to a 2 party protocol first. Let's see:\n\n1. Alice sends Bob P, Q, R1, R2 (having calculated from a random k, R1 = kG, R2 =kJ, and already knowing x_a s.t. Q=x_a J and P=x_a G); her private key is x_a\n2. Alice pays into a 2-2 multisig with Bob, where her key is P, and the aggregate key is Pagg, with U1. When Alice signs it (not yet), the signature will look like:\n\ns_a = k1 + H(R_agg + T, Pagg, txmsg_U1)x_a\n\nNotice the +T which will be for an adaptor that Alice adds. This process is already well understood for Schnorr multisig. I am glossing over Musig related details, claiming they don't change the following.\n\n3. Alice provides an adaptor over J for ``spending'' U1. Before writing this out, consider: we want the s-value to be the same over J as it is over G. This is problematic, because the s value comes from a structure that is basically : s = k + e*x, where e is the hash, and as per bip340, that hash *must* be exactly: H(R, P, m) where P is the onchain key, R is the onchain nonce and m is the actual transaction message. So if we do things naively, i.e. make an adaptor over the J base like:\n\ns'J = R2 + H(R2+T, Q, message)Q\n\n.. then we're going to fail to create the desired scenario: that the real signature 's' is the same between the J and G bases. In order to solve this we have to play a trick. We don't change the nonce or public key fields in the hash at all, i.e. we do:\n\ns' = k2 + H(R_agg + T, Pagg, txmsg_U1)x\n\nand have Bob verify:\n\ns'J =?= R2 + H(R_agg + T, Pagg, txmsg_U1)Q\n\nSuperficially that is unsound; the reason is that such signatures can be forged if the corresponding nonce point R2 is not fixed into the hash/FS challenge, which it appears it isn't (also not \"key-prefixing\" by including the public key, here Q, in the same challenge is, at the least, problematic). However this can be solved, albeit in an unorthodox way: include both R2 and Q, which are curve points, as data inside the bitcoin transaction! (spending U1). It will just be \"dead\" data (e.g. OP_DROP) because you won't be able to sign against them; they use the wrong basepoint, but it is still easy).\n\n4. Bob verifies this adaptor using (to repeat): s'J =?= R2 + H(R_agg + T, Pagg, txmsg_U1)Q.\n5. Now Bob knows that if he sees the valid s for this equation, he gets the private key t of T w.r.t. J. Importantly, he also knows that if that one s corresponds to the s that is needed to spend U1, then Q and P have the discrete log equivalence property we are proving. But simply convincing Bob of a fact like that is uninteresting in itself; you can do that by simply directly sending him ZKPs of various types. So, :\n6. Alice also provides offchain a DLEQ proof that T = tJ and T2 = tG\n7. Alice makes another adaptor on a payment of another utxo U2, using the same t: s'_2 = k_3 + H(R_3 + T2, P2, m)P2.\n8. Bob now knows that if U1 is spent, it reveals s, proves that DL Q/J = P/G, and that he can spend U2 using s_2 = s'_2 + t, having extracted t from s - s', and knowing that that t value corresponds to T2.\n\nThis could be seen as \"just an adaptor based atomic swap with a bunch of extra steps\", but I'd call it more \"atomic swap gated by DLEQ\", i.e. it will fail unless Q/J = P/G holds.\n\n",
+    "timestamp": "1725559822",
+    "date": "9/5/2024, 6:10:22 PM",
+    "id": "0d6a72fc8f941a73af0958adc20e956cf9e415ad8574b5eb7395ee65752acf2d",
+    "kind": 6
+  },
+  {
+    "content": "Arti is a modern implementation of the Tor protocol in rust.\n\nIt's designed as a library, so it's easy for devs to integrate it into existing applications. \n\nHaving an external app for Tor like Orbot is an acceptable hack, but a properly integrated native solution is a lot more powerful. \n\nConsider adding Tor support to your nostr client!\n\nhttps://arti.torproject.org/",
+    "timestamp": "1725559425",
+    "date": "9/5/2024, 6:03:45 PM",
+    "id": "baa48dc4795e548860207274bcf00e9e357a7819fcd0e5aa968bf3aed0b5e7ec",
+    "kind": 1
+  },
+  {
+    "content": "Yup thanks nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt \nhttps://m.primal.net/KfHm.png",
+    "timestamp": "1725527501",
+    "date": "9/5/2024, 9:11:41 AM",
+    "id": "e985997950a233dafd85ee4a23e797b80a5f4d9a737f0a57a4799dfa6e3fd367",
+    "kind": 6
+  },
+  {
+    "content": "I still marvel at the concept of nostr:nprofile1qqsryw70hw5qf38vcqddvuwc4kggzh8yty485gyv3qxh8zhyqg0tz4qpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszyrhwden5te0dehhxarj9ekk7mf0qy88wumn8ghj7mn0wvhxcmmv9u9nm47p\n\nWhen many people know the same private key, they enjoy fully anonymous group DMs and group announcements.\n\nPeople who know the key can sign and encrypt messages to it, which only the other group members can read, but even they don't know who actually signed the message. It's a refreshing change to not know the identity of a speaker, you focus on the message, not the messenger, and high quality ideas are generally promoted.\n\nLikewise anyone in the group can sign a kind 1 and make public posts to the nostr, where again nobody knows which exact individual signed this message. \n\nThis is such a trivial solution, and it's amazing how well it actually works. Yet we can apply zero knowledge cryptography to have more secure access rights while still ensuring anonymity of the participants.",
+    "timestamp": "1725520299",
+    "date": "9/5/2024, 7:11:39 AM",
+    "id": "73d017af41bd8accc82e8402f9854891b75d2877c38c5da0bdfae15857811530",
+    "kind": 1
+  },
+  {
+    "content": "Put a green suit on him and it's basically a gigi rant. ",
+    "timestamp": "1725519528",
+    "date": "9/5/2024, 6:58:48 AM",
+    "id": "3b63a3798ca993305add789099b7591658241cab466e8b02c716839b269deaeb",
+    "kind": 1
+  },
+  {
     "content": "Just finished reading \"A Lodging of Wayfaring Men\" by Paul Rosenberg and highly recommend it!\n\nhttps://freemansperspective.com/wp-content/uploads/2020/12/ALOWM_cover_image.png\n\nYou can purchase the book at:\n\nhttps://freemansperspective.com/product/a-lodging-of-wayfaring-men/\n\nAnd, yup, bitcoin lightning payments are supported!\n\nThere is also an audiobook by nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0exy22c available on this podcast:\n\nhttps://freemansperspective.com/podcast/",
     "timestamp": "1725463883",
     "date": "9/4/2024, 3:31:23 PM",
