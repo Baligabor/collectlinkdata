@@ -1,5 +1,96 @@
 [
   {
+    "content": "I think that idea is somewhat on ice due to too much complexity...",
+    "timestamp": "1726251126",
+    "date": "9/13/2024, 6:12:06 PM",
+    "id": "7c1740b93e4a8b53f81f1c4ec8f2e2a67f4d3368375fad6154dfb38f6a7c9131",
+    "kind": 1
+  },
+  {
+    "content": "So apparently there's a constitutional challenge for the special economic zone regulation in Honduras, this affects Prospera on Roatan.\n\nHere an interesting booklet on why the challenge is nonsense. (I giggled at the reference of \"Introduction to Logic\" in the Bibliography)\n\nhttps://bufeteforlar.com/ARE-ZEDE%E2%80%99s-UNCONSTITUTIONAL.pdf",
+    "timestamp": "1726245956",
+    "date": "9/13/2024, 4:45:56 PM",
+    "id": "04a79fd3830df825489cd1689a07aac7d396b03fec57c7fac78ff08cde1fe95f",
+    "kind": 1
+  },
+  {
+    "content": "What are books that changed your life?",
+    "timestamp": "1726243332",
+    "date": "9/13/2024, 4:02:12 PM",
+    "id": "ee7ae7f9d00857a01320b0466e391b43afcd670405643a76072d36d982817de9",
+    "kind": 1
+  },
+  {
+    "content": "Interesting, thanks!",
+    "timestamp": "1726233953",
+    "date": "9/13/2024, 1:25:53 PM",
+    "id": "8930610c957d7331b0b9000ec5ee7df226b0c417a02e6656248cf2251cd43073",
+    "kind": 1
+  },
+  {
+    "content": "Money measures the good.",
+    "timestamp": "1726233921",
+    "date": "9/13/2024, 1:25:21 PM",
+    "id": "4b5aba5264a302ab45b2909204d6a96afeece566fc3f072cea61676dd89084a8",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin Optech newsletter #320 is here:\n\n- announces a new testing tool for Bitcoin Core\n- briefly describes a DLC-based loan contract\n- recaps the \"Testing Bitcoin Core 28.0 Release Candidates\" PR Review Meeting\n- Optech Newsletter #320 Recap on Twitter Spaces\nhttps://bitcoinops.org/en/newsletters/2024/09/13/\n\nBruno Garcia posted to Delving Bitcoin to announce a tool that would automatically modify (mutate) code changed in a PR or commit to determine whether the mutations cause existing tests to fail...\nhttps://bitcoinops.org/en/newsletters/2024/09/13/\n\nShehzan Maredia posted to Delving Bitcoin to announce Lava Loans, a loan contract that uses DLC oracles for price discovery of bitcoin-collateralized loans...\nhttps://bitcoinops.org/en/newsletters/2024/09/13/\n\nTesting Bitcoin Core 28.0 Release Candidates was a review club meeting that did not review a particular PR, but rather was a group testing effort...\nhttps://bitcoinops.org/en/newsletters/2024/09/13/#bitcoin-core-pr-review-club\n\nBitcoin Optech will host an audio recap discussion of this newsletter with special guests Bruno Garcia and Shehzan Maredia on Twitter Spaces Tuesday at 14:30 UTC. Join us to discuss or ask questions!\nhttps://twitter.com/i/spaces/1rmGPoEBwvZKN\n",
+    "timestamp": "1726230036",
+    "date": "9/13/2024, 12:20:36 PM",
+    "id": "8b7d2c9486a5c5524a08372bf01e34ddfcdea7d8c45c789f13181e204c6f281b",
+    "kind": 6
+  },
+  {
+    "content": "Shill other stuff nostr clients, go! ",
+    "timestamp": "1726229752",
+    "date": "9/13/2024, 12:15:52 PM",
+    "id": "3001308db91c30cc2f1de9d1e939fc1c88c42f19db0bc377120c3e5a77e3e17a",
+    "kind": 1
+  },
+  {
+    "content": "Why is the reinstall needed? ",
+    "timestamp": "1726229216",
+    "date": "9/13/2024, 12:06:56 PM",
+    "id": "688d592d9a28c5bd53e700d4656112dfacc1f15a4c46b3539951ed038d6607c2",
+    "kind": 1
+  },
+  {
+    "content": "Very interesting note! \n\nThis seems a bit similar to PGPs verification levels for signing other people's keys. \n\nThere are four signature levels:\n\nLevel 0 signature: no indication. This is the default level and is usually used by people who don't know or don't care about signature levels. A lot of people don't specify the signature level when they sign public keys, so there is no reason to discard these right away.\n\nLevel 1 signature: personal belief but no verification. As the name says this level is used when someone signs a key but was unable to verify the identity. Used for nicknames, most of the time, as you can't really prove the identity behind a pseudonym. Be careful when you encounter a level 1 signature on a key with a full name and e-mail address. These levels have to be specified manually, if someone changes it to level 1, it might be for a reason.\n\nLevel 2 signature: casual verification: These signatures usually mean that people have met and checked identification, but didn't know eachother upfront.\n\nLevel 3 signature: extensive verification: The level used when the signer was absolutely sure that the listed name is correct. Usually this means that they have known eachother in person for years and have checked government issues identification.\n\nhttps://vic.demuzere.be/articles/pgp-public-keys/",
+    "timestamp": "1726228666",
+    "date": "9/13/2024, 11:57:46 AM",
+    "id": "9e922196ae3927c9b7a6d8e289ec3514f3a1c45f4d92840378e51bc909b7678b",
+    "kind": 6
+  },
+  {
+    "content": "Wear merino wool for a couple weeks, then put on some polyester clothing, and you're body is going to freak out. ",
+    "timestamp": "1726228644",
+    "date": "9/13/2024, 11:57:24 AM",
+    "id": "2b0cd7b3a9e107d26b32455f87243e248211a74649217c4c5f6fe3c55bab23f0",
+    "kind": 1
+  },
+  {
+    "content": "Really enjoyed this pod almost four years ago with nostr:nprofile1qqspcjc3fr04lh3scqz4plffm6jfdjawptusaavuztru540us6p5vdgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsdzwgyv\nhttps://www.citadeltheory.com/podcast/2-max-hillebrand-despite-tyrants-free-individuals-prevail/",
+    "timestamp": "1726215498",
+    "date": "9/13/2024, 8:18:18 AM",
+    "id": "7d7027d38b5c864118a35b5f60abc671deba08c9e8b2958e33e367a1b8ae7410",
+    "kind": 1
+  },
+  {
+    "content": "Hello Nostr Product Owner,\n\nI'm humble_GOAT, your go-to for finding and squashing bugs! \n\nA software tester in training, I also focus on user experience.\n\nWould you like me to test your Nostr app?\n\nLeave a link below and LFG!!!\n\n✨🐐🛠️✨\n\n#introductions",
+    "timestamp": "1726212200",
+    "date": "9/13/2024, 7:23:20 AM",
+    "id": "612a46c88ebbaab5a6d67668dd85b27c7241d33d91d9164cf965385e995b7aa5",
+    "kind": 6
+  },
+  {
+    "content": "Congrats on reaching v1.0.0! \n\nI'd like to zap you, but yours isn't set up... ",
+    "timestamp": "1726209549",
+    "date": "9/13/2024, 6:39:09 AM",
+    "id": "ac2e26f639c52caa5f6462af861560d4e03a29157832aefa6a5de69b95af932b",
+    "kind": 1
+  },
+  {
     "content": "Very interesting note! \n\nThis seems a bit similar to PGPs verification levels for signing other people's keys. \n\nThere are four signature levels:\n\nLevel 0 signature: no indication. This is the default level and is usually used by people who don't know or don't care about signature levels. A lot of people don't specify the signature level when they sign public keys, so there is no reason to discard these right away.\n\nLevel 1 signature: personal belief but no verification. As the name says this level is used when someone signs a key but was unable to verify the identity. Used for nicknames, most of the time, as you can't really prove the identity behind a pseudonym. Be careful when you encounter a level 1 signature on a key with a full name and e-mail address. These levels have to be specified manually, if someone changes it to level 1, it might be for a reason.\n\nLevel 2 signature: casual verification: These signatures usually mean that people have met and checked identification, but didn't know eachother upfront.\n\nLevel 3 signature: extensive verification: The level used when the signer was absolutely sure that the listed name is correct. Usually this means that they have known eachother in person for years and have checked government issues identification.\n\nhttps://vic.demuzere.be/articles/pgp-public-keys/",
     "timestamp": "1726158731",
     "date": "9/12/2024, 4:32:11 PM",
