@@ -1,5 +1,19 @@
 [
   {
+    "content": "Why is there no bitcoin apps like btcpay on trueNAS?\nhttps://www.truenas.com/apps/",
+    "timestamp": "1726731022",
+    "date": "9/19/2024, 7:30:22 AM",
+    "id": "23e5064585a0408a45648f1de69cfed082a45d658b137ebdfd92acbefaaed976",
+    "kind": 1
+  },
+  {
+    "content": "This breaks giftwrapps and other important ephemeral key use cases... ",
+    "timestamp": "1726727018",
+    "date": "9/19/2024, 6:23:38 AM",
+    "id": "785f4599bee66eaf05f7a1d0e796658c93dde4afafd9d32d474693640dd98974",
+    "kind": 1
+  },
+  {
     "content": "New Tor defaults and per-account settings for Amethyst. Things are getting exciting! https://image.nostr.build/f3102e9eb96fd7a7a19c62ad787bf00625c9166b4fde62ba7f1272b0d1214be4.jpg",
     "timestamp": "1726557605",
     "date": "9/17/2024, 7:20:05 AM",
