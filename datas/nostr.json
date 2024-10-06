@@ -1,5 +1,26 @@
 [
   {
+    "content": "https://image.nostr.build/35bc710dfc31cf718f70f1e95fcc2d01181ff46699f2359b6818634064e574e2.jpg",
+    "timestamp": "1728116275",
+    "date": "10/5/2024, 8:17:55 AM",
+    "id": "8960e6a8e8deb0bc14adb79df9a6f03e4916b04ee697d8454f795ddfc8fa3dfc",
+    "kind": 1
+  },
+  {
+    "content": "That's really cool!",
+    "timestamp": "1728116132",
+    "date": "10/5/2024, 8:15:32 AM",
+    "id": "d6c4cb80de58cb1f9bd5126e941a7b23aa477465bb7fb0724525122fcdf1dc95",
+    "kind": 1
+  },
+  {
+    "content": "Short history of a little crazy, and experimental relay: wss://mix.gzuuu.xyz\n\nLast night, I was floating through cyberspace when an idea struck me. A note mixer relay - a simple yet intriguing concept. Essentially, it's a relay that accepts your notes, but instead of store them, it re-signs them with the relay's keys, effectively anonymizing and mixing your notes. This is the npub I'm using for this and where all mixed notes are published nostr:nprofile1qqs80keaa6v84ldnkne66q0qf96rvtf84aj27taw25x3appz83lqspgppemhxue69uhkummn9ekx7mp07t6hp6 . \n\nThis idea isn't entirely new, there was some exploration around group of people sharing an nsec. This is the case of nostr:nprofile1qqswgh9y2cz5qu5upzg5yn47m65t7d697k2dtufa9fq54af80dwng5sprpmhxue69uhkummnw3ezucmgv95k6cfwd9hxvme0qyw8wumn8ghj7cn0wd68ytn0wfskuem9wdukuceww3jkx6p0ksrqpx, for example, it was created during sec01.\n\nIn summary, this note mixer relay will accept your notes, re-sign them with the relay's keys, and then publish them. Does this idea interest you, or does it make sense? Currently, anyone can publish to the relay, but I plan to implement a whitelist for pubkeys based on my contact list. This could also be integrated with a wot relay, allowing you to mix notes from your friends or entire social graph. Perhaps there are some interesting use cases to explore? 🤔\n\nJust a heads up: be careful not to publish to multiple relays, as this will leak your original note, signed by you.",
+    "timestamp": "1728116095",
+    "date": "10/5/2024, 8:14:55 AM",
+    "id": "9cc7ddb401c2769c7149e31c909483f26b6442879ce95a0fcd9644c2f2c3b042",
+    "kind": 6
+  },
+  {
     "content": "Woah, this sounds very useful! ",
     "timestamp": "1728019596",
     "date": "10/4/2024, 5:26:36 AM",
