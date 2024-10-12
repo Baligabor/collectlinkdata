@@ -1,5 +1,33 @@
 [
   {
+    "content": "It's New-NIP Friday!\n\nCertain calculations in Nostr require access to the entire dataset of events and are impossible to do directly by Clients. This NIP offers a simple way for users to declare their trust in  service providers for those calculations.\n\nhttps://github.com/nostr-protocol/nips/pull/1534",
+    "timestamp": "1728669355",
+    "date": "10/11/2024, 5:55:55 PM",
+    "id": "06977dff417b8e90b6a0f498d66098de3fbe1f89eb3568446bf96035e1a3bad8",
+    "kind": 6
+  },
+  {
+    "content": "NEW TUTORIAL!\n\nJust finished this one on Blitz Wallet. Very interesting approach to a spending wallet that I actually like.\n\nMicropayments (sub 1000 sats) - Cashu mints/ecash\nMedium range up to 500k sats - Liquid BTC & boltz lightning swaps\nHigher values over 500k sats - will open a lightning channel \n\nBasically you become more self sovereign automatically as your balance grows - without the need to manually manage the process (unless you decide to customize settings). Really cool! Check it out and share this around!\n\nhttps://www.youtube.com/watch?v=Ka60AHkfrPE",
+    "timestamp": "1728666365",
+    "date": "10/11/2024, 5:06:05 PM",
+    "id": "42980414e5dfef771b150e7e1be77c9f5612a08ec2634f0f67b9b63fb7aaf710",
+    "kind": 6
+  },
+  {
+    "content": "Glad you enjoyed the conversation ",
+    "timestamp": "1728665728",
+    "date": "10/11/2024, 4:55:28 PM",
+    "id": "7e38f80c0625b93a934d9c46cf9a624ddde8e00573dfccc6ad3504e62d2fdcbb",
+    "kind": 1
+  },
+  {
+    "content": "Awesome talk between these guys\nmuch appreciated nostr:npub1jt97tpsul3fp8hvf7zn0vzzysmu9umcrel4hpgflg4vnsytyxwuqt8la9y nostr:npub1fk8h6g8zhftw8c7pga2zjd84p2z949up5lc3qdchm9v4m0q7mwws7jcwld nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt\n\nThe Bitcoin Infinity Show: Max Hillebrand on Bitcoin and Praxeology - Bitcoin Infinity Show #129\n\nEpisode webpage: https://www.bitcoininfinityshow.com/max-hillebrand-10-2024",
+    "timestamp": "1728665718",
+    "date": "10/11/2024, 4:55:18 PM",
+    "id": "c681de803da16185039bf15133b61e806b0cdbe9ac6c974584f846f8a2c0156a",
+    "kind": 6
+  },
+  {
     "content": "Thanks! ",
     "timestamp": "1728549060",
     "date": "10/10/2024, 8:31:00 AM",
