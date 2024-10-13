@@ -1,5 +1,19 @@
 [
   {
+    "content": "Thanks a lot for this kind review! \n\nIt's the first time I experiment with voice characters, and it lacks consistency across time, but it was fun. \n\nI'm happy you enjoyed the book as much as I do! ",
+    "timestamp": "1728726294",
+    "date": "10/12/2024, 9:44:54 AM",
+    "id": "a16476ebf0efd1cb947d04d3176dd9a6ce36d80c1d547a2dc1a143e4d66556de",
+    "kind": 1
+  },
+  {
+    "content": "I just finished listening to 'A Lodging of Wayfaring Men' read by  nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt. \n\nhttps://fountain.fm/episode/rHGJ3hglft8y6feon8wJ\n\nMax doesn't an excellent job reading the book and making it audible. His variation of tone for each of the characters voices is, at first, mildly humuorous (given what I/we know (superficially) of Max), but ultimately helpful and fun to listen to...\n\nThe book itself is great. Part thriller, part romance, part handbook for thinking/dealing with the State; like Atlas Shrugged 2.0. In particular the prose about the honour of raising children as a God like endeavour is really beautiful and thought-provoking. The philosophical/relgious/metaphysical passages might put some people off, but I enjoyed them.\n\nhttps://m.primal.net/LTNN.png\n\nYou're unlikely to enjoy if your a unconsciouss statist with a name like Les, but if you enjoy Anarchist/Libertarian concepts wrapped up in a cypherpunk romantic thriller, you should enjoy reading/listening to Max read A Lodging of Wayfaring Men to you. \n\nhttps://m.primal.net/LTNU.png \n",
+    "timestamp": "1728725992",
+    "date": "10/12/2024, 9:39:52 AM",
+    "id": "253bbcc858e13c47b63644728b487b609e902231da3e52fabe89252999d51f44",
+    "kind": 6
+  },
+  {
     "content": "It's New-NIP Friday!\n\nCertain calculations in Nostr require access to the entire dataset of events and are impossible to do directly by Clients. This NIP offers a simple way for users to declare their trust in  service providers for those calculations.\n\nhttps://github.com/nostr-protocol/nips/pull/1534",
     "timestamp": "1728669355",
     "date": "10/11/2024, 5:55:55 PM",
