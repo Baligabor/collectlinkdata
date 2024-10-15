@@ -1,5 +1,89 @@
 [
   {
+    "content": "I'm seriously surprised how great nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj703s8dt works with all Tor settings enabled, everything loads quick enough.",
+    "timestamp": "1728920834",
+    "date": "10/14/2024, 3:47:14 PM",
+    "id": "9944553ef131606cc049d7c4291488919511102caa92f308acd33cac7e43e430",
+    "kind": 1
+  },
+  {
+    "content": "Damn, that's cool! ",
+    "timestamp": "1728918452",
+    "date": "10/14/2024, 3:07:32 PM",
+    "id": "6842d316456df69533c0c661e6e29b750137b0e856fd4369c2460ab12d1d995b",
+    "kind": 1
+  },
+  {
+    "content": "Is there any ecash mint offering gold denominated tokens?",
+    "timestamp": "1728918256",
+    "date": "10/14/2024, 3:04:16 PM",
+    "id": "68016a53ee7e25a340215674a0503fb09413365bfebc44d59c9c2e4b021a10c5",
+    "kind": 1
+  },
+  {
+    "content": "If you're building freedom tech and need help, let me know.",
+    "timestamp": "1728918199",
+    "date": "10/14/2024, 3:03:19 PM",
+    "id": "748bf86e0678e9d3918a5d7a7b6edb5d076612b3e4fce8d277432cd5a8321002",
+    "kind": 1
+  },
+  {
+    "content": "ecash is so cool",
+    "timestamp": "1728917826",
+    "date": "10/14/2024, 2:57:06 PM",
+    "id": "4e3e19a658b1bbc2905b5baa5bf4a53c63e7d5824aa14a9af69e11ec0a31bf39",
+    "kind": 1
+  },
+  {
+    "content": "If you run lnd you and you're on the latest version you can now have pretty good receiver privacy with:\n\nlncli addinvoice --blind\n\n* also lnproxy now supports wrapping bolt 11 invoices with blinded paths",
+    "timestamp": "1728901288",
+    "date": "10/14/2024, 10:21:28 AM",
+    "id": "b412a69d845af6595f87390b2991dd046725f13eeb8af756ca860b7d0b79bb2b",
+    "kind": 6
+  },
+  {
+    "content": "yup\nnostr:nevent1qqsxfvgeudu8y4hmt30k0k3xcpq74p5mptd33e5um55x5a84g27zglgpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqg8p5rjr",
+    "timestamp": "1728900912",
+    "date": "10/14/2024, 10:15:12 AM",
+    "id": "0bb486222a25ef5dffa8e7dd24d4e735bfb21bae1055d4dc84c9dece7f1e3fc8",
+    "kind": 1
+  },
+  {
+    "content": "And with DLC ecash the spending condition of the ecash depends on the result signature of an oblivious oracle.",
+    "timestamp": "1728900635",
+    "date": "10/14/2024, 10:10:35 AM",
+    "id": "64b119e3787256fb5c5f67da26c041ea869b0adb18e69cdd286a74f542bc247d",
+    "kind": 1
+  },
+  {
+    "content": "New prediction market with lightning settlement. \nBut I'd guess it's custodial...\nhttps://www.bitcoinprediction.market/",
+    "timestamp": "1728900540",
+    "date": "10/14/2024, 10:09:00 AM",
+    "id": "91dc2aeaa1954ad73c8dd7287d7e269ec7bcda38e989a614e267d8fc0648d23d",
+    "kind": 1
+  },
+  {
+    "content": "Thanks\nI found it via Fountain.\n\nWill be zapping once their support fixes my wallet activation issue\n\nI’m half way through Part 2 already\n\nListened to it as I drove today.\n\nExcellent work!",
+    "timestamp": "1728896618",
+    "date": "10/14/2024, 9:03:38 AM",
+    "id": "ed1e0859001fb70ce17c54ba5da0a493a4c0d16079b4c0341643225f6d35fea8",
+    "kind": 6
+  },
+  {
+    "content": "Imagine if we could trust our computers.",
+    "timestamp": "1728892663",
+    "date": "10/14/2024, 7:57:43 AM",
+    "id": "6777b5402b3d006fe7ab7bb2f9b3a62e5d166f5cc27234df06f33574f93bf1be",
+    "kind": 1
+  },
+  {
+    "content": "https://freemansperspective.com/audiobook\nhttps://podcastindex.org/podcast/531078",
+    "timestamp": "1728885381",
+    "date": "10/14/2024, 5:56:21 AM",
+    "id": "b5651ae6517667eff1571706a9f05a03b1a3b39860b861aa1d78457510bd755e",
+    "kind": 1
+  },
+  {
     "content": "Correct, but that's solved when the merchant does a coinjoin first and includes private inputs in the payjoin transaction. ",
     "timestamp": "1728817526",
     "date": "10/13/2024, 11:05:26 AM",
