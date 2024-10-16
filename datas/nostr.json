@@ -1,5 +1,19 @@
 [
   {
+    "content": "Wrote a signed transaction on paper, sent it on a pigeon, and waited a couple days until it was rebroadcast to my node.",
+    "timestamp": "1728982411",
+    "date": "10/15/2024, 8:53:31 AM",
+    "id": "2d66ad940293a41e1c065adce602349838bcc061a1f3a3b410a241f606444421",
+    "kind": 1
+  },
+  {
+    "content": "LiquiSabi now has a web front !\nhttps://liquisabi.com\n\nBut the bot will still publish its reports here\n\nWabiSabi coinjoins on October 06\n\ncoinjoin.kruw .io/\nFee: 0.0 %\n20 rounds\nNew: 31.7 BTC (est.) | Remixing: 142.2 BTC\nAvg: 156 inputs | 8.19 AS | 4.73 s/vb\nMin: 80 inputs | Max: 239 inputs\n\napi.opencoordinator .org/\nFee: 0.0 %\n32 rounds\nNew: 0.2 BTC (est.) | Remixing: 30.3 BTC\nAvg: 39 inputs | 3.55 AS | 2.43 s/vb\nMin: 21 inputs | Max: 67 inputs\n\napi.gingerwallet .io/\nFee: 0.300 %\n48 rounds\nNew: 0.1 BTC (est.) | Remixing: 29.4 BTC\nAvg: 44 inputs | 4.53 AS | 4.13 s/vb\nMin: 22 inputs | Max: 63 inputs\n\nFree coordinators without any successful round:\nbtcpay.kukks .org/plugins/wabisabi-coordinator\nmega .cash/plugins/wabisabi-coordinator ",
+    "timestamp": "1728971298",
+    "date": "10/15/2024, 5:48:18 AM",
+    "id": "958aa537e3575d6d2810b004d86ca454807554430da5bf705ff328fa7a4e4438",
+    "kind": 6
+  },
+  {
     "content": "I'm seriously surprised how great nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj703s8dt works with all Tor settings enabled, everything loads quick enough.",
     "timestamp": "1728920834",
     "date": "10/14/2024, 3:47:14 PM",
