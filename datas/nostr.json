@@ -1,5 +1,12 @@
 [
   {
+    "content": "Bitcoin is both a medium of exchange and a store of value, now and in the future.\n\nIt's never a choice between hodling or spending sats; bitcoin's growth lies in doing both.\n\n nostr:npub1ey6qdmvzcgcsr883m9nspzz0mm037l26xtardzcskfsvc6gc7jssm9szvp breaks apart bitcoin’s false dichotomy in his latest post 👇\n\nhttps://medium.com/breez-technology/bitcoins-false-dichotomy-between-sov-and-moe-18e3f968a643",
+    "timestamp": "1729092314",
+    "date": "10/16/2024, 3:25:14 PM",
+    "id": "46196c025734ec5152d365fda75315132c5309a1c97f00f4b037556b12325c4a",
+    "kind": 6
+  },
+  {
     "content": "Wrote a signed transaction on paper, sent it on a pigeon, and waited a couple days until it was rebroadcast to my node.",
     "timestamp": "1728982411",
     "date": "10/15/2024, 8:53:31 AM",
