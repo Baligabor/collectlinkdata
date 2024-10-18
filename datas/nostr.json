@@ -1,5 +1,152 @@
 [
   {
+    "content": "Is someone doing gold backed ecash yet?",
+    "timestamp": "1729184754",
+    "date": "10/17/2024, 5:05:54 PM",
+    "id": "b0f4f0e9f9a04c759c2941f6d69f453c1cae59fa152add0f9450d14e01f43dda",
+    "kind": 1
+  },
+  {
+    "content": "Assembling the changelog for  nostr:npub155m2k8ml8sqn8w4dhh689vdv0t2twa8dgvkpnzfggxf4wfughjsq2cdcvg v2.0, which adds about 300  commits to the current release. Tons of improvements, glad we'll ship this baby soon.  🚢 👀 ",
+    "timestamp": "1729180546",
+    "date": "10/17/2024, 3:55:46 PM",
+    "id": "cf2817d8ebdcc512b5c92babcbb9d40b83ae39a5a71ed9deb5e028feb8985d9a",
+    "kind": 6
+  },
+  {
+    "content": "Bullish.",
+    "timestamp": "1729179886",
+    "date": "10/17/2024, 3:44:46 PM",
+    "id": "a9849efdb60573996623749d1c0c5fe4c78077cffb48ee713e4c8a46b4e7051c",
+    "kind": 1
+  },
+  {
+    "content": "#GrapheneOS: The Purpose, The Strategy, and The Why [Article]\n\nThis post explains a bit about the development approach, reasoning and strategy behind GrapheneOS security innovation and how power users protect themselves. \n\nOn SN: https://stacker.news/items/705242",
+    "timestamp": "1729179848",
+    "date": "10/17/2024, 3:44:08 PM",
+    "id": "ec866d59029d32410525818c51fa908dc139f0941e97a5512fc8c8fe043e58e2",
+    "kind": 6
+  },
+  {
+    "content": "Hi all, Final from #GrapheneOS again.\n\nDue to an extraordinary event (not a breach!) and a change causing me to up my security requirements, I have burned the previous npub I used. This is my new npub. My security requirements are above people's conveniences, I apologise for these inconvenience but I don't regret necessary actions either.\n\n- I will use this npub for post comments and support.\n- I will refrain from constant GrapheneOS reposts as Mastodon bridges fulfill that space. Rest of the team can also USUALLY see posts there. I believe I should be more diverse in my content here.\n- In short, less GrapheneOS, and more Final.\n\nI can be verified using the original Stacker News account (final) NIP-05, Bio and LN address.\n\nI can be verified via the GrapheneOS discussion forum user page (final). You may also verify me in any official GrapheneOS platform you wish.\n\nThank you for the support.\n\n-- final\n",
+    "timestamp": "1729179651",
+    "date": "10/17/2024, 3:40:51 PM",
+    "id": "e7ea0ad50b0d03e02eb33528cabde72b606a98a50929a69e71413ec440d73ac0",
+    "kind": 6
+  },
+  {
+    "content": "New key for nostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcnv0md0, give him a follow if you want updates on GrapheneOS.\n\nnostr:nevent1qqs99ufgxxxd33ennrmlwjqjjpd7zrtszftdnmsn8yzu6a3aehhgtccpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgsrqsqqqqqp9dea0e",
+    "timestamp": "1729179561",
+    "date": "10/17/2024, 3:39:21 PM",
+    "id": "1f87fdc9218ff0f13d6e6e431ead75b27435573465b2d500f4987c8771c09245",
+    "kind": 1
+  },
+  {
+    "content": "It works now everywhere, but not for editing posts.",
+    "timestamp": "1729153851",
+    "date": "10/17/2024, 8:30:51 AM",
+    "id": "eff4e2dca5c74da15583d7a2ce84b114b1b7712130539631b69314a7354011c7",
+    "kind": 1
+  },
+  {
+    "content": "Graphene ships it very fast. ",
+    "timestamp": "1729153817",
+    "date": "10/17/2024, 8:30:17 AM",
+    "id": "6285bc584538f6904bb2ab9dd6d8a212b6fdd709e1b9566ef2ae21445d167f47",
+    "kind": 1
+  },
+  {
+    "content": "Damn, I thought I was up to date, sorry for the unnecessary report then. \n\nI blame you for shipping too fast!",
+    "timestamp": "1729153754",
+    "date": "10/17/2024, 8:29:14 AM",
+    "id": "b411cc0f36fe0cdd661456c3526138133b4f5238cfa89cceb416aad43d0feff2",
+    "kind": 1
+  },
+  {
+    "content": "Where did all the post actions like zap splits and image go in nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj703s8dt? nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7anfw3hhytnwdaehgu339e3k7mf0qyghwumn8ghj7mn0wd68ytnhd9hx2tch2deau",
+    "timestamp": "1729147242",
+    "date": "10/17/2024, 6:40:42 AM",
+    "id": "de5d7cd5134d3dcd7c6bda823b98a52cf6256028edabc525df93dec3b09c7db5",
+    "kind": 1
+  },
+  {
+    "content": "Tools for creating a shared nsec nostr microblog. \n\nCypherpunk future is now. \n\nhttps://github.com/jooray/anonmicroblog",
+    "timestamp": "1729146438",
+    "date": "10/17/2024, 6:27:18 AM",
+    "id": "110ad695f772fe70c332e4b98a016b320eb589d8f0bf8c3c5a991949e9812e36",
+    "kind": 1
+  },
+  {
+    "content": "How should BTC amounts be displayed? 🤔\n\nIn our next version (coming soon), we’re rolling out a fully redesigned amounts formatting throughout the wallet that we believe should set the industry standard.\n\nIt’s now much easier to read, no matter the screen or whether you’re dealing with small or large amounts. Plus, BTC/Sats conversions are instant. ⚡\n\nhttps://m.primal.net/LXKJ.png",
+    "timestamp": "1729141541",
+    "date": "10/17/2024, 5:05:41 AM",
+    "id": "fcbf2c63dacd9d863c4b6a9713a845c7e9938df2dd1f26cba9633942a1d10206",
+    "kind": 6
+  },
+  {
+    "content": "W̶e̶'̶r̶e̶ ̶w̶i̶n̶n̶i̶n̶g̶ ̶\nWe can win\n\nDon't start slacking now",
+    "timestamp": "1729141086",
+    "date": "10/17/2024, 4:58:06 AM",
+    "id": "0a8c5d5f93d43088c6fd230b7bd04187bd3c26e793f5d13b9bd465dd2ee0a09f",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsryw70hw5qf38vcqddvuwc4kggzh8yty485gyv3qxh8zhyqg0tz4qpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszyrhwden5te0dehhxarj9ekk7mf0qy88wumn8ghj7mn0wvhxcmmv9u9nm47p for github, beautiful idea! ",
+    "timestamp": "1729139381",
+    "date": "10/17/2024, 4:29:41 AM",
+    "id": "9adf8ecccdcd10c0f59decac864de128693cd910dff7e75dc228a01dc87a9f79",
+    "kind": 1
+  },
+  {
+    "content": "Welcome  nostr:npub135xvjh0cxg6n5egpkf3756nykgpnwjhuhszevv9hdr000hcnqpmqp4taeg to Nostr. She is a shared identity that can be used by people who want to share cool Cypherpunk projects anonymously. Usually, this is quite a big problem, because if you want to share open source code and want to stay anonymous, you can't use your existing social network.\n\nThe password to posting is going to be shared widely among devs. If you are a free software and cypherpunk author (even if not anon), ask for password and spread it wisely.\n\nWe want the anonymity set to grow, plus it's not defined, it's just the knowledge of a password. So it can't be really pinpointed who knows it.\n\nOn the other hand, there is a password, otherwise the account would be just taken over by spammers, reducing usefulness.\n\nLizz is accessible through Nostr (give her a follow) and you can also access her website for people who are not Nostr enabled yet. Through the web you can also easily post, the Nostr private key is derived from the password in JavaScript.\n\nhttps://lizznakamoto.npub.pro/",
+    "timestamp": "1729139356",
+    "date": "10/17/2024, 4:29:16 AM",
+    "id": "7c7942c6af3edea44c10f9ee5e82b97893176be8095b76decdc0cc6796c70464",
+    "kind": 6
+  },
+  {
+    "content": "So, how are we gonna deal with inheritance of nostr keys?",
+    "timestamp": "1729130517",
+    "date": "10/17/2024, 2:01:57 AM",
+    "id": "29bd0fe0862282dc38eced91b6520016a5c88c2b6866630997c48c68568edbc9",
+    "kind": 1
+  },
+  {
+    "content": "Václav Benda's writings are phenomenal, very much recommended! ",
+    "timestamp": "1729130207",
+    "date": "10/17/2024, 1:56:47 AM",
+    "id": "da61a00f4e2ed84f0faac8724b019386698729c9d796e0cc5c1bfe2935451065",
+    "kind": 1
+  },
+  {
+    "content": "Notions like 'independent society', 'the second culture', 'unofficial literature', 'samizdat', 'independent initiatives', 'parallel structures', 'the self-organisation of society', 'social self-defence', etc. have their origin in totalitarian communist systems. They characterise conflicts between independent thought and behaviour, and the totalitarian state, which demands control over all aspects of social life. In democratic and authoritarian systems autonomous institutions of social life are a fact of life: in totalitarian systems, such institutions must struggle to establish themselves.\n— a piece of an anonymous response to Paralelni Polis by Václav Benda #Quote",
+    "timestamp": "1729130089",
+    "date": "10/17/2024, 1:54:49 AM",
+    "id": "92bbb44c1674f587f2db37124a6310469cbc8f9be858c2a5b709a740b1757f21",
+    "kind": 6
+  },
+  {
+    "content": "The four stages of freedom. \nnostr:nevent1qqsqqqqqml6xn9pgn6u4ktjp30nv5777922v3sj453hrx4ewl0vhmhcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczypmjl929287cvcys0u75askmvh6h8n7tumy05d8xyrahkuzujvjf5qcyqqqqqqglplxpp",
+    "timestamp": "1729129541",
+    "date": "10/17/2024, 1:45:41 AM",
+    "id": "38a9ebafd3c906090ec59864da0a7665808f565b9392631abb6963444e6bb501",
+    "kind": 1
+  },
+  {
+    "content": "Woah, that comparison of BSD and GNU to voluntary slavery is great! \n\nThere has been a gigantic debate between Block & Rothbard about this, way longer than BSD VS GNU. ",
+    "timestamp": "1729128227",
+    "date": "10/17/2024, 1:23:47 AM",
+    "id": "d6c75d94627ae925a23a5dca42d2412951edf38593673bca29328c30098121df",
+    "kind": 1
+  },
+  {
+    "content": "No, Richard Stallman is the founder of the Free Software Foundation. https://www.gnu.org/philosophy/philosophy.html lays out the ideas.\n\nHe emphasizes the moral case for Free Software versus the Open Source folks emphasizing the practical or technical case for Open Source Software. There has always been confusion over the word \"Free\" in \"Free Software\" and \"Open\" now suffers the same problem (look at all these LLM licenses claiming to be Open Source), and I think \"Freedom Tech\" is a pretty good way of talking about the same thing.\n\nThe Free/Libre Open Source Software community has a lot of overlap and similarity but can be split into two camps:\n\n1. I am truly free if I am allowed to contract myself into slavery (BSD-ish, permissive licensing).\n2. It is not freedom to be allowed to contract myself into slavery (GNU-ish, copyleft licensing).\n\nMaybe that's an unfair or unrealistic characterization but that's how I tend to think of it.\n\nI disagree with a lot of Stallman's views (he's on the left) but the four software freedoms are legit. See Stephan Kinsella's excellent summary of similar views from a more right-libertarian perspective at https://mises.org/library/book/against-intellectual-property",
+    "timestamp": "1729128142",
+    "date": "10/17/2024, 1:22:22 AM",
+    "id": "157b86a20ca7435358afacf912367cbbd791f8e9db48e903d897ed8bf3f35f8e",
+    "kind": 6
+  },
+  {
     "content": "Bitcoin is both a medium of exchange and a store of value, now and in the future.\n\nIt's never a choice between hodling or spending sats; bitcoin's growth lies in doing both.\n\n nostr:npub1ey6qdmvzcgcsr883m9nspzz0mm037l26xtardzcskfsvc6gc7jssm9szvp breaks apart bitcoin’s false dichotomy in his latest post 👇\n\nhttps://medium.com/breez-technology/bitcoins-false-dichotomy-between-sov-and-moe-18e3f968a643",
     "timestamp": "1729092314",
     "date": "10/16/2024, 3:25:14 PM",
