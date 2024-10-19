@@ -1,5 +1,54 @@
 [
   {
+    "content": "Yes! \nHe probably has 30+ books, most of them are on electrical engineering. His great Cypherpunk books are: A Lodging of Wayfaring Men, The Breaking Dawn, Production vs Plunder, The New Age of Intelligence. \n\nAlso his weekly newsletter is a joy every time. \nhttps://freemansperspective.com/",
+    "timestamp": "1729299489",
+    "date": "10/19/2024, 12:58:09 AM",
+    "id": "9b0fddf3d9acee9a219984a9d69f2a28f20c3ad44f65e5d75ecbc26db3355b26",
+    "kind": 1
+  },
+  {
+    "content": "That's a striking observation! \n\nI haven't met many people as fundamentally optimistic as Paul Rosenberg, his talks and writings are an exceptional joy to read. \n\nCheckout production vs plunder if you want more. \n\n",
+    "timestamp": "1729263139",
+    "date": "10/18/2024, 2:52:19 PM",
+    "id": "1ef54f4b0fe121cf7d4d09845a3aea895ca02b4f4c36b843daab3ccbb75821a8",
+    "kind": 1
+  },
+  {
+    "content": "GM\n\nThe biggest problem with tyranny is how it degrades the human spirit. I've been listening to \"A Lodging of Wayfaring Men,\" narrated by nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshs54zrlx (who does a superb job of it), and the most striking thing about the novel is just how *good* the people are. They're not unbelievably good - they're humans, and they have natural human desires, one of which is to do the right thing. I think that's entirely natural. But I know that if I was writing this novel, I wouldn't be able to create such good characters. What is it about me that prevents me from seeing the good in people? I think its the culture that produced me. We have an assumption that no one can be trusted. How has America, with its wonderful ideals, produced a culture of automatic distrust? \n\nI think the answer is : tyranny usually appears patriotic.\n\n☕\n\n#gm #books #culture",
+    "timestamp": "1729263039",
+    "date": "10/18/2024, 2:50:39 PM",
+    "id": "21ee127b95032da735b883f3b5d840eb8868a93721b10102efff750468fb1d74",
+    "kind": 6
+  },
+  {
+    "content": "Let a thousand relays bloom*\n\n*per user... ",
+    "timestamp": "1729234560",
+    "date": "10/18/2024, 6:56:00 AM",
+    "id": "78be0fdef3722daf14a1cdbf12c2a262899b687315753aea2017e6c37d208d72",
+    "kind": 1
+  },
+  {
+    "content": "Official Release #Wherostr\n.\nWherostr (แวโรสเตอร์) is the only social media client on the free world (Nostr) that now supports native location pinning and check-ins, developed by Thai developers. With Wherostr, you truly own your account. You can transfer it anywhere, anytime. You won't encounter ads from the platform, and no one can delete your posts or account.\n.\nMain Features:\n- Post: Share your content with others\n- Check-in: Share your location in a post\n- Reaction: Express your emotions by reacting to posts or comments\n- Zap: Support content creators by sending Bitcoin in sat (satoshi) units\n- Relays: Control or choose your own network connections\n.\nFor more details and to meet the developers, join us at #TBC2024 on September 14-15, 2024, at True Digital Park, organized by nostr:npub1ejn774qahqmgjsfajawy7634unk88y26yktvwuzp9kfgdeejx9mqdm97a5 \n.\nThis is just the beginning. Stay tuned for more exciting features in future releases.\n.\nExperience true freedom on social media that you truly own. Download Wherostr today on the App Store and Google Play\n.\nDownload via App Store:\nhttps://apps.apple.com/th/app/wherostr/id6503808206\nDownload via Google Play:\nhttps://play.google.com/store/apps/details?id=th.co.mapboss.wherostr.social.wherostr_social\nhttps://image.nostr.build/1364f21e77f8ff54ec3511a31f5c23da6e09de0ac3b8c5146a03d1bf3e5a466a.png\nhttps://image.nostr.build/c31b1f3425ac153486685e510508f94a47284a93ad5048cb425a02b944513fe8.png\nhttps://image.nostr.build/a31d3d13a1d8015feb2461a9c287ba01e61a7696ddba7e9b2db522900a6b5a28.png \nhttps://image.nostr.build/22f20ee4582e27acfd80d28c92762325ba000073c568ea679e5d455734871e40.png\n#siamstr #devstr #nostr",
+    "timestamp": "1729234364",
+    "date": "10/18/2024, 6:52:44 AM",
+    "id": "a4a175ebb9c58042822923cd02043e8874ad3c0f820f5a433bc8c8677a7fd77e",
+    "kind": 6
+  },
+  {
+    "content": "Bitcoin doesn't fix democracy.",
+    "timestamp": "1729233836",
+    "date": "10/18/2024, 6:43:56 AM",
+    "id": "fc6ea16be33c979eea55406da51477b7d1e932eefa40d15c3887fdb0f7c81697",
+    "kind": 1
+  },
+  {
+    "content": "Your node defines the rules of what constitutes an unspent coin, a coin is initially created in a valid blocks first transaction, and spent by a transaction with a valid witness to a new coin with a locking script and amount.\n\nFor any transaction, your node checks that the inputs are valid previous transaction outputs that have not been spent, simply by looking if the coin ID (prev TX hash + output index) is in the utxo list, if not: invalid double spending transaction, if yes: valid transaction in block, and remove coin ID from utxo set. ",
+    "timestamp": "1729233405",
+    "date": "10/18/2024, 6:36:45 AM",
+    "id": "441712ed044f52c4067ee8511409306b64c640844aa2405cb128d4abb7affb00",
+    "kind": 1
+  },
+  {
     "content": "Is someone doing gold backed ecash yet?",
     "timestamp": "1729184754",
     "date": "10/17/2024, 5:05:54 PM",
