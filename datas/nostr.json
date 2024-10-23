@@ -1,5 +1,26 @@
 [
   {
+    "content": "There is a rust implementation here https://github.com/openmls/openmls",
+    "timestamp": "1729596668",
+    "date": "10/22/2024, 11:31:08 AM",
+    "id": "e46c1e63e8d575495fa77be646bb5384af1a79387463589a3ff13e064ac7d684",
+    "kind": 1
+  },
+  {
+    "content": "Why does MLS scale to larger groups than signal? \n\nBecause of merkle trees, obviously...\nhttps://nostpic.com/media/b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc/c52ad6c04020080558c82d0b717757fb16317075949173f02f38a6fce7458ded.webp",
+    "timestamp": "1729575030",
+    "date": "10/22/2024, 5:30:30 AM",
+    "id": "e1c13156e691b64598080cb902e57a4da7a60252ca6dfae08e4bd2f05f3ccf14",
+    "kind": 1
+  },
+  {
+    "content": "MLS improves on the signal protocol by making every group member deterministically viewable by each member. There is no chance of a hidden additional user that reads all the messages. Likewise it's not possible for someone to send messages to only a subset of group members. A very powerful protocol.",
+    "timestamp": "1729565945",
+    "date": "10/22/2024, 2:59:05 AM",
+    "id": "1a4372e7991f85963417ff28e2e76f892271db960cf37c0b7d6d34595cd08ce3",
+    "kind": 1
+  },
+  {
     "content": "If you don’t understand what anarchy really is, here are three episodes of nostr:npub10qrssqjsydd38j8mv7h27dq0ynpns3djgu88mhr7cr2qcqrgyezspkxqj8 that will help you learn:\n\n1. nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt : https://fountain.fm/episode/GZ1sR5PKLEYphktZ20rp\n\n2. nostr:npub1hk0tv47ztd8kekngsuwwycje68umccjzqjr7xgjfqkm8ffcs53dqvv20pf : https://fountain.fm/episode/4EMHvz9Vu4eIahuktIhY\n\n3. nostr:npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak : https://fountain.fm/episode/e3ZCNQdhEAhKSIR7kt0L nostr:note19n0td9e4y75re3a9szunjscqcxvlefzgrz7f05ztvza5ccqh8ansj6p93c",
     "timestamp": "1729521717",
     "date": "10/21/2024, 2:41:57 PM",
