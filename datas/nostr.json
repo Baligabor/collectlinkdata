@@ -1,5 +1,166 @@
 [
   {
+    "content": "Shill a nostr client most people don't know about: 👇",
+    "timestamp": "1729730551",
+    "date": "10/24/2024, 12:42:31 AM",
+    "id": "8d05ccd4aa193260791c2ecc34c8c11204921ab1d185bce284237bff0df49856",
+    "kind": 1
+  },
+  {
+    "content": "You bet",
+    "timestamp": "1729730503",
+    "date": "10/24/2024, 12:41:43 AM",
+    "id": "2d9b3c361d502b31f2407af3cec2fc703fabd215b55d87716dd3892ff08c4a7e",
+    "kind": 1
+  },
+  {
+    "content": "Cashu.space\nOr look for \"Calle ecash\" on youtube. ",
+    "timestamp": "1729729504",
+    "date": "10/24/2024, 12:25:04 AM",
+    "id": "c5e83360a415d96d8c50505bf0fb027bdceaa3e66d252f8f7f85da335e6bd587",
+    "kind": 1
+  },
+  {
+    "content": "🚨 New release 2.3.0.0 is out 🚨\n\n🌐 Enhanced Tor integration \n📊 Better BTC amount formatting \n🔍 More insight on transactions \n💰 [Beta] Payment in Coinjoin (RPC) \n🔒 Trezor Safe 5 & ColdCard Q support\n\nRelease notes & Download: https://github.com/WalletWasabi/WalletWasabi/releases/tag/v2.3.0.0\n\nThis release continues our vision of simplifying the codebase and improving the resiliency of the software, while still shipping long-awaited quality-of-life features. By building stronger foundations today, we're paving the way for more exciting features tomorrow! \n\nhttps://video.nostr.build/18c0fa455a11129be7987827b054ab3a80f8fc609f9b7b018205c897c30159b7.mp4\n\n🌐 Enhanced Tor integration\n\nComplete rewrite of our Tor integration using standard HttpClient. Better performance, clearer code, and improved identity management for enhanced security.\n\n📊 Better BTC amount formatting\n\nImproved readability for all amounts with instant BTC-to-Sats conversion. Cleaner, more consistent UI across all screens showing amounts: balances, fees, Coinjoin outputs...\n\n🔍 More insight on transactions\n\nDetailed input/output lists for all transactions, including Coinjoins and transaction preview. This long-requested feature offers insight into the privacy-enhancing effects of coinjoins and the level of anonymity achieved with each transaction. Additionally, it is now visually clear how privacy suggestions improves transactions.\n\n💰 [Beta] Payment in Coinjoin (RPC)\n\nOur Payment in Coinjoin feature enters beta! Currently available via RPC only. Test it out and share your feedback! \n\nLearn more: https://docs.wasabiwallet.io/using-wasabi/RPC.html#payincoinjoin\n\n🔒 Hardware Wallet Updates\nAdded support for Trezor Safe 5 & ColdCard Q with HWI 3.1.0 update.",
+    "timestamp": "1729729155",
+    "date": "10/24/2024, 12:19:15 AM",
+    "id": "2a3b118a11e3d3a062b3e287adb71804115616548481d0768676dd84560e2947",
+    "kind": 6
+  },
+  {
+    "content": "Cypherpunks definitely found a glitch in the matrix. \nThis stuff is so damn powerful.",
+    "timestamp": "1729698795",
+    "date": "10/23/2024, 3:53:15 PM",
+    "id": "760e2fc2b3f13f7be13458f54dc6ace17d5a927ad6a181cef23ae7dfa2511331",
+    "kind": 1
+  },
+  {
+    "content": "Solid! ",
+    "timestamp": "1729692925",
+    "date": "10/23/2024, 2:15:25 PM",
+    "id": "e02f39fd9ca691efa27bf91561b3a20dd5ce7172bd2da9fb1732a623a599269c",
+    "kind": 1
+  },
+  {
+    "content": "BitBox Lugano Update is here! 🎉\n\nAt BitBox, we want to make sure our users can take advantage of the newest innovations on Bitcoin. With today’s update, we are adding support for two great Bitcoin features:\n\n- Silent Payments\n- MiniTapscript\n\nhttps://m.primal.net/Lfau.webp \n\n🔒 Silent Payments Upgrade\n\nWith this update, the BitBox02 is now the first hardware wallet to support sending to silent payment addresses. This means you can send bitcoin to the same address multiple times, without the sender losing privacy. No need to constantly generate new addresses!\n\n🔧 Just enter a silent payment address in the BitBoxApp, and the transaction is created  together with your BitBox02. \n\nThe BitBoxApp then verifies the silent payment was created correctly by the BitBox02 for extra security.\n\nhttps://m.primal.net/Lfav.png \n\n🔑 This update also brings MiniTapscript, combining the privacy and efficiency of Taproot with the power of Miniscript. It’s perfect for creating more complex wallet setups like inheritance planning, while keeping transactions smaller and more private.\n\nhttps://m.primal.net/Lfaz.png \n\nWhat is MiniTapscript? \n\nMiniscript is a language that simplifies creating advanced Bitcoin spending conditions, like combining keys or setting time delays (great for inheritance planning).\n\nMiniTapscript adds Taproot’s privacy and efficiency to Miniscript. Only the part of the script actually used to spend the coins is revealed, which reduces transaction size, lowers fees, and improves privacy.\n\nhttps://m.primal.net/LfbD.png \n\nWith MiniTapscript, only the necessary parts of the script are revealed, making transactions more efficient and lowering fees. It’s available now in firmware version 9.21.0.\n\nWhat else is included in our upgrade? Read more in the blogpost in the comment 👇",
+    "timestamp": "1729692920",
+    "date": "10/23/2024, 2:15:20 PM",
+    "id": "1473ea613f4f8aabaab88769824dc60e6d0eb9d513919dbe07c2a9788a53be4a",
+    "kind": 6
+  },
+  {
+    "content": "No https? 🤔",
+    "timestamp": "1729692588",
+    "date": "10/23/2024, 2:09:48 PM",
+    "id": "af167e5f82d9e7e3e463a2fc2dc81c547d12cf49cbceb678e9043256175e6440",
+    "kind": 1
+  },
+  {
+    "content": "What are you tinkering on? 👀",
+    "timestamp": "1729691678",
+    "date": "10/23/2024, 1:54:38 PM",
+    "id": "3e19cd2c5718b88b5c38775a4339b37620c2aef0171704ad2860ef52b564b6c1",
+    "kind": 1
+  },
+  {
+    "content": "Exactly. ",
+    "timestamp": "1729679265",
+    "date": "10/23/2024, 10:27:45 AM",
+    "id": "bbb0de2edd0f0303b98a623ed441cd0b14b9b378dff45c91f549f6a97e5ee042",
+    "kind": 1
+  },
+  {
+    "content": "Yet another tool to get the attention of devs:\n\nExplain the problem and solution in a nostr event, set the zaps to forward to the dev, when people like the idea and zap your note, the dev gets a notification. \n\nnostr:nevent1qqszyayeqcvn5rg8tltuqnr7sapesjx0pza5fpgd8hstvz0k9up2k4gpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgk508ga",
+    "timestamp": "1729675891",
+    "date": "10/23/2024, 9:31:31 AM",
+    "id": "9b0b1c6243b1f837f2db638becfb3145ba62db148f02796012f30d2167e46479",
+    "kind": 1
+  },
+  {
+    "content": "The concept of nostr:nprofile1qqs85cuynd5ymyxqm6vrfyjh3vfwz3l9dawhnmt9shxxfed23gfzw3qpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqg0waehxw309ahx7um5wghx6mmdqy28wumn8ghj7mn0wd68ytn00p68ytnyv4mq8qa5ma is cool! \nThe DVM analyzes the content of your recent posts and delivers events that are in a similar category. \n\nThe resulting feed is still quite off topic, but that might be because of too little niche activity. ",
+    "timestamp": "1729675768",
+    "date": "10/23/2024, 9:29:28 AM",
+    "id": "984d017d822e00db55cfa92009be5fb777f3e6c62b3cb38e58155ab19a87c593",
+    "kind": 1
+  },
+  {
+    "content": "Can DVM feeds please get the same UX treatment as the main feed in nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj703s8dt? \n\nI'd like to switch between the DVM feed and notifications and back easily.\n",
+    "timestamp": "1729675174",
+    "date": "10/23/2024, 9:19:34 AM",
+    "id": "22749906193a0d075fd7c04c7e87439848cf08bb44850d3de0b609f62f02ab55",
+    "kind": 1
+  },
+  {
+    "content": "Nostr might be the only UX that doesn't blast Tor users with captchas...",
+    "timestamp": "1729669073",
+    "date": "10/23/2024, 7:37:53 AM",
+    "id": "f30fe87c355ed4ac2941d3e0bb0310aa588acd087110e71d4120fa34f4f0df74",
+    "kind": 1
+  },
+  {
+    "content": "Somewhat similar is when I orange pill someone, I'm a bit sorry for having derailed that person's life, most likely everything will change for him...\n\nAnyhow, enjoy the adventure!",
+    "timestamp": "1729668843",
+    "date": "10/23/2024, 7:34:03 AM",
+    "id": "380351dbaeb8d75259cc55c72a8e6c2edad2b2cfa1e1bb3aeb08778a7bfd3156",
+    "kind": 1
+  },
+  {
+    "content": "After setting 200 sats/min for v4v listening in Fountain, something unexpected happened to me. \n\nI am much more picky about what I listen to. Example: I started to listen to some techie AI podcast. After few minutes I thought to myself \"I know all this stuff they're talking about and I'm paying for this, I'll skip ahead\". I skipped and switched to a different podcast eventually. \n\nNormally I would tell myself \"I know this stuff, but the guys are nice, maybe I'll learn something new\". \n\nValue4value works in both ways. I reward creators for the value I receive, but it makes me very conscious about what I receive. \n\nAnd since my time is precious, I actually save it.",
+    "timestamp": "1729668043",
+    "date": "10/23/2024, 7:20:43 AM",
+    "id": "421981a46815c1e8d50238f5b689c5802f664c64b38b153a471a6853c9498afa",
+    "kind": 6
+  },
+  {
+    "content": "It is fancy indeed... \n\nNaive example of homomorphic encryption:\n\nAlice has a number 5, she multiplies it by a large number, and sends that to Bob.\n\nBob adds the number 3 to the large number, and sends back to Alice. \n\nAlice now divides by her original large number, and receives 8. Bob just computed something for Alice, but Bob doesn't know the result of the computation. ",
+    "timestamp": "1729660859",
+    "date": "10/23/2024, 5:20:59 AM",
+    "id": "030a059507dc8711d49d697f3db0231f4b295d1b2c8f908af869d8660c594fbe",
+    "kind": 1
+  },
+  {
+    "content": "Dana, a Android wallet with silent payment support. \n\nhttps://github.com/cygnet3/danawallet/",
+    "timestamp": "1729660659",
+    "date": "10/23/2024, 5:17:39 AM",
+    "id": "d2270529cee4fca318842979566eeb1add52a54072b5c09227e02aa3d141a4e6",
+    "kind": 1
+  },
+  {
+    "content": "In the early days of ecash a common narrative was that it provides \"theoretically perfect anonymity\", but there's more nuance to this. \n\nIt's correct that when the client presents an unblinded signed message, the mint cannot link this to any specific blinded cyphertext that it signed previously. \n\nHowever, there is still three pieces of critical metadata that the client does reveal:\n\n1. The number of inputs and outputs of the ecash transaction. Transactions with many inputs reveal that the same user got paid many times in the past. Transactions with many outputs reveal that one user is making many payments.\n\n2. The value of each input and output. The mint uses a different key for each denomination value of the tokens. Thus a token worth 5 units is easily differentiated from a token worth 10 units. The anonymity set of a token depends on the number of tokens generated, so if a user is the only one with that specific denomination he has no privacy. \n\n3. The IP address that connects to the mint to send the transaction api request. If the same IP address makes multiple payments, it's likely the same user, and his geolocation is also revealed.\n\nProblems 1 and 2 can be mitigated on client side, but this adds substantial complexity in utxo management and transaction structure. If these mitigation are not specified and different clients have slightly different solutions, this opens up additional client fingerprinting attacks.\n\nWabiSabi is designed to solve problems 1 and 2 on a protocol level. A WabiSabi transaction is required to have exactly two inputs and two outputs, and homomorphic value commitments hide the amounts of each input and output. The tradeoff is that the mint has to issue 0 value credentials, a user needs to make more transactions to prepare his desired amounts, and the proof size and creation time is larger.\n\nProblem 3 is addressed by a client side networking anonymity layer. A VPN at least hides the actual users IP address, but if only one client uses this VPN to talk to this mint, it's still one IP per user. Tor is incredibly useful here, as it allows the creation of anonymous onion routes through the network with different exit IP addresses. A client can get a new IP for each api request! This does however increase bandwidth and latency cost.\n\nWe should assume \"everyone knows what the mint knows\", and so we need to be hardcore about privacy protections best baked into the protocol. If the protocol doesn't ensure the security of the user, client devs have to do an exponentially larger amount of research and development to fix the issues client side.",
+    "timestamp": "1729657569",
+    "date": "10/23/2024, 4:26:09 AM",
+    "id": "b43b653f9c6a3a2259c066113a60493745f59ce3c38f39e46c2c3915a809d974",
+    "kind": 1
+  },
+  {
+    "content": "Really bullish on nostr:nprofile1qqsr4d7zzzzjfd73c8zctuyurdlpjn670u395kaegleh3cr56a8fm0cpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq3wamnwvaz7tmjv4kxz7fwdehhxarj9e3xzmny9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcmut80v, a protocol for fundraising build on bitcoin and nostr to ensure secure, verifiable and reliable collaboration.\n\nFounders know that the investor has sats available and locked up for future milestones. \n\nInvestors know that if the founder does a bad job, the future funding milestones can easily be canceled.\n\nangor.io",
+    "timestamp": "1729647752",
+    "date": "10/23/2024, 1:42:32 AM",
+    "id": "0066b38a9e94bc18d4601b1e4de324652112d49fed28fcbcab0f082320d8aaa1",
+    "kind": 1
+  },
+  {
+    "content": "Sharing these statistics is super useful, a strong signal for other creators to try out nostr. \n\nThanks!\n\nBut keep your opsec in mind.",
+    "timestamp": "1729647490",
+    "date": "10/23/2024, 1:38:10 AM",
+    "id": "f341623a7e8548eda5e5f7530999fe8c06d65801683960404c4558301be4170f",
+    "kind": 1
+  },
+  {
+    "content": "6 months ago I decided to try to get into a professional Muay Thai Fight 👀🥊\n\nI’ve been grinding every day, dedicating my whole life and + 1,000 hours to this goal:\n\n💔 Sweat - Fear - Pain - Tears - Injuries - Doubts 💔\n\nBut did all of this pay off?\nFull Documentary: https://youtu.be/1EQ9YUWeCoE\nhttps://m.primal.net/LdSf.mov",
+    "timestamp": "1729647341",
+    "date": "10/23/2024, 1:35:41 AM",
+    "id": "5dfde4365ebac4832e0c016297039b5b9d0ca2ad422b3116df9a3ff9489722d0",
+    "kind": 6
+  },
+  {
+    "content": "A bunch of big companies like Cisco and Google are adding it to their existing products. \n\nA nostr based implementation is in progress as well.",
+    "timestamp": "1729646657",
+    "date": "10/23/2024, 1:24:17 AM",
+    "id": "8889b1cdc5414ef58af2568e8be6ed6fb5acedd5bd32974e1d9a026d8f4bcddb",
+    "kind": 1
+  },
+  {
     "content": "There is a rust implementation here https://github.com/openmls/openmls",
     "timestamp": "1729596668",
     "date": "10/22/2024, 11:31:08 AM",
