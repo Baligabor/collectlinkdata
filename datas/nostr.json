@@ -1,5 +1,12 @@
 [
   {
+    "content": "I've heard on of the authors say billions... \nRemoving a member of a group takes log n binary tree operations, so it really does scale exceptionally well in this regard. ",
+    "timestamp": "1729821122",
+    "date": "10/25/2024, 1:52:02 AM",
+    "id": "f887f80166a73431847c48a1ccf14be462f64892f0b656aba46ce35f4e02b7a8",
+    "kind": 1
+  },
+  {
     "content": "*large meaning literally billions of users/devices in a group.\n\nLots of other stuff will break before MLS ",
     "timestamp": "1729779285",
     "date": "10/24/2024, 2:14:45 PM",
