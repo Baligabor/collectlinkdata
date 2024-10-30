@@ -1,5 +1,89 @@
 [
   {
+    "content": "Even if you have encrypted your traffic, it’s possible to use sophisticated AI to analyze the patterns of data packets going in and out of your device.\n\nTo fight this kind of attack, we have developed DAITA (Defence Against AI-guided Traffic Analysis).\n\nRead more here: https://mullvad.net/vpn/daita\n\nhttps://files.mastodon.online/media_attachments/files/113/390/056/971/766/519/original/e43b7c29729eadfd.mp4",
+    "timestamp": "1730210417",
+    "date": "10/29/2024, 2:00:17 PM",
+    "id": "d65483a5acc6776a7a9d690b73f4c33e102ca23d8de494aa6e2e63ff004ab513",
+    "kind": 6
+  },
+  {
+    "content": "Quite wild that he missed both of the two protocols that fundamentally fix his concerns... ",
+    "timestamp": "1730209014",
+    "date": "10/29/2024, 1:36:54 PM",
+    "id": "39e92772a797d92fb1350eb292400e3944593736052b86bb2e96e9c4499ff5db",
+    "kind": 1
+  },
+  {
+    "content": "The average total coins generated across the network per day stays the same.  Faster machines just get a larger share than slower machines.  If everyone bought faster machines, they wouldn't get more coins than before.",
+    "timestamp": "1730208694",
+    "date": "10/29/2024, 1:31:34 PM",
+    "id": "5ba10a91cacd274cd48b7f72510c300871a42fb75c973a79eded55c33ea1d318",
+    "kind": 6
+  },
+  {
+    "content": "#bitcoin monk https://image.nostr.build/0f7962ff1eab2e86a180a8f28503766aea0fbce57bd069e714536cb18c5568d0.jpg",
+    "timestamp": "1730196265",
+    "date": "10/29/2024, 10:04:25 AM",
+    "id": "cdef00abeb107f4cf3f216c64c10695d5bc7a9eb4be9fefa28d2920c87a3e1f4",
+    "kind": 6
+  },
+  {
+    "content": "Both would be useful",
+    "timestamp": "1730195638",
+    "date": "10/29/2024, 9:53:58 AM",
+    "id": "262201e3096f795534e809b02fcd74b015a639c54f375bfcc9c56b7ec18b4a4c",
+    "kind": 1
+  },
+  {
+    "content": "How could nostr use #pubky decentralized DNS?\n\nEasy.  Instread of connecting to the relay URL which is governed by DNS.\n\nYou can connect directly to the relay pubkey.  If for some reason the relay DNS is taken down.  It can move to another site, or a hidden service.  Users are automatically updated.\n\nTo prevent this you would  have to take down 20 million nodes all over the world (much harder than silencing a relay).  And even then, 100s can pop up in minutes, using existing software installed on 100+ million computers.\n\nThat's just one use case.  #pubky has 100s.",
+    "timestamp": "1730191774",
+    "date": "10/29/2024, 8:49:34 AM",
+    "id": "c7574a4e10e4b2ccd9e547d0ecf5d98e21ac2b2f422f9cd63ed9faf0a5bb2a57",
+    "kind": 6
+  },
+  {
+    "content": "Is there a way to get an amethyst notification when a specific npub posts?",
+    "timestamp": "1730191632",
+    "date": "10/29/2024, 8:47:12 AM",
+    "id": "6b71f3de7fcb8cda31fce43f13a5adc2647ced508e97bc6c2130001abc989d4a",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, much needed.\nNostrocket.org might be it... ",
+    "timestamp": "1730179906",
+    "date": "10/29/2024, 5:31:46 AM",
+    "id": "e307159a2d499cd8a450d7b701cef9446fc806c877239cbd404a4e811e2c8581",
+    "kind": 1
+  },
+  {
+    "content": "Sure",
+    "timestamp": "1730178916",
+    "date": "10/29/2024, 5:15:16 AM",
+    "id": "6a594d21249ae8f3b825a692ba071f99da04c124cd20fa545bd2c9c9f21c5ebf",
+    "kind": 1
+  },
+  {
+    "content": "Contribute to the FOSS projects that you use personally, here you know best why it's important, how it works, and what can be improved.\nStart by reviewing the pull requests of other contributors to be useful instantly and learn your way around the code base. Then find an open issues that's in your interest and skill range, propose a solution, incorporate feedback, and deliver a pull request.\nDo that for a while, and if you're actually useful, then someone is likely to toss you some sats.",
+    "timestamp": "1730178906",
+    "date": "10/29/2024, 5:15:06 AM",
+    "id": "3b517a341573bc306b56d04d7a9cb63f36fee4825692c9679b07b9d25e85a9de",
+    "kind": 1
+  },
+  {
+    "content": "And nostr is a perfect sandbox for crazy ideas and mvps.",
+    "timestamp": "1730174866",
+    "date": "10/29/2024, 4:07:46 AM",
+    "id": "df779fdf57586ecae951525afd5c3857f68b3490c474572926ea7cc007333853",
+    "kind": 1
+  },
+  {
+    "content": "I'm juggling a dozen world changing cypherpunk products in my mind. \nWe need moar devs to build them. \nIf you're bored and need ideas to build, let me know.",
+    "timestamp": "1730173254",
+    "date": "10/29/2024, 3:40:54 AM",
+    "id": "d7fca6833cc50a5d47323a0f32f5bfc7a74035b9aa14d14e911f2bfc273b6692",
+    "kind": 1
+  },
+  {
     "content": "Yes, third floor of Paralelni Polis, where the 11 hacker congress' were held. ",
     "timestamp": "1730161272",
     "date": "10/29/2024, 12:21:12 AM",
