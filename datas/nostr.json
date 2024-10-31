@@ -1,5 +1,173 @@
 [
   {
+    "content": "Haven v1.0.0 - now with Blossom Media Server!\nhttps://relay.utxo.one/0ea35cee2a6d26d94e1911cce14404f2998b482519595f3e6bb3094e4d566100.png\n\nTake full control of your media by running your own blossom media server with #haven.\n\nWhat's new in v1.0.0\n - Blossom Support\n - Adds Gift Wrapped DM Support\n - Removes Kind 4 DM Support\n - GCP Backup Support\n - Adds Delete Event Support to Inbox Relay\n - Other Bug fixes and enhancements\n\nWe are yoloing to v1.0.0 because this is now the ultimate personal relay, what else could you need?\n\nEnjoy nostr, h/t nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6 for adding blossom to khatru.\n\nGet started today at https://github.com/bitvora/haven \n\nPS: nostr:npub1gcxzte5zlkncx26j68ez60fzkvtkm9e0vrwdcvsjakxf9mu9qewqlfnj5z please add blossom upload support to amethyst brother <3",
+    "timestamp": "1730291688",
+    "date": "10/30/2024, 12:34:48 PM",
+    "id": "e06d777beb9180a156b508c84563989bce9b6f3f29d341a9672484212f6341f3",
+    "kind": 6
+  },
+  {
+    "content": "Presenting Athenut – privacy-preserving web search powered by Kagi and Cashu\n\nAlways wanted to use Kagi but thought it's a joke that a privacy search engine requires you to create an account and pay with a credit card? Athenut wraps around the Kagi API and lets you pay for searches with Bitcoin. Every individual search is paid for with ecash which means that you have no account and your payments can't be correlated to your searches.\n\nIn the background, Athenut has an entire Cashu wallet built in that is almost completely hidden from the user. All the user does is to pay a Lightning invoice and see how many searches they have left. It's made for grug brains who want to be free. You pay, you search, that's it. \n\nThis is simply amazing, I've been dreaming about this for so long. It's only the beginning. We're going to make Error 402 great again!\n\n👉 https://athenut.com 👈\n\nhttps://image.nostr.build/0df1516949ecd9f7ed3100f8882be86bb72aa500eb6b3d621069c185a17d49b5.jpg",
+    "timestamp": "1730291647",
+    "date": "10/30/2024, 12:34:07 PM",
+    "id": "78df88c501db9574128da2cdcd985f719c871d570fed0768858a724616d70edd",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqszw70nm86zcl0wzlcwd0xulzdgl82e95v78vdm6fl0rnlarfle35gpzfmhxue69uhhqatjwpkx2urpvuhx2ucpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqg4waehxw309ajkgetw9ehx7um5wghxcctwvsv0rdp9 how about adding multiple currencies in the same screen to satsprice",
+    "timestamp": "1730289273",
+    "date": "10/30/2024, 11:54:33 AM",
+    "id": "dc3f20da508c8ed6eda5e29e1a0b2a9f2719d333ad03b8eb015f0c8a6db1da74",
+    "kind": 1
+  },
+  {
+    "content": "Pokey",
+    "timestamp": "1730286552",
+    "date": "10/30/2024, 11:09:12 AM",
+    "id": "bc09564d097067ab9487dcd174a979072a69576bad900dc4b35bd4866429571d",
+    "kind": 6
+  },
+  {
+    "content": "It's dope!\nWould be great to add other npubs or hashtags etc",
+    "timestamp": "1730286546",
+    "date": "10/30/2024, 11:09:06 AM",
+    "id": "26ee7f14bfa27cae803fcd5b77df7821fb52b66c75405adf3c197f30c4a7c3da",
+    "kind": 1
+  },
+  {
+    "content": "One click to post as an ephemeral npub.",
+    "timestamp": "1730286362",
+    "date": "10/30/2024, 11:06:02 AM",
+    "id": "046bf95d8fa6ae28fb58e970a5328c1ea22cadea3daff3b8bc8b77c65a05d3d5",
+    "kind": 1
+  },
+  {
+    "content": "It's a good point!",
+    "timestamp": "1730283962",
+    "date": "10/30/2024, 10:26:02 AM",
+    "id": "6cd0dc69a7cef83183d951b7aabde45bd4fc0e3a82b1b9c60019a76a5936ed6b",
+    "kind": 1
+  },
+  {
+    "content": "In most cases personal identity is not salient. ",
+    "timestamp": "1730279050",
+    "date": "10/30/2024, 9:04:10 AM",
+    "id": "35ec782333bf910dfd0afa0a22e6efdb760016993a6ca96ca40452bd18fcacf8",
+    "kind": 1
+  },
+  {
+    "content": "Why Bitcoin podcasts haven't mention the last week's accomplishment libbitcoinkernel https://stacker.news/items/732181/ ? It's been the holy grail for years.",
+    "timestamp": "1730270334",
+    "date": "10/30/2024, 6:38:54 AM",
+    "id": "a58e04ddd386a5abedbe5d8f96268f1c5b858c42842697dd1a35ae960aff867d",
+    "kind": 6
+  },
+  {
+    "content": "We are pleased to invite you all to the next Community Call of Bitcredit Protocol, a discussion forum for contributors and #Bitcoin enthusiasts alike. \n\nThe agenda for the event is as follows:\n\n1. Introduction and Welcome:\nIntroduction of (especially the new) call participants and their contributions to, or interest in, the Bitcredit project.\n\n2. Overview of Bitcredit:\nA concise summary of the Bitcredit initiative and its objectives.\n\n3. The Imperative Need for Bitcoin Credit Money:\nAn examination of the foundational economic principles underlying the role and utility of credit money. Why Bitcredit is indispensable for Bitcoin.\n\n4. Evolution of the Bill of Exchange:\nA historical review of the bill of exchange and its significance.\n\n5. Discount Houses and Credit Money:\nAn economic analysis of historic discount houses and their role in credit money. The future role of mints.\n\n6. Introduction to the e-bill Software Stack:\nA presentation of the e-bill software stack and its applications.\n\n7. Extending the Cashu Protocol:\nExploring necessary extensions to the Cashu protocol for seamless integration of outright #Bitcoin with redeemable credit money.\n\n8. Open Challenges and Collaboration Opportunities:\nA discussion of open problems and identification of good first issues for new contributors.\n\n9. Q&A Session:\nAn open forum for attendees to pose questions and engage in discussion with the contributors and community members.\nWe look forward to your participation and engagement during the Bitcredit Community Call.\n\nSee you on 6th November on Discord.",
+    "timestamp": "1730267546",
+    "date": "10/30/2024, 5:52:26 AM",
+    "id": "8d08c13b3f7499eb738f0adf6cb081473c951bdd9a3ee5016d267ec9de9b2fa4",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsqqx9hacelkffcgd3ecchzjtlvwq9xn2fmprhrwnzmm2t3exee2eqpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqrswwax you got this? ",
+    "timestamp": "1730263766",
+    "date": "10/30/2024, 4:49:26 AM",
+    "id": "174abf1d555bb6998e81bc99308bbef45ca93c695a13ddfea0fb9746691e8538",
+    "kind": 1
+  },
+  {
+    "content": "How can we get Oliver Anthony on nostr and nostr:nprofile1qqszy58kj62v9fpe98nhuh0q76np4e0r0g0wd44rhth3wphdnyqjfzcpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3wamnwvaz7tmjv4kxz7fwwashvmrpddjjucm0d5q3samnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kqurnrls? \nHe seems so primed for it. \nhttps://www.youtube.com/watch?v=7Dvu4BiHxSs",
+    "timestamp": "1730260411",
+    "date": "10/30/2024, 3:53:31 AM",
+    "id": "9f89e8b66d27209daa529adcd9997cebaa91467372112a7fed1c255efd00483c",
+    "kind": 1
+  },
+  {
+    "content": "No, anonymous. \n\nI am contemplating if private is ok, but I like the idea of not even the receiver knowing who the sender is.",
+    "timestamp": "1730259892",
+    "date": "10/30/2024, 3:44:52 AM",
+    "id": "32cd11b0e322a2d049578821bd37cdbebdf340d4acfcc074bcaa2edd430c33bf",
+    "kind": 1
+  },
+  {
+    "content": "Good to see you here!\nnostr:nprofile1qqsqqx9hacelkffcgd3ecchzjtlvwq9xn2fmprhrwnzmm2t3exee2eqpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqrswwax is on a purple pulling spree, gj. ",
+    "timestamp": "1730255890",
+    "date": "10/30/2024, 2:38:10 AM",
+    "id": "51bee2c698d041c5c43259dec96789ed03f5004c03ac9438057762511237a557",
+    "kind": 1
+  },
+  {
+    "content": "Hey internet friends! My name is Mitch and I run the Project Untethered YouTube channel (112k subs) where I share the best travel hacks I’ve discovered from the last 9 years digital nomad-ing in the road. Things like tricks for finding cheap flights, packing hacks, sneaky travel scams to avoid, and basically everything you need to know to travel smarter for less. If you like travel and wanna save money, check it out! \n\nI’m sitting next to the Great nostr:npub1qqvt0m3nlvjnssmrn33w9yh7cuq2dx5nkz8wxax9hk5hrjdnj4jqz8cn3w  right now, who I hear is a big deal around here and convinced me NOSTR is the future 😎\n\n#introductions #travelstr #travel\nhttps://www.youtube.com/@ProjectUntethered\nhttps://m.primal.net/Lmay.jpg\nhttps://m.primal.net/Lmaz.jpg\nhttps://m.primal.net/LmbA.jpg",
+    "timestamp": "1730255825",
+    "date": "10/30/2024, 2:37:05 AM",
+    "id": "9b179926e71d6e46645b86a77244f44a64c63da40490db1b563b0aaac86d76ec",
+    "kind": 6
+  },
+  {
+    "content": "Good question... \n\nI also doubt he used a laptop, seems more like a tower desktop kinda guy. ",
+    "timestamp": "1730255649",
+    "date": "10/30/2024, 2:34:09 AM",
+    "id": "a937b1beeb276cc785060dcb1a44d63627cf4e4ca28ca9b6b081d75049b2989a",
+    "kind": 1
+  },
+  {
+    "content": "Wasabi v1.x ran on a 188GB / 32-core machine. Wasabi v2.0? An even bigger monster.\n\nToday, the Wasabi coordinator can run on a Raspberry Pi, and the Wasabi Server/Backend can operate anywhere. ",
+    "timestamp": "1730255530",
+    "date": "10/30/2024, 2:32:10 AM",
+    "id": "b88a2bad9c9b1f458ab32ed632d51adb980ce3ad0496f8b7a0c4009e7e30ae54",
+    "kind": 6
+  },
+  {
+    "content": "Switched to anonymous zaps.",
+    "timestamp": "1730255444",
+    "date": "10/30/2024, 2:30:44 AM",
+    "id": "7ea45498b023502542283c725200a4b87a93ff3b34708395a61a4d39fefbdc35",
+    "kind": 1
+  },
+  {
+    "content": "It's all about layers of defense, and cost-benefit analysis. \nIt also depends on what type of work is your calling. \nStarting a fresh nym is at least a fun experiment, so why not try. ",
+    "timestamp": "1730255308",
+    "date": "10/30/2024, 2:28:28 AM",
+    "id": "93cbe990c0b3846f910fc6cf0d46b0517acc82ce027b1623ddc3747aac8d98b3",
+    "kind": 1
+  },
+  {
+    "content": "Contribute to the FOSS projects that you use personally, here you know best why it's important, how it works, and what can be improved.\nStart by reviewing the pull requests of other contributors to be useful instantly and learn your way around the code base. Then find an open issues that's in your interest and skill range, propose a solution, incorporate feedback, and deliver a pull request.\nDo that for a while, and if you're actually useful, then someone is likely to toss you some sats.",
+    "timestamp": "1730251332",
+    "date": "10/30/2024, 1:22:12 AM",
+    "id": "2d0742f30374dd7517f367e03acfe1bc3162a9021274dc268c91ddae328c0fc9",
+    "kind": 6
+  },
+  {
+    "content": "Let's assume you were about to interview nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshs54zrlx... what would you ask him? #einundzwanzig #plebchain #nostrchat",
+    "timestamp": "1730251308",
+    "date": "10/30/2024, 1:21:48 AM",
+    "id": "0f477c5b1c1f9374f8be3a46a1bbf974229fe0a2953df7a4c79f151c631e8f1d",
+    "kind": 6
+  },
+  {
+    "content": "https://image.nostr.build/067bdcf161818223fc3d79880bf0769f5d9872c8708dd93aa29999060649397c.jpg",
+    "timestamp": "1730251253",
+    "date": "10/30/2024, 1:20:53 AM",
+    "id": "e42dbcd228a814b3b50a6cd92a8f399e60e6ce1e1c641d95a315c342c94916cf",
+    "kind": 1
+  },
+  {
+    "content": "step 1: build a multiplatform FROST library for the web:\n\nhttps://github.com/cmdruid/frost\n\nstep 2: hack together a remote signer and nos2x fork as proof of concept (and win a hackathon):\n\nhttps://x.com/PlebLab/status/1850318480576250297\n\nstep 3: create a stupid simple multi-device signing protocol with key rotation that supports existing npubs (WIP):\n\nhttps://github.com/FROSTR-ORG/docs\n\nstep 4: make self-custody of your identity great again",
+    "timestamp": "1730251020",
+    "date": "10/30/2024, 1:17:00 AM",
+    "id": "fd451080c1903f05ff028e5e1dbda6505d4c15bb89f7b26e57b1492be4595424",
+    "kind": 6
+  },
+  {
+    "content": "Barefoots or gtfo",
+    "timestamp": "1730250977",
+    "date": "10/30/2024, 1:16:17 AM",
+    "id": "b022429b17db5ad673f253b17af146e33a38e97c12f943c49688acd20a9941dc",
+    "kind": 1
+  },
+  {
     "content": "Even if you have encrypted your traffic, it’s possible to use sophisticated AI to analyze the patterns of data packets going in and out of your device.\n\nTo fight this kind of attack, we have developed DAITA (Defence Against AI-guided Traffic Analysis).\n\nRead more here: https://mullvad.net/vpn/daita\n\nhttps://files.mastodon.online/media_attachments/files/113/390/056/971/766/519/original/e43b7c29729eadfd.mp4",
     "timestamp": "1730210417",
     "date": "10/29/2024, 2:00:17 PM",
