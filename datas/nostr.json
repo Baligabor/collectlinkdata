@@ -1,5 +1,96 @@
 [
   {
+    "content": "Exactly, interesting book, haven't heard of it! ",
+    "timestamp": "1730422328",
+    "date": "11/1/2024, 12:52:08 AM",
+    "id": "19726bb5048a57c2fc80434dbe02650446121d3e355bacd923d2081ab4d0b2c9",
+    "kind": 1
+  },
+  {
+    "content": "I even got zapped for the cloned text, are you going to try to take my sats now too? ",
+    "timestamp": "1730421057",
+    "date": "11/1/2024, 12:30:57 AM",
+    "id": "e7d1aaa3e114691d9581114542dd0d3164757f50c9fe448d6522ac2b5bfb680c",
+    "kind": 1
+  },
+  {
+    "content": "Are you going to take away my computer because I took away \"your\" words? ",
+    "timestamp": "1730421005",
+    "date": "11/1/2024, 12:30:05 AM",
+    "id": "2698295a204b4c317b0f3665e4a52f472596990e680d9c1fd3f80fb5a81c6a88",
+    "kind": 1
+  },
+  {
+    "content": "Did I just steal anything from you by right click copy paste? ",
+    "timestamp": "1730420931",
+    "date": "11/1/2024, 12:28:51 AM",
+    "id": "0b4dca14dd2d4f19fc74670701857c3a837a675c443cc3adb930e80f591a172a",
+    "kind": 1
+  },
+  {
+    "content": "Going to give this a read.\n\nI’m an artist. If I come up with some original characters, are you saying that I shouldn’t have the right to protect my creations? Shouldn’t be able to prevent others from trying to steal my art and then make money from it?",
+    "timestamp": "1730420912",
+    "date": "11/1/2024, 12:28:32 AM",
+    "id": "b3f6b4775de1640b972c3fb0063ff2137901bfd327da7628f8d3d33fc7471a25",
+    "kind": 1
+  },
+  {
+    "content": "I guess the first is a clear intent and preparation to use violence. ",
+    "timestamp": "1730420889",
+    "date": "11/1/2024, 12:28:09 AM",
+    "id": "95516edbdbc84c2ac280856564c4a8ccceca9f60eb1653b6cfa3021840e9ae9b",
+    "kind": 1
+  },
+  {
+    "content": "If Alice signs a contract that says Bob will deliver a good, but it's actually Charlie that signs it pretending to be Bob, den Charlie has stolen the money from Alice. \nHe has not stolen the image of the logo from Bob. ",
+    "timestamp": "1730419792",
+    "date": "11/1/2024, 12:09:52 AM",
+    "id": "e047ebeeef1781eb292d1b2886f62c40a02b4167fd16cfa370456f9a70feeb6b",
+    "kind": 1
+  },
+  {
+    "content": "tl;dr, property rights are a solution to the problem of requirement to allocate scarce resources. \n\nIdeas are non-scarce, and if property rights are applied, then it's not protective, but in fact violates the property in actually scarce resources of peaceful people. \n\nhttps://mises.org/library/book/against-intellectual-property",
+    "timestamp": "1730419693",
+    "date": "11/1/2024, 12:08:13 AM",
+    "id": "ce17be27cbebfbc3aee1ef10ee5c4930704eafbb3a4f89c755c575799c5253fa",
+    "kind": 1
+  },
+  {
+    "content": "No, the trademark holder steals the physical media which the trademark violator owns. ",
+    "timestamp": "1730419602",
+    "date": "11/1/2024, 12:06:42 AM",
+    "id": "1e77e7517d6a113475f8ba49664d40d2d1ecaad6eebac61b83cb55d18efb4a36",
+    "kind": 1
+  },
+  {
+    "content": "Basically all form of intellectual property. \nhttps://mises.org/library/book/against-intellectual-property",
+    "timestamp": "1730419502",
+    "date": "11/1/2024, 12:05:02 AM",
+    "id": "e73819049ee4777a3db41266d4ba286a96b858fda986a511321f94a2302e0270",
+    "kind": 1
+  },
+  {
+    "content": "Trademarks are theft. ",
+    "timestamp": "1730345712",
+    "date": "10/31/2024, 3:35:12 AM",
+    "id": "a849cb180f6e13b36a9bcc5449a86293aad4ad4356727aad5fd3e97bdf129143",
+    "kind": 1
+  },
+  {
+    "content": "Huge!\nThat's a massive milestone, and shows your insane effort to build such an important project. \nThanks to all contributors to make this happen, you're heroes!! 💚",
+    "timestamp": "1730342849",
+    "date": "10/31/2024, 2:47:29 AM",
+    "id": "40658cb7411395e17090bd196754963e8ccfbacd3ffaf83f20ee719d916affc2",
+    "kind": 1
+  },
+  {
+    "content": "BTCPAY 2.0 IS OUT!!! 🚀\n\nhttps://blog.btcpayserver.org/btcpay-server-2-0/\n\nhttps://m.primal.net/LnDW.png \n\nBTCPay Server 2.0 realigns the internal architecture with the lessons we’ve learned since 2017, positioning us to better support both plugin developers and ourselves as we implement new features.\n\n🌎New interface localization\n🧭New sidebar-only navigation\n📲New onboarding flow for new users and Point Of Sale\n🏬Three new e-commerce integrations @Wix, @Odoo & @BigCommerce\n🙌Checkout v2 default\n🎨Branding enhancements \n\nhttps://m.primal.net/LnEE.png \n\nWhile it may not seem immediately obvious, we expect users to see the full potential of 2.0 in the upcoming months, as the ecosystem continues to thrive and build on top of it. With BTCPay Server 2.0, we’re introducing breaking changes in our API that allow us to eliminate the technical debt that has accumulated over the years.\n\nUpdating to BTCPay Server 2.0 is a one-way process with no option for rolling back. Because of that, we're making it opt-in, requiring that you SSH into your server and run:\n\ngit fetch\ngit checkout 2.0\nbtcpay-update.sh\n\nSeamless integration into existing systems remains one of our top priorities, and we’re excited to introduce three new e-commerce integrations that expand the possibilities for merchants:\n\n- Wix\n- Odoo\n- BigCommerce\n\nIf you use plugins with your BTCPay Server, you might notice that some are disabled after updates - we do that to prevent server crashes.\n\nIf you use plugins with your BTCPay Server, you may notice that some are disabled following updates - we do this to prevent server crashes. If you rely heavily on plugins for your BTCPay operations, we recommend that you double-check compatibility and look for announcements from plugin developers regarding their support for version 2.0 before proceeding with the upgrade.  \n\n nostr:npub1psm37hke2pmxzdzraqe3cjmqs28dv77da74pdx8mtn5a0vegtlas9q8970 has updated their plugin, so take a look at it how they did it as an example.\n\nhttps://m.primal.net/LnEG.png \n\nIn the end 💚 Thanks to all that contributed\n\nWith 2.0 we wanted to do all the hard work, most of which may be invisible, but it sets a great base on what we’re aiming to do in 2025. Keep an eye on the upcoming minor releases that we’ll ship if we notice any bugs. In the next few big releases we’re hoping to ship some of the most requested features that further enhance our mission.\n\nSuper-special shout out goes to our community testers, who went beyond and above testing the 2.0: @cypherpunkstore  nostr:npub1qqqqqq9tkeunk6ma4zdlgt4euev7p5c64jdmp7354x0zdrns3ars20hrhr  nostr:npub1k5f85zx0xdskyayqpfpc0zq6n7vwqjuuxugkayk72fgynp34cs3qfcvqg2 @JoinStrainly.\n\nWe hope you enjoy what this update has to offer. As always, thank you to our invaluable contributors, who directly participated in making 2.0 possible:  nostr:npub14j7wc366rf8efqvnnm8m68pazy04kkj8fgu6uqumh3eqlhfst0kqrngtpf @dstrukt @jackstar0512  nostr:npub1y24gz5gwucl79vtv4ctwpysl0r5m4xyzu2rgulnr44ks3t5mt92q4nz2ad  nostr:npub1qm72nur0wn8cdgt0unp0amzssuqxg03tzpd4r87e856nxtz344fs6g74md  nostr:npub1zfytz6ktce3av2svlfpl0e79e44tnskxmvlpkcmc7q0xct3qa49swvm60l @nisaba  nostr:npub1za04drthlvxtwsq0phwc4mgh8rxhjafjkv2w7pf6ze5afka8gvaquadur3 @TChileta  nostr:npub1rj7eh0eu3skwcyr5adpcjwxft9z4yjdspjryq6gynqw2j49f9a3quqjpw2  nostr:npub1j8y6tcdfw3q3f3h794s6un0gyc5742s0k5h5s2yqj0r70cpklqeqjavrvg\n\nFinal thanks - of course - goes to https://foundation.btcpayserver.org supporters who are ensuring our FOSS work is sustainable and are helping us make this tech available to everyone!  \n\n nostr:npub1spralxq6jlw5rdy0249vqr5sh43rfrlx2wzv3rhjjqedw559w9psrs8s72\n nostr:npub10pensatlcfwktnvjjw2dtem38n6rvw8g6fv73h84cuacxn4c28eqyfn34f\n@BaillieGifford\n@Tether_to\n nostr:npub17xvf49kht23cddxgw92rvfktkd3vqvjgkgsdexh9847wl0927tqsrhc9as\n@LunaNode\n nostr:npub1hcwcj72tlyk7thtyc8nq763vwrq5p2avnyeyrrlwxrzuvdl7j3usj4h9rq\n nostr:npub1l49ccxu5kvpccapwq269yjnc9jj5tteunfgkhl774hn2v0sdzq0sqa62g8\n nostr:npub1wlx4wqeyzzspw43gk56hlfj4k8ava262let5wvammn8djwx7jx3qp5zy3z\n@Unbank\n\nhttps://m.primal.net/LnEA.png \n\n",
+    "timestamp": "1730342759",
+    "date": "10/31/2024, 2:45:59 AM",
+    "id": "b8bb538aefd5886115fd6e1154595347babacf1ad2035455a69c432d5911c03c",
+    "kind": 6
+  },
+  {
     "content": "Haven v1.0.0 - now with Blossom Media Server!\nhttps://relay.utxo.one/0ea35cee2a6d26d94e1911cce14404f2998b482519595f3e6bb3094e4d566100.png\n\nTake full control of your media by running your own blossom media server with #haven.\n\nWhat's new in v1.0.0\n - Blossom Support\n - Adds Gift Wrapped DM Support\n - Removes Kind 4 DM Support\n - GCP Backup Support\n - Adds Delete Event Support to Inbox Relay\n - Other Bug fixes and enhancements\n\nWe are yoloing to v1.0.0 because this is now the ultimate personal relay, what else could you need?\n\nEnjoy nostr, h/t nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6 for adding blossom to khatru.\n\nGet started today at https://github.com/bitvora/haven \n\nPS: nostr:npub1gcxzte5zlkncx26j68ez60fzkvtkm9e0vrwdcvsjakxf9mu9qewqlfnj5z please add blossom upload support to amethyst brother <3",
     "timestamp": "1730291688",
     "date": "10/30/2024, 12:34:48 PM",
