@@ -1,5 +1,61 @@
 [
   {
+    "content": "What's next for Pubky?\n\n🚀 1. Launching a relatively feature-rich version of our our flagship \"Pubky App\": Private beta first, then public beta Q1 2025.\n\n🔑 2. Prototyping & launching a new authenticator app for managing keys, sessions, and DHT records.\n\n🌱 3. Launching initiatives to cultivate an ecosystem of exceptional builders using & contributing to Pubky Core.\n\nThis is just the beginning. Our 2025 roadmap is (overly) packed with exciting plans. \n\nGet ready to take back the web with Pubky in 2025.\n\nhttps://medium.com/pubky/pubky-the-next-web-3287b35408f1",
+    "timestamp": "1731246161",
+    "date": "11/10/2024, 1:42:41 PM",
+    "id": "14595aef0385b778b77955892abd1484572a532df51eaa81a6702592fd2c1eae",
+    "kind": 6
+  },
+  {
+    "content": "Amazing, thanks!",
+    "timestamp": "1731246025",
+    "date": "11/10/2024, 1:40:25 PM",
+    "id": "457d666c6472696da44a869766eeb23d76570ed9cc604c5383d2f1dd5d72866d",
+    "kind": 1
+  },
+  {
+    "content": "Let's see what y'all build though.",
+    "timestamp": "1731241639",
+    "date": "11/10/2024, 12:27:19 PM",
+    "id": "2709ac8d74df4e72f5e3f8c17184ef730a91cbd74a96a7597a1925efbf9eba4d",
+    "kind": 1
+  },
+  {
+    "content": "Nice, will the entire stack be FOSS?",
+    "timestamp": "1731240011",
+    "date": "11/10/2024, 12:00:11 PM",
+    "id": "e6ffdc6550319c57cbce33c07ec5213012f9a4ef0f78166c73034ddee63887f9",
+    "kind": 1
+  },
+  {
+    "content": "Information cannot be owned.",
+    "timestamp": "1731231937",
+    "date": "11/10/2024, 9:45:37 AM",
+    "id": "3b7e75d6766ec7f8a4e610d506f998d52dfb489a851b271b9a4c8b3052c62223",
+    "kind": 1
+  },
+  {
+    "content": "Yeah that's an issue, but a big chunk of it is evergreen.",
+    "timestamp": "1731231917",
+    "date": "11/10/2024, 9:45:17 AM",
+    "id": "ebdf2f041d6cda750aa9649b93da771e19a961b3a2d6c5f649dd67a7a2d99571",
+    "kind": 1
+  },
+  {
+    "content": "Do you know of such an article / book?",
+    "timestamp": "1731231656",
+    "date": "11/10/2024, 9:40:56 AM",
+    "id": "4956c4aab173c2004c6b814d5c3407b43a85b842ad4bdeed17da644c758b0fd4",
+    "kind": 1
+  },
+  {
+    "content": "libsecp256k1 v0.6.0 supports musig 2!",
+    "timestamp": "1731231481",
+    "date": "11/10/2024, 9:38:01 AM",
+    "id": "43b689155e6d4f9e7b312a22ff532cdb36e3e8942db9731a5ddb97580d9e0d42",
+    "kind": 1
+  },
+  {
     "content": "Thinking about doing an audio book of the graphene os documentation.\n\nwdyt?",
     "timestamp": "1731135431",
     "date": "11/9/2024, 6:57:11 AM",
