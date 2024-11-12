@@ -1,5 +1,110 @@
 [
   {
+    "content": "Few...",
+    "timestamp": "1731349380",
+    "date": "11/11/2024, 6:23:00 PM",
+    "id": "4597dcf865fdd02ef0553ba8789c1429f5786e2a2eb4d312a71fa11478e20cce",
+    "kind": 1
+  },
+  {
+    "content": "Selling VPS @ https://lnvps.net",
+    "timestamp": "1731345361",
+    "date": "11/11/2024, 5:16:01 PM",
+    "id": "93351c069190c2ce37c8d311a7190923efe141d675447a23a222c93c3e699ae9",
+    "kind": 6
+  },
+  {
+    "content": "Oh wow, we're at 869866 already, ngu much!",
+    "timestamp": "1731342642",
+    "date": "11/11/2024, 4:30:42 PM",
+    "id": "54fb249bc65710d19517026e2e93ac8c60360f9d9859acd9ba6f4958c2b534ad",
+    "kind": 1
+  },
+  {
+    "content": "Blossom fixes this.",
+    "timestamp": "1731339085",
+    "date": "11/11/2024, 3:31:25 PM",
+    "id": "7da57983e63ba543e2ae638443c687402c2bdc50b5af83bceb74b4bfca87ea11",
+    "kind": 1
+  },
+  {
+    "content": "Shopinbit.ch is live!\n\nPrivacy preserving fiat proxy merchant.\n\nBuy anything for bitcoin in Switzerland!",
+    "timestamp": "1731323364",
+    "date": "11/11/2024, 11:09:24 AM",
+    "id": "1ff33b20a15120fef3631672abb481c1bd6bb086cb60d91dadbe32027ed41030",
+    "kind": 1
+  },
+  {
+    "content": "Exactly!",
+    "timestamp": "1731319753",
+    "date": "11/11/2024, 10:09:13 AM",
+    "id": "111abfbfa75709fb9808a5d9469c4f1fb91abceeeee979df6a73dfe6bc966ae9",
+    "kind": 1
+  },
+  {
+    "content": "Signal & Jitsi work well.\nBut I don't receive or make legacy phone calls for many years.",
+    "timestamp": "1731318412",
+    "date": "11/11/2024, 9:46:52 AM",
+    "id": "a255c31acb7877fa1f7d58e352c28a928d24fa437c23b032d574767ce4b11d3a",
+    "kind": 1
+  },
+  {
+    "content": "That's excellent progress!\nI've become increasingly more enthusiastic about script restoration, specifically the stark constructions this opens up.\nThanks a lot for pushing this forward!",
+    "timestamp": "1731312551",
+    "date": "11/11/2024, 8:09:11 AM",
+    "id": "582c3e25301cb461e213dd770ac2739d8f6d875ebdae5eff515fda326fd5a35c",
+    "kind": 1
+  },
+  {
+    "content": "Here are the very draft interpreter and BIPs for Script Restoration. I'm seeking comments (looking at nostr:nprofile1qqsdnpcgf3yrjz3fpawj5drq8tny74gn0kd54l7wmrqw4cpsav3z5fgpz4mhxue69uhk2er9dchxummnw3ezumrpdejqz9rhwden5te0wfjkccte9ejxzmt4wvhxjmcprpmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctvl3x2lg and nostr:nprofile1qqs2nep2pjnwfvfqszytdzj06eq8fqd3yps0j9dqlm95ezr524lrwjgpr4mhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet5qyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpz3mhxue69uhhyetvv9ujuerpd46hxtnfdunyshzy here!) on all aspects, including format and what opcodes make sense to combine into a single proposal.\n\nThere are definitely some tweaks we could make to costing (it bugs me that the formula for OP_MUL is not symmetric, for example!), but that part is pretty solid.\n\nOnce we have a single proposal that we think is well-specified, reasonable and useful, it'll be time to get coauthors (I have a day job, and it's not this!) and formally propose it for broader scrutiny.\n\nhttps://github.com/rustyrussell/bips/pull/1/\n\nAnd interpreter (not other parts, so not actually usable except bench and test!):\n\nhttps://github.com/rustyrussell/bitcoin/pull/1",
+    "timestamp": "1731312333",
+    "date": "11/11/2024, 8:05:33 AM",
+    "id": "2f70b9a00e42f4a132041dae5c32eb1978e9985bdd34de90410478a79a30272b",
+    "kind": 6
+  },
+  {
+    "content": "It would be useful if the airplane mode toggle required authentication in GrapheneOS.",
+    "timestamp": "1731312229",
+    "date": "11/11/2024, 8:03:49 AM",
+    "id": "7314b2ce98110ac97eccf4e1f60f5766062c548675a00253b48e265e8499b22f",
+    "kind": 1
+  },
+  {
+    "content": "Nostr keys are the identity and web of trust layer.\nNostr relays are the data delivery and availability layer.",
+    "timestamp": "1731311678",
+    "date": "11/11/2024, 7:54:38 AM",
+    "id": "fac5fd77fa4907de62d986bd600b295056ddc98213fbb704dd5e4e8a6fdbafc5",
+    "kind": 1
+  },
+  {
+    "content": "It's really incredible what can be done with Bitcoin script.\nTaproot is such a gamechanger.\nnostr:nevent1qqsg7l3gy33vvlsqrctzyyul3hyluch0u6vxndlnncg68ul93u4lx8spzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyqat0ssss5jt05wpckzlp8qm0cv57hnlyfd9hw287duwqaxhf6wm7qcyqqqqqqgnmk0lr",
+    "timestamp": "1731311592",
+    "date": "11/11/2024, 7:53:12 AM",
+    "id": "be5d84c7ddc4ae838e7dba77e711c6cecb3c9a000f8089e651be1f34692d2700",
+    "kind": 1
+  },
+  {
+    "content": "Question of the day: 🧐🤔\nnostr:npub182muyyy9yjmarsw9shcfcxm7r984uleztfdmj3ln0rs8f46wnklstahf3j is crowdfunding protocol build on #nostr, but who is vetting on projects? \n\n\nAngor is 100% decentralized and so developers do not participate in the selection or vetting of projects listed on the platform. \n\nIt's the community's call to choose and vet projects, thanks to the protocol’s trustless design. \n\nEvery founder is responsible for the project and can even obtain control over its relays on #nostr\n\n\n#nostr #angor #bitcoin. \n\n\n",
+    "timestamp": "1731310765",
+    "date": "11/11/2024, 7:39:25 AM",
+    "id": "cfa4e663c07974a7a0186f7ea15e6dc004ebffa5351a4dd82868ae19affc05cd",
+    "kind": 6
+  },
+  {
+    "content": "Are you looking for #Bitcoin Only crowdfunding platform?\n\nLook no further: at nostr:npub1t8wgz9hma5u6gfagvc0wewsdas28k9e4ck0dy37gd9m244qfdeqq5ncqhd your project can be funded only with #bitcoin.\n\n#nostr #build\n",
+    "timestamp": "1731310731",
+    "date": "11/11/2024, 7:38:51 AM",
+    "id": "be10d4688974e163fb29d37d9bdcba850ba1761b78a4c67ccc07c189869fc541",
+    "kind": 6
+  },
+  {
+    "content": "Parallel Polis is spreading.",
+    "timestamp": "1731310704",
+    "date": "11/11/2024, 7:38:24 AM",
+    "id": "c0995272f412213f0629b4d8aa820ebb5dc58d35ce4b5fb506601114d8c0a98e",
+    "kind": 1
+  },
+  {
     "content": "What's next for Pubky?\n\n🚀 1. Launching a relatively feature-rich version of our our flagship \"Pubky App\": Private beta first, then public beta Q1 2025.\n\n🔑 2. Prototyping & launching a new authenticator app for managing keys, sessions, and DHT records.\n\n🌱 3. Launching initiatives to cultivate an ecosystem of exceptional builders using & contributing to Pubky Core.\n\nThis is just the beginning. Our 2025 roadmap is (overly) packed with exciting plans. \n\nGet ready to take back the web with Pubky in 2025.\n\nhttps://medium.com/pubky/pubky-the-next-web-3287b35408f1",
     "timestamp": "1731246161",
     "date": "11/10/2024, 1:42:41 PM",
