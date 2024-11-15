@@ -1,5 +1,180 @@
 [
   {
+    "content": "Do you do phone cases nostr:nprofile1qqsx845ex2wm3cu9d8e93xm282nmpu33emyr5aufu20s5wt8sx7h6uspzdmhxue69uhhqatjwpkx2urpvuhx2ue0cnuf5l?",
+    "timestamp": "1731615458",
+    "date": "11/14/2024, 8:17:38 PM",
+    "id": "3dc279fb8a89e9f89e90a2049d41e7cf047d589a006a1009cb3fbccae43027ab",
+    "kind": 1
+  },
+  {
+    "content": "Here a panel with nostr:nprofile1qqsfu8jfssstclp470360rfqq3d5eq6rnpk6ujrnjavmeje2yl5gc5cpzdmhxue69uhhqatjwpkx2urpvuhx2ue0vj7szh, Max Hampshire, Liam Eagen and myself about freedom tech at HCPP24\n\nhttps://www.youtube.com/watch?v=rEfTyv-7xNo",
+    "timestamp": "1731612497",
+    "date": "11/14/2024, 7:28:17 PM",
+    "id": "b9aa00141f3bada6290d27cb0bd4bc7a1c6221584d90586cfce1fa16a61da794",
+    "kind": 1
+  },
+  {
+    "content": "Is there another app that could feed the data to citrine already now?",
+    "timestamp": "1731612162",
+    "date": "11/14/2024, 7:22:42 PM",
+    "id": "a8e0172b7adfa3c47b5ea311ee57a96cb71a2a32de02ca5630b44b9f185b93f2",
+    "kind": 1
+  },
+  {
+    "content": "Exactly.\nI have a couple gigabytes to spare, that fits a lot of notes!",
+    "timestamp": "1731610527",
+    "date": "11/14/2024, 6:55:27 PM",
+    "id": "a8b8d87204d7659f24ae71281971f669f10797d2c16c02de46be7be1cddf5e29",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, it's a great backup solution.",
+    "timestamp": "1731607063",
+    "date": "11/14/2024, 5:57:43 PM",
+    "id": "192c303d38f7a94c9e8077d43c16c26e1cf1636c8e390700647831d40f18c6d1",
+    "kind": 1
+  },
+  {
+    "content": "Calling this piece DONE. \n\nHand carved in reclaimed slate. Enamel painted leaves. My goal was to capture a moment in time, autumn leaves floating, a ripple in a pond.\n\nIt’s not done perfectly but I’m happy with it for now. Definitely going to try my hand at a larger version soon. https://image.nostr.build/6da82dd36adbd7c9a4e70a5030fff218a3b525bb11434b462756af2bd6abae39.jpg ",
+    "timestamp": "1731606608",
+    "date": "11/14/2024, 5:50:08 PM",
+    "id": "ea7dfd6568e69b9c163caa6f8f577eaf3df4dc0da13f8e730920cf6e37692308",
+    "kind": 6
+  },
+  {
+    "content": "Is there a way to get all of my and my wot notes into citrine? nostr:nprofile1qqs827g8dkd07zjvlhh60csytujgd3l9mz7x807xk3fewge7rwlukxgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qgswaehxw309ahx7um5wghx6mmd9usjfpck",
+    "timestamp": "1731604599",
+    "date": "11/14/2024, 5:16:39 PM",
+    "id": "6213b26776b05ce99d59a0686158e0f469063c2a204035738edaa291ec193505",
+    "kind": 1
+  },
+  {
+    "content": "Cars need to be fixed so bad...",
+    "timestamp": "1731597373",
+    "date": "11/14/2024, 3:16:13 PM",
+    "id": "ee7b02841066137d6f12792c9db92cf04e2b67c3abfc77aa7ed8aeb5a4bbf091",
+    "kind": 1
+  },
+  {
+    "content": "More interested in the amnesia part.",
+    "timestamp": "1731596827",
+    "date": "11/14/2024, 3:07:07 PM",
+    "id": "3589f83199ff26fb02157150bb8ff16351afc8b348d33802b96aa6c5a74d2ede",
+    "kind": 1
+  },
+  {
+    "content": "There could be after a long press the preselected emojis, with an edit button to get to the default picker screen.",
+    "timestamp": "1731593801",
+    "date": "11/14/2024, 2:16:41 PM",
+    "id": "9e2becb2235a6d5bb6e6cbe9991bb2d9da1918a77d5d960b09ccbe4b624b9a0f",
+    "kind": 1
+  },
+  {
+    "content": "Arti, the new Tor client written in rust, is making excellent progress.\nIf you have already integrated Tor in your app, refactoring with this new library will lead to substantial performance improvements.\nIf you haven't yet tinkered with Tor, now is a good time to see how it can make your tech better.\n\nhttps://gitlab.torproject.org/tpo/core/arti",
+    "timestamp": "1731593752",
+    "date": "11/14/2024, 2:15:52 PM",
+    "id": "d8c7c00adc36cd7f306e8698e767adfe169a1b0013aeb86e58125ac5305e2923",
+    "kind": 1
+  },
+  {
+    "content": "TailsOS, but for phones.",
+    "timestamp": "1731593295",
+    "date": "11/14/2024, 2:08:15 PM",
+    "id": "244a14bc92fedf6ce717be72477f6d00302f4e7c22170a5d7e4130c47dca43c6",
+    "kind": 1
+  },
+  {
+    "content": "Would be cool in nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj703s8dt to have a default emoji with a single click, and multi emoji picker on long click.",
+    "timestamp": "1731591402",
+    "date": "11/14/2024, 1:36:42 PM",
+    "id": "8ed5b71a6a5690986c51743e2567ba6cddde45aad1bb21770cb88fec099a1e13",
+    "kind": 1
+  },
+  {
+    "content": "“Following Franz Oppenheimer and Albert Jay Nock, Rothbard identified the State as a predatory organism.\nIt is the “organization of the political means.” The State produces nothing by itself but takes what other people have produced. From this we can deduce a vital fact. Society must have existed before the State. Otherwise, there would be nothing for the State to take.”\n\nhttps://mises.org/power-market/menace-state nostr:note18rkqhh5dxdzewum3cf4lp02r5vcpfakwds9q8g5gc6r7gav9hn4qx7seld",
+    "timestamp": "1731587809",
+    "date": "11/14/2024, 12:36:49 PM",
+    "id": "172644ffdea445196a6c37874b438b445037248a32f29ea7a3b94cbbeef434a4",
+    "kind": 6
+  },
+  {
+    "content": "It won't get better, until you get better.",
+    "timestamp": "1731587788",
+    "date": "11/14/2024, 12:36:28 PM",
+    "id": "7297423945ca3efc4effb7b5b56e8bd2c4459ca1d19efeb38efc0e015d2a23c1",
+    "kind": 1
+  },
+  {
+    "content": "Nice.\nBut kinda brutal to give a recovering addict one more hit, with nothing more to come in the future...",
+    "timestamp": "1731581705",
+    "date": "11/14/2024, 10:55:05 AM",
+    "id": "38a0bc34cb92d48eeefc5c727ffbef97a5c2f5a0644c58162d63573f687e2d00",
+    "kind": 1
+  },
+  {
+    "content": "The man, the myth, the legend.\n\nhttps://www.youtube.com/watch?v=_I_vLL-mA5o",
+    "timestamp": "1731579852",
+    "date": "11/14/2024, 10:24:12 AM",
+    "id": "b4dba59d500cfffb5ff2c2ad0f5e1233bbc14919dfd81c76cbcc2a9ee6b8457a",
+    "kind": 1
+  },
+  {
+    "content": "You know it's cpaf when the episode numbers are in hexadecimal...",
+    "timestamp": "1731579733",
+    "date": "11/14/2024, 10:22:13 AM",
+    "id": "46f8dadf3ef7fe47ad7471973894184430379077a705a9b5050e782261be8137",
+    "kind": 1
+  },
+  {
+    "content": "Who's a Japanese bitcoin only content creator?\nSomeone without price talk, blockchain hype, or nfts.",
+    "timestamp": "1731577389",
+    "date": "11/14/2024, 9:43:09 AM",
+    "id": "0ba337644512bc32f5df7ed975d252531ea0a46c71612e183219c681a800a29b",
+    "kind": 1
+  },
+  {
+    "content": "Thanks Rod, I appreciate it.",
+    "timestamp": "1731573227",
+    "date": "11/14/2024, 8:33:47 AM",
+    "id": "2e35402245b9874509e89d1ae2097030adf966d2dde691b949bd0a9b93b84606",
+    "kind": 1
+  },
+  {
+    "content": "The most cypherpunk as fuck podcast.\n\nhttps://taz0.org/bitstream/\n\nI highly recommend listening through it from the beginning. Smuggler and nostr:nprofile1qqsxd7rasz53jav2vjlq6twg5wj68lgvm0t4lj79skkka9jju8qfv3cpzpmhxue69uhnzdps9enrw73wd9hszxthwden5te0v9j82mr59ccnsurvw4ejuum0vd5kzmqpzfmhxue69uhhqatjwpkx2urpvuhx2uc9a2xcy are two legendary builders, strategists, and philosophers. Their mindset and articulation is inspiring.",
+    "timestamp": "1731573044",
+    "date": "11/14/2024, 8:30:44 AM",
+    "id": "4665d9c52494c73fa0b1eadbfa46689cce762b61a66f84ed6a24f1203cbc7176",
+    "kind": 1
+  },
+  {
+    "content": "Three legends you might never have heard about.\nhttps://www.youtube.com/watch?v=QXInVwICggg",
+    "timestamp": "1731570644",
+    "date": "11/14/2024, 7:50:44 AM",
+    "id": "6bf1f92a535dc74d8e5ce51a2d20de21af11dab47e25b8ab76d101eb7057a482",
+    "kind": 1
+  },
+  {
+    "content": "Angor Hub:\n\nAngor Hub is a Nostr client built around the Angor protocol, offering tools to explore crowdfunding projects, connect with investors, and engage directly with founders. Whether you're seeking investment opportunities or funding for your project, Angor Hub provides secure messaging, project pages, and group channels for seamless interaction within a decentralized environment.",
+    "timestamp": "1731569162",
+    "date": "11/14/2024, 7:26:02 AM",
+    "id": "5b61836bcb6b077908ac1cd8916b17be14722b9f3dc3072ac17aa027792584e9",
+    "kind": 6
+  },
+  {
+    "content": "Open-source everything. \n\n#Open-source \n#nostr\n#decentralized ",
+    "timestamp": "1731569057",
+    "date": "11/14/2024, 7:24:17 AM",
+    "id": "1a03a9b81a1102a64f3f97712a0a37945eb88f35b1aca6c7649945fb36e562d4",
+    "kind": 6
+  },
+  {
+    "content": "Wen blossom in nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj703s8dt?",
+    "timestamp": "1731568839",
+    "date": "11/14/2024, 7:20:39 AM",
+    "id": "d26aa029322d789e5acdb877ee3845df404584febc4d8f841cfe1d6d3ad332ea",
+    "kind": 1
+  },
+  {
     "content": "Beautiful talk by nostr:nprofile1qqsd4dkxqewy8xum47ctpu0ltgxxsfemeewpjkdyzk9ddfcg286s0dsppemhxue69uhkummn9ekx7mp0qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uq36amnwvaz7tmwdaehgu3wvduhq6r9wfc82mnt9e6x7erp0yhs4deh46\nhttps://www.youtube.com/watch?v=TFasLWSk-rI",
     "timestamp": "1731512592",
     "date": "11/13/2024, 3:43:12 PM",
