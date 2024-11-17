@@ -1,5 +1,110 @@
 [
   {
+    "content": "Decreasing sat denominated prices is basically a discount for customers, so in some sense it's a marketing campaign that can be frequently repeated.",
+    "timestamp": "1731765165",
+    "date": "11/16/2024, 1:52:45 PM",
+    "id": "c1a56f266ed905f89bcc201b2da23089684d51c5b43edfe01747b10c11fb8e0e",
+    "kind": 1
+  },
+  {
+    "content": "Presenting https://pubpay.me alpha. Social proof for public payments. \nConceived at nostr:npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5 SEC02 - #SovEng\nhttps://image.nostr.build/90227e3a98c10322402c4f5e07fbdc648543c76971a051a7c20ce2134ac00a5b.jpg",
+    "timestamp": "1731764945",
+    "date": "11/16/2024, 1:49:05 PM",
+    "id": "911981304e4c036467e10ce8c6a49a57cc57f6cb19452dfc4eae9bf48a1a3770",
+    "kind": 6
+  },
+  {
+    "content": "Listen to at least the beginning of this talk by Amir Taaki - a true crypto-anarchist, Bitcoin dev in 2010, and the author of BIP 1.\n\nhttps://youtu.be/ouq68bBp_dI",
+    "timestamp": "1731759244",
+    "date": "11/16/2024, 12:14:04 PM",
+    "id": "b3fc5139795837119315317eb94d15a0aa8522fee1220ff3df11eaf19a38bce5",
+    "kind": 6
+  },
+  {
+    "content": "Yes.\nDenominating contracts in an asset is a lot easier when that asset has a stable purchasing power. There are ways to structure contracts adequately despite volatility, it just gets more complex.\nSo I wouldn't be surprised if it takes another couple halvings until Bitcoin is a widely used unit of account.",
+    "timestamp": "1731759172",
+    "date": "11/16/2024, 12:12:52 PM",
+    "id": "8fdad96a744d21bfbb3ce15a49db6e19cceb672b116fb825f7c8297d2d60c2a4",
+    "kind": 1
+  },
+  {
+    "content": "Is there a DVM that suggests new npubs to follow?",
+    "timestamp": "1731749546",
+    "date": "11/16/2024, 9:32:26 AM",
+    "id": "d8e97392740102031b8d6dc00e9999ff662aa1212395bf100ab5e6bbba388b71",
+    "kind": 1
+  },
+  {
+    "content": "Get the full paper on cooperation space by Paul Rosenberg\nhttps://freemansperspective.com/product/cooperation-space/",
+    "timestamp": "1731746110",
+    "date": "11/16/2024, 8:35:10 AM",
+    "id": "30145cf38528b55bb6cc1391aa20abf0658b3be2810b043aae8851de24da1ac1",
+    "kind": 1
+  },
+  {
+    "content": "THE COMMON ECONOMIC PROTOCOLS\nVersion 3, by Paul Rosenberg\n\n1. The purpose of The Common Economic Protocols (CEP) is to facilitate beneficial interaction and to minimize conflict. It rests on three primary principles: Individual Autonomy, Private Property, and Free Contract.\n2. Progress must not be hindered.\n3. Free, open, and functional markets must be preserved.\n4. The CEP deals with individual parties only.\n5. Agreements must be communicated openly and clearly.\n6. Individuals/parties should keep their agreements.\n7. Individuals/parties should not aggress against, encroach upon, or defraud others.\n8. Private property is to be respected and protected.\n9. Self-induced harms are the sole responsibility of the individual or party in question.\n10. All the effects of an action must be taken into account.\n11. Restitution is preferred above punishment.\n12. Violence is a very costly means of solving disputes and is to be avoided.\n12. Mistakes and emergency actions are part of human life, but must be repaired.\n13. The CEP does not require omniscience of anyone.\n14. The purposes of judgments are to secure free and functional markets and to recompense injured parties.\n​15. The standard for the application of the CEP is the reasonable man.",
+    "timestamp": "1731743114",
+    "date": "11/16/2024, 7:45:14 AM",
+    "id": "cccd76b06d3c6b13a90d5e6e56e7b0dc64cf22e2d7f49c156ada5529a92cf7db",
+    "kind": 1
+  },
+  {
+    "content": "That's awesome, thanks for the contributions!",
+    "timestamp": "1731741751",
+    "date": "11/16/2024, 7:22:31 AM",
+    "id": "73e5ff792c7e45d4a4f5a594a798fb32395a08835c8c75d9d589a85f5bad8596",
+    "kind": 1
+  },
+  {
+    "content": "So cool!\nIt's kinda wild how much better the UX for tipping got in only a couple of years.",
+    "timestamp": "1731741701",
+    "date": "11/16/2024, 7:21:41 AM",
+    "id": "159322c771fcaba9fba03ffafd3551673591360e293e947262be4d1667b773e8",
+    "kind": 1
+  },
+  {
+    "content": "The travel service works international.",
+    "timestamp": "1731699145",
+    "date": "11/15/2024, 7:32:25 PM",
+    "id": "0641400f1bc13ae4c712a238acfdabe16833b7cf1afb6abf9feeff8ff1ad4529",
+    "kind": 1
+  },
+  {
+    "content": "The fact that Amber is now widely supported makes nostr on android so crazy usable, so trivial to try out new clients.",
+    "timestamp": "1731670561",
+    "date": "11/15/2024, 11:36:01 AM",
+    "id": "c4f9bc2ac99c78d44eb9dfea0d3b24edb227b1f9a9173931c152d3819ad2bc7e",
+    "kind": 1
+  },
+  {
+    "content": "Exactly.\nThe answer to \"but what can you buy directly with bitcoin\" is \"literally anything\" now...",
+    "timestamp": "1731670332",
+    "date": "11/15/2024, 11:32:12 AM",
+    "id": "c66b1e32a0ea450b20fed1ed52c61af2f5187e0fe818bb307acf6b28aebad5fd",
+    "kind": 1
+  },
+  {
+    "content": "Living on a bitcoin standard is so easy with proxy merchants like shopinbit.com",
+    "timestamp": "1731659524",
+    "date": "11/15/2024, 8:32:04 AM",
+    "id": "05626f09bae330a7b91226d1b5832b67ed173410e299db5ac9d2c3c707520166",
+    "kind": 1
+  },
+  {
+    "content": "understandable, thanks.\nYou could just do grapheme compatible phones, and the variety decreases drastically. ",
+    "timestamp": "1731656540",
+    "date": "11/15/2024, 7:42:20 AM",
+    "id": "f687a3fbbb4aec239a8467099d018d017b22022e4b82d17247c725b8ca1fcc16",
+    "kind": 1
+  },
+  {
+    "content": "If you can get a jsonl file from a relay you can import it.\nNostrudel can use citrine as a cache relay and it sends everything it fetches to citrine.\nI made i pull request for nostrsync a while back to add support for exporting your data as jsonl but i think the owner is busy and didnt review it yet.\nYou can get a jsonl file using nak in your computer for now",
+    "timestamp": "1731656464",
+    "date": "11/15/2024, 7:41:04 AM",
+    "id": "b3073ecae20622fc34125a78d54c892df6f44e840296b9ce102786063e4ed6c9",
+    "kind": 6
+  },
+  {
     "content": "Do you do phone cases nostr:nprofile1qqsx845ex2wm3cu9d8e93xm282nmpu33emyr5aufu20s5wt8sx7h6uspzdmhxue69uhhqatjwpkx2urpvuhx2ue0cnuf5l?",
     "timestamp": "1731615458",
     "date": "11/14/2024, 8:17:38 PM",
