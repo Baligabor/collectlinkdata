@@ -1,5 +1,152 @@
 [
   {
+    "content": "Build freedom tech and travel the world.",
+    "timestamp": "1732054973",
+    "date": "11/19/2024, 10:22:53 PM",
+    "id": "b77432655af2b6b0f85feca91636a7990621f556854670359011d8294d26da0e",
+    "kind": 1
+  },
+  {
+    "content": "Lightning, nostr, cashu, fedimint, blossom, ...\nMy friends made these tools.\nMy friends aren't special people, they're just dudes, but look at how powerful they are.",
+    "timestamp": "1732054656",
+    "date": "11/19/2024, 10:17:36 PM",
+    "id": "be5317b2d35065db4da025e42001e924115cbdacdca97466448cba2274187b96",
+    "kind": 1
+  },
+  {
+    "content": "Consider if your soul is worth the price.",
+    "timestamp": "1732054161",
+    "date": "11/19/2024, 10:09:21 PM",
+    "id": "5ca85d28f03a06d9c8a679ac3166a272b8c6ea22ec86e13858d3085444b92e49",
+    "kind": 1
+  },
+  {
+    "content": "You can simply walk away from the modern systems of slavery.\nWhy don't you?",
+    "timestamp": "1732051412",
+    "date": "11/19/2024, 9:23:32 PM",
+    "id": "7f790eb1b683b08c8214ac496b3bff9e6ebf63d441594e56f30d659342b646b8",
+    "kind": 1
+  },
+  {
+    "content": "Can attest, its good.",
+    "timestamp": "1732051020",
+    "date": "11/19/2024, 9:17:00 PM",
+    "id": "668663a6c3332e8596886752984b952f27fb5a4fe5babf99b6eea0d7082ae377",
+    "kind": 1
+  },
+  {
+    "content": "The more builders I talk to, the more I realize I gotta talk to more builders.\n\nIf you're building something meaningful, let's talk.",
+    "timestamp": "1732050937",
+    "date": "11/19/2024, 9:15:37 PM",
+    "id": "e77fd346a52c24a69a44c5157df56fda2dc108e1d7fbf2eaa255b8f4b46bba0f",
+    "kind": 1
+  },
+  {
+    "content": "Yes!\nThanks",
+    "timestamp": "1732050650",
+    "date": "11/19/2024, 9:10:50 PM",
+    "id": "834cab782c6d94269f347a23778589d4a3175f7fc4c3cc2f249e38b5736ab865",
+    "kind": 1
+  },
+  {
+    "content": "Blossom is left curve genius.",
+    "timestamp": "1732048709",
+    "date": "11/19/2024, 8:38:29 PM",
+    "id": "40484d20558f8743ef21aa25a1cdfa258184829f00133666ac9849d8544af872",
+    "kind": 1
+  },
+  {
+    "content": "i fucking love blossom on my #haven relay\n\nplease clients why are you taking so long to implement this amazing tech, should be very easy and fast to make such an uploader \nhttps://relay.utxo.one/362f318256af800a81d713736fa797c385ceb06a6668f2a549a602bf3e9d02ab.png",
+    "timestamp": "1732048688",
+    "date": "11/19/2024, 8:38:08 PM",
+    "id": "f64f2542424ce7d6e04e4a4bf78a24b83cf7ea3133ecbcb31021a6fcab4d8d4a",
+    "kind": 6
+  },
+  {
+    "content": "Is there a podcasting app that automatically skips add reads?",
+    "timestamp": "1732048600",
+    "date": "11/19/2024, 8:36:40 PM",
+    "id": "6cf88a4c20cf562078a94c6cb832ee2e369c52460bb4fed3f42585464ba69416",
+    "kind": 1
+  },
+  {
+    "content": "I am pleased to announce the release of the 0.1.0 release of Flotilla, a new client for communities.\n\nThis is NOT a NIP 29 client. More details to come on why, but for now, give it a try at flotilla.social.\n\nIf you're not sure which group to start with, try one of these:\n\nhttps://flotilla.social/spaces/wss%3A%2F%2Frelay.nostrtalk.org%2F\nhttps://flotilla.social/spaces/wss%3A%2F%2Fbucket.coracle.social%2F",
+    "timestamp": "1732038007",
+    "date": "11/19/2024, 5:40:07 PM",
+    "id": "8dd26a8dea26f0ee384a3db8e56dd9c12bb2f0d45723791f97a024d862eeaf66",
+    "kind": 6
+  },
+  {
+    "content": "The zk whiteboard sessions are really good, the second season is currently being released.\nWorth watching if you're curious how zk might help nostr.\nhttps://www.youtube.com/watch?v=ksTTyt0GTvQ",
+    "timestamp": "1732023808",
+    "date": "11/19/2024, 1:43:28 PM",
+    "id": "0efaef55164eaf2643d55d462f3657683986633c47e62e21af33d92595ef19fc",
+    "kind": 1
+  },
+  {
+    "content": "Apps should do one thing REALLY well.\nWhich means apps must work well together.\nPrivate key security is paramount, so there should be a dedicated app for that. Copying private keys into many apps is bound to bring problems.\nLoading time is a crucial UX hurdle, and so data should be pre processed in a dedicated relay app, so that other clients don't need to make privacy degrading online queries.\nWith such a setup it might be possible to run useful nostr apps that don't even have internet access, but get everything from the local network.",
+    "timestamp": "1732020489",
+    "date": "11/19/2024, 12:48:09 PM",
+    "id": "57478260f0a3393f72d334b60f6b46a77a447d167cebc9af24924184bb1a7efb",
+    "kind": 1
+  },
+  {
+    "content": "That's looking really amazing!",
+    "timestamp": "1732020175",
+    "date": "11/19/2024, 12:42:55 PM",
+    "id": "02fd2d6aabd054e50e40a9687b785162bf9cd672445331c7b3555ccaf8aac159",
+    "kind": 1
+  },
+  {
+    "content": "PLEBDEVS PLATFORM LAUNCH ANNOUNCEMENT\nhttps://www.youtube.com/watch?v=j7Gqr9tuWxE\n\nMy presentation / Q&A from the launch party the other night on PlebDevs and the new platform.\n\nLonger form write up coming soon!\n\nhttps://plebdevs.com\n\noriginally posted at https://stacker.news/items/771837",
+    "timestamp": "1732020132",
+    "date": "11/19/2024, 12:42:12 PM",
+    "id": "089bbc3a1dc4c31e3459702c80df767ffdefcb5b24a30c4dd476d154e14bde2b",
+    "kind": 6
+  },
+  {
+    "content": "That's looking great!\nAnd snappy fast",
+    "timestamp": "1732018957",
+    "date": "11/19/2024, 12:22:37 PM",
+    "id": "819a64bd6c9c5bff7f3066ac4a27d230256e7f970c108f44e6d1572c86b0a6a0",
+    "kind": 1
+  },
+  {
+    "content": "Always wanted to visit Finland, the land of 5 million people and 3 million saunas? Now’s the perfect chance.\n\nBTC HEL, the largest Bitcoin conference in the Nordics, will take place in Helsinki for the first time on August 15–16, 2025.\n\nJoin us in orange-pilling Finland before the anti-crypto narrative has a chance to catch on, like it has in other Nordic countries.\n\nWe have a positive and true story to tell: Bitcoin can make even renewables more profitable and balance the power grid. In the North we can use up all the excess heat. All the while, sound money fixes short-sighted fiat culture.\n\nPlease DM nostr:npub1w2eget49s60cyeznumcmqczk0xkmhz24ajqgzfyfrugdfl4mz7ns7rpmgp or email hello@btchel.com if you’re interested in speaking! Flights and hotel are covered for speakers.\n\nTag the people you’d like to see there!\n\nSign up for the mailing list to know when the ticket sales begin: https://btchel.com\n\nhttps://image.nostr.build/fd016e6c41a5010cdeeae1eeee5066a35d38db7b240ba04c946a9d5520df8bba.jpg\n\nhttps://image.nostr.build/1192f7cc27b490ede3286160769996f12d1dd8687830a461cf9eea01f52a7dd4.jpg ",
+    "timestamp": "1732018798",
+    "date": "11/19/2024, 12:19:58 PM",
+    "id": "7c7e6d4d760fcd3cae85d9305dddacef60082af6d0057efe1f233bcbc6b06def",
+    "kind": 6
+  },
+  {
+    "content": "The signer app can be on a dedicated computer.\nhttps://nostrsigningdevice.com/",
+    "timestamp": "1732016201",
+    "date": "11/19/2024, 11:36:41 AM",
+    "id": "e32f76e60060d94ed505fa6d08930c085f6618350dc88d49a4a383f6cc3f3764",
+    "kind": 1
+  },
+  {
+    "content": "Exactly.",
+    "timestamp": "1732007712",
+    "date": "11/19/2024, 9:15:12 AM",
+    "id": "b92e2dc33a2de830e236bd345dc4d7004e621b13958c4e47976387652822d5c2",
+    "kind": 1
+  },
+  {
+    "content": "Was thinking about this, but I'd prefer the key app to not have any networking capabilities. It could still do remote signing, if the local relay gets the nsecbunker events.",
+    "timestamp": "1732001314",
+    "date": "11/19/2024, 7:28:34 AM",
+    "id": "bfeb706ebce5e6d717ade893c3d9916c22d680721e2c1c67199806cea79c7f63",
+    "kind": 1
+  },
+  {
+    "content": "One app with your private key.\nOne app with your relay.\nA thousand apps with your interface.",
+    "timestamp": "1732001040",
+    "date": "11/19/2024, 7:24:00 AM",
+    "id": "2ca82f1c5420e8aad59fa9d4be49121df6dba7fbe786ed06b139b8d4de5c5b93",
+    "kind": 1
+  },
+  {
     "content": "If you have a chance to see a Bruckner symphony live, do it.\nhttps://www.youtube.com/watch?v=dSGOaTuAesY",
     "timestamp": "1731854393",
     "date": "11/17/2024, 2:39:53 PM",
