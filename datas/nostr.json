@@ -1,5 +1,250 @@
 [
   {
+    "content": "Is haven relay available nostr:nprofile1qqs9df4h2deu3aae83fmet5xmrlm4w5l9gdnsy3q2n7dklem7ezmwfcpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq5xamn8ghj7dnvv45xs7tywde8g6rpvakkjuekw46nvar4vdhxgan6wumkxatzwpckk6rk0puhjdm2da5k7ce5x4kkkumjx3jkzepwdahxjmmwqyt8wumn8ghj7un9d3shjtnwdaehgu3wd9hxvmckqw0xz?\nnostr:nprofile1qqsw9n8heusyq0el9f99tveg7r0rhcu9tznatuekxt764m78ymqu36cpr9mhxue69uhhyetvv9ujuat50phjummwv5hkx6rpwsq32amnwvaz7tmxwfjkuueww468smewdahx2tcpz4mhxue69uhhyetvv9ujuat50phjummwv5hs9smu6e",
+    "timestamp": "1732213057",
+    "date": "11/21/2024, 6:17:37 PM",
+    "id": "bf347f44d972bc1892fd76bcf68c0f2059d4c65f6b29fd58fbe5e8a1edcd1b62",
+    "kind": 1
+  },
+  {
+    "content": "Just a quick search, I didn't read these:\n\nhttps://austinpublishinggroup.com/textile-engineering/fulltext/arte-v2-id1012.php\nhttps://pirilana.com/en/benefits-of-natural-fibres-for-your-health-and-wellbeing/",
+    "timestamp": "1732212217",
+    "date": "11/21/2024, 6:03:37 PM",
+    "id": "d1c0c80157e82a6b4cd6ca061cc0402310f7fb242cb8c348b0fa06cac262241a",
+    "kind": 1
+  },
+  {
+    "content": "That's an excellent question!\nI'm sure there are differences in quality for different producers, but very difficult to judge.\nConsidering that wool sells for more expensive than synthetics, I'd guess Theres a larger budget for higher quality dies.",
+    "timestamp": "1732206667",
+    "date": "11/21/2024, 4:31:07 PM",
+    "id": "6780946389d4778c657e82076f39af2068a15c6d941d77042edf2100d34506f5",
+    "kind": 1
+  },
+  {
+    "content": "Code is only a small part of the FOSS production stages.\nThe most beautiful code is worth nothing, if nobody uses it.\nThe fact that many zaps on this note are coming from nostr devs shows you that division of labor is useful for all.",
+    "timestamp": "1732206453",
+    "date": "11/21/2024, 4:27:33 PM",
+    "id": "04cfb837f55da02f650052cb6b1e75c31d43090d02bec0ff3391f8605bd365e3",
+    "kind": 1
+  },
+  {
+    "content": "Modern clothing is toxic.\nStick to wool.\nMerino, Cashmere, Alpaca.",
+    "timestamp": "1732204303",
+    "date": "11/21/2024, 3:51:43 PM",
+    "id": "133bc11386bc9feff9e2012d0fcb89343161f41e8cfa87c3072a43cfcb1bd545",
+    "kind": 1
+  },
+  {
+    "content": "It. Is. This. Simple. #Bitcoin\n\nhttps://image.nostr.build/11a7db2e7fbb47358d5776bbf6cf81f3dbdb2280fe085142e800dffb6cd54fca.jpg",
+    "timestamp": "1732203930",
+    "date": "11/21/2024, 3:45:30 PM",
+    "id": "6b9b4d7f049c94efbf17c8b8a9927793ab075cea4f1c107f0e1fca6bb39bab93",
+    "kind": 6
+  },
+  {
+    "content": "The best thing about testing cutting edge software, is that it usually doesn't work, but when it does, you get this insane adrenaline rush. \n\nAnd since the next step is likely to not work, it keeps you hooked for the next update to come.\n\nFreedom tech is addictive.",
+    "timestamp": "1732203146",
+    "date": "11/21/2024, 3:32:26 PM",
+    "id": "521e2a1da00be0a64fe2ee74df40ab36c8b17235a8c3ace05d18c5a5205154de",
+    "kind": 1
+  },
+  {
+    "content": "The only issue I had, is that some networks in some countries are OUTRAGEOUSLY expensive, and that can drain your balance quickly with automatic network selection...",
+    "timestamp": "1732202309",
+    "date": "11/21/2024, 3:18:29 PM",
+    "id": "a77c4e90425c9f3e8687054fee14d0e6da88175883e4f4a4cef3263bb9c08b74",
+    "kind": 1
+  },
+  {
+    "content": "Thanks nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7anfw3hhytnwdaehgu339e3k7mf0qyghwumn8ghj7mn0wd68ytnhd9hx2tch2deau!\nScheduling the first one now...",
+    "timestamp": "1732202135",
+    "date": "11/21/2024, 3:15:35 PM",
+    "id": "12fb476b63f8cf03c8372ea3162cdb9f27f9585a5ef4c992f2c30173460db82f",
+    "kind": 1
+  },
+  {
+    "content": "Because the actual products you want are denominated in fiat. \nI guess they could show the Bitcoin price, and update it every minute...",
+    "timestamp": "1732202080",
+    "date": "11/21/2024, 3:14:40 PM",
+    "id": "97566e529c46e3ac7ad7312e1e1989acee7573b360cfd4be53ae58449358e3e7",
+    "kind": 1
+  },
+  {
+    "content": "That's just the unit of account, payment is in Bitcoin, lightning too",
+    "timestamp": "1732201104",
+    "date": "11/21/2024, 2:58:24 PM",
+    "id": "8c118f9bc539e40ef059115be743ae48ce884537f7f40d6abeac99927bece9df",
+    "kind": 1
+  },
+  {
+    "content": "The company is based in europe, they do ship worldwide, and for the travel service it doesn't matter either.",
+    "timestamp": "1732200930",
+    "date": "11/21/2024, 2:55:30 PM",
+    "id": "c33afa25b590933a3a9310f783578e2ae4b9c5dcbbfbb2c4eef1bf2dcd914755",
+    "kind": 1
+  },
+  {
+    "content": "I should do more nostr shilling...\n\nFor each 100k SATs this note gets zapped, I'll do one more podcast guest appearance.\nThere is no marketing budget for nostr, so let's see if we can crowdfund it.",
+    "timestamp": "1732200525",
+    "date": "11/21/2024, 2:48:45 PM",
+    "id": "8bc1adcca00e240437e00595d5831846be5bc68f379eca71ff21ea01cc925f09",
+    "kind": 1
+  },
+  {
+    "content": "You can get all travel needs met with the shopinbit.com concierge agent.",
+    "timestamp": "1732199977",
+    "date": "11/21/2024, 2:39:37 PM",
+    "id": "d94d901bb75970bdd3327dd9607c523a6f3652c910aa8c42a558b58225ba97b4",
+    "kind": 1
+  },
+  {
+    "content": "We are the first hotel listed and claimed on Nostr via nostr:npub15xd2mmjnh3caykh77djsv73e0zkrp42jp5mwerx8f4m6su40wdvss7t3l3!\n\nIf you want to come and enjoy the best of Salvador and Bitcoin Beach, follow us on Nostr.\n\nWe look forward to welcoming you to Bitcoin Country!\n\n#ElZonte #Bitcoin #salvador\nhttps://m.primal.net/McXx.jpg",
+    "timestamp": "1732199903",
+    "date": "11/21/2024, 2:38:23 PM",
+    "id": "5dc16ace584c3189766690593a317eb5be16fe13b3da79fa01dfbc6c4aa498a1",
+    "kind": 6
+  },
+  {
+    "content": "We're working on improving this situation for you.\nnostr:nevent1qqsrl87rvmp4m8fss8wjth59xesuqynmx2ewyvnzedf66kycwtgnx4gppemhxue69uhkummn9ekx7mp0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqqqp7pwjhw",
+    "timestamp": "1732199644",
+    "date": "11/21/2024, 2:34:04 PM",
+    "id": "bfdd7e1e885ee268101c6b3dd21ebb57c5095c965cd61e83c949aaca80a3e537",
+    "kind": 6
+  },
+  {
+    "content": "If you're fine with mobile internet, checkout nostr:nprofile1qqsxp4fkwhc8mm5704mezrh6g35zmp7t2v338wnxhr6yf8tyj9ezj6cpzemhxue69uhkzarvv9ejumn0wd68ytnvv9hxgqfpwaehxw309ahx7um5wgcrztnrda6kuar9wf3kcmmrddmkjum99e5k7qgkwaehxw309aex2mrp0yh8qunfd4skctnwv46q0guygg",
+    "timestamp": "1732198928",
+    "date": "11/21/2024, 2:22:08 PM",
+    "id": "258ce392845e18d3da5694b070aa9b7b554440a80dd558411535dc8d820eac1d",
+    "kind": 1
+  },
+  {
+    "content": "Be a customer.\nNot a user.",
+    "timestamp": "1732198878",
+    "date": "11/21/2024, 2:21:18 PM",
+    "id": "70d2a44f9fc1f11203012835c2e407c3812ba1cd1338db3e7a7920d4bb8f098e",
+    "kind": 1
+  },
+  {
+    "content": "What's something you buy frequently, but the merchant doesn't accept bitcoin?",
+    "timestamp": "1732198427",
+    "date": "11/21/2024, 2:13:47 PM",
+    "id": "3f9fc366c35d9d3081dd25de853661c0127b32b2e23262cb53ad589872d13355",
+    "kind": 1
+  },
+  {
+    "content": "What good is stacking generational wealth if it dies with you? Excited to announce inheritance for Bitkey\n\nhttps://bitkey.build/inheritance-simplifying-the-transfer-of-bitcoin-to-future-generations/?ref=bitkey-newsletter",
+    "timestamp": "1732197538",
+    "date": "11/21/2024, 1:58:58 PM",
+    "id": "3388682216fcc7d7411f1630753e4c4712e6423cad75f66339ae9692704d57cf",
+    "kind": 6
+  },
+  {
+    "content": "Do they take sats?",
+    "timestamp": "1732197344",
+    "date": "11/21/2024, 1:55:44 PM",
+    "id": "31068c97865304fe601cb082213df71fdea4bfb4c7467fc27202bb5e6aab12f0",
+    "kind": 1
+  },
+  {
+    "content": "Is there a non-rate-limiting server?",
+    "timestamp": "1732196899",
+    "date": "11/21/2024, 1:48:19 PM",
+    "id": "28e62f4f952562a751ca64d3d239efc148b38d1541a7b2a8e0a555bdd748fbdb",
+    "kind": 1
+  },
+  {
+    "content": "I don't think I've ever seen amethyst there, I was just wondering if it might fix some issues.",
+    "timestamp": "1732196847",
+    "date": "11/21/2024, 1:47:27 PM",
+    "id": "9deac2acbf7f843e5bbe7299581aec67e73906a0410b50d9cc47f058e15596d8",
+    "kind": 1
+  },
+  {
+    "content": "Some apps are \"active apps\" that run in the background even when you're not using them, like signal, VPN, or amber/citrine. You see all active apps in the bottom right of the notification drawer.\n\nMight this help to not kill amethyst?",
+    "timestamp": "1732196446",
+    "date": "11/21/2024, 1:40:46 PM",
+    "id": "4b1c9dd2c705a5ad0301c0e56d12c925f652c44fb1fd546c19ecb88d4f61b91d",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7anfw3hhytnwdaehgu339e3k7mf0qyghwumn8ghj7mn0wd68ytnhd9hx2tch2deau how does ntfy work with amethyst?",
+    "timestamp": "1732196286",
+    "date": "11/21/2024, 1:38:06 PM",
+    "id": "ca5ef28777608119fd78ab76675639bad7e0d7c2439d949a47dca8d23e51bf40",
+    "kind": 1
+  },
+  {
+    "content": "Zaps are really crazy.\nNostr is tiny at the moment, but still, with decent posts comes decent satsflow.\nJust imagine hypernostrfication, this turns into serious money.",
+    "timestamp": "1732194154",
+    "date": "11/21/2024, 1:02:34 PM",
+    "id": "6a25a3d66bed18fdb7a9949c01f65539da760be6ca133f66a21b89a6caede149",
+    "kind": 1
+  },
+  {
+    "content": "https://njump.me/nevent1qqsxha62kvmsu7vxe0fkn2jpsynz7hr72z9gu8s4yfae23d7j5q3cwqpz3mhxw309ucnydewxqhrqt338g6rsd3e9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqycujsna",
+    "timestamp": "1732189938",
+    "date": "11/21/2024, 11:52:18 AM",
+    "id": "3c431f7f515dde36ad0156a1d02463258519e048755c036a4646392471759f4a",
+    "kind": 1
+  },
+  {
+    "content": "I’m separating the nostr.build personality from the nostr.build product!\n\nFrom now on I’ll only post nostr.build related info on this npub.\n\nIf you would like to follow the nostr.build personality, follow nostr:npub13ch6rllnruy5z2qm57836yw5zx4ytju4jl569jys6jhtp9furupsccdsaw !",
+    "timestamp": "1732188416",
+    "date": "11/21/2024, 11:26:56 AM",
+    "id": "fb23c251fe37a489e1fb2ed99b79c5e7928dfef0344a165a1eb17200451cc9a5",
+    "kind": 6
+  },
+  {
+    "content": "Did you consider supporting ntfy?\nhttps://ntfy.sh/",
+    "timestamp": "1732187395",
+    "date": "11/21/2024, 11:09:55 AM",
+    "id": "aed37b73ff1f5e3a4054d0611236cd2c9d14de4e9c5162bcad7820a890e5320b",
+    "kind": 1
+  },
+  {
+    "content": "Excellent that you're looking into it.\nYour explanation seems correct, merkle trees everywhere!",
+    "timestamp": "1732179054",
+    "date": "11/21/2024, 8:50:54 AM",
+    "id": "4b20a089b97a22fbdfb8104ae6e9e66187e7fbe8b952294eaaeb1d9998384be2",
+    "kind": 1
+  },
+  {
+    "content": "Over the past few weeks, we have been learning and testing the MLS protocol and have gained a deeper understanding of it. Below is a note providing a general description of the MLS protocol.\n\nThe MLS group members (A, B, C, D, E, F, G, H) form the leaf nodes of a binary tree as shown below. Each member has a pair of public and private keys.\n\nFor member A, they use their private key ￼ and member B’s public key ￼ to perform an ECDH computation. For member B, they use their private key ￼ and member A’s public key ￼ to perform an ECDH computation. \n\nBoth compute the same value. This value becomes the private key of Node3, and from this, the public key of Node3 can also be derived.\n\nSimilarly, other members perform their respective ECDH computations.\n\nMoreover, nodes higher in the tree also perform their respective ECDH computations up to the Root. Node3 and Node4 compute the private key of Node1 through ECDH, while Node5 and Node6 compute the private key of Node2. Node1 and Node2 compute the private key of the Root through ECDH.\n\nThe private key of the Root is the shared key among the MLS group members. Each member uses this shared key along with their respective related keys to derive their message encryption key.\n\nThe most important feature of this key tree is that child nodes know the private keys of their parent nodes.\n—————————————————\n\nIf member A suspects their key has been compromised, they need to update their key.\n\nMember A generates a new key pair ￼ (public key and private key) locally and recalculates the keys for Node3’, Node1’, and Root’.\n\nThen, A encrypts the public keys of Node3’ and Node1’ using the old public keys of Node3 and Node1, respectively, and sends them to all group members.\n\nWhen member H receives and decrypts the message, they obtain the public key of Node1’ and, combined with the private key of Node2, perform an ECDH computation to calculate the new private key of Root’.\n\nOther members perform similar operations. As a result, all members successfully update the key tree.\n\nThe advantage of the MLS protocol is that when a member updates their key, the complexity of updating the key tree is reduced to ￼O(logN).\n\nImagine if there were no binary tree. When A updates their key, they would need to update the message one-to-one for each group member, resulting in a complexity of ￼O(N).\n\nHowever, if member B’s key is compromised, member A updating their key cannot rescue member B. Each member’s update key operation can only protect themselves, not all members. https://image.nostr.build/10752c810a9aef73885173ecb7b76f9e65ce322c2c2edefdda7a82dd4b58d7a4.jpg https://image.nostr.build/80864aad3cb9a3e8ecd91cd0de77c10cd5ba9d54dbe182c9631825ab0482069b.jpg  nostr:note1guzracdd3rfyussrfxjt63h3seela9a0jyzx5hd7gjmzhxsx7efs57mq8y",
+    "timestamp": "1732178998",
+    "date": "11/21/2024, 8:49:58 AM",
+    "id": "6c7afbec6091e729e3880c1cd024dcbc190e4a32f6dae9cc8ae8fc4615c92fdc",
+    "kind": 6
+  },
+  {
+    "content": "https://video.nostr.build/df316376e64443732537cbc892290dc32f5e31847814864f19e7ed8d9ed5f47a.mp4",
+    "timestamp": "1732178703",
+    "date": "11/21/2024, 8:45:03 AM",
+    "id": "a9075adfaa404b657b97e76a9ee74765669405e28e4513aea6c890e52ad965fb",
+    "kind": 6
+  },
+  {
+    "content": "Throwback to a podcast I did with the nostr:nprofile1qqs0cfrsa5vksqwa4nju9093fffl5hhflq0wxedlf9v0jnrpzlv7ufcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshsnhmv64 \n\nhttps://www.youtube.com/watch?v=jhWKGn--Dj8",
+    "timestamp": "1732176639",
+    "date": "11/21/2024, 8:10:39 AM",
+    "id": "863f0599747f1496a444ee4f339ac41c72239a600c29b62585f40af506eb1434",
+    "kind": 1
+  },
+  {
+    "content": "Yup :)\nnostr:nevent1qqsg922m0v40y3ajma609f927hhxky4v64nkljdketvzmvxaftt29hgpz3mhxw309ucnydewxqhrqt338g6rsd3e9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqynkpes5",
+    "timestamp": "1732173758",
+    "date": "11/21/2024, 7:22:38 AM",
+    "id": "758c3a41e483b5e0e7810d3bd2998d63c835cec443ae1351fb99e0ecd0337d38",
+    "kind": 1
+  },
+  {
+    "content": "Thanks.\nAnd direct RSS is not supported?",
+    "timestamp": "1732173701",
+    "date": "11/21/2024, 7:21:41 AM",
+    "id": "0e7996f24933f2ee6a7ea67f74e88a2d8af30f255ef91ff70517f87377e97400",
+    "kind": 1
+  },
+  {
     "content": "You fulmo.org?",
     "timestamp": "1732137961",
     "date": "11/20/2024, 9:26:01 PM",
