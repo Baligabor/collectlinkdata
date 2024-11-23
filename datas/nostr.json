@@ -1,5 +1,362 @@
 [
   {
+    "content": "Any Bitcoiners of the class '24 here?",
+    "timestamp": "1732305384",
+    "date": "11/22/2024, 7:56:24 PM",
+    "id": "7c6d6c9922cbbf57d0abfc20cf61001382e0c62779981aa814dbf36f032074eb",
+    "kind": 1
+  },
+  {
+    "content": "Nice store!\nAnd great logo",
+    "timestamp": "1732305323",
+    "date": "11/22/2024, 7:55:23 PM",
+    "id": "921e99c1a4ff6a8b1b25f5249e1f3709ad1127c8ee16b9ff01574cb62da275e2",
+    "kind": 1
+  },
+  {
+    "content": "https://image.nostr.build/c17b69569b59f8060456ee9a3f17d07bd9769372180ae6162e7ce75ff3183524.jpg\n\nhttps://image.nostr.build/1e37899e3cd88222ec55fa82f491b50d0235440bca78b9d4402e7f97ecba5fdb.jpg\nI was looking for a picture of this collection at paralelni polis, do you have one nostr:nprofile1qqs9nu0wkt8hpk79pqe5p8km8llaru69u97j7njm0xxce59qtyvu0lcppemhxue69uhkummn9ekx7mp0t24zkm?",
+    "timestamp": "1732305140",
+    "date": "11/22/2024, 7:52:20 PM",
+    "id": "94d30e4a12057fe3d954e4c3034bfd86bd36a5591cd9546dce69e815744e6fbd",
+    "kind": 1
+  },
+  {
+    "content": "Besides of new series a few rare prints coming out of my archives, so cut your profit you filthy rich Bitcoiners and buy some bitcoin art:-)\nScreenprinting, acrylic on paper, limited series, large format, numbered and signed.\nhttps://m.primal.net/MBAz.gif \nhttps://www.cypherpunknow.com/artgallery/",
+    "timestamp": "1732304476",
+    "date": "11/22/2024, 7:41:16 PM",
+    "id": "7e86d03838250e9e8e465a0fd545c479a2b8e9e02c0053dcd54718e846ebcbb4",
+    "kind": 6
+  },
+  {
+    "content": "Bitcoin consensus is very fickle.\nIt's not defined in a specification, but the first implementation, now called Bitcoin Core, is the defacto spec by implementation.\n\nFor example, they changed the database used in the software, and even that triggered a hard fork! \n\nSo if you would want to build your own node from scratch, you have to implement all the quirks of Bitcoin Core, including some bugs.\n\nFor example libbitcoin is another implementation of Bitcoin from scratch, but this took decades to implement by the most genius bitcoiner I know off.\n\nSince the libkernel is extracted from Bitcoin Core, it has all the quirks and bugs included, so now devs can more easily build their own custom node with custom features.",
+    "timestamp": "1732304242",
+    "date": "11/22/2024, 7:37:22 PM",
+    "id": "8ceda68c98f9dc76370a27e26873929db17208e8132caf364e8df3d9b1c49e9a",
+    "kind": 1
+  },
+  {
+    "content": "MFish made it to the nostr!\n\nnostr:nprofile1qqs9nu0wkt8hpk79pqe5p8km8llaru69u97j7njm0xxce59qtyvu0lcppemhxue69uhkummn9ekx7mp0t24zkm\n\nGive him a follow, excellent anarchist artist, his screen prints are great, here some of my favorites.\n\nhttps://image.nostr.build/060a5cae4b27765f092c90bafb6679b837065ce9bc82197bcec719d5ee77a797.jpg\n\nhttps://image.nostr.build/e7b62b7f55b8664bcbb50f024eb5b43fc1b8404906831593f2ee8de26229ff19.jpg\n\nhttps://image.nostr.build/4209abce0c664bfc17b87f3f409237d9714961ab026465aa9e7d508367a25f5b.jpg\n\nnostr:nevent1qqszak98669meqfrdc3j82htgwvx75gs278n9engtv9655y2mwsw67cpzemhxue69uhhyetvv9ujumt0wd68ytnsw43z7q3qt8c7avk0wrdu2zpngz0dk0ll68e5tcta9a89k7vd3ng2qkgecllsxpqqqqqqzmmyk60",
+    "timestamp": "1732303918",
+    "date": "11/22/2024, 7:31:58 PM",
+    "id": "05f2a709c1a7741726a2e1d36420da7683748c8cd8e96182546e43ba08a1e0ee",
+    "kind": 1
+  },
+  {
+    "content": "This is for low time preference people who read the replies 😉",
+    "timestamp": "1732303542",
+    "date": "11/22/2024, 7:25:42 PM",
+    "id": "83b1728bbcebb19ef2b029243109e5285b0ac39d8663be4e6b49514d5d2b8cd3",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, putting it at the end is an interesting differentiation, maybe too subtle...",
+    "timestamp": "1732303475",
+    "date": "11/22/2024, 7:24:35 PM",
+    "id": "8c972efa87fef3beddda9621a15d477ce1f3d3d606de3acefbecaae987538798",
+    "kind": 1
+  },
+  {
+    "content": "Weird text rendering bug in amethyst.\nnostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7anfw3hhytnwdaehgu339e3k7mf0qyghwumn8ghj7mn0wd68ytnhd9hx2tch2deau\nhttps://image.nostr.build/a395dacad710b9a2765d865902a11dc3104818368ebd1ff4fa7c7fece21d66b6.jpg",
+    "timestamp": "1732303421",
+    "date": "11/22/2024, 7:23:41 PM",
+    "id": "26977682fb8a12011c8f672f62eadaea8db55f1b3e6da0f47b174d8ae2be556a",
+    "kind": 1
+  },
+  {
+    "content": "Wow, it's quite fast to translate a whole webpage.",
+    "timestamp": "1732303019",
+    "date": "11/22/2024, 7:16:59 PM",
+    "id": "18462caf4e49e971cb6f519238f17472cd567662aba0518d499bf7973aa025b5",
+    "kind": 1
+  },
+  {
+    "content": "Two weeks ago, we officially launched Kagi Translate, offering superior translations across 244 languages! \n\nHigher quality translations than Google Translate and DeepL (based on both internal testing and external user feedback), ZERO tracking, and free ✨\n\nMore info: https://blog.kagi.com/kagi-translate\nTry it: https://translate.kagi.com\nhttps://nostrcheck.me/media/34104dedf3cc5936802c8308a3d0090f2857d4aba4e8b720accaf6b2ab049969/b68f0d07b64a1614ceda37beec2659936263b91abc8ebba8a4bedf88d18eb0de.webp",
+    "timestamp": "1732303000",
+    "date": "11/22/2024, 7:16:40 PM",
+    "id": "fec0fa2c1ad09a5165cd63afe425704b68d2729119b8da1f34b10e2ceb6fbab5",
+    "kind": 6
+  },
+  {
+    "content": "How to announce an announcement without announcing the announcement...",
+    "timestamp": "1732302840",
+    "date": "11/22/2024, 7:14:00 PM",
+    "id": "4d85e01087411b649b0ca63dcf4aea1f892b304e5eb6d1c50b34683cdd255bac",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nevent1qqsvf60tf5568vhgy6dyfqg84765yznd85uprddlt38lnmrh0s4nn6gpz3mhxw309ucnydewxqhrqt338g6rsd3e9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqyn86e2g",
+    "timestamp": "1732302770",
+    "date": "11/22/2024, 7:12:50 PM",
+    "id": "60242f4e5fa88eaf8e76e79c4cb6bf0b3c4a995440c93348b330359b966069ef",
+    "kind": 1
+  },
+  {
+    "content": "The guy built his own Bitcoin full node in three weeks.\n\nAnd its in consensus with the other node implementations.\n\nLike, wtf!\n\nThat's possible because the consensus logic has been decoupled from Bitcoin core into libkernel.",
+    "timestamp": "1732302620",
+    "date": "11/22/2024, 7:10:20 PM",
+    "id": "c4e9eb4d29a3b2e8269a448107afb5420a6d3d3811b5bf5c4ff9ec777c2b39e9",
+    "kind": 1
+  },
+  {
+    "content": "Never underestimate how powerful you are.",
+    "timestamp": "1732302506",
+    "date": "11/22/2024, 7:08:26 PM",
+    "id": "afe2f94248f8fecc5f14ce68e1cf47e16e5be6cf4dbe1218d465aee40d816a76",
+    "kind": 1
+  },
+  {
+    "content": "About how to make futr even better!",
+    "timestamp": "1732302396",
+    "date": "11/22/2024, 7:06:36 PM",
+    "id": "962ecc466a108e4f467f6c416734f07e31433810ef0ceb85d7c9c5f7043d9348",
+    "kind": 1
+  },
+  {
+    "content": "I appreciate the reasoning.",
+    "timestamp": "1732302285",
+    "date": "11/22/2024, 7:04:45 PM",
+    "id": "9261bc74fa8066601a521984c023b831d2e8c124acd2f6938adbb7494d67b441",
+    "kind": 1
+  },
+  {
+    "content": "You might not know how huge this is, but its really damn huge!\n\nnostr:nevent1qqsqe8s03xarvn2mlr78p9wkmyxzkcm5cp6an6kdaltg3zyyrs6yq3gpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygpwkqap7vtv8nuujq8875mwu289fp35jpnmuqv2jed8cl99knml8spsgqqqqqqs2hnptc",
+    "timestamp": "1732302170",
+    "date": "11/22/2024, 7:02:50 PM",
+    "id": "fc2de50ad560bad42c37c55073fea448647f37581d0775872a9f8f98bf271bc3",
+    "kind": 1
+  },
+  {
+    "content": "Wow, that's amazing!\n\nWonderful that libkernel is usable nowadays.",
+    "timestamp": "1732302133",
+    "date": "11/22/2024, 7:02:13 PM",
+    "id": "95aab3fbf5c4bfc364fc724f186438052092484d8e8193e5c81e35054eddff6f",
+    "kind": 1
+  },
+  {
+    "content": "And those who are both are cheering you on!",
+    "timestamp": "1732302031",
+    "date": "11/22/2024, 7:00:31 PM",
+    "id": "c22fa2cc953ecba8a6a8b52ef252fde125430bdd80ef372eb21acc3d4a69bf50",
+    "kind": 1
+  },
+  {
+    "content": "Hash rate isn't really an indication of security.\nImagine this is a malicious entity mining empty blocks.",
+    "timestamp": "1732301709",
+    "date": "11/22/2024, 6:55:09 PM",
+    "id": "3e4a87ea3a3d3d58e3440fd255bb7d3e2c21c597cb8ce462ba15ad0861061ce6",
+    "kind": 1
+  },
+  {
+    "content": "Great, let me know when you have it in stock.",
+    "timestamp": "1732301529",
+    "date": "11/22/2024, 6:52:09 PM",
+    "id": "e31fdaa870cc256930568341fde902edfedce677d1bca2300b10bfd10e8fe7d3",
+    "kind": 1
+  },
+  {
+    "content": "Amazing to see you here!\n\nCheckout https://athenut.com/ a search engine that requires an cashu ecash transaction for the search, privacy preserving monetization for your business!",
+    "timestamp": "1732301385",
+    "date": "11/22/2024, 6:49:45 PM",
+    "id": "009d769157329566df9d6fc8995d720a0f34ff431db2cf5cb9ed147dabc938e2",
+    "kind": 1
+  },
+  {
+    "content": "What's the name of this meme template?",
+    "timestamp": "1732301225",
+    "date": "11/22/2024, 6:47:05 PM",
+    "id": "c38c43fd385690386127c556e14bac186bacc55889b156ab70578eb5fc51dfcb",
+    "kind": 1
+  },
+  {
+    "content": "Do you understand Pedersen commitments yet?",
+    "timestamp": "1732301138",
+    "date": "11/22/2024, 6:45:38 PM",
+    "id": "0d7a90c1715d5d18c7e7c5651b3204688066cd15afd72c9b9fd7b9743a61dd09",
+    "kind": 1
+  },
+  {
+    "content": "Learn about zero-knowledge proofs, sigma protocols, Pedersen commitments, confidential transactions, and how amounts are hidden in Monero and Liquid.\n\nhttps://medium.com/coinmonks/zero-knowledge-proofs-um-what-a092f0ee9f28",
+    "timestamp": "1732301126",
+    "date": "11/22/2024, 6:45:26 PM",
+    "id": "99b162845463440978ec347ba60bdada592c26de50659e14fb68a1160ca2dae2",
+    "kind": 6
+  },
+  {
+    "content": "Hello, Nostr community! \n\nWe're Kagi, and we believe in a better web experience that is ad-free, tracking-free, and privacy-respecting. We've worked hard to deliver a high-quality, fast, and reliable search experience without compromising user privacy: https://kagi.com/ \n\nWe also created Orion, a lightweight, WebKit based browser that is incredibly fast, with a built in ad blocker and zero telemetry, making it private by design: https://kagi.com/orion/\n\nWe're fairly new to using Nostr, and any help on how best to engage this community will be greatly appreciated. ",
+    "timestamp": "1732300989",
+    "date": "11/22/2024, 6:43:09 PM",
+    "id": "9b8871efbdceec835a934fd3fd0bcd7c49d53c69340ab1151cb323e64fe0269f",
+    "kind": 6
+  },
+  {
+    "content": "Fwiw, this isn't exclusive to broadwalk\nhttps://satsymbol.org/",
+    "timestamp": "1732300832",
+    "date": "11/22/2024, 6:40:32 PM",
+    "id": "0758ff6750c36d4b0398da8716f2a39d26643dbcb0d13ec518d3f3bb1e2ce3fc",
+    "kind": 1
+  },
+  {
+    "content": "Is there a meshtastic starter kit sold for Bitcoin?",
+    "timestamp": "1732300617",
+    "date": "11/22/2024, 6:36:57 PM",
+    "id": "b8c86494034a93383bf3ea39f07514e1de468ded8ba7083c3dfbc6b732a89863",
+    "kind": 1
+  },
+  {
+    "content": "Or maybe there's an app that reconfigures it...",
+    "timestamp": "1732300570",
+    "date": "11/22/2024, 6:36:10 PM",
+    "id": "fc425043a42825749e18c44c6e127bee58b3f437ea5393736869efc9e244403c",
+    "kind": 1
+  },
+  {
+    "content": "I guess they code fork some changes in though?",
+    "timestamp": "1732300548",
+    "date": "11/22/2024, 6:35:48 PM",
+    "id": "93566b3586a3f42b968ccf92d6a58e7990f2e34ff8b60fbdd3219da9feb1130c",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin native businesses are the best.\nCongrats on building one of them!",
+    "timestamp": "1732300354",
+    "date": "11/22/2024, 6:32:34 PM",
+    "id": "669ef2f9808dfdc94453da61a76acd6e76c67975f29ba92e90044574c6d82682",
+    "kind": 1
+  },
+  {
+    "content": "Is there a way to turn the Bluetooth and WiFi toggles in the GrapheneOS notification drawer such that the network turns off on the first click, and it doesn't go into the popup window?\nThis used to be the default in older versions, and I think it's better UX.",
+    "timestamp": "1732300223",
+    "date": "11/22/2024, 6:30:23 PM",
+    "id": "ed6021bf7653e51e6bac6a72f906dcfe8d15ddc2efcd2dffa8296e653951ff67",
+    "kind": 1
+  },
+  {
+    "content": "That's amazing!\nReminds me of nostr:nprofile1qqspstamtup3lu33aceqw8ccw0nfmhqa4nks8g2utjrrhaqttdz374cpzpmhxue69uhkummnw3ezumrpdejqzrthwden5te0dehhxtnvdakqz9mhwden5te0dehhxarj9enx6apwwa5h5tnzd9aqkfaln3 & nostr:nprofile1qqsvrlrhw86l5sv06wkyjgs6rrcekskvk7nx8k50qn9m7mqgeqxjpvgpzdmhxue69uhhqatjwpkx2urpvuhx2ue0tc48yt lightning jukebox.",
+    "timestamp": "1732300077",
+    "date": "11/22/2024, 6:27:57 PM",
+    "id": "3f80c846b4907adb1ea05568dc4ae68ec41af4f63dbf028ee5d748cae091ddda",
+    "kind": 1
+  },
+  {
+    "content": "https://m.primal.net/MeRN.png \nMusic discovery isn’t what it used to be. Fountain Radio makes it fun again.\n\nWave goodbye to algorithmic playlists and say hello to a new communal listening experience powered by Bitcoin and Nostr.\n\nFountain Radio is live in version 1.1.8 now. Here's how it works:\n\nAdd and upvote tracks in the queue ➕\n\nSearch for any song on Fountain and pay 100 sats to add it to the queue.. Upvote any track in the queue to change its position. 1 sat equals 1 upvote and the track with the most upvotes will play next.\n\nSupport the artist currently playing ⚡️\n\nBoost to send a payment with a message on enable streaming to send a small amount for every minute you spend listening. 95% of every boost and streaming payment goes directly to the artist currently playing.\n\nPost in the live chat 💬\n\nHang out with other listeners in the live chat by connecting Nostr. You can post chat messages for free. Every time a track is added or upvoted this appears in the activity feed too.\n\nSave tracks to your library 💜\n\nListen to your latest discoveries again later in the app. Tap on any content card to add a song to your library or a playlist, or see more music from that artist.\n\nListen to Fountain Radio on other apps 🎧\n\nFountain Radio now has its own RSS feed so you can tune in on any podcast app that supports live streams and Nostr live streaming platforms like  nostr:npub1eaz6dwsnvwkha5sn5puwwyxjgy26uusundrm684lg3vw4ma5c2jsqarcgz.\n\nArtist takeovers 🔒\n\nArtists can now take control of the music and host a listening party. During a takeover, only the host can add tracks to the queue and upvotes are disabled.\n\nThe first artist takeover will be with  nostr:npub19r9qrxmckj2vyk5a5ttyt966s5qu06vmzyczuh97wj8wtyluktxqymeukr on Wednesday 27th November at 12:00pm EST. Want to host a takeover? Get in touch and we will get you scheduled in.\n\nYou can also find Fountain Radio on our website here:\nhttps://fountain.fm/radio",
+    "timestamp": "1732300026",
+    "date": "11/22/2024, 6:27:06 PM",
+    "id": "a3e144cc16f4297db5172e7441209c057a4673ea5c096c53ac82939fa16d876b",
+    "kind": 6
+  },
+  {
+    "content": "I can recommend kaipara.de and woolandprince.com the only button down shirts I found.",
+    "timestamp": "1732297783",
+    "date": "11/22/2024, 5:49:43 PM",
+    "id": "e818b7d31ff74687ff60ad6f37a173c84ec8daf2bdf665ab4bf1047f012369ea",
+    "kind": 1
+  },
+  {
+    "content": "Plumming might be the OG freedom tech...",
+    "timestamp": "1732292586",
+    "date": "11/22/2024, 4:23:06 PM",
+    "id": "e1414353fa2bad1013e5d604320ed97052537af16ec7bafc796f764d40e366b2",
+    "kind": 1
+  },
+  {
+    "content": "This is actually an experiment worth doing...\n\nnostr:nevent1qqszkrxhkw57zp7jdvey2hu8yslzfqs35aryjgtuf30klc79tw4j8uqpzpmhxue69uhkummnw3ezumt0d5hsyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlspsgqqqqqqskl6aus",
+    "timestamp": "1732292425",
+    "date": "11/22/2024, 4:20:25 PM",
+    "id": "4df1f40c582f1eee68b332114eebae1755e6c05425250cec4d7be3285ad44730",
+    "kind": 1
+  },
+  {
+    "content": "They have fish leather, wow...",
+    "timestamp": "1732289729",
+    "date": "11/22/2024, 3:35:29 PM",
+    "id": "3061efa1da0752f26bf0982c552ee4d8f8d8df86b148e255ebf95226e11f31d0",
+    "kind": 1
+  },
+  {
+    "content": "Amazing!",
+    "timestamp": "1732289655",
+    "date": "11/22/2024, 3:34:15 PM",
+    "id": "41272a2bd2308ee85b28588919beb4ad7810d43ff5106769e0f17f253ee1b1ee",
+    "kind": 1
+  },
+  {
+    "content": "There are some phone cases with flip covers too.\n\nDo you take selfies frequently? If not, then at least the front camera can be covered without too much friction.",
+    "timestamp": "1732271004",
+    "date": "11/22/2024, 10:23:24 AM",
+    "id": "93ea921f7df84085fd4d6a254341540843d0fabcb91cd2df29ddf3d3c1ce08c5",
+    "kind": 1
+  },
+  {
+    "content": "I wonder if you still can get meaningful data with some machine learning...\nBut it looks alright.",
+    "timestamp": "1732269773",
+    "date": "11/22/2024, 10:02:53 AM",
+    "id": "40ddf0afe2176006c95e7654cf07cc99dd3aa951b76f7bababf3ad7596dae651",
+    "kind": 1
+  },
+  {
+    "content": "Does that just blur out the picture, or fully black it out?",
+    "timestamp": "1732266471",
+    "date": "11/22/2024, 9:07:51 AM",
+    "id": "eb87ca147b277125a20372f531b4e8b5ff9ed6128ba15175004a09dc0e2585c3",
+    "kind": 1
+  },
+  {
+    "content": "Your notifications turn kinda weird.\nhttps://image.nostr.build/8e4e64e89e879f87ffbaaa04d3ea41dfdd7f2ae6dac214a50ea0e9f61e00651a.jpg",
+    "timestamp": "1732264823",
+    "date": "11/22/2024, 8:40:23 AM",
+    "id": "fc124eb433beb2a67d98275feb482a88c7023fbfdd68699bb3d47b755eac367c",
+    "kind": 1
+  },
+  {
+    "content": "Exactly my thinking ",
+    "timestamp": "1732264338",
+    "date": "11/22/2024, 8:32:18 AM",
+    "id": "261131752330cda9720c8e23f24e063b694e15fec33d589382d92d5bfcbe97d0",
+    "kind": 1
+  },
+  {
+    "content": "Muted \"100k\"\nBull markets are annoying...",
+    "timestamp": "1732263759",
+    "date": "11/22/2024, 8:22:39 AM",
+    "id": "077a162d2ed2cc7f6da4f2a4760e67e7810a449668d35376dbad6dbfd9a93de2",
+    "kind": 1
+  },
+  {
+    "content": "Cypherpunks write code. https://image.nostr.build/425478c5a6f28e5da7379fddccabf810e9609f45a92693d08fe4d4f5d3203a4a.jpg",
+    "timestamp": "1732263224",
+    "date": "11/22/2024, 8:13:44 AM",
+    "id": "6a5b7f9c3cb4879aa06c8f460571dca12f7b28b63b3679295bd2ab83415a2866",
+    "kind": 6
+  },
+  {
+    "content": "Maybe try a smaller tape cutout.",
+    "timestamp": "1732263160",
+    "date": "11/22/2024, 8:12:40 AM",
+    "id": "559485c2cd8571147d7ef8c9b342f91ac27968d4b62dd45f984709c7249eb591",
+    "kind": 1
+  },
+  {
+    "content": "Nice work!\nNIP55 Android signer (Amber) is quite an essential feature imo, would love to see it in primal too.",
+    "timestamp": "1732261412",
+    "date": "11/22/2024, 7:43:32 AM",
+    "id": "48ba9cb3349ae6f17059ff214f30efdba618b79bbfc33e18865421ba0a086d9f",
+    "kind": 1
+  },
+  {
+    "content": "I'm curious too...\n#asknostr",
+    "timestamp": "1732261304",
+    "date": "11/22/2024, 7:41:44 AM",
+    "id": "68ba71c1c52ab1bca83ae0b21094c971e93be841b7cc8cfd7623cff62038d4e9",
+    "kind": 1
+  },
+  {
+    "content": "Electrical insulation tape is the best tool for covering phone cameras. Sticks well, easy to remove, doesnt leave residue, can be reused many times.\n\nThink about what percentage of time of the day you actually use the cameras, and if the cameras need to be able to see for the 99.9% of unused time.",
+    "timestamp": "1732261041",
+    "date": "11/22/2024, 7:37:21 AM",
+    "id": "2a73865ec3efe603a6591d837b282268020befc927ea7494abce27c43daa9f52",
+    "kind": 1
+  },
+  {
     "content": "Is haven relay available nostr:nprofile1qqs9df4h2deu3aae83fmet5xmrlm4w5l9gdnsy3q2n7dklem7ezmwfcpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq5xamn8ghj7dnvv45xs7tywde8g6rpvakkjuekw46nvar4vdhxgan6wumkxatzwpckk6rk0puhjdm2da5k7ce5x4kkkumjx3jkzepwdahxjmmwqyt8wumn8ghj7un9d3shjtnwdaehgu3wd9hxvmckqw0xz?\nnostr:nprofile1qqsw9n8heusyq0el9f99tveg7r0rhcu9tznatuekxt764m78ymqu36cpr9mhxue69uhhyetvv9ujuat50phjummwv5hkx6rpwsq32amnwvaz7tmxwfjkuueww468smewdahx2tcpz4mhxue69uhhyetvv9ujuat50phjummwv5hs9smu6e",
     "timestamp": "1732213057",
     "date": "11/21/2024, 6:17:37 PM",
