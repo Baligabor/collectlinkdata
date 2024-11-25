@@ -1,5 +1,278 @@
 [
   {
+    "content": "I already reached out!",
+    "timestamp": "1732472405",
+    "date": "11/24/2024, 6:20:05 PM",
+    "id": "28bf3ec3fb92e19f8bb4e54b4acf644f4e81e56320789d694afde4b8c785fafc",
+    "kind": 1
+  },
+  {
+    "content": "That would be great!\nIt might turn into a non-trivial revenue source...",
+    "timestamp": "1732472310",
+    "date": "11/24/2024, 6:18:30 PM",
+    "id": "5ebc982fcc9d3193cb0638408b1a4096fa1ff22f25d95dbe6dde9ebb3d60d4f1",
+    "kind": 1
+  },
+  {
+    "content": "First is booked for Thursday.",
+    "timestamp": "1732472114",
+    "date": "11/24/2024, 6:15:14 PM",
+    "id": "ea86b0413aee843ec81fc90931413ec0feb444ffc2fdf826bd5c9c4cf36147ba",
+    "kind": 1
+  },
+  {
+    "content": "The new npub of final is nostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcnv0md0 and tagged in the zap split.\n\nGraphene doesnt have an address...",
+    "timestamp": "1732457699",
+    "date": "11/24/2024, 2:14:59 PM",
+    "id": "0a8a7e7bb4e895c9331f15617b8ea03de5c769ba0e01205c6939777586d32295",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, how do we plant a nostrich there...",
+    "timestamp": "1732457570",
+    "date": "11/24/2024, 2:12:50 PM",
+    "id": "a638e8740922384da0c22b32448055e4229c49edf0ffccf47fd952e4de93ce8f",
+    "kind": 1
+  },
+  {
+    "content": "Amazing, let me know how you like it!",
+    "timestamp": "1732452526",
+    "date": "11/24/2024, 12:48:46 PM",
+    "id": "60e0b41743d7e0221846f938c9066c2dcd6875ab10c8352a54f0465424258e5d",
+    "kind": 1
+  },
+  {
+    "content": "Listening to your reading now...this is really excellent!",
+    "timestamp": "1732452491",
+    "date": "11/24/2024, 12:48:11 PM",
+    "id": "d3c7b8e9c74eb794caf6618a5d8a7b571fd00c2870dd59512ba229413c8873ac",
+    "kind": 6
+  },
+  {
+    "content": "I love the concept of zap forwarding to the devs for feature request notes!\n\nThey only get a notification if people really like the idea.\n\nNostr is so damn cool!!",
+    "timestamp": "1732452473",
+    "date": "11/24/2024, 12:47:53 PM",
+    "id": "012168481333213a402e81b2b56deb6ebd3b07a3105f54d4131e3c2073136c18",
+    "kind": 1
+  },
+  {
+    "content": "How about on graphene OS a timeout to turn off microphone and camera permission?\nSimilar to WiFi or Bluetooth",
+    "timestamp": "1732450927",
+    "date": "11/24/2024, 12:22:07 PM",
+    "id": "b5af71688a6a68e04658c5b163165b248797968feb465f2095f66135ebe7f27f",
+    "kind": 1
+  },
+  {
+    "content": "Do you know how to reach him?",
+    "timestamp": "1732449152",
+    "date": "11/24/2024, 11:52:32 AM",
+    "id": "9a895779040da98f30f5ee40786b9de954402f42665535a0336c94c550419308",
+    "kind": 1
+  },
+  {
+    "content": "Do you know how to reach him?",
+    "timestamp": "1732449077",
+    "date": "11/24/2024, 11:51:17 AM",
+    "id": "8d22f07c95c00280f084b00bdfe0993597091196a8dcf6c406a488041d5300b5",
+    "kind": 1
+  },
+  {
+    "content": "I've already shilled Nostr a couple times there...\nLooking for a new audience that isn't already purple pilled.",
+    "timestamp": "1732448979",
+    "date": "11/24/2024, 11:49:39 AM",
+    "id": "8a2564fe92c6aff8fba958fdfb4a9395e967ca4bc6f1aeb209067bc24ec09d9c",
+    "kind": 1
+  },
+  {
+    "content": "Do you have any podcasts in mind that urgently need a purple pill show?\n\nnostr:nevent1qqsghsddejsqufqyxlsqt9w4svvyd0jmc68n08k2w8ljr6spejf97zgpremhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet59upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqy3lcgp0",
+    "timestamp": "1732446232",
+    "date": "11/24/2024, 11:03:52 AM",
+    "id": "16ce6c9546d0540e0669d6f4cd4de588c9ba4719c2a663f4b22f6f94f650221d",
+    "kind": 1
+  },
+  {
+    "content": "Want more of this?\nRead the whole book!\nhttps://freemansperspective.com/audiobook-a-lodging-of-wayfaring-men/",
+    "timestamp": "1732445236",
+    "date": "11/24/2024, 10:47:16 AM",
+    "id": "c53d922d3690fe7241c2abafc8936282f77a8b549e7fe875db7948388d3fb647",
+    "kind": 1
+  },
+  {
+    "content": "#longread #TLDR\n\nSummary:\n\nJames Farber's essay discusses the concept of the \"positive-sum game,\" which refers to a system where human energy and creativity are allowed to flourish, leading to the creation of wealth and innovation. He argues that this system is the key to human progress and that it is being stifled by governments and bureaucracies that seek to control and regulate human activity. Farber advocates for human freedom and creativity, and suggests that the only place where this can truly be achieved is in \" #cyberspace .\"\n\nKey Points:\n\nI. The Positive-Sum Game\n\n* Refers to a system where human #energy and creativity are allowed to flourish\n* Leads to the creation of wealth and innovation\n* Is the key to human #progress\n\nII. History of the Positive-Sum Game\n\n* Originated in the merchant class of Venice\n* Flourished in America and other parts of the world\n* Is based on the idea that human energy is the driving force behind #creativity and #innovation\n\nIII. The Zero-Sum Game\n\n* Based on the idea that there is only a fixed amount of #wealth and resources available\n* One person's gain must come at the expense of another\n* Is a false idea used to justify control and regulation\n\nIV. Government Intervention\n\n* Stifles the positive-sum game by imposing regulations and taxes\n* Limits human creativity and innovation\n* Is often justified by the idea of \"helping the poor,\" but ultimately leads to a life of dependency and stagnation\n\nV. Cyberspace as a Solution\n\n* Is the only place where humans can truly be free to pursue their own interests and passions\n* Allows for the creation of a new space for human freedom and creativity\n* Is necessary for the survival and flourishing of the positive-sum game\n\nVI. Conclusion\n\n* Human #freedom and #creativity are essential for human progress\n* Governments and bureaucracies often stifle these values\n* #Cyberspace offers a new opportunity for human freedom and creativity to flourish.",
+    "timestamp": "1732445185",
+    "date": "11/24/2024, 10:46:25 AM",
+    "id": "f129cdc6d149f2c8ddb982921295722ef0381bc38aaa381ffec1d5cdd30b4d63",
+    "kind": 6
+  },
+  {
+    "content": "I knew you're a Vogon...",
+    "timestamp": "1732445026",
+    "date": "11/24/2024, 10:43:46 AM",
+    "id": "ed198b48a851ba5f754e8f48eea759efc3da93b010a369593ac133483a08f265",
+    "kind": 1
+  },
+  {
+    "content": "Remember we’re living in the era of\nunmerited status elevation, \nunjust enrichment \nwith misdirected anger\nand misplaced trust.",
+    "timestamp": "1732439730",
+    "date": "11/24/2024, 9:15:30 AM",
+    "id": "f629e87074f59b867a31cd06260646b1af6077eeaffdb03f8a5bab73713d38f1",
+    "kind": 6
+  },
+  {
+    "content": "I forgot to mention, this is a #Nostr  Exclusive and here is the video form on Flare:\nhttps://flare.pub/w/naddr1qqrhq3mdv3e92wqzyp45ajv0qtny0cq5gz688w7e9fl6ug0qrd42d3j7xtdefgmqjgnjuqcyqqqgtwcngptae\n\nnostr:nevent1qvzqqqqqqypzq66wex8s9ej8uq2ypdrnh0vj5lawy8spk64xce0r9ku55dsfyfewqyv8wumn8ghj7cmjv4shgu3wdehhxarj9emkjmn99uq3kamnwvaz7tmjv4kxz7fwdehhxarjwpkx2cnn9e3k7mf0qy88wumn8ghj7mn0wvhxcmmv9uq3xamnwvaz7tmwdaehgu3w0f3xgtn8vuhsqgzvey95z25grn37g3rw06k78xdaqwxrxr3pm5le7ctxd8mcn32dscs4fknu",
+    "timestamp": "1732439630",
+    "date": "11/24/2024, 9:13:50 AM",
+    "id": "76e5fa7b8b378226347c9c746dca3b53942bc15f96c84e419a2d06879fa359a9",
+    "kind": 6
+  },
+  {
+    "content": "FARBER’S FIRST ESSAY \n\nIt began with rogue traders and the merchants of Venice. They really didn’t know what they were building or how it would work. They merely struggled for the betterment of themselves and their families. \nIt began to break out when the deep superstition of the middle ages cracked open under the strain of new philosophies and religious ideas.\n\nIt found room to thrive wherever new and wild vistas were found. It expanded with each discovery of far -off new lands. It made its home everywhere the old order was broken up and fresh starts were being made. It took a firm root in America and flourished there for over a hundred years. \nNever again, where history is recorded, will there be any question as to whether or not it works.\n\n“It,” is the great discovery of the modern era: the positive-sum game. It is the liberation of human energy to do its appropriate job. It is the operation of creation, using the only counter entropic force we have: free human energy.\n\nYou can see it work everywhere from the research lab, to the front office, to the construction site. It is what drives the entrepreneur to develop and produce a new product or service, and it is what gives the construction worker pride when his skill overcomes a difficult problem, turning his blueprints into a functional structure. Why is the construction worker proud, and why does the entrepreneur exult? Because they have done the one thing that all humans have the impulse to do – to create something good that would not have been otherwise.\n\nHuman energy is the great creative force in the world. Without it, things tend to entropy. (As the second law of thermodynamics states, “closed systems tend to entropy.”) Without active and creative human energy, everything goes back to an animal level of existence.\n\nThis human energy does not function by obedience and compulsion – it cannot, no matter how many rulers wish it were otherwise. Look at the command economies of the dead socialist world; within several decades their occupants were reduced to an animal existence. Look at the millennia when constrained people lived at the pleasure of their Kings, seeking permissions from their rulers to live and work. They continually starved and died. Things began to change only when freelance merchants began living according to their own minds and braking away from the permissions of their rulers.\n\nWhen human energy is free to move, creativity goes wild; as do motivation, happiness, and the accumulation of wealth. When it is restrained, the descent to animal existence takes over again.\n\nThe discovery of this fact is what differentiates us from the middle ages, and not much else. Do you think the people who lived in those dark times were inherently less intelligent than we are? They were not! You and I are their direct descendants, not many generations removed. We are essentially the same.\n\nThe term positive-sum game signifies that this system creates more than the sum of its parts. The only real magic – human energy – creates more than it started with. Take some raw materials that are of themselves are of little worth, and when you add human creativity you can create vehicles, computers, and space ships. The materials themselves have been around since the creation of the earth, if they could have turned into something great of themselves they would have done it long ago. But they cannot – it is only when humans manipulate them according to their own ideas that they gain any real value. Thus, five dollars worth of materials becomes a product worth thousands of dollars.\n\nThey who do not play the positive-sum game instinctively fall back into being motivated by envy. Ultimately, they find reasons to feel that “there are only so many pieces of the pie.” This is the seed of destruction.\n\nThe next thing they say is “if you have a bigger piece of the pie, then someone else has to have less.” That is a zero-sum game – the idea that nothing is really created, just moved from one hand to another. Not only is it false, but it is also the credo of every envious looter who speaks of ‘fairness’ and ‘equal distribution of wealth,’ but who secretly hopes to get a share of the wealth held by others.\n\nThe real controversy of our time is this: Is human energy allowed to work in the world, or will it be tied down? The miserable experiment of communism has taught the world’s rulers that the positive-sum game is necessary. So, their plan now is to allow human energy to work, but to siphon off as much wealth as possible without killing it all together. We productive people are carrying the governments of the world upon our backs. Are they worth half of our efforts – half of our lives?\n\nThey take half of our earnings away from us continually by a vast web of taxes, fees and regulations – for what benefit? “To help the poor,” they say, and clamorously infer that if you disagree you are a heartless and dangerous person, and further that all will despise you. But if our money is forcibly taken from us, is not the state robbing us? Any dictionary will tell you that this is so, but it is considered poor form to say so – even to consider it.\n\nAnd are the poor better off? Certainly some of our money goes to the poor (although most is eaten up in the bureaucracy). This feeds their bellies insufficiently, while at the same time locking them into a life of dependence that wages an unending war upon their souls. Is that a good thing? Are the poor better off for this robbing of producers and living in a state of dependency?\n\nMany of you will gasp, and reel in shock that I would challenge the respectability and honor of your tradition, and you fear to let yourselves consider my case. You have come up against someone who does not share in your conspiracy of compliance. You must either turn away from these subjects or face the prospect of becoming a radical, and of people saying bad things about you. \nAre you angry? If so, it is not because I am wrong. If that were the case, you would simply turn away. You are angry because I am ill-mannered enough to bring up subjects that you wish to avoid. My ideas bother you. When they come up, you divert your mind to pat phrases like, “that is the price we pay for our society.” You dodge reason, and shunt your thoughts away in order to keep your mental comfort level. You do not face these ideas head-on because you are afraid of them – you are afraid that you might have to agree with them. And then you would have to face the choice either to be a hero or to be a coward.\n\nI stood one evening in IBM Plaza in Chicago, looking over the riverfront skyline as the sun sank in the southwest, and realized that the towering monuments to human effort in front of me were the results of the positive sum game run at only half-speed. Chicago was wild and open from the 1830s through the 1890s. Then, slowly, the curbs and limits were imposed by do-gooder government and collectivist types. These inevitably slowed the workings of a city that had been, as one writer said, ‘geared for giants.’ But the restraints were not enough to stop the positive-sum game – only enough to slow it down.\n\nThe Chicago skyline I watched was the result of the positive-sum game being played at half -speed, yet its results were awesome. I thought about what might have been if it were allowed to operate unfettered. And then I thought of the greatest example of the positive-sum gave during my lifetime – Hong Kong. It went from rice fields to the grandest city of the east in one generation – an explosion of unrestrained human energy.\n\nWhat things we have been deprived of! What glorious accomplishments aborted and stillborn! And now our recent explosion of technology has become the target of bureaucrats world-wide. Where will we go from here? Will the positive-sum game once again be strangled, or will it migrate to new and open lands?\n\nBut! Moving to a new land will be a problem, won’t it? There is no land on this planet that is not claimed by some gang of rulers. So, until cheap space flight is achieved, there is only one new country to be found – cyberspace. So escape there we shall. And there we will – and must, for our own sake and for the sake of our descendants – establish the positive-sum game without restriction. \n\nToward that end, we have built a private free market. We used our own money to do it, and we’ve broken no laws that we are aware of, save laws that outlaw privacy. Now, the rulers are trying to stop us. Why? We want to run an experiment, and see if freedom really is better than ser vitude. Why won’t they let us try? Are they interested in the betterment of mankind, or are they really interested in monopoly powers? All we want is to be left alone and to try freedom. Why is that threatening? And why do they wish to imprison us? \n ~ James Farber ",
+    "timestamp": "1732439453",
+    "date": "11/24/2024, 9:10:53 AM",
+    "id": "26c83d3a3d6401152029f17fc8f86fb0b1cc4b835d1fe55f43f587bdf9262b93",
+    "kind": 6
+  },
+  {
+    "content": "https://image.nostr.build/1c5e4728b793a879d6fce40271b1e6a4a1ee4ea09064820a46ee85ac3432a3dd.gif",
+    "timestamp": "1732437531",
+    "date": "11/24/2024, 8:38:51 AM",
+    "id": "532cc0e311681cc375c820f157fc3ef57a62e199ba74441f257abaa1cf2e1074",
+    "kind": 1
+  },
+  {
+    "content": "This is the way",
+    "timestamp": "1732437282",
+    "date": "11/24/2024, 8:34:42 AM",
+    "id": "9da43dbdd5b6a979c3c878c0240380ab7f9e3b1e59e701f89813531a21e4af83",
+    "kind": 1
+  },
+  {
+    "content": "We're gonna make slavery obsolete in our lifetime.\nKeep building freedom tech!",
+    "timestamp": "1732437201",
+    "date": "11/24/2024, 8:33:21 AM",
+    "id": "a5f35a12636ce076c1808f6477e20ae67531fdda795061e001a8e718029633d7",
+    "kind": 1
+  },
+  {
+    "content": "Keep the nostr weird.",
+    "timestamp": "1732435361",
+    "date": "11/24/2024, 8:02:41 AM",
+    "id": "0129b85a95ba66f8fd33391c4280493b34a1a6577ba387f3376794adae01e151",
+    "kind": 1
+  },
+  {
+    "content": "Let the games begin https://github.com/nostr-protocol/nips/pull/1606",
+    "timestamp": "1732435354",
+    "date": "11/24/2024, 8:02:34 AM",
+    "id": "0bd60045f99961a69790c9468bff79bf9fae110288913afda9f9ed04686ae44c",
+    "kind": 6
+  },
+  {
+    "content": "“A Bitcoin Bash & Corrupted Cash” drops tomorrow! \n\nThanks to nostr:npub1gdu7w6l6w65qhrdeaf6eyywepwe7v7ezqtugsrxy7hl7ypjsvxksd76nak for the education on this one. \nhttps://m.primal.net/LYBZ.mov",
+    "timestamp": "1732435195",
+    "date": "11/24/2024, 7:59:55 AM",
+    "id": "31d54ef665f56e306e27f7fff794460a4584ae6672dc70e57d044e7a67e97959",
+    "kind": 6
+  },
+  {
+    "content": "https://image.nostr.build/f2f54723fa74f6afd79fa393a9e63c7df35909ca6f9cd0c4b3b64572447dd88c.jpg",
+    "timestamp": "1732435164",
+    "date": "11/24/2024, 7:59:24 AM",
+    "id": "4b32e94fc5cc267c6bbd56fbbc6f20494fc3b96d44018f2629eafbcc8361894a",
+    "kind": 1
+  },
+  {
+    "content": "Normies still think $990 million sounds impressive. ",
+    "timestamp": "1732435045",
+    "date": "11/24/2024, 7:57:25 AM",
+    "id": "4aed082c7e3c58673b88c70e86371556915554dc1ceaaa47a71d1ea0df42e0dc",
+    "kind": 1
+  },
+  {
+    "content": "A free life is possible",
+    "timestamp": "1732434937",
+    "date": "11/24/2024, 7:55:37 AM",
+    "id": "5abe77b4ca3a6161f79cb226f59c20f9e0a3d6c4160127dfbc6dfbfa8ab1f196",
+    "kind": 1
+  },
+  {
+    "content": "When I first got into crypto my small crypto portfolio was an insurance against the collapse of the existing system. \nNow my small fiat portfolio is an insurace in case the existing system continues.",
+    "timestamp": "1732432685",
+    "date": "11/24/2024, 7:18:05 AM",
+    "id": "e1154906961a0ee4405ee7da6e08c4db99bf6b5cb3ee7e7bf08af7a72730104a",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqszw70nm86zcl0wzlcwd0xulzdgl82e95v78vdm6fl0rnlarfle35gpzfmhxue69uhhqatjwpkx2urpvuhx2ucpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqg4waehxw309ajkgetw9ehx7um5wghxcctwvsv0rdp9 it would be useful to have a search engine for the currencies, and how about adding gold, and other non-currency assets to satsprice? \nA home screen widget would be useful too...",
+    "timestamp": "1732432370",
+    "date": "11/24/2024, 7:12:50 AM",
+    "id": "b2ff146288cb77a27d3ae5b564c55599cfe7fc125ae380c093a5bc254c8176a3",
+    "kind": 1
+  },
+  {
+    "content": "Maybe pricedinbitcoin21.com is what you're looking for...",
+    "timestamp": "1732432198",
+    "date": "11/24/2024, 7:09:58 AM",
+    "id": "4e72cde36abb334e283a278a34215f2752e5165c2e21e11374499c26ebbaf97d",
+    "kind": 1
+  },
+  {
+    "content": "https://image.nostr.build/755963c327ac91780fae846b354bd845d5f0f2227e6efc78fd887f0051a27207.jpg\nnostr:nevent1qqsghsddejsqufqyxlsqt9w4svvyd0jmc68n08k2w8ljr6spejf97zgpz3mhxw309ucnydewxqhrqt338g6rsd3e9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqyd4jv22",
+    "timestamp": "1732432089",
+    "date": "11/24/2024, 7:08:09 AM",
+    "id": "ce2cab9952fe36caaa0e667005c60cb9d7db256efa83598e88f4eefb47a38f1c",
+    "kind": 1
+  },
+  {
+    "content": "Difficult times you may face. Tough times you may encounter. But, dream you must. Dreams are the gap between where you are and where you will be. “Will I?” is never the question. Great dreams of great dreamers will always be fulfilled. Whatever the mind of a man can conceive and believe, it can achieve.\nGod never gives you an idea without the power to achieve it. For a dreamer, the question is just, “By when will I?”\n-Mathira",
+    "timestamp": "1732431725",
+    "date": "11/24/2024, 7:02:05 AM",
+    "id": "9b0d5e1300632ac1f9b486a6872eafaf3229360b6803dec9fe83b077c71fbe45",
+    "kind": 6
+  },
+  {
+    "content": "What was the first product sold over nostr?\nWe need a third legendary item after pizza and alpaca socks...",
+    "timestamp": "1732431632",
+    "date": "11/24/2024, 7:00:32 AM",
+    "id": "545454d04653e395824eedc44141c0faf5be2b7b6f0ceb16db7575152fc14a0c",
+    "kind": 1
+  },
+  {
+    "content": "I'm so grateful for nostr.\n\nIt's a refuge from adds, clickbaid and mind control.",
+    "timestamp": "1732431527",
+    "date": "11/24/2024, 6:58:47 AM",
+    "id": "d6c425c6fc1b59f8e0566d05ed097138596fab6d0f6f443b1e5bca96378e823f",
+    "kind": 1
+  },
+  {
+    "content": "Reminds me of the nostr report... Stay classy nostr:nprofile1qqszd0fjceer9003d5z7wclvvlvgxq27hx0azf5sy53ycgxxeldszkqpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgqgcwaehxw309aex2mrp0yh8xmn0wf6zuum0vd5kzmqpzpmhxue69uhkummnw3ezuamfdejsks60gr",
+    "timestamp": "1732429648",
+    "date": "11/24/2024, 6:27:28 AM",
+    "id": "a5e3a690bad35b7bdb46baf5152c257adda29fc425b57eb11c6e2b1956102bf1",
+    "kind": 1
+  },
+  {
+    "content": "I've read maybe a third of it so far. The similarities with Bitcoin are striking, even though there are differences too. So far, there's a lot of uninteresting \"filler\" content though, in my opinion. But it may interest a certain type of reader, a type that I believe is pretty common, so maybe the \"filler\" can act as a magnet for people who otherwise wouldn't be interested in what I consider the main topic.",
+    "timestamp": "1732429457",
+    "date": "11/24/2024, 6:24:17 AM",
+    "id": "1aec9dc614dc44fee03e881d0e52b072703c99a43ff072b348c46886715e0e9d",
+    "kind": 6
+  },
+  {
+    "content": "You can wear merino for months before it starts to smell.",
+    "timestamp": "1732429430",
+    "date": "11/24/2024, 6:23:50 AM",
+    "id": "490fd2f1e086ca8159850120f1e35996b5758db4258680556cdd400bc014451f",
+    "kind": 1
+  },
+  {
+    "content": "Most convenient is shopinbit.com\nOrder your travel services via signal messages and pay over lightning.",
+    "timestamp": "1732429384",
+    "date": "11/24/2024, 6:23:04 AM",
+    "id": "c3a282da9c9ef9de1190b247bb2676653f2f2d58fca991518d45a4e20b54ea6e",
+    "kind": 1
+  },
+  {
     "content": "And imagine how this could work when nostr grows 10x, 100x?!",
     "timestamp": "1732397920",
     "date": "11/23/2024, 9:38:40 PM",
@@ -116,6 +389,13 @@
     "timestamp": "1732373910",
     "date": "11/23/2024, 2:58:30 PM",
     "id": "b516734a141d9305fafd924901733d97853aeca3eb2abcf808030a78f5529880",
+    "kind": 1
+  },
+  {
+    "content": "It's only happening in halving years.",
+    "timestamp": "1732373782",
+    "date": "11/23/2024, 2:56:22 PM",
+    "id": "901c9b59c0782ccdcdc9346a4d97a2ef500f68e343aa09c72947298340766ce2",
     "kind": 1
   },
   {
