@@ -1,5 +1,103 @@
 [
   {
+    "content": "Let's chat nostr:nprofile1qqspnzgrfett3asxcuj0gksje6z2zxzpvgd27uvz58m9vsuqh8zzw6cpr9mhxw309a382emdv9hzumt8w4ujumn9wsargwp58qq3vamnwvaz7tmzv46xztnwdaehgunfdshxxctdqydhwumn8ghj7en9v4j8xtnwdaehgu3wvfskuep0w3hku7gpewmsc",
+    "timestamp": "1732558947",
+    "date": "11/25/2024, 6:22:27 PM",
+    "id": "c49a39679533db3fcf168b7917026883d95319883d5a50cead08e32f2528daf5",
+    "kind": 1
+  },
+  {
+    "content": "Caddy rocks! nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7zwmlw6\n\nSimple method to Set up nip 05 -\n```\nexample.com {\n    root * /var/www/example.com\n    file_server\n\n    # Redirect HTTP to HTTPS\n    @http {\n        protocol http\n    }\n    redir @http https://{host}{uri}\n\n    # Handle Nostr Verification\n    handle /.well-known/nostr.json {\n        header Content-Type application/json\n        respond `{\n            \"names\": {\n                \"example_name\": \"npub1examplepublickeyhexvalue1234567890abcdef\"\n            }\n        }` 200\n    }\n\n    # Automatic TLS with email\n    tls example_email@example.com\n}\n```\n",
+    "timestamp": "1732545916",
+    "date": "11/25/2024, 2:45:16 PM",
+    "id": "e3238aecf8d6fd9de4e88b2fd92a981df179bd21fe12dab8508c978a597da82d",
+    "kind": 6
+  },
+  {
+    "content": "I'm getting rather excited about great script restoration, it enables numerous next level protocols, and can probably be restrained securely.\n\nA zk verifier onchain would be amazing.",
+    "timestamp": "1732540923",
+    "date": "11/25/2024, 1:22:03 PM",
+    "id": "3ccf4a6adfd2a05637c3a59f23e09498106a3143908c884835cc52631e2fa38e",
+    "kind": 1
+  },
+  {
+    "content": "We are proud that we have ZERO venture capital, everything is paid with our own hard earned money. \n\nAnd we are proud that we do not hold fiat long term. This would be a huge risk for us all.",
+    "timestamp": "1732540332",
+    "date": "11/25/2024, 1:12:12 PM",
+    "id": "538fe296d16c1f31a7ec77fbe0c5f641f7af0e85e52ace752243914a08b14465",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqswhhhf99z77pfg80s2c00z27rusxn2tzss7450n34krkwa2yadhtgpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhkummnw3ezuerkv36zuer9wcq3vamnwvaz7tmpw5h8yetvv9ukzcnvv5hx7un8lpntld you should consider this for your OS",
+    "timestamp": "1732540152",
+    "date": "11/25/2024, 1:09:12 PM",
+    "id": "cfc9a3eeb287fcac9ec0abd56c9dcb4869ffba5b90b2834f57db6d301ca4467c",
+    "kind": 1
+  },
+  {
+    "content": "Android 15 QPR2 is moving 6th/7th/8th generation Pixels to the Linux kernel's 6.1 LTS branch already used for 9th generation Pixels. This will reduce the kernel branches we need to support down to 6.1 and 6.6. There will likely need to be a yearly migration for all the devices.\n\nLinux kernel increased official support time for the Long Term Support (LTS) branches from 2 years to 6 years, mainly for Android devices using Generic Kernel Image (GKI) releases. However, it was recently reduced back to 2 years. Pixels will need to start migrating every year.\n\nIt will likely take around 6 months for a new branch to be considered stable enough with most regressions resolved and another 6 months to successfully integrate and ship it. Therefore, 2 years of support implies yearly migrations to keep up rather than doing it every 2 years.\n\nUpstream LTS releases are closely connected to Android. Moving to 6 years of support was likely closely connected to the Pixel 6 moving to 5 years of support. GKI made the drivers far more standalone and easy to migrate, and Linux moving back to 2 year support is likely related.\n\nGoogle has been testing newer kernels with the Pixel 6 and later for years. They have 6.6 and newer mainline kernels working fine already, it just takes a long time until the kernels are stable enough to consider shipping them. It's great that it's finally going to be happening.\n\nNewer kernels bring many new features and increasingly complexity which means they bring lots of new security bugs. Older kernels get an increasingly small subset of bug fixes including security fixes backported in the LTS releases. Newer kernels also bring new security features.\n\nUsing a year old kernel for around a year and then upgrading to a new year old kernel is likely the best balance that's available. With 2 year support time, they can focus on backporting more patches and providing more testing/stability since there will be far fewer LTS branches.\n\nIt's not commonly understood that Android itself only has a single LTS branch, which is current Android 15. It receives monthly and quarterly updates. It moves to a new LTS with a yearly update after it has gone through many months of public testing via Developer Preview / Beta.\n\nMany people including journalists covering it in tech news media wrongly believe Android's monthly security patch releases are the monthly releases. No, the monthly security patches are backports of a subset of the privacy/security patches to older releases. They're incomplete.\n\nAndroid's monthly releases have many changes beyond privacy/security patches even when it's not a quarterly or yearly release. They also have a lot more privacy/security patches than the Android Security Bulletin backports. They backport High/Critical severity patches, not all.\n\nThese updates are a major factor in why Pixels are the only Android devices with competitive security with iPhones. Pixels also have a lot of hardware security features not implemented on other Android devices. They also have higher quality of implementation across the board.\n\nGoogle will likely require other OEMs start upgrading kernel branches. However, standards for other OEMs are always far lower than the standards met by Pixels. For example, many important hardware security features are recommended in the CDD, not mandatory, or not even listed.\n\nWe aren't aware of any OEM trying to keep up with the monthly releases, only OEMs skipping all the monthly/quarterly releases but trying to ship the yearly release around the official launch. Only Samsung tries to keep up with the new security features, but lags quite behind.\n\nOther Android OEMs do the bare minimum required by Google unless their SoC vendor (generally Qualcomm) hands the feature to them on a silver platter with no additional cost. They largely ship the monthly security backports now, but with significant delays or skipping some months.\n\nThe reduction of support time for Linux kernel LTS releases from 6 years to 2 years is likely going to become a major problem for non-Pixel Android devices. Google will likely require them to upgrade but probably at a very delayed schedule where they fall out of support first.\n\nOur official hardware requirements are listed here:\n\nhttps://grapheneos.org/faq#future-devices\n\nYou can see support for Linux 6.1 or 6.6 is already a requirement for new devices. We'll be adding a requirement to upgrade the kernel branch because it will be essential with 2 year Linux LTS support.\n\n#GrapheneOS",
+    "timestamp": "1732540128",
+    "date": "11/25/2024, 1:08:48 PM",
+    "id": "9444dfd15591b0010d95fdddbdf2746b79f271515860d46c6351cd543c278e9a",
+    "kind": 6
+  },
+  {
+    "content": "A right is any action that does not harm the property of another individual.",
+    "timestamp": "1732539597",
+    "date": "11/25/2024, 12:59:57 PM",
+    "id": "86573f59a2099ec623f7976156224e637b00392ec00af5b9fdd1f8223f333549",
+    "kind": 1
+  },
+  {
+    "content": "Try it with wildling.shoes",
+    "timestamp": "1732539498",
+    "date": "11/25/2024, 12:58:18 PM",
+    "id": "9eed9afb460889ca94e8bdbe4fe96e92ba7734f4716c3fc42ef12aa38e6f3792",
+    "kind": 1
+  },
+  {
+    "content": "We need an orange pilling market, bounties to whoever onboards the desired merchant.\n\nnostr:nevent1qqsq43nlqy2epvky68mfr5eq0u46cqhw7ma97luqwud34dqca9apergpz3mhxw309ucnydewxqhrqt338g6rsd3e9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqyrhdv4u",
+    "timestamp": "1732527195",
+    "date": "11/25/2024, 9:33:15 AM",
+    "id": "b869280187f1f6ed5e627ca1b2bc1db0c1fe42fc9fc0e59e8137b6a367a3481f",
+    "kind": 1
+  },
+  {
+    "content": "Want to stack sats?\n\nGet wildling.shoes to accept bitcoin and I'll zap you some.",
+    "timestamp": "1732527151",
+    "date": "11/25/2024, 9:32:31 AM",
+    "id": "0ac67f011590b2c4d1f691d3207f2bac02eef6fa5f7f80771b1ab418e97a1c8d",
+    "kind": 1
+  },
+  {
+    "content": "This is a very useful summary of recent progress.\n\nnostr:naddr1qq25w7p3fechvktdv429g36w2e5k7j33fp9x7q3qwkrfe7kyksfn8s4zmnkr9c9ueakc8hz2fhu4mdayc0gfxa5pnxrsxpqqqp65wj77ajn",
+    "timestamp": "1732518966",
+    "date": "11/25/2024, 7:16:06 AM",
+    "id": "b7726eee90e084156d833d4469aa5d703e0d958ecc55c6cec7502cd9711fb74b",
+    "kind": 1
+  },
+  {
+    "content": "Great, I'm very happy you read it, it was made for you!",
+    "timestamp": "1732508408",
+    "date": "11/25/2024, 4:20:08 AM",
+    "id": "f000bb3bd4dfe3a9d6546700ea61ad6f8951e13723bc5f05cbbb26ded3cff0b0",
+    "kind": 1
+  },
+  {
+    "content": "Read it a few weeks ago thanks to your recommendation. Great inspiration and a surprising alignment with what I'm trying to do with nostr:nprofile1qqs2xugc5jyguqkj36rk0syv4tmnkjdtmtperttl7x9rqjy3ustdcvcppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qg6waehxw309aek2mnyd96zumn0wdnxcctjv5hxxmmd9uxa0uz8! Lots of work to be done... 🫡\n\nhttps://i.nostr.build/mKSYmmSaUJRpbqJt.jpg",
+    "timestamp": "1732508343",
+    "date": "11/25/2024, 4:19:03 AM",
+    "id": "a944d82418641ed877bb62b182201b8ceabff4f86e51cce1ccffd033d71a5671",
+    "kind": 6
+  },
+  {
+    "content": "There must have been something much earlier...\nnostr:nprofile1qqsvrlrhw86l5sv06wkyjgs6rrcekskvk7nx8k50qn9m7mqgeqxjpvgpzdmhxue69uhhqatjwpkx2urpvuhx2ue0tc48yt did diagon alley make a real trade?",
+    "timestamp": "1732508330",
+    "date": "11/25/2024, 4:18:50 AM",
+    "id": "7bc8d3909752841469591c3e6e4777aba309014c2ef889b39da9381946c9c5e3",
+    "kind": 1
+  },
+  {
     "content": "I already reached out!",
     "timestamp": "1732472405",
     "date": "11/24/2024, 6:20:05 PM",
