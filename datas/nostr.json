@@ -1,5 +1,54 @@
 [
   {
+    "content": "For what it's worth, this is almost how the Wasabi coinjoin coordination service works, so this model is proven with 7+ years of deployment.\n\nIt's magical tech, use it!",
+    "timestamp": "1732634259",
+    "date": "11/26/2024, 3:17:39 PM",
+    "id": "b7f34602b30195394b725f34f0fb21f707717c8335c802270a3b93c03b35290c",
+    "kind": 1
+  },
+  {
+    "content": "If you run a web shop, a web hosting business or you offer VPS rental etc. you might want to use Cashu to improve your customer's privacy and avoid having to handle and store toxic data. \n\nHere is how a VPS provider could use Cashu to unlink payments from purchases:\n\n- Costumer logs in\n- Charges their account to obtain Ecash minted by your own service (for example Bitcoin in, Ecash out or Fiat in, Ecash out)\n- Ecash appears as the user's balance\n- User uses Ecash to rent a VPS, paying it back to you\n\nWe made everything so easy that this can be integrated into your website using a simple wallet library. From the user's perspective, nothing changes compared to a classical top-up and purchase experience. \n\nThat way, you wouldn't need to know which credit card transaction belongs to which VPS purchase. No custodial risk eitther, you're the service provider.\n\nWin win.",
+    "timestamp": "1732634140",
+    "date": "11/26/2024, 3:15:40 PM",
+    "id": "c3246f2e554f8ad8bd8d5b70c7af936bf71a5255b749d37f1b6cda4fc35dbb22",
+    "kind": 6
+  },
+  {
+    "content": "Running #whitenoise https://i.nostr.build/bSGwTO2FJftgbbsI.jpg",
+    "timestamp": "1732633931",
+    "date": "11/26/2024, 3:12:11 PM",
+    "id": "7c9d977a28fcfee986a15028fb72d5135e7675d04114bdc4ce9f8ea62cb7475c",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7anfw3hhytnwdaehgu339e3k7mf0qyghwumn8ghj7mn0wd68ytnhd9hx2tch2deau",
+    "timestamp": "1732633691",
+    "date": "11/26/2024, 3:08:11 PM",
+    "id": "f534b52dcad00a58d4a2f351f12ff511b892407e15892cc8606d43074518b5b8",
+    "kind": 1
+  },
+  {
+    "content": "doit.gif",
+    "timestamp": "1732616239",
+    "date": "11/26/2024, 10:17:19 AM",
+    "id": "88ab4d1b0febc7075d6b52a7e39d7b227e2d23872726cf86821853bc96caa8c5",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqstnem9g6aqv3tw6vqaneftcj06frns56lj9q470gdww228vysz8hqpzpmhxue69uhkummnw3ezuamfdejsz9thwden5te0v4jx2m3wdehhxarj9ekxzmnyqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aq3z54ds good read 855, if you want another response to the ecb paper, check out this one.\n\nnostr:nevent1qqs2zxzjhn6pwetx838smgk06hkel94nn63c4ce93s4c7c8qqze7k4qpzemhxue69uhhyetvv9ujumt0wd68ytnsw43z7q3qsma7q7czgjjgqva5x6lv32jv9qhd8grwulvu0tkj88j4z4qyapwsxpqqqqqqzf5xft9",
+    "timestamp": "1732616055",
+    "date": "11/26/2024, 10:14:15 AM",
+    "id": "4c14f6c49576b38c8afe9fb6c07b8d5ff9a4918d921348211f971edbb4339ccb",
+    "kind": 1
+  },
+  {
+    "content": "When did you last rotate your passwords?\nToday is a good day to improve your opsec.",
+    "timestamp": "1732606223",
+    "date": "11/26/2024, 7:30:23 AM",
+    "id": "79d495aeee9114dceaed28a24075968c0c761c9afc6b005e04fcf9c0c501a369",
+    "kind": 1
+  },
+  {
     "content": "Let's chat nostr:nprofile1qqspnzgrfett3asxcuj0gksje6z2zxzpvgd27uvz58m9vsuqh8zzw6cpr9mhxw309a382emdv9hzumt8w4ujumn9wsargwp58qq3vamnwvaz7tmzv46xztnwdaehgunfdshxxctdqydhwumn8ghj7en9v4j8xtnwdaehgu3wvfskuep0w3hku7gpewmsc",
     "timestamp": "1732558947",
     "date": "11/25/2024, 6:22:27 PM",
