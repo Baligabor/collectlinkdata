@@ -1,5 +1,110 @@
 [
   {
+    "content": "Why not something like a ring signature or equivalent ZK proof?",
+    "timestamp": "1732797440",
+    "date": "11/28/2024, 12:37:20 PM",
+    "id": "60fe126b8a5dba7aa6afca7a36cb54714bf5d3210dc461c35046e108dd4f8ee1",
+    "kind": 1
+  },
+  {
+    "content": "This is exactly why we built Vexl to remove all of those hurdles between you and buying bitcoin. It doesn’t have to be difficult to do. \n\nUse Vexl meet friends and friends and friends. \n\nBuy bitcoin, buy honey, buy eggs, hire a plumber or a full stack developer.\n\nP2P the way it was supposed to be.\n\nnostr:note14e9ma5l47u3jvup80jfcspusgq2fcn707ywngze67v225ww96d7qzt35az",
+    "timestamp": "1732790786",
+    "date": "11/28/2024, 10:46:26 AM",
+    "id": "d4766687d7aac6018a05205711b97135abdbfdabe13498e4c7370586ae6c0158",
+    "kind": 6
+  },
+  {
+    "content": "Guess what inspired the creation of vexl...",
+    "timestamp": "1732790777",
+    "date": "11/28/2024, 10:46:17 AM",
+    "id": "ceb4a2759307e4e3bd076d4cd8e86e7f4ea07e6e41f88291d59358e38c180f72",
+    "kind": 1
+  },
+  {
+    "content": "I don't think this does what you want it to do, or am I missing something?\n\nMalory creates CAT.\nMalory presents CAT and mints BATs.\nMalory sends BAT to Eve.\nEve presents BAT in her request for protected endpoint.\n\nMalory and Eve cannot rely on the mint to enforce double spending protections, but they can still copy and paste the BAT.",
+    "timestamp": "1732779361",
+    "date": "11/28/2024, 7:36:01 AM",
+    "id": "7901399fc66f106a0688b2e5c8dd6be435ac6ff43201e3d8e78d55357b831b46",
+    "kind": 1
+  },
+  {
+    "content": "James Web Telescope? 👀",
+    "timestamp": "1732779142",
+    "date": "11/28/2024, 7:32:22 AM",
+    "id": "ea6534dbcc11f43499653c83a6e9142dd5bf3bea49f4ee6b4b686ae322aa420c",
+    "kind": 1
+  },
+  {
+    "content": "What's JWT and JWS?\nshould probably be defined in the nut",
+    "timestamp": "1732777948",
+    "date": "11/28/2024, 7:12:28 AM",
+    "id": "84896b7d878d084fd107c3e8ec825e2e38e0aa607fad95004a1ace98216c56e1",
+    "kind": 1
+  },
+  {
+    "content": "I heard you like ecash, so we used ecash to secure ecash mints.\n\nBlind authentication will allow mint operators to restrict the use of their mint to only registered users, while still providing them great privacy. \n\nThis is one of the most-requested features for Cashu.\n\n https://m.primal.net/Mibx.png \n\nThe spec is now open for discussion: https://github.com/cashubtc/nuts/pull/198",
+    "timestamp": "1732777659",
+    "date": "11/28/2024, 7:07:39 AM",
+    "id": "c29602c93e3af3be6bdad27087a14c133f27c808770a008ca120e782ff4136b1",
+    "kind": 6
+  },
+  {
+    "content": "Huge release!\nThanks",
+    "timestamp": "1732777569",
+    "date": "11/28/2024, 7:06:09 AM",
+    "id": "4258d947f90c53d79aa314bdead372de412478989dc8be36a39d21fb5e440e15",
+    "kind": 1
+  },
+  {
+    "content": "#Amethyst v0.93.0: Blossom, Olas, Around Me feeds and Interactive Stories. \n\nAdds support for displaying NIP-63 Interactive Stories\nAdds support for Blossom media servers\nAdds support for Olas' Image feeds\nAdds support for Around Me feed with posts that only show up in that location\n\nNew Features: \n- New Android Image/Video Picker\n- Adds support for pronouns on profile\n- Migrates Video uploads from NIP-94 to NIP-71 Video events\n- Migrates Picture uploads from NIP-94 to NIP-68 Picture events\n- Adds support for BUD-01, BUD-02, and BUD-03\n- Adds support for NIP-22 Comments\n- Adds nip05 field to the hidden words filtering by nostr:nprofile1qqsv4zwtz8cuwh2mvc3zdrl5853g365t9j6mn25edlul7uz0eyzt0zcpz4mhxue69uhkummnw3ezummcw3ezuer9wchs8lukyd\n- Adds support for q tags with addresses\n- Adds search.nos.today to bootstrapping relays for search\n- Adds DM and Search default buttons to the relay screens\n- Adds hidden words filter to search, hashtag and geotag feeds\n- Applies hidden words even to hashtags that were not included in the content of the event.\n- Adds support for saving reactions, zaps, translations user preferences on private outbox relays\n\nUI Improvements: \n- Adds animations to the zap, reaction and boost popups by nostr:nprofile1qqsrv06lgp4ht6m0sxnj4gdy389k5a6j8chpfyllrcvdaanyrhpgy6sppemhxue69uhkummn9ekx7mp0qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uq3qamnwvaz7tmwdaehgu3wd4hk6tcn9dn9s\n- Lighter chat bubbles\n- Date separators on chats\n- Adds unfollow to note dropdown by nostr:nprofile1qqsv4zwtz8cuwh2mvc3zdrl5853g365t9j6mn25edlul7uz0eyzt0zcpz4mhxue69uhkummnw3ezummcw3ezuer9wchs8lukyd\n- Improves (Show More) presence to only when it actually makes a difference.\n- Adds UI for when the location permission is rejected.\n- Improves error message for the signup page when the display name is blank\n- Adds extra padding for the zap setup screen\n- Pre-process search to avoid showing and hiding posts after hidden words where processed by the UI.\n- Rotate on full screen video if the device orientation is not locked by nostr:nprofile1qqswc4nrhvp4lrjct0ayy0ps8f2hvj8e2guucp63dwcx6m6e8pka9fqpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshsz8thwden5te0dehhxarj9e3xjarrda5kuetj9eek7cmfv9kz7m6x5fq\n\nBugFixes: \n- Fixes account creation that follows itself\n- Fixes translations of http urls\n- Fixes search bug that mixed geohashes and hashtags\n- Fixes issue with the order of multiple same-author events in a thread\n- Fixes drafts appearing for other logged in accounts by nostr:nprofile1qqsv4zwtz8cuwh2mvc3zdrl5853g365t9j6mn25edlul7uz0eyzt0zcpz4mhxue69uhkummnw3ezummcw3ezuer9wchs8lukyd\n- Fixes jumping of scroll when the thread updates\n- Fixes app hanging when switching to accounts due to waiting to decrypt the blocked user list that might not exist\n- Fixes initial decryption of mutelists when using amber by nostr:nprofile1qqs827g8dkd07zjvlhh60csytujgd3l9mz7x807xk3fewge7rwlukxgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qgswaehxw309ahx7um5wghx6mmd9usjfpck\n- Fixes crash on empty p-tags on new replies nostr:nprofile1qqsv4zwtz8cuwh2mvc3zdrl5853g365t9j6mn25edlul7uz0eyzt0zcpz4mhxue69uhkummnw3ezummcw3ezuer9wchs8lukyd\n- Fixes translations preferences changes running on the main thread by nostr:nprofile1qqsv4zwtz8cuwh2mvc3zdrl5853g365t9j6mn25edlul7uz0eyzt0zcpz4mhxue69uhkummnw3ezummcw3ezuer9wchs8lukyd\n- Fixes some images being saved as videos nostr:nprofile1qqsv4zwtz8cuwh2mvc3zdrl5853g365t9j6mn25edlul7uz0eyzt0zcpz4mhxue69uhkummnw3ezummcw3ezuer9wchs8lukyd\n- Fixes missing notifications when multiple accounts tried to decrypt it\n- Fixes lack of zap progress updates when there is a private zap the user cannot decrypt or when a nwc payment fails.\n- Fixes saving the scrolling position when navigating between multiple threads.\n- Fixes rendering cache of notes in thread view which kept replies in the wrong thread level\n- Fixes reply level calculation caching\n- Fixes poll's background rendering with the right percentages\n- Fixes \"null\" strings on profile fields. \n\nCode Quality Improvements:\n- Refactors FeedStructures to prepare for custom feeds\n- Updates Account architecture to operate feeds with location\n- Custom Empty Feed Screen for Notifications\n- Fully Deprecates note1, removing the last usages of the standard\n- Removes unused encryption fields from NIP-94\n- Moves the parallel processing amber calls to a utils class\n- Refactors location to operate as a flow\n- Unifies location Flows and geoHash Flows into one\n- Make location flows react to changing location permissions on the fly\n- Moves NIP-44 test model classes to a new file\n- Improves GitHub actions to prepare debug apks in every commit\n- Upgrades to Coil 3\n- Updates AGP, kotlin, runtime, compose, camera, corektx, media3, firebase, fragment, navigation, jna, jackson, accompanist, kotlin serialization, mockk, coroutines-test and kotlin collections\n\nPerformance: \n- Improves thread preloading\n- Adds a cache for reply levels when viewing threads.\n\nUpdated translations: \n- Czech, German, Swedish and Portuguese by nostr:nprofile1qqsv4zwtz8cuwh2mvc3zdrl5853g365t9j6mn25edlul7uz0eyzt0zcpz4mhxue69uhkummnw3ezummcw3ezuer9wchs8lukyd\n- Dutch by nostr:nprofile1qqs82l74z7g3x8j3avpn2wrjrwn855nyvmpxa4v5pftfvtv5lrvrc5cpz9mhxue69uhkummnw3ezuamfdejj7tk0drp\n- French by nostr:nprofile1qqs8av5uzf4nv2q80chrmp3mj9a9dd6zjw4fmz56hsn2gzar72rxhtcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcuvd26f\n- Polish by nostr:nprofile1qqsdyfz0ewdhmgp3a4r3pxvezx5r8yalrgvjn38v2ml5qrusnv7yywg25ynng\n- Chinese by nostr:nprofile1qqsyxnuhnymz0u0xru2watmqe25vlh8vzzje9jhlsfgvsff9942gc9gpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcpr9mhxue69uhhyetvv9ujumt0d4hhxarj9ecxjmnt9uq3kamnwvaz7tmjv4kxz7fwwajhxar9wfhxyarr9e3k7mf0ey7g93\n- Slovenian by nostr:nprofile1qqsqqqqqqp0fmkspg7w8d305ln96a0jw0ptwqtuwskkm5pddv2kkjfcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qg3waehxw309ahx7um5wgh8w6twv5hsv9puet\n- Thai by nostr:nprofile1qqsxdhmq2cke8xk6scfyxeyfj3dyancavg6xk0v50r023gec7vsrceqpp4mhxue69uhkummn9ekx7mqpzpmhxue69uhkummnw3ezuamfdejsz9rhwden5te0wfjkccte9ejxzmt4wvhxjmc25yu8l\n- Bengali by nostr:nprofile1qqsgs9hgjw87vz36jf2r83m5zree2q87zvs8s7kty9jljdz7wprytyspremhxue69uhkummnw3ezu6m0de5kueedv3jkwunpv9nzumnv9uq3kamnwvaz7tm5d4cz6un9d3shjtnrv4ekxtn5wfskgef0qy28wumn8ghj7mn0wd68yt3k8quzummjvuhsg63aw2\n- Hindi by nostr:nprofile1qqs88dt78wgnzvaph6fcstfvsd98xc2qs8eg8tllwv2zlutu8ehec2cpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qg4waehxw309aex2mrp0yhxgctdw4eju6t09u24r32h\n- Spanish by nostr:nprofile1qqs07tjpyvvlq9ugdpax8h3jfrpwn7kr72k3tc7ky83tggn4et9eangprpmhxue69uhkv6tvw3jhytnwdaehgu3wwa5kuef0qyghwumn8ghj7mn0wd68ytnhd9hx2tcpzamhxue69uhhyetvv9ujuen0w4h8gctfdchxvmgacqrg2\n- Hungarian by nostr:nprofile1qqs88rmfrp9wmfn4qq4kslly0j8futmmrgn86mu3gkc3jvcjl97p3mcpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcpz4mhxue69uhkummnw3ezummcw3ezuer9wchsz8nhwden5te0dehhxarj94c82c3wwajkcmr0wfjx2u3wdejhgtcqngjsj and nostr:nprofile1qqsxekg0s8kxpcrka8ccwztv2m73kz6jy0ur8f7jc04rwr5p44w5acspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcxc5pc7\n- Persian by nostr:nprofile1qqsvq73w5j9kw573rtff6c3fyh953w45328n3625apdwc3548gr49gspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qg3waehxw309ahx7um5wgh8w6twv5hsw0e34v",
+    "timestamp": "1732777505",
+    "date": "11/28/2024, 7:05:05 AM",
+    "id": "b82fd1b1a4f0217e40515567479cf0dfdead02da0f0a0a7dcb9d85d2d6d7340b",
+    "kind": 6
+  },
+  {
+    "content": "Yeah, how is this even allowed...",
+    "timestamp": "1732777303",
+    "date": "11/28/2024, 7:01:43 AM",
+    "id": "cf3cb5d7ab6e4434db9c1db19a1fe9de0948d9c341133e39f6d8decad6b62eea",
+    "kind": 1
+  },
+  {
+    "content": "Oh yes, visiting onion addresses is not supported in most legacy browsers, Tor should work best there.\nBrave browser can visit onion sites though, so maybe try that.",
+    "timestamp": "1732776696",
+    "date": "11/28/2024, 6:51:36 AM",
+    "id": "497661cd2cafbfdc8c7b0651cb7d8e227d15215f4c9c42a762fcbf3230cdd727",
+    "kind": 1
+  },
+  {
+    "content": "Any?\nSome might break with Tor browser, but then jus fuse a legacy browser and route all tragic through Tor anyhow.",
+    "timestamp": "1732776198",
+    "date": "11/28/2024, 6:43:18 AM",
+    "id": "027b0e791d02512e1d8332247ff279a4b8d6949593cffac068ebcae5d81e05de",
+    "kind": 1
+  },
+  {
+    "content": "Not only the YouTube adds before, in the middle, and after the video, but also the in-video add reads and self promotion...",
+    "timestamp": "1732776023",
+    "date": "11/28/2024, 6:40:23 AM",
+    "id": "d8b8b2f1160456bf6cb97766c517dc33a503167cf49988191a3f335d53578d27",
+    "kind": 1
+  },
+  {
+    "content": "How private is a system really, if an outside observer knows the number of transactions?",
+    "timestamp": "1732775954",
+    "date": "11/28/2024, 6:39:14 AM",
+    "id": "80a63d6a916e78d74b6784b6f030550e8a0587f6881d466283cb5b4a143ffd11",
+    "kind": 1
+  },
+  {
+    "content": "𝚊𝚗𝚘𝚗𝚢𝚖𝚒𝚝𝚢 𝚊𝚗𝚍 𝚙𝚛𝚒𝚟𝚊𝚌𝚢 𝚊𝚛𝚎 𝚝𝚠𝚘 𝚜𝚒𝚍𝚎𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚊𝚖𝚎 𝚌𝚘𝚒𝚗 - 𝚋𝚘𝚝𝚑 𝚊𝚛𝚎 𝚎𝚜𝚜𝚎𝚗𝚝𝚒𝚊𝚕 𝚏𝚘𝚛 𝚙𝚛𝚘𝚝𝚎𝚌𝚝𝚒𝚗𝚐 𝚘𝚞𝚛 𝚊𝚞𝚝𝚘𝚗𝚘𝚖𝚢, 𝚍𝚒𝚐𝚗𝚒𝚝𝚢, 𝚊𝚗𝚍 𝚏𝚛𝚎𝚎𝚍𝚘𝚖 𝚒𝚗 𝚊 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚠𝚘𝚛𝚕𝚍",
+    "timestamp": "1732775880",
+    "date": "11/28/2024, 6:38:00 AM",
+    "id": "2464c4684f0cbf20013bee878be64fffa61cc36b4c88db767bd5c0dbc93bc2f3",
+    "kind": 6
+  },
+  {
     "content": "Long takes are refreshing, even when unedited.",
     "timestamp": "1732702758",
     "date": "11/27/2024, 10:19:18 AM",
