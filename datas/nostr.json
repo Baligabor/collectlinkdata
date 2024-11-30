@@ -1,5 +1,152 @@
 [
   {
+    "content": "No candidates yet. But hopefully a new dev shows up with an amazing sync machine. If you are out there, start the project, make it open source, release the first versions and apply to OpenSats. You might get 1BTC worth of grants and zaps right away.\nnostr:nevent1qqstd4e7rgeq7g4fpu0867umltgvyvrpgzagj0w2cns6nxgcpgqrf4gpzemhxue69uhkummnw3ex2mrfw3jhxtn0wfnj7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqqqqzxne0js",
+    "timestamp": "1732903264",
+    "date": "11/29/2024, 6:01:04 PM",
+    "id": "69857e0aac5f57105204648439094bcadd51129ad148b33189536f61a7631598",
+    "kind": 6
+  },
+  {
+    "content": "The latest nostr:nprofile1qqsts0n0s20fk0s087ydcd7zj20ajv2t90m680zr6f0x5gp6w0p8wkqpzdmhxue69uhhqatjwpkx2urpvuhx2ue00d7ql8 release has a one time single user crawler implemented.",
+    "timestamp": "1732903069",
+    "date": "11/29/2024, 5:57:49 PM",
+    "id": "66a9d20cee9fddff7b8b945c03ceb1ebaf40ab16f40f13222a2794a351e19084",
+    "kind": 1
+  },
+  {
+    "content": "Very close. We just need the crawler app. But Citrine is a fully-fledged relay by now. Citrine might need some performance tweaks to receive 1000s of events a second, but the rest is there. \n\nnostr:nevent1qqswqfypnhm27ewe8y5ck0sfpcutek6rkhj5xrnlzs0p003hveu7nnqpzemhxue69uhkummnw3ex2mrfw3jhxtn0wfnj7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqqqqz43hz67",
+    "timestamp": "1732903011",
+    "date": "11/29/2024, 5:56:51 PM",
+    "id": "fa50e0f7296daee156231b9c3f376db47e75af7bea1b57920b920e548c75f533",
+    "kind": 6
+  },
+  {
+    "content": "Who's gonna build the crawler app?\nSeems like a zapworthy venture ",
+    "timestamp": "1732903007",
+    "date": "11/29/2024, 5:56:47 PM",
+    "id": "b6d73e1a320f22a90f1e7d7b9bfad0c2306140ba893dcac4e1a999180a0034d5",
+    "kind": 1
+  },
+  {
+    "content": "My dream nostr experience of the phone is a local relay, a crawler that downloads all relevant events from other relays through tor, and a bunch of client apps without network connection that look up from that local relay.\n\nHow far away are from this on android?\nnostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpz9mhxue69uhkummnw3ezuamfdejj7qgwwaehxw309ahx7uewd3hkctcscpyug nostr:nprofile1qqs827g8dkd07zjvlhh60csytujgd3l9mz7x807xk3fewge7rwlukxgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qgswaehxw309ahx7um5wghx6mmd9usjfpck",
+    "timestamp": "1732902473",
+    "date": "11/29/2024, 5:47:53 PM",
+    "id": "e024819df6af65d939298b3e090e38bcdb43b5e5430e7f141e17be376679e9cc",
+    "kind": 1
+  },
+  {
+    "content": "Can it download events from my web of trust as well?",
+    "timestamp": "1732901856",
+    "date": "11/29/2024, 5:37:36 PM",
+    "id": "8fa14566ff24220a39c07efc0ca5e0988bd534b673f73e1d98f1495fc1ebc318",
+    "kind": 1
+  },
+  {
+    "content": "Does this only download events from other relays once, or does it sync continuesly?",
+    "timestamp": "1732901795",
+    "date": "11/29/2024, 5:36:35 PM",
+    "id": "c5c951882af10b49ef9000825bf4acde09ce567c5aeade8739108ab2dcbacf92",
+    "kind": 1
+  },
+  {
+    "content": "Always having to click to trust this source \nNo category view to browse new apps\nNo automatic updates in the background",
+    "timestamp": "1732901461",
+    "date": "11/29/2024, 5:31:01 PM",
+    "id": "699aced78a620bc3bb5757f09a4cd4a7bbcbac181f992234f8800bce7c1a600c",
+    "kind": 1
+  },
+  {
+    "content": "So, how to configure amethyst such that it only connects to a local citrine relay, but the public outbox model relay list is still correct?",
+    "timestamp": "1732901316",
+    "date": "11/29/2024, 5:28:36 PM",
+    "id": "cc70104ee48dca6938dda31416aa692c234fa93ebc029ec96659dcbb698a5d65",
+    "kind": 1
+  },
+  {
+    "content": "Absolutely massive release!\nA full backup of all your notes on the phone.\nA nostr full node basically.\nBeautiful, thanks a lot!",
+    "timestamp": "1732901107",
+    "date": "11/29/2024, 5:25:07 PM",
+    "id": "137ebbc1f4a02ba9a85ff821a73716121da106472e458e4e13d774e496933abd",
+    "kind": 1
+  },
+  {
+    "content": "No more x spaces, thats great!",
+    "timestamp": "1732892088",
+    "date": "11/29/2024, 2:54:48 PM",
+    "id": "ec42e3e8a5d8bf97cb57061e7b7ae3be90f598de1acc4b236bc3cbc101dd6549",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin Optech newsletter #331 is here:\n\n- summarizes several recent discussions about a Lisp dialect for Bitcoin scripting\n- adds a Basic Bitcoin Lisp Language topic\n- summarizes popular Q&A from Stack Exchange\n- Optech Newsletter #331 Recap on Riverside\nhttps://bitcoinops.org/en/newsletters/2024/11/29/\n\nAnthony Towns made several posts about a continuation of his work on creating a Lisp dialect for Bitcoin that could be added to Bitcoin in a soft fork...\nhttps://bitcoinops.org/en/newsletters/2024/11/29/#lisp-dialect-for-bitcoin-scripting\n\nBasic Bitcoin Lisp language (bll) is a proposed scripting language that could be added to Bitcoin in a soft fork...\nhttps://bitcoinops.org/en/topics/basic-bitcoin-lisp-language/\n\nSelected Q&A from Bitcoin Stack Exchange:\n\n- How does ColliderScript improve Bitcoin?\n- Why do standardness rules limit tx weight?\n- Is the scriptSig spending a P2A output expected to be empty?\n- What happens to the unused P2As?\n- Why doesn’t Bitcoin’s PoW algorithm use a chain of hashes?\n- Clarification on false value in Script\n- What is this micro tx?\n- Are there any UTXOs that cant be spent?\n- Why wasnt BIP34 implemented in the coinbase tx’s locktime or nSequence?\n\nhttps://bitcoinops.org/en/newsletters/2024/11/29/#selected-qa-from-bitcoin-stack-exchange\n\nBitcoin Optech will host an audio recap discussion of this newsletter with special guest AJ Towns on Riverside.fm Tuesday at 20:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.fm/studio/bitcoin-optech",
+    "timestamp": "1732892066",
+    "date": "11/29/2024, 2:54:26 PM",
+    "id": "1161c7c428a01d77895907cb5be69d63c67c25eb25b5f196c10b51985c6dc611",
+    "kind": 6
+  },
+  {
+    "content": "Then live on a floating island.\nThey can get quite big.",
+    "timestamp": "1732891421",
+    "date": "11/29/2024, 2:43:41 PM",
+    "id": "7460a836fe44febe32884c38fa5014e45a6d4681fd7a40fc69a96a101bae6793",
+    "kind": 1
+  },
+  {
+    "content": "https://www.youtube.com/watch?v=8b54yBIZ0jA\nhttps://www.youtube.com/watch?v=WVJAH6tZnx0",
+    "timestamp": "1732891366",
+    "date": "11/29/2024, 2:42:46 PM",
+    "id": "169d6741150b63014a0b90af3604210dc846ad71f69e54573ad8df3ce14162a9",
+    "kind": 1
+  },
+  {
+    "content": "I'm glad you enjoyed it!",
+    "timestamp": "1732890995",
+    "date": "11/29/2024, 2:36:35 PM",
+    "id": "a14dc328950da99ed7c0b04937633f49da69c8953cb1260faf06e4bc5fcb9c36",
+    "kind": 1
+  },
+  {
+    "content": "Listening to that book, narrated by Max, was such a pleasure. I played it while lounging in the sun every day for weeks. ",
+    "timestamp": "1732890986",
+    "date": "11/29/2024, 2:36:26 PM",
+    "id": "bf9df682ff8f12fe7873df4f6a5815699d012865683b70d2e37c476c0cfea477",
+    "kind": 6
+  },
+  {
+    "content": "I’m back with another essay from The Cypherpunk’s Bible. \n\nA Lodging of Wayfaring Men by Paul Rosenberg. \n\nIf you haven’t read this book I encourage you to. Recently nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt recorded the audio version which you can find here on Paul’s website. \n\nhttps://freemansperspective.com/audiobook-a-lodging-of-wayfaring-men/\n_____________________________ \n\nFarber’s Second Essay\n\nHistory books tell the stories of rulers. Some are kings, some emperors, some presidents or prime ministers, and some bear more exotic titles. A few of them were more or less benevolent, and others were tyrants. Most were in between, but they all held one thing in common: they maintained a monopoly on the use of force in their territories. They reserved the right to use coercion and prevented all others from doing so. \n\nStripped of romantic rhetoric and patriotic emotion, the essence of rulership is the ability to maintain a monopoly of force. Argue if you like, but you will be arguing with the dictionary. Every reform of government and rulership to date has kept the central mechanism of coercion in place. Did some governmental reforms lead to improvements? Certainly, they made things considerably less bad. But they left centralized coercion in place, and for every good leader that has come along, such as a Washington or a Churchill, we’ve had several times as many Stalins or Maos.\n\nI have friends who study such things, and they assure me that roughly 2% of all people would be dictators if they had the opportunity. If they could oppress the world, they would. Another 12% or so are would-be facilitators—that is, when one of the 2% rises to power, these people are glad to fill a slot and vigorously exercise power over others. Like it or not, these people are out there, and they are drawn to the levers of power. Once in a while, they have their turn. When they do, innocent people die in large numbers. Over 100 million died this way in the past century. Try to comprehend that: 100 × 1,000 × 1,000 people. Boys, girls, men, women, teenagers—short, tall, strong, weak, dark-skinned, and light-skinned—all of them dead because twisted people were able to take hold of centralized force.\n\nIf you’ve wondered why some of us are so determined to keep governments out of cyberspace, please understand that this is why. We’ve had enough of centralized force. We are removing the whole mechanism. We think it was a mistake from the beginning. We don’t want there to be anything for the 2% to grab. \n\nIf you want coercive rulership, keep it. We won’t try to take it away from you, but we have chosen to opt out. Don’t try to reign us back in. We won’t try to make you live our way, and you don’t try to make us live your way. We are not your property. \n\nOur arrangement has no central mechanism of coercion, and it has been working quite well for several years now. We like it. This new arrangement has, however, surprised us in several ways. One of the things we discovered was that once you remove the mechanisms of coercion, you remove something else: politics. Politics is the art and science of managing centralized coercion. This is the reason political debates are so infuriating. The final decision leads to an opposable force. Once the political process is completed, you have the choice either to obey or to be punished. \n\nCoercion is the sine qua non of politics—the thing without which politics would not be politics. Indeed, if you remove coercion, politics becomes something else: economics. \n\nThings work here by economic means. If you don’t like the way a market operates, just move to a different one. Or, if no one does it the way you think is right, start your own. There are no protected services here and nothing mandatory. You may opt out of anything you don’t like or offer any service you like. We couldn’t stop you if you wanted to start a communist collective. The only limitation would be that you could not force anyone to join or remain part of your collective. We have no mechanism for that. The entire system is built around the idea that persuading people to trade with you is moral and that forcing them is not.\n\nWe think our ideas are right, but we will not impose them on you. You can hold whatever ideas you like; just don’t impose them on us. \n\nAll this being said, what really concerns your rulers—and what is driving them to demonize us—is that people are leaving their systems and joining ours. Your children are enjoying the private digital economy in huge numbers. \n\nNo, the young people are not joining us for historical and philosophical reasons. Those things are mostly for us older people. Young people, as always, are looking for adventure and opportunity. In your regulated world, very few people ever get much real adventure or overwhelming success. They read about such things in novels and celebrity tabloids; they see them in movies, but very few actually experience such things. Our world, on the other hand, has adventure and opportunity in wholesale quantities. Your children may have to work hard to get it, but a big life is waiting for them if they wish to earn it.\n\nIn our world, intelligence, daring, and perseverance are rewarded far more directly than in your regulated world. Here, you can be a complete unknown with no connections and no wealth. But if you can learn to provide excellent ideas or services, you can get rich. No one here knows or cares about the color of your skin, your sex, who you sleep with, or anything of the sort. If you can produce, you’re a player. Want to go from rags to riches? Pick a valuable skill in our world, throw yourself into it with all your might, excel at it, and start selling it. Effort is all you need. You don’t need friends in the right places, only value to offer.\n\nAnd there’s more. The truth is that the best rewards come to those who are first at something new. Jobs and Wozniak were the first to produce a good personal computer, but other people would’ve done the same thing within a year or two. They got to do all the cool stuff only because they were first. You can say the same thing for every other discovery or invention. Human knowledge is built piece upon piece, and new discoveries follow more or less in that sequence. If you want to do the really fun things, you have to get to the front of the line. \n\nThe stream of human knowledge is now firmly rooted in our world. The frontier of Alvin Toffler’s third wave is in cyberspace, and that’s where the front of the line can be found.\n\nNow, let me tell you about the future of the third wave: The central ideal of your old world is coercive authority. This is embodied not only in rulership but in schools, families, religions, and most every area of life. We were all born into a world that told us, “Do what you’re told, or we’ll hurt you.” Our parents told us that. Our teachers imposed it on us. Our gods were envisioned this way. And certainly, the rulers of the Earth operate this way. From birth to death, continually, it confronts you all.\n\nHaving lived with these ideas for a 100 generations, humanity is used to this and can survive it moderately well. But it is far from ideal.\n\nFrom birth on, you were trained to obey or else—to worry that you might do something wrong without realizing it. It puts you in a sort of perpetual cringe, unconsciously cowering in expectation of the next blow. Being used to it is no reason to think it isn’t damaging. \n\nWe have eliminated this. It has no root here, no mechanism. This is having an effect on the world already, although it certainly has a long way to go. But it is here, and it is not fading away. It may be a generation or two before we begin to see how the coercion-free mind works, longer before it becomes dominant. Nonetheless, the seeds have been planted, and they are thriving.\n\nWe certainly didn’t start this. Its roots trace back to every free thinker, to every rebel for truth, to the true heroes who, in a thousand areas of life, had the courage to be right even in the face of opposition. We are simply carrying on their work at the moment when it threatens to reach critical mass. If we were simply one more reform movement, we would seek to conquer your system and run it our way. That, however, is not what we are. We do not accept coercion as moral. We do not wish to coerce anyone, and we will not submit to being forced. We do not want to run your system.\n\nIf all of this seems threatening to you, I’m sorry. I know how that can feel. We are not your enemies. We are your friends. We are also your future. We will not harm you. We do not want to take your government away from you. We do not want to control your government. We are not asking you to change your lives. We are only withdrawing from your game. Go your own way in peace. We wish you well. We still love you. We still care about you. We’ll still spend time with you, and in the right situation, we would still defend you. But we will not remain part of your coercive systems.\n\nWe are pleased to share this planet with you, but we do not wish to share your social structures. We want to do a new thing, a better thing. If you wish the best for your children, encourage them to step into a new world—a world where they can own their own lives and enjoy the fruits of their own labor. A perfect world? No, but a much better world than the one with centralized coercion and obedience to authority as its main pillars. \n\nWe do wish you well.\n\nJames Farber",
+    "timestamp": "1732890981",
+    "date": "11/29/2024, 2:36:21 PM",
+    "id": "b92a6f6185188bbc10f89c32ee8a066d02bc12fe11e2c94d5862515ee6f60644",
+    "kind": 6
+  },
+  {
+    "content": "Shopinbit.com is the best Christmas shopping UX.\n\nOrder stuff from a human on signal, pay with bitcoin on a btcpayserver.\n\nBeautiful",
+    "timestamp": "1732878053",
+    "date": "11/29/2024, 11:00:53 AM",
+    "id": "a320ceee6e89e264ed2dde47f75ef2b9880289eed118f6f3bf442f9b7eafbf78",
+    "kind": 1
+  },
+  {
+    "content": "Great pod on seasteading by nostr:nprofile1qqs0cfrsa5vksqwa4nju9093fffl5hhflq0wxedlf9v0jnrpzlv7ufcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshsnhmv64\nhttps://www.youtube.com/watch?v=rgrVP8_0yb8",
+    "timestamp": "1732874468",
+    "date": "11/29/2024, 10:01:08 AM",
+    "id": "c9fd54c79c7f548a97521b95617c352e2a9cae69c79eb888b7d4102dc80621d3",
+    "kind": 1
+  },
+  {
+    "content": "A NWC zap with nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj703s8dt and nostr:nprofile1qqstxwlea9ah3u6kjjszu6a7lrnhqkfh8eptp2z6v0e9558tlkkl2rgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszxnhwden5te0wfjkccte9ekkjmnfvf5hguewvdshx6p07xr4s5 works best if the local citrine relay is co figures.\nBut still, it doesn't work all the time...",
+    "timestamp": "1732864125",
+    "date": "11/29/2024, 7:08:45 AM",
+    "id": "d9338c815cc83325b5de981c95a44a3eae4a1bb905977fb3deb8bc90c74ef28f",
+    "kind": 1
+  },
+  {
+    "content": "Paul is always worth a listen!\nhttps://www.youtube.com/watch?v=42OqZT2QF0M",
+    "timestamp": "1732863124",
+    "date": "11/29/2024, 6:52:04 AM",
+    "id": "e93128b2dcfff4fea219f0e9f26198e05731c9cd798e0c1177f9cda0603f7978",
+    "kind": 1
+  },
+  {
     "content": "Why not something like a ring signature or equivalent ZK proof?",
     "timestamp": "1732797440",
     "date": "11/28/2024, 12:37:20 PM",
