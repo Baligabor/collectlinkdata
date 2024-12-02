@@ -1,5 +1,54 @@
 [
   {
+    "content": "They are interactive.",
+    "timestamp": "1733067876",
+    "date": "12/1/2024, 3:44:36 PM",
+    "id": "21fce5b848857db893d108401f84b227a32e22193bd4e473a1abc43b583c0711",
+    "kind": 1
+  },
+  {
+    "content": "Frost alone doesn't help with htlcs etc.",
+    "timestamp": "1733059404",
+    "date": "12/1/2024, 1:23:24 PM",
+    "id": "4781dde55f92542459c4e09c17891038b88a1c30da8aaae91c892ebfffc59f51",
+    "kind": 1
+  },
+  {
+    "content": "Channel factories etc get easier with CTV, so potentially we could have a federated lightning node, and no more fedimint gateways are required.\n\nBut much more than CTV is missing for that.",
+    "timestamp": "1733058829",
+    "date": "12/1/2024, 1:13:49 PM",
+    "id": "2be7efe4cb582c87cace569c0d098f3c391e0f8fb922181983911e8996597686",
+    "kind": 1
+  },
+  {
+    "content": "I've added a basic example to the repo for nostr-openmls to show you how to create a new group, join a group, and send/receive messages.\n\nIt's a standalone rust program so you can run it, play with the code and see it working.\n\nhttps://github.com/erskingardner/nostr-openmls/tree/master/examples/basic-example",
+    "timestamp": "1733058718",
+    "date": "12/1/2024, 1:11:58 PM",
+    "id": "d3614bd293ee66d90037e908793ba5c90534e50ce1d810a4ab6b4287b668bd7e",
+    "kind": 6
+  },
+  {
+    "content": "Any nostr web developers interested in deploying their web apps as an nsite?\nhttps://github.com/nostr-protocol/nips/pull/1538\n\nThe idea is that you upload the html/css/js to a blossom server and publish a bunch of k:34128 events with the path in the \"d\" tag and the file hash in the \"x\" tag. then a \"host server\" downloads these events and blobs and serves your static website\n\nI've been using it for #noStrudel for the last few months and its been working very well\n\nAlso if there are any sys-admins that are interested in running an extra host server to make things more censorship resistant I would be more than happy to help you setup https://github.com/hzrd149/nsite-ts\n\nExample nsite event for noStrudel index.html\nnostr:naddr1qq9j76twv3jhstngw3kkcq3qwyuh3scfgzqmxn709a2fzuemps389rxnk7nfgege6s847zze3tuqxpqqqzz4qqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyghwumn8ghj7mn0wd68yat99e3k7mgxpypfr",
+    "timestamp": "1733050201",
+    "date": "12/1/2024, 10:50:01 AM",
+    "id": "04f0e22d4f35e92d52408e4092c88d3cd47366ae2dbcd6f1abb5f965a1f672de",
+    "kind": 6
+  },
+  {
+    "content": "I'm glad you like it!\n\nLodging is kinda like Mandibles, but cypherpunk as fuck and not ashamed of it.",
+    "timestamp": "1733049799",
+    "date": "12/1/2024, 10:43:19 AM",
+    "id": "05f1fba8f378833c8c0702848666dc6167a3f1ad4f18fbddc4cbd7319c5ebf57",
+    "kind": 1
+  },
+  {
+    "content": "A Lodging of Wayfaring Men is a Mandibles kinda bitcoin book, loving it so far. Thank you  nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt for narrating\n\nI made a .m4b file of this audiobook, available for download here:\nhttps://www.dropbox.com/scl/fi/dddzvp26kru8dcsd2ewnm/A-Lodging-of-Wayfaring-Men.m4b?rlkey=q66nzc28qcdoc25l4vcq0p6vr&st=e4behd39&dl=0\n\nnostr:note13tc7589qdygapyjqwwjy9reerfxhndvc0x7zwdxxf6nn00a925hqu42g0n nostr:note13tc7589qdygapyjqwwjy9reerfxhndvc0x7zwdxxf6nn00a925hqu42g0n ",
+    "timestamp": "1733049752",
+    "date": "12/1/2024, 10:42:32 AM",
+    "id": "80ad95a5cf63da4af1dc31e2a1688123f677d7d6ef083ba6538055b121bb2449",
+    "kind": 6
+  },
+  {
     "content": "New Zapstore website is up!\n\nhttps://zapstore.dev\n\nEarly iteration! But improved way of finding downloads, also has a documentation site and a blog where I plan to share more thoughts around these topics.\n\nPlus some feature overpromising in the home page 😅 (but we'll get there)",
     "timestamp": "1733002054",
     "date": "11/30/2024, 9:27:34 PM",
