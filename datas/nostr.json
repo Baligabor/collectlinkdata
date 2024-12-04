@@ -1,5 +1,201 @@
 [
   {
+    "content": "Damn...",
+    "timestamp": "1733269694",
+    "date": "12/3/2024, 11:48:14 PM",
+    "id": "f77a8bd2111cbb4c06ca2afd707aa80f8d9a44f59f7baf5f269befc2413e9064",
+    "kind": 1
+  },
+  {
+    "content": "8a for cheap\n9 pro for future proof",
+    "timestamp": "1733269641",
+    "date": "12/3/2024, 11:47:21 PM",
+    "id": "2f7cb0b7b562c4dec7e0cf2d153ba834c56bdd1fd26e2f1025c666f6083a63a0",
+    "kind": 1
+  },
+  {
+    "content": "From nostr:nprofile1qqsxg45ph8gx0vdrvtzta6xal7v86frx6jvstsnvhrlvtehmwwh4epqpzamhxue69uhhyetvv9ujuvrcvd5xzapwvdhk6tcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9nhwden5te0v4jx2m3wdehhxarj9ekxzmny9ua2vh28 an app that sends push notifications when certain events appear on the nostr.",
+    "timestamp": "1733266110",
+    "date": "12/3/2024, 10:48:30 PM",
+    "id": "35019de6711c05e91d3c767c0c5c412a30a2533dcaaa298dc06c4707a39de6ab",
+    "kind": 1
+  },
+  {
+    "content": "One nut to rule them all.\n\nnostr:nevent1qqs92tn2tm0320hkr8yglqw0tzzueudmqsgd584u4c45jfneyz346rspremhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet59upzq5xeflpdskqvdq4swxj59793uvdzqzc9pzatjk3nhmcg2h0js8trqvzqqqqqqyyd4qnd",
+    "timestamp": "1733265979",
+    "date": "12/3/2024, 10:46:19 PM",
+    "id": "acd75ce8fbd6087b85a93fec71c6495df750b122f16a0e38e22a6d4e1ff58a5a",
+    "kind": 1
+  },
+  {
+    "content": "Fast during the travel",
+    "timestamp": "1733265837",
+    "date": "12/3/2024, 10:43:57 PM",
+    "id": "dc2303fc58ec908e894ee7a38fa7c13d5c6e779ebb32aeab4bb2b25f4db0e9f7",
+    "kind": 1
+  },
+  {
+    "content": "When iPhone users praise how amazing Primal is, I have to smile a bit.\nNot because Primal is bad, but because they don't know how cool the party is on Android...",
+    "timestamp": "1733265794",
+    "date": "12/3/2024, 10:43:14 PM",
+    "id": "7a46e8ce8d5ee806310fd162a789d3325da5aa657b1195ddb716d9613a260c21",
+    "kind": 1
+  },
+  {
+    "content": "Didn't know he wrote a song about nostr:nprofile1qqs04xzt6ldm9qhs0ctw0t58kf4z57umjzmjg6jywu0seadwtqqc75spz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszxnhwden5te0wpuhyctdd9jzuenfv96x5ctx9e3k7mf0dv4ph5",
+    "timestamp": "1733265701",
+    "date": "12/3/2024, 10:41:41 PM",
+    "id": "7e729e3e9a220db2cb41c1f4f7e45593a8ae0beeefe267e331fc42a8e37b0c43",
+    "kind": 1
+  },
+  {
+    "content": "I don't think there's a pretty and usable UI yet...",
+    "timestamp": "1733265574",
+    "date": "12/3/2024, 10:39:34 PM",
+    "id": "50bbf5f4cfd0117921d5a9514c699a78eb9c0df33bb4ff51fffab236d24f71f7",
+    "kind": 1
+  },
+  {
+    "content": "In Bitcoin script, you currently can not multiply numbers, and that's an essential part for zero knowledge cryptography.\n\nIf we add more capability to Bitcoin script, we can build ways to transact Bitcoin even more exciting than lightning.",
+    "timestamp": "1733264199",
+    "date": "12/3/2024, 10:16:39 PM",
+    "id": "423806eeee22cb7f977a56f53ce64a52a5fd90b76b9fc6024c9c16119cbe7cf7",
+    "kind": 1
+  },
+  {
+    "content": "Here a much more thorough exploration of the subject, by the always entertaining Murray Rothbard in What has the Government Done to Our Money.\nhttps://mises.org/mises-wire/bimetallism-greshams-law-and-coinage",
+    "timestamp": "1733263962",
+    "date": "12/3/2024, 10:12:42 PM",
+    "id": "839d77d5644e84a7a685f81fae5a4d5a18b8199c5103ad6ded914c97ed2d5ab8",
+    "kind": 1
+  },
+  {
+    "content": "That's not really rigorous.\n\nGresham's law only applies when a government enforces arbitrary price controls on monetary media.\n\nA more accurate variant of the law is that \"artificially overvalued money drives out artificially undervalued money.\"",
+    "timestamp": "1733263809",
+    "date": "12/3/2024, 10:10:09 PM",
+    "id": "5310c933f4db29aa4658ddc77b5b33369506d4f276aef4108cb704efcf81335a",
+    "kind": 1
+  },
+  {
+    "content": "With the great script restoration, a bitcoin full node can verify zero knowledge proofs.\n\nWith txhash, a two way peg bridge gets a lot more efficient.",
+    "timestamp": "1733263625",
+    "date": "12/3/2024, 10:07:05 PM",
+    "id": "924f3909141591b7645cb67ae8bcc8e3b1802819ba2dbcc45ff7213631841c5b",
+    "kind": 1
+  },
+  {
+    "content": "Anyone know how ntfy can wake up another app?\n#asknostr\nnostr:nevent1qqsr86ejj8f4tlzqa57w766xz0rm3j9kyn8av6n8d5rzysdxewp0d5gpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgstxwlea9ah3u6kjjszu6a7lrnhqkfh8eptp2z6v0e9558tlkkl2rgrqsqqqqqpr4fqza",
+    "timestamp": "1733263486",
+    "date": "12/3/2024, 10:04:46 PM",
+    "id": "261f288283b5a8ef1a38e179608ab7c2cbb450829e3138911d8c999e6a3761b1",
+    "kind": 1
+  },
+  {
+    "content": "A two way peg is a second layer transaction system, where new tokens are created when bitcoin is locked up on the base layer, and those bitcoin can only be spend, if those second layer tokens are destroyed.\n\nThat's the original vision of Blockstreams early side chain research, and it took 10+ years to finally have a trustless way to get Bitcoin from the side chain to the baselayer.\n\nWhat enables this magic is succinct zero knowledge proofs which are verified on the base layer in order to unlock the Bitcoin. With BitVM the zk proofs can be emulated on bitcoin today.",
+    "timestamp": "1733263428",
+    "date": "12/3/2024, 10:03:48 PM",
+    "id": "7d1cf0ebdccb5a06740cffbc1adc9ee586dc1336d5ca3cc3bb51d7f9b7552ff1",
+    "kind": 6
+  },
+  {
+    "content": "A two way peg is a second layer transaction system, where new tokens are created when bitcoin is locked up on the base layer, and those bitcoin can only be spend, if those second layer tokens are destroyed.\n\nThat's the original vision of Blockstreams early side chain research, and it took 10+ years to finally have a trustless way to get Bitcoin from the side chain to the baselayer.\n\nWhat enables this magic is succinct zero knowledge proofs which are verified on the base layer in order to unlock the Bitcoin. With BitVM the zk proofs can be emulated on bitcoin today.",
+    "timestamp": "1733263424",
+    "date": "12/3/2024, 10:03:44 PM",
+    "id": "f11053deed9f09c2f218ccb12b25fef3b55e495ce1fe39711bdb25b7fe78c1ab",
+    "kind": 1
+  },
+  {
+    "content": "Today is one of those extraordinarily bullish days.",
+    "timestamp": "1733263133",
+    "date": "12/3/2024, 9:58:53 PM",
+    "id": "1e7a97fc0e0d8bbef0bf25e05aa3d4a0304dd69fecd557f63da707096b151c9f",
+    "kind": 1
+  },
+  {
+    "content": "eGifts for all 💝\n\nNow share #bitcoin gifts with anyone and everyone 🫂\n\nNo Boardwalk username required, just click ‘Skip’ when selecting a contact 🚀\n\nEasily share over text, DMs and chats.\n\nhttps://image.nostr.build/e494be7c3792762c717214c48745b5ab55975696f7ce78c8291cfd9bd2b63890.png",
+    "timestamp": "1733255652",
+    "date": "12/3/2024, 7:54:12 PM",
+    "id": "0ecf46621516af5d0ca2d6dfdf4db811ff5bc05142c474852e62ebe9df362c38",
+    "kind": 6
+  },
+  {
+    "content": "https://image.nostr.build/241ab3da85adbb325e921a0c22cdc7b4412edc3a2b1ab22f3c286267316150df.jpg",
+    "timestamp": "1733255490",
+    "date": "12/3/2024, 7:51:30 PM",
+    "id": "4d89943a1cabdd20d21e39f209168eab947cd4c0cf01043af53532fd6d1add23",
+    "kind": 1
+  },
+  {
+    "content": "Immortal combat upcoming\n\nhttps://www.youtube.com/watch?v=_nPh34wv25U",
+    "timestamp": "1733246755",
+    "date": "12/3/2024, 5:25:55 PM",
+    "id": "b4a91d787d506b8764b51a5b1485f6ed52435fed090c0b284993485d0e5824dc",
+    "kind": 1
+  },
+  {
+    "content": "IVPN acquires Safing, operator of Portmaster and the SPN network - details on our blog: https://www.ivpn.net/blog/ivpn-acquires-safing-portmaster-spn-network/",
+    "timestamp": "1733240936",
+    "date": "12/3/2024, 3:48:56 PM",
+    "id": "6db593341a57de1d21315e8ac3df065a15b903f0429eb1f67de43e9321baec65",
+    "kind": 6
+  },
+  {
+    "content": "You don't buy sats, you earn them.",
+    "timestamp": "1733240099",
+    "date": "12/3/2024, 3:34:59 PM",
+    "id": "586967c80be8e4913c5f0ccd1542bc56a1ae36cb3b87afb17ee8e3da4f54552d",
+    "kind": 1
+  },
+  {
+    "content": "Introducing Lark. \n\nLark is a Java port of HWI, a library used by many wallets to communicate over USB with with hardware wallets like nostr:npub19canpmsgykwumm43uxmp0l5sernavvnrf87mau9a6xnjfx6ajjhsh9qj29 , Ledger, Trezor, nostr:npub1tg779rlap8t4qm8lpgn89k7mr7pkxpaulupp0nq5faywr8h28llsj3cxmt and nostr:npub1jg552aulj07skd6e7y2hu0vl5g8nl5jvfw8jhn6jpjk0vjd0waksvl6n8n Jade.\n\nHWI is a good example of the ‘single dependency’ situation in the famous xkcd comic. Until now, there has been no project like it.\n\nHowever, with all the wealth stored on hardware wallets (especially those that can only communicate over USB) it's important to have multiple implementations. Lark represents the first complete reimplementation of all common USB HWW clients in a language other than Python.\n\nEven though HWW manufacturers have used a dizzying array of different communication protocols and standards, Lark seeks to be identical to the HWI API, providing direct interchangeability and a more robust ecosystem.\n\nAll common commands are supported, and there is some additional functionality, such as retrieving a wallet registration from Ledger devices to avoid re-registration on every signing.\n\nLark is available as a command line application, and as a Java library for JVM-based applications. Hardware wallet manufacturers are invited to test their devices before it's integrated into Sparrow Wallet. \n\nSee https://github.com/sparrowwallet/larkapp for docs and binaries.\nhttps://m.primal.net/Mmkq.jpg",
+    "timestamp": "1733220500",
+    "date": "12/3/2024, 10:08:20 AM",
+    "id": "9c667cfe1cf7a795b31af02fc295040a59df06dc7cb4aa772467d87ede60dd03",
+    "kind": 6
+  },
+  {
+    "content": "You don't sell sats.\nYou buy stuff with it.",
+    "timestamp": "1733220433",
+    "date": "12/3/2024, 10:07:13 AM",
+    "id": "8ef2cb9b2d35428be1ea4c2cea1dc9051372912c08e1557d8e08637a73d7914e",
+    "kind": 1
+  },
+  {
+    "content": "That's an awesome upgrade!\nBut it seems to not work on degoogled graphene os?",
+    "timestamp": "1733219411",
+    "date": "12/3/2024, 9:50:11 AM",
+    "id": "9ae43eec37169476658f05b513d3572b17ce845cde7fe662218c28e7661a12b7",
+    "kind": 1
+  },
+  {
+    "content": "Let's keep the zaps flowing 💦 !\n\nLatest update brings single but important architectural change: Nostr Wallet Connect (NWC) commands now run via Android's foreground service. This should help to reduce interruptions and ensure smoother transactions. You may even see the NWC activity in the status bar 🚀 !\n\nAs this is a native release, get it on Google Play or grab the APK from our Github.\n\n https://m.primal.net/MmSH.mp4 ",
+    "timestamp": "1733218909",
+    "date": "12/3/2024, 9:41:49 AM",
+    "id": "91ec49cf7eb465b1b30a825625fff3bda7edf736e019509b1e20905af973f4d3",
+    "kind": 6
+  },
+  {
+    "content": "Pixel 8 & 9 have substantial hardware security improvements, so I would suggest starting there.\nThe 8a is cheap and good.\nThe 9pro is powerful and future proof.",
+    "timestamp": "1733218428",
+    "date": "12/3/2024, 9:33:48 AM",
+    "id": "7e227c0a89a5bdac4f2dfc45874da7314962609a09c5dc53c5947ad8bdd58f9a",
+    "kind": 1
+  },
+  {
+    "content": "That's awesome, I'm glad that you like it!",
+    "timestamp": "1733217180",
+    "date": "12/3/2024, 9:13:00 AM",
+    "id": "d9711ac38bbe715bcfb511bf9be2af223710eef0a7ae95c55007ea1ed06eb3a8",
+    "kind": 1
+  },
+  {
+    "content": "I am currently reading it, also thanks to  nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt recommendation. Honestly, I'm enjoying it so far.",
+    "timestamp": "1733217163",
+    "date": "12/3/2024, 9:12:43 AM",
+    "id": "585e46954d1215d619ed43ad0d20696f562d2b5c43efd4b60edbc36c70ee547b",
+    "kind": 6
+  },
+  {
     "content": "Yeah, I was imagining that too...\nI attempted to fix this issue of federated lightning node in my bachelors thesis in 2019, but very soon discovered that I won't be the one fixing that...",
     "timestamp": "1733120061",
     "date": "12/2/2024, 6:14:21 AM",
