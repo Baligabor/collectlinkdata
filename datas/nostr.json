@@ -1,5 +1,68 @@
 [
   {
+    "content": "That seems difficult!\nLooking forward to seeing the progress ",
+    "timestamp": "1733341916",
+    "date": "12/4/2024, 7:51:56 PM",
+    "id": "81b091b76df0a8a2cb81dd797dab3bec607ce9ac5326203813228d6eb08bb4e1",
+    "kind": 1
+  },
+  {
+    "content": "Specifically nostr:nprofile1qqstxwlea9ah3u6kjjszu6a7lrnhqkfh8eptp2z6v0e9558tlkkl2rgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszxnhwden5te0wfjkccte9ekkjmnfvf5hguewvdshx6p07xr4s5",
+    "timestamp": "1733341783",
+    "date": "12/4/2024, 7:49:43 PM",
+    "id": "f9060dd5d0df931f75d06b7ba0b2fc063f880850f3e0b3c7e80b8833dd224da5",
+    "kind": 1
+  },
+  {
+    "content": "Cashu",
+    "timestamp": "1733341762",
+    "date": "12/4/2024, 7:49:22 PM",
+    "id": "3372a36eb0290e3a3fafc86898cc768a7f26c301a1c2b0ddd1ff1c9370b50f4a",
+    "kind": 1
+  },
+  {
+    "content": "That's a good question, is it really a bearer instrument if it requires an interaction with a third party...?",
+    "timestamp": "1733341725",
+    "date": "12/4/2024, 7:48:45 PM",
+    "id": "a63b237bce60ef5df542627e4a4deb2cb326a772bc346c76e96fa518c1426460",
+    "kind": 1
+  },
+  {
+    "content": "There are a couple different implementations, the early versions did work on mainnet, but were very hacky proof of concepts. Early next year there should be a couple major releases though.",
+    "timestamp": "1733341018",
+    "date": "12/4/2024, 7:36:58 PM",
+    "id": "3342080aae5c8bf1cb29d9b9f8177d83b6484c68c4ffa83f0e80e806d57132e6",
+    "kind": 1
+  },
+  {
+    "content": "One on each with negentropy sync.",
+    "timestamp": "1733340927",
+    "date": "12/4/2024, 7:35:27 PM",
+    "id": "82876c0591cfdf368394074a5190c2bfa9680ff80f9088f9e775a42f306a8e94",
+    "kind": 1
+  },
+  {
+    "content": "Introducing Cherry Tree, chunked files stored on blossom servers\nhttps://github.com/hzrd149/cherry-tree\nhttps://npub19sstws4x9t7nua2sh6cxkeez25y6lvvnq6fqpmyzwnthsjap5tqqkdsghg.nsite.lol/\n\nThe experiment was to see how easy it was to split a large file into chunks, then upload those chunks to multiple blossom servers and reassemble then on another computer\n\nThe best part about this is the blossom server has no idea its storing a chunked file. it just sees a bunch of binary blobs uploaded from a random pubkey\n\nThis isn't private though, the blossom servers could easily look at the content of the binary blobs an figure out what type of file it was and piece it together. however if the client encrypted the blob first it would be a lot more private\n\nIf you want to play around with it you can find a list of public blossom servers at https://blossomservers.com/\n\nIf you want more details I've created a PR explaining how it works https://github.com/hzrd149/blossom/pull/51\n\nThe app was built using applesauce https://hzrd149.github.io/applesauce/ rx-nostr https://penpenpng.github.io/rx-nostr/en/ and blossom-client-sdk https://www.npmjs.com/package/blossom-client-sdk packages",
+    "timestamp": "1733299640",
+    "date": "12/4/2024, 8:07:20 AM",
+    "id": "b21194a9d5f27ba9c034f165996e6a6d841f474c00b2ba361fcc2ffd94822929",
+    "kind": 6
+  },
+  {
+    "content": "In fact nobody will know how small your nuts actually are...",
+    "timestamp": "1733298154",
+    "date": "12/4/2024, 7:42:34 AM",
+    "id": "1c70d08aaafc03813846f2e793dd0d6c72d7ab2621cb74887bded731805924ed",
+    "kind": 1
+  },
+  {
+    "content": "Yup.\nWith the caveat that BitVM does have a 1-of-n lifeness assumption, and a 1-of-any justice transaction delivery \n\nBitVM is used to emulate a zk verifier.",
+    "timestamp": "1733298110",
+    "date": "12/4/2024, 7:41:50 AM",
+    "id": "bdba01881fbcbfdff6f3adea71b1236b36f87f8671ee94cb08929d8861576948",
+    "kind": 1
+  },
+  {
     "content": "Damn...",
     "timestamp": "1733269694",
     "date": "12/3/2024, 11:48:14 PM",
