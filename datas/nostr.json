@@ -1,5 +1,82 @@
 [
   {
+    "content": "Most likely yes, but I guess there are a lot or localized urls. \nIts common to change it to \"ae\" though ",
+    "timestamp": "1733438667",
+    "date": "12/5/2024, 10:44:27 PM",
+    "id": "136b6a890afb2a50e1a49a6e147de6610cccc420f3b2495963208e908aa6e4d2",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpz9mhxue69uhkummnw3ezuamfdejj7qgwwaehxw309ahx7uewd3hkctcscpyug it seems Amethyst doesnt render urls with special characters, like ä in https://souveräneindividuum.de",
+    "timestamp": "1733438208",
+    "date": "12/5/2024, 10:36:48 PM",
+    "id": "7d874fc47100f50a11ab7b246a5f2ab2342ff8b43bfd3772f8d002009728594f",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nevent1qqsfzpqlsqfrzuhahy6q68nzltsgcdatsaskfp0xp6zk2w5ymjwc6yspz3mhxw309ucnydewxqhrqt338g6rsd3e9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqyufhstr",
+    "timestamp": "1733438050",
+    "date": "12/5/2024, 10:34:10 PM",
+    "id": "c649b98118c27577e898604eb77d6d9a87fc9c900010d12810dbc9d71b27d07e",
+    "kind": 1
+  },
+  {
+    "content": "Vorwort zur ersten deutschen Übersetzung des Souveränen Individuums:\n\nDas Buch erhältlich auf: https://souveräneindividuum.de\n\nIn der großen Bilanz der menschlichen Literatur gibt es nur wenige Bücher, die die Zukunft akkurat voraussagen und uns den Weg mit ihrem hellen Licht der Weitsicht zeigen. \"Das Souveräne Individuum\" von James Dale Davidson und William Rees-Mogg ist ein solches Meisterwerk, ein visionäres Buch, das nicht nur das Eintreten des digitalen Zeitalters vorausgesagt hat, sondern auch den intellektuellen Grundstein für die vollkommene Befreiung des Individuums von dem veralternden Nationstaates gelegt hat. Da wir nun ein paar Jahre nach dem Anfang der vorhergesagten neuen Ära stehen, ist es lohnenswert, dieses wegweisende Werk erneut zu betrachten und die vielfältigen Weisen zu untersuchen, in denen seine Ideen verwirklicht wurden, insbesondere durch die verändernde Kraft von Cypherpunk Technologien. \n\nEin Gang durch die Seiten von \"Das Souveräne Individuum\" ist eine Reise durch eine Landschaft der Ideen, die genauso großartig ist wie vielfältig. Die Autoren, beide bekannt für ihr Wissen in den Gebieten der Finanzen und Ökonomie, spinnen eine überzeugende Erzählung, die historische Analyse, ökonomische Theorie und technologisches Vorhersagen miteinander verbindet. Ihre kombinierten Fachkenntnisse ermöglichen es ihnen, das Bild einer Welt zu zeichnen, in der das Individuum sich ermächtigt. Ausgestattet mit den Werkzeugen der digitalen Technologie, können die Grenzen der Geographie, Kultur und Politik überschritten werden, um ein beispielloses Freiheits- und Wohlstandsniveau zu erreichen. \n\nIm Zentrum von \"Das Souveräne Individuum\" steht die Idee, dass das Eintreten der digitalen Technologie die Machtbalance zwischen dem Einzelnen und dem Staat grundlegend verändert. Die Autoren argumentieren, dass das Informationszeitalter eine neue Klasse von Individuen geschaffen hat, die nicht den traditionellen Autoritätsquellen wie Regierungen und Großkorporationen verpflichtet sind. Diese \"souveränen Individuen\" sind in der Lage, die Macht der digitalen Technologie zu nutzen, um Wohlstand zu schaffen, ihren Datenschutz zu gewährleisten und die erstickende Bevormundung des Nationstaates zu entfliehen. \n\n\"Das Souveräne Individuum\" prophezeite das Erscheinen von Digital-Nomaden: Einzelpersonen, die online arbeiten, während sie um die Welt reisen und sich dafür entscheiden, an jenen Orten zu wohnen, die ihnen die beste Umfeld bieten. In dieser globalisierten Welt können Staatsbürgerschaft, Steuerresidenz, Firma-Jurisdiktion, Bankkonten und Investmentdepots aus verschiedenen Ländern bezogen werden, wodurch Einzelpersonen ihre Umstände optimieren können, indem sie die besten verfügbaren Optionen in jeder Gerichtsbarkeit auswählen. \n\nDie Implikationen dieser Vision sind tiefgreifend, da sie die Grundlagen unseres Verständnisses von Gesellschaft, Politik und Ökonomie herausfordern. Indem sich \"das souveräne Individuum\" als ultimatives Machtzentrum positioniert, bricht der Einzelne mit traditionellen Hierarchien der Autorität und begrüßt eine neue Ära des Individualismus und der Selbstbestimmung. Dies erfordert wiederum t iefgreifende Auswirkungen auf die Natur der Regierungsführung, die Rolle des Staates und die Zukunft der Demokratie selbst. \n\nEines der auffälligsten Merkmale von \"Das Souveräne Individuum\" ist seine weitsichtige Antizipation der verändernden Kraft der Cypherpunk-Technologie. Die Autoren gehörten zu den ersten, die das Potenzial der digitalen Technologie erkannten, um eine neue Paradigma der individuellen Befreiung zu schaffen. Ihre Einsichten sind durch den bemerkenswerten Fortschritt der Cypherpunk-Bewegung in den vergangenen Jahren bestätigt worden. Fast dreißig Jahre nach der ersten Ausgabe, haben wir jetzt die Möglichkeit zu überprüfen, ob unsere heutigen Technologien auch den Prognosen entsprechen. \n\nDer Aufstieg von Bitcoin, der weltweit ersten dezentralen digitalen Währung, ist vielleicht das eindrucksvollste Beispiel für die Verwirklichung der Vision der Autoren. Indem es die Macht der Kryptographie und des verteilten Konsensus nutzt, hat Bitcoin eine neue Form des Geldes geschaffen, die nicht den Launen der Zentralbanken oder den Unregelmäßigkeiten des globalen Finanzsystems unterliegt. Mit einer Bitcoin full node kann der Nutzer für sich selbst die Regeln seines eigenen Geldsystems definieren, verifizieren, und durchzusetzen, ganz ohne Vertrauen auf Institutionen oder Erlaubnis der Nationalstaaten. Dies hat seinerseits eine neue Klasse von Digital-Unternehmern hervorgebracht, die grenzübergreifend transaktionsfähig sind, ohne auf das traditionellen FinanzsystemeI angewiesen zu sein. \n\nCoinjoin ist eine weitere Innovation, die die Privatsphäre von Bitcoin-Transaktionen verbessert, während das Lightning Network schnelle und kostengünstige Zahlungen bietet. Dank Bitcoin und Protokollen wie Cashu und Fedimint erlebt Ecash eine Renaissance. Cashu ermöglicht jedem ein digitales Geldlager zu betreiben, und beseitigt somit das Monopol von Depositbanken. Fedimint verbessert dieses Konzept, indem es Risiken und Verantwortlichkeiten unter mehreren Betreibern in verschiedenen Jurisdiktionen verteilt. Diese Technologien zeigen, dass zusätzliche Protokolle die Souveränität des Benutzers über seine finanziellen Transaktionen im Bitcoin-Ekosystem exponentiell erhöhen können. \n\nDie Zero-Knowledge-Kryptographie ist ein weiterer Baustein für eine freiere Zukunft. Diese Technik ermöglicht es Einzelpersonen, Aussagen zu beweisen, ohne die konkreten Informationen preiszugeben. Damit können digitale Dienstleistungen zur Verfügung gestellt werden, ohne dass der persönlichen Daten der Nutzer veröffentlicht werden. \nPeer-to-Peer-Systeme wie BitTorrent ermöglichen Benutzern direkten Austausch von Dateien und Ressourcen ohne Zwischenstellen, schaffen ein neues Paradigma der dezentralisierten Zusammenarbeit und Wissensaustausch. Zwiebelrouter wie Tor als auch Mixnets wie Nym ermöglichen verschlüsselte Kommunikation, bei der niemand weiß welcher Computer sich zu welchem anderen verbindet, ermöglichen freie Kommunikation ohne Angst vor Überwachung oder Zensur. \n\nSchließlich repräsentiert der Aufstieg von Nostr, einem neuen Protokoll für den standardisierten Austausch von signierten Daten, das neueste Gebiet des fortwährenden Strebens nach digitaler Souveränität. Nostr hat es geschafft, mit Alltagsapplikationen ein Web-of-Trust von kryptographischen Schlüsseln aufzubauen, welches ein fundentales Basis für die souveräne Zukunft ist. \n\nZusammenfassend ist \"Das Souveräne Individuum\" ein bahnbrechendes Werk, das dem Test der Zeit standhalten konnte und eine Landkarte für das digitale Zeitalter bietet, die heute genauso relevant ist wie bei ihrer ersten Veröffentlichung. Ihre Autoren, James Dale Davidson und William Rees-Mogg, waren Visionäre, die die verändernde Kraft der digitalen Technologie und ihre Auswirkungen auf die Zukunft des Einzelnen in der Gesellschaft vorhergesagt haben. Sowie wir weiterhin den unerbittlichen Marsch der Cypherpunk-Technologien verfolgen, erinnern wir uns an die dauerhafte Kraft der in diesen Seiten enthaltenen Ideen. In einer Welt, die zunehmend von dem Kampf zwischen individueller Freiheit und staatlicher Kontrolle geprägt ist, bleibt \"Das Souveräne Individuum\" ein Ruf zu Taten, ein Zeugnis der unerbittlichen Geisteskraft der menschlichen Erfindungskraft und ein Leuchtturm der Hoffnung für die Zukunft der Menschheit.",
+    "timestamp": "1733437968",
+    "date": "12/5/2024, 10:32:48 PM",
+    "id": "91041f80123172fdb9340d1e62fae08c37ab87616485e60e85653a84dc9d8d12",
+    "kind": 1
+  },
+  {
+    "content": "Cashu got a shoutout too.",
+    "timestamp": "1733437271",
+    "date": "12/5/2024, 10:21:11 PM",
+    "id": "c445254a34b068600b6f385aa27f05213e77edcd4f19c24ff484301f9eb3e043",
+    "kind": 1
+  },
+  {
+    "content": "I'm going to be making some major changes to my nostr priorities moving into 2025, in three main areas:\n\nAdvancing Outbox/Inbox\n\n - my bots and I are now only posting to a few small relays. That means if your client does not support outbox, you're not likely to see our posts anymore.\n - I have disabled blastr on my haven relay (other users are still welcomed to use it of course)\n - I am now only using clients that fetch relays correctly, current daily driver is Gossip\n - heavy focus on improving UX for haven to get more users running it, including one click installation on umbrel/start9 and windows PCs.\n\nAlgorithm Relays\n\n - Many of us here have self selected for a chronological algorithm, but what about the 99% of users who try nostr and then leave? My theory is that platforms like twitter and tiktok are much better at retention because most people actually do prefer algorithms. And so with that, I will be prioritizing building the ultimate algorithm relay (WIP at  https://jouble.surge.sh/)\n - Make it easy for anyone to run any kind of algorithm they want, whether that is a good vibes algo, a rage bait algo, a viral algo, anything they want, and support a robust open market for users to choose from.\n\nContent Bots\n\n - Ensuring you don't have to leave nostr to get the information you want.\n - First iteration is mostly newsbots, but this will expand to many more types of content\n\nA lot more focus on building, a lot less focus on shitposting, and taking a more principled approach to nostr development.\n\nlove you nostr <3",
+    "timestamp": "1733435917",
+    "date": "12/5/2024, 9:58:37 PM",
+    "id": "580f04332d9621e86e126aeee884ad856596ed7bac069cdfdcc214b1b28fd59e",
+    "kind": 6
+  },
+  {
+    "content": "Ja, krass...",
+    "timestamp": "1733435377",
+    "date": "12/5/2024, 9:49:37 PM",
+    "id": "0cfdd7895530487948625ac1f14e3c19ac4b4950db7d1bd801cbe6f632aa6e8e",
+    "kind": 1
+  },
+  {
+    "content": "Likewise, this one got me.\n\nthe bubble boy and the sewer rat\nhttps://www.youtube.com/watch?v=SFxVCFUbB3A",
+    "timestamp": "1733423285",
+    "date": "12/5/2024, 6:28:05 PM",
+    "id": "33b68e54410645b83fa8e95d062d0cd1d01f575fd7aad3a7f4a1abb1334b5ce4",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsdxm5qs0a8kdk6aejxew9nlx074g7cnedrjeggws0sq03p4s9khmqpz9mhxue69uhkummnw3ezuamfdejj7qgwwaehxw309ahx7uewd3hkctcpzemhxue69uhksctkv4hzucmpd3mxztnyv4mz747p6g5 just added NIP-85: Reviews support!\n\nBuyers can leave reviews on products they have purchased through the \"orders\" page (which can then be viewed on the product or merchant pages), with merchants getting the benefit of carrying their reputation across any client that supports it. \n\nBuyers also now receive payment receipt messages to confirm payment delivery, and merchants can send shipping confirmation messages containing any necessary tracking links and delivery timelines to the buyer. \n\nOld purchases unfortunately don't support leaving reviews, but as a merchant, you can send a shipping confirmation from your past payment messages, which would allow buyers to leave a review if they so desire!\n\nSeveral bugfixes and message handling improvements have also been added.\n\nhttps://shopstr.store",
+    "timestamp": "1733422983",
+    "date": "12/5/2024, 6:23:03 PM",
+    "id": "609569430aa1804daaa1ed9f6c80239b1709e6f6a9dd2ab21914e5f1810c141d",
+    "kind": 6
+  },
+  {
+    "content": "#Amethyst v0.93.1: Fixes and adjustments\n\n- Moves to NIP-22 to reply to Interactive Stories.\n- Adds amount and personalizations labels to the DVM feed\n- Fixes Satellite's blossom upload\n- Fixes incorrect reply order when the direct reply is also included as a quote.\n- Fixes image upload tests\n- Fixes the bug on not having the video feed at the top when loading the app from scratch.\n- Fixes screen mispositioning when rotating the phone on full screen video/image dialogs.\n- Fixes images on DVM profiles\n- Fixes badge crash\n- Fixes missing reactions on video feeds\n- Improves performance of the Hex encoder.\n- Improves the layout of the discovery feed items\n- Updates jackson, secp256k1 and AGP\n\nDownload: http://amethyst.social",
+    "timestamp": "1733422930",
+    "date": "12/5/2024, 6:22:10 PM",
+    "id": "2fabdaf2a1e7d42363e5a8c46ed84efcb6eae7278762d9b3ca62605fcd444815",
+    "kind": 6
+  },
+  {
+    "content": "The first ever German translation of The Sovereign Individual is now available for sale!\n\nI shill Nostr and freedom tech in the forward.\n\nsouveräneindividuum.de",
+    "timestamp": "1733420640",
+    "date": "12/5/2024, 5:44:00 PM",
+    "id": "11f22e9ee03bb2d3e2177118e5b878a73ccacc415704b68913e02d4652e272cc",
+    "kind": 1
+  },
+  {
     "content": "That seems difficult!\nLooking forward to seeing the progress ",
     "timestamp": "1733341916",
     "date": "12/4/2024, 7:51:56 PM",
