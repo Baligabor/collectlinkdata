@@ -1,5 +1,61 @@
 [
   {
+    "content": "I want to shill Nostr so hard that I even install X again temporarily.\nhttps://x.com/i/spaces/1yNGagvWvadxj",
+    "timestamp": "1733508168",
+    "date": "12/6/2024, 6:02:48 PM",
+    "id": "e82c4b1db6a7dba3b79ac91fd55c050d7184b77cd686cfca180d91b54738f037",
+    "kind": 1
+  },
+  {
+    "content": "Stuff just keeps getting cheaper.",
+    "timestamp": "1733505040",
+    "date": "12/6/2024, 5:10:40 PM",
+    "id": "58a4cb40890475a2063e1fe2c7cb64fb311551d7ab8da3640f0dede767bd4927",
+    "kind": 1
+  },
+  {
+    "content": "I always prefer to view it from the other side:\n\nIt's when someone earned a billion dollars for selling two pizzas.",
+    "timestamp": "1733503047",
+    "date": "12/6/2024, 4:37:27 PM",
+    "id": "4b9d6333cb39737c3bdb73404d0ad0d70ee7ca84a7128498bce038b57ab1120c",
+    "kind": 1
+  },
+  {
+    "content": "New blog post! \n\nLearn about the basic cryptography of blind signatures in Cashu, why there are only a limited set of possible amounts of ecash tokens, and how we're going to improve this in the future.\n\nhttps://blog.cashu.space/buckets-of-blind-signatures/",
+    "timestamp": "1733502905",
+    "date": "12/6/2024, 4:35:05 PM",
+    "id": "afacdc8f576226862ef43b4b9bc4bc5acb8ba4c8ccbac612e387326dc6d589f2",
+    "kind": 6
+  },
+  {
+    "content": "New NIP proposal for a marketplace protocol.\nhttps://github.com/gzuuus/nips/blob/42165a8a1ee5a98a9a967d15ca5bf234f219067d/XX.md",
+    "timestamp": "1733502630",
+    "date": "12/6/2024, 4:30:30 PM",
+    "id": "fba15f1e77d05de537ec1f4ce0b94e345bb6d892b754409593a0700c014d98f1",
+    "kind": 1
+  },
+  {
+    "content": "I see where this is going, and I like it.\nhttps://blog.cashu.space/buckets-of-blind-signatures/",
+    "timestamp": "1733501480",
+    "date": "12/6/2024, 4:11:20 PM",
+    "id": "ae9b8a034378db81e409b5488ae5d4c7540c737f3dbba897ea642a778da1f03f",
+    "kind": 1
+  },
+  {
+    "content": "the proofs are in the pudding\nyou are looking at the first ever ehash tokens\nLET'S GO BABY!\n\nhttps://image.nostr.build/738e1cce410d250437a173df464c9cba9510f8b06f6c05177df77f13542e81d7.png",
+    "timestamp": "1733476072",
+    "date": "12/6/2024, 9:07:52 AM",
+    "id": "f45c156155d7a2a14556371921b41084a629c19b7b15f9b3a5d8f468c5b0b5de",
+    "kind": 6
+  },
+  {
+    "content": "Nice!",
+    "timestamp": "1733475781",
+    "date": "12/6/2024, 9:03:01 AM",
+    "id": "7ad9edd383c3f6c5818261ae79d1a997cf19e7572ce6e43388586850db38e26d",
+    "kind": 1
+  },
+  {
     "content": "Most likely yes, but I guess there are a lot or localized urls. \nIts common to change it to \"ae\" though ",
     "timestamp": "1733438667",
     "date": "12/5/2024, 10:44:27 PM",
