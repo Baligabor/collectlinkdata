@@ -1,5 +1,75 @@
 [
   {
+    "content": "Very nice!\nWould be useful for web of trust posts as well",
+    "timestamp": "1733608223",
+    "date": "12/7/2024, 9:50:23 PM",
+    "id": "67891f72c1c456f5731577c67c506a545cd414d0ceeb9b8aaefdead0cd6959f4",
+    "kind": 1
+  },
+  {
+    "content": "GrapheneOS version 2024120700 released:\n\nhttps://grapheneos.org/releases#2024120700\n\nSee the linked release notes for a summary of the improvements over the previous release.\n\nForum discussion thread:\n\nhttps://discuss.grapheneos.org/d/17970-grapheneos-version-2024120700-released\n\n#GrapheneOS #privacy #security",
+    "timestamp": "1733607490",
+    "date": "12/7/2024, 9:38:10 PM",
+    "id": "dd498e8f9e1135cfaae5b7d1cd6ae14cc57f352ccb6cfbc85f9991773bb2189a",
+    "kind": 6
+  },
+  {
+    "content": "███████████\n████ Privacy ████\nis ████████ the \n████ freedom ██ to\n██ decide ██████\n████ what ████ you \nwant ████ to ████\n████ reveal ████\n████████████",
+    "timestamp": "1733607114",
+    "date": "12/7/2024, 9:31:54 PM",
+    "id": "2f420412258f7c0534ad3336053e350203274db4ed47a933106477d0d3805570",
+    "kind": 6
+  },
+  {
+    "content": "Coinjoin fixes this.",
+    "timestamp": "1733607090",
+    "date": "12/7/2024, 9:31:30 PM",
+    "id": "2a61c955a9d4c31132c80eaddc89f59f1c46dd8894d34340d7b1f413a4cbff19",
+    "kind": 1
+  },
+  {
+    "content": "There's https://www.turris.com/en/ but I think the hardware is rather old by now.",
+    "timestamp": "1733606583",
+    "date": "12/7/2024, 9:23:03 PM",
+    "id": "33bb1d2c3338fdea14f91befd3780a18aaadafae9c91eb4daafaba344c9992c8",
+    "kind": 1
+  },
+  {
+    "content": "Angor is using time-lock contracts to benefit both founders and investors. \nHow? \n\nFounders:\n🟢 Promotes Focus and Efficiency\n🟢 Improves Transparency\n🟢 Reduces Risk and Enhances Credibility\n\nInvestors:\n🟢 Mitigates Risk of Misuse of Funds\n🟢 Provides Performance Visibility\n🟢 Fosters a Collaborative Environment\n\nYou can find more details here: 👇\nhttps://docs.angor.io/security-and-control/time-lock-contracts/\n\n#angor ",
+    "timestamp": "1733565915",
+    "date": "12/7/2024, 10:05:15 AM",
+    "id": "a2da6fda5324d994749452d3cc781f4f5102a8fcb3a1e815377eb82ef9cb6f68",
+    "kind": 6
+  },
+  {
+    "content": "Nice.\nBreak the fast with some bone broth, you can even extend it by another couple days with broth as supplement.",
+    "timestamp": "1733565347",
+    "date": "12/7/2024, 9:55:47 AM",
+    "id": "b72b92e22005bbfff64596b9bcfc812ed14e81a911a0fc907cf17bd878486ec3",
+    "kind": 1
+  },
+  {
+    "content": "Connect to WiFi, login form popup appears, paste ecash, get internet.",
+    "timestamp": "1733564911",
+    "date": "12/7/2024, 9:48:31 AM",
+    "id": "bd43bdda3d08e2643b40f0562380a3347c79c8c64256c62d8192d9f666dba15b",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqspp9hkhc9y6lcwesklfmfvs6plzsl0eq0whglvumd2m5hu5ax8anqprpmhxue69uhkummnw3ezucmgv95k6cfwd9hxvme0qyt8wumn8ghj7mmjv9hxwetn09hxxtn5v43kstcpr3mhxue69uhkymmnw3ezummjv9hxwetn09hxxtn5v43kstcsa3stq is going to make ISPs obsolete.\n",
+    "timestamp": "1733534486",
+    "date": "12/7/2024, 1:21:26 AM",
+    "id": "026157604783f8804e4045c71a36c8182a0ef914f6464f8623fc6f90b642706e",
+    "kind": 1
+  },
+  {
+    "content": "Shill a nostr client most people don't know about: 👇",
+    "timestamp": "1733534358",
+    "date": "12/7/2024, 1:19:18 AM",
+    "id": "9f1985919d36d5a054affabc2b9d775cb1ae8b734a3d21720d27ec63e79d4ff3",
+    "kind": 6
+  },
+  {
     "content": "I want to shill Nostr so hard that I even install X again temporarily.\nhttps://x.com/i/spaces/1yNGagvWvadxj",
     "timestamp": "1733508168",
     "date": "12/6/2024, 6:02:48 PM",
