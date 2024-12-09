@@ -1,5 +1,68 @@
 [
   {
+    "content": "Yup, but they use risc0",
+    "timestamp": "1733698262",
+    "date": "12/8/2024, 10:51:02 PM",
+    "id": "172f0f8339f5fff36c79bb8c80f79b9b7d1514946c97ff422b262be03a81d7f2",
+    "kind": 1
+  },
+  {
+    "content": "We can outperform #Bitcoin here. https://image.nostr.build/0fc65ab8b327f232f2affabf9ee37eb6b49a89a76455a81644e3a3f8d576f85a.jpg ",
+    "timestamp": "1733685492",
+    "date": "12/8/2024, 7:18:12 PM",
+    "id": "1db65d69b43908b9d89fcc953ba6725b1142a19ba0178fc2c90c61e82962b96e",
+    "kind": 6
+  },
+  {
+    "content": "Generate a zk proof for any arbitrary rust code.\nCrazy\nhttps://blog.succinct.xyz/introducing-sp1/",
+    "timestamp": "1733683740",
+    "date": "12/8/2024, 6:49:00 PM",
+    "id": "2d92dcf3d7af3e17630de71c2d87b93894489d713a7f0a0926e101e5dddfb288",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgpz9mhxue69uhkummnw3ezuamfdejj7qgjwaehxw309ahx7um5wf6k2tnrdakj7qg6waehxw309ac8junpd45kgtnxd9shg6npvchxxmmd9usc5pxf ",
+    "timestamp": "1733680979",
+    "date": "12/8/2024, 6:02:59 PM",
+    "id": "4d4894715bc32310d00533a4dea8a058892c31bb5246f46957e2aba8dad28295",
+    "kind": 1
+  },
+  {
+    "content": "Nostrudel has the same, in the side menu \"Discover\" > \"DVM Feeds\"",
+    "timestamp": "1733675275",
+    "date": "12/8/2024, 4:27:55 PM",
+    "id": "31af32d5adffeb8931d4474c94975a02984e9d4c0c262fa3def78b8345b82188",
+    "kind": 1
+  },
+  {
+    "content": "Is it possible to sort note discovery DVMs in nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj703s8dt?",
+    "timestamp": "1733674377",
+    "date": "12/8/2024, 4:12:57 PM",
+    "id": "6e41bd77bd6210979a944ed0b4b88d03039133b2817f3e8b89136168fcacf0a6",
+    "kind": 1
+  },
+  {
+    "content": "This looks good to me at first consideration.\n\nAll I want is zk verifiers and a secure trustless bridge, I think your proposal gets is there all the way.",
+    "timestamp": "1733651687",
+    "date": "12/8/2024, 9:54:47 AM",
+    "id": "9dbad8365f3309a9a8b7f57c4754a94492dd2ef5be09587e31ac5baab1133ef9",
+    "kind": 1
+  },
+  {
+    "content": "I'm slowly coming around to the following roadmap:\n1. Simplified CTV for whole-tx commitments (ie you *will* spend this output using a tx which exactly like X.\n2. Optimised sponsors for solving the \"but how do I add fees\" problem in a way that doesn't drive miner centralisation.\n3. Script restoration so we can don't have arbitrary limits on things like amount arithmetic and examination sizes.\n4. Introspection opcode(s) so we can examine txs flexibly.\n5. Script enhancements for things like merkle proofs (e.g Taproot trees) and tweaks, checksig.\n\nYou could argue that #1 is simply an optimisation of #3/#4, and that's true, but it's also an obvious case (once you have #2) that we will still want even when we have all the rest.",
+    "timestamp": "1733651292",
+    "date": "12/8/2024, 9:48:12 AM",
+    "id": "344e602cf0f042f1618d90bd7e4da4c0b6f5425cdd8c0048c3a57ec64bcf981c",
+    "kind": 6
+  },
+  {
+    "content": "🚨 Release 2.3.1 is out 🚨\n\nThis version is a stability release packed with bug fixes and preparatory changes for upcoming features\n\n🪲 Bug Fixes  \n💫 Settings Layout\n⤴️ Tor upgraded to v13.5.9  \n🚫 Buy Anything Button Disabled\n\nRelease notes & Download:\nhttps://github.com/WalletWasabi/WalletWasabi/releases/tag/v2.3.1",
+    "timestamp": "1733650194",
+    "date": "12/8/2024, 9:29:54 AM",
+    "id": "b73b3e14f4dcaa77e520e20e3c587e4075aa090381cf9a98613a1f8b87a571a9",
+    "kind": 6
+  },
+  {
     "content": "Very nice!\nWould be useful for web of trust posts as well",
     "timestamp": "1733608223",
     "date": "12/7/2024, 9:50:23 PM",
