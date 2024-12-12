@@ -1,5 +1,131 @@
 [
   {
+    "content": "If you want to stack sats while helping onboard people to FOSS, let me know.",
+    "timestamp": "1733956238",
+    "date": "12/11/2024, 10:30:38 PM",
+    "id": "f0cb22b3dbe49f1f05a241312f1c8749afb36ac8bfb76a9d0793638e8a73676d",
+    "kind": 1
+  },
+  {
+    "content": "Great article.\nBut medium sucks so much, why not just a long form note here?",
+    "timestamp": "1733948057",
+    "date": "12/11/2024, 8:14:17 PM",
+    "id": "d92cdfe173970133e9463ed47a67042349919032b62e0e5d97e397b835fe15fb",
+    "kind": 1
+  },
+  {
+    "content": "Hello, Nostr!\n\nWe are Plan ₿ Network, and we’re absolutely thrilled to finally step into the purple space! Plan ₿ Network was born when two of the most passionate Bitcoiners on Earth decided to join forces to do what they love most: educating people about #Bitcoin. Basically they can’t get enough of babbling on and on about how Bitcoin is the greatest money ever invented, sprinkled with plenty of conspiracy theories for good measure. \n\nNaturally, the best way to ensure their message reached everyone was to create an open-source, centralized library of top-tier educational content and host a ton of classes along the way.\n\nAnd who are these two passionate Bitcoiners I keep talking about? None other than the legendary and inimitable  nostr:npub1r0gzy7ptcecpmjj3uv4kxychpqex3j52e8z9vyg3qy7jvcvyu2uq5tczhq and  nostr:npub1au23c73cpaq2whtazjf6cdrmvam6nkd4lg928nwmgl78374kn29sq9t53j. \n\nThe legend says they sat down at a lovely café in Lugano, and together, they gave birth to this crazy institution we now call Plan ₿ Network. We’re not sure who was holding whose hand during the process, but one thing is for certain: with Rogzy’s creative genius and Giacomo’s irresistible Italian charm, the outcome was destined to be world-changing.\n\nThat’s us in a nutshell, a team of collaborators who are madly in love with Bitcoin and incredibly humbled to be part of this great orange-pilling mission. \n\nSo, what’s the coolest part about Plan ₿ Network?\n\nIt’s the simplicity: anyone can join. We welcome collaborators of all kinds. Educators, contributors, developers, translators, researchers, designers, organizers, maintainers, and, my personal favorite, dreamers. (Though I might be a bit biased because, well, I love being a dreamer.) \n\nCheck out our GitHub (https://github.com/PlanB-Network/bitcoin-educational-content) to learn more about all the crazy ways collaborators make the magic of Plan ₿ come together, who knows maybe you want to join us too? \n\nAnd for this writer, who am I? Deep questions here… \n\nOfficially, I go by the title Head of Chaos, but many of you know me as  nostr:npub1y67n93njx27lzmg9ua37ce7csvq4awvl6ynfqffzfssvdn7mq9vqlhq62h 💜 from the  nostr:npub19mduaf5569jx9xz555jcx3v06mvktvtpu0zgk47n4lcpjsz43zzqhj6vzk and as one of the organizers of the  nostr:npub1nstrcu63lzpjkz94djajuz2evrgu2psd66cwgc0gz0c0qazezx0q9urg5l conferences. Today, I’m thrilled to be writing to the best purple audience about what’s been keeping my days busy: my first FOSS passion, Bitcoin communities or how we now like to call them “nodes”.\n\nMeet “some” of the Team\n\nThe Plan ₿ Network team is vast, diverse, full of incredible people and spread almost around every corner of the world. For instance, there’s  nostr:npub1t0g7qwh5hhypwvfa94hcv6f2eqmtme844r8y5gj8fem687eg9svs3ycd3n, our unstoppable Head of International Expansion, who spends his days traveling around the globe, setting up nodes to ensure Bitcoin education can continue long after we’re all gone. Then there’s  nostr:npub1ezaezjyuhnjqkj3unzhc6tqzdu5u7zgd0k4au6yrjvcftjx6gz8s9c8utn, our Chief Operations Officer also known as “The Survivor of the Chaos”, the most patient person on our team, who helps bring order to the never ending amount of entropy Rogzy, Giacomo, and I tend to create.\n\nThese are just two examples of the amazing people who make up our ever-growing team. A team that is now beyond excited to be here, learning from all you nostriches. Together, we’re exploring ways to advance freedom and help others understand the magic that happens among all the relays, notes, and other stuff that keeps this space uncensored and alive.\n\nWe’d love to hear from you! Who should we interview? What should we do to ensure we’re learning and sharing the Nostr journey and its growth? Drop your recommendations, insights, or even a friendly “hello.” Your input will help us continue our mission of sharing the process that makes this community free.\n\nThank you for welcoming us into the purple space. Let’s keep building, learning, and inspiring together!\n\n\nStay Classy Nostr™️\n nostr:npub1y67n93njx27lzmg9ua37ce7csvq4awvl6ynfqffzfssvdn7mq9vqlhq62h 💜\n\n https://m.primal.net/MtOs.png \n",
+    "timestamp": "1733947986",
+    "date": "12/11/2024, 8:13:06 PM",
+    "id": "fb1ed38cc8e9ba501e79a0eafe872e63c46c2a0baa43496ae07b497b9865cfe1",
+    "kind": 6
+  },
+  {
+    "content": "👀 \nhttps://npub18a5dah5p2jwvppz04ljj3u2hfdg7p908fy05dz7edz0cwaumhqwsqjpzjs.nsite.lol/",
+    "timestamp": "1733947164",
+    "date": "12/11/2024, 7:59:24 PM",
+    "id": "9a9f2b1988940ca8a8f5c4f4365af93f1181b2cd77dc249eecac27db898bfb90",
+    "kind": 6
+  },
+  {
+    "content": "What if building nostr apps took a few lines of code ? As easy as it was to build a website back in the day.\n\nA new browser for interoperable apps without legacy web baggage. Built in bitcoin wallet, local relay, signer, outbox, for all apps.\n\nOffline first, Cross-app coordination via the local relay.\n\nThis is gonna be wild nostr:note18aqhwwl6pcqpdupnzkq9gfz89pj30tpu6x3zgxct4s0x4arawzgs07cxc8",
+    "timestamp": "1733944495",
+    "date": "12/11/2024, 7:14:55 PM",
+    "id": "5950eeeaf0564376c5924e3e70c9731e2d9dd1ab4733b160e793e18f946cb43a",
+    "kind": 6
+  },
+  {
+    "content": "Running nostr",
+    "timestamp": "1733937819",
+    "date": "12/11/2024, 5:23:39 PM",
+    "id": "ff983ddeb9922629dc34a6e577aa13924857e1b68d9b57b8f650ce7dd5d99d8c",
+    "kind": 6
+  },
+  {
+    "content": "Fountain 1.1.10 is now live on iOS and Android with many improvements to the payments ux along with faster boosts.\n\nWe're continuing to work on performance and have another big update on this coming next week.\n\nPlease drop any feedback you have below would love to hear it.\n\nnostr:note1hly6y5f52vx39u4kdg9aj7z0f7acwn9t3vc4y7fzxhwm0znycxyqexvdmd ",
+    "timestamp": "1733937796",
+    "date": "12/11/2024, 5:23:16 PM",
+    "id": "cf5d58f2837c361595ce25cdfb3b53911932e8ec64c10ca117cb311202f5130f",
+    "kind": 6
+  },
+  {
+    "content": "Joe's passion for seasteading is awe inspiring.\nOne of the best talks I've seen in a long time.\n\nhttps://www.youtube.com/watch?v=U2YnBrSDmoE",
+    "timestamp": "1733937786",
+    "date": "12/11/2024, 5:23:06 PM",
+    "id": "6a387818290f313cfdb64c60706a58c8e0f4db970dbc9418e9a6f3001780d22e",
+    "kind": 1
+  },
+  {
+    "content": "What do you mean?",
+    "timestamp": "1733926693",
+    "date": "12/11/2024, 2:18:13 PM",
+    "id": "a3836dda37839db3afe2b6f04cf6db5d4237390bb9972da58206a15ce1d26011",
+    "kind": 1
+  },
+  {
+    "content": "A brief history of how Wasabi utilized different variants of ecash, chaumian blind signatures, schnorr blind signatures, and key verification anonymous credentials.\n\nNot as a money warehouse receipt, but as anonymous API access right management tool.\n\nMy talk at nostr:nprofile1qqsxhwmaw842y4zzzk580cfke4l5jr6xyh44v3v6pk59dnyzjm2a7vqcd5flv:\n\nhttps://www.youtube.com/watch?v=kSpPV8pfUUY",
+    "timestamp": "1733919949",
+    "date": "12/11/2024, 12:25:49 PM",
+    "id": "cff543f0d4a8d802c90bc469629c15fabe01dbf090b706ed4167dcfc59885bac",
+    "kind": 1
+  },
+  {
+    "content": "The Second Renaissance of ecash by Calle. \n\nThe revival of ecash is unlocking a new frontier for digital payments, driving innovation across the Bitcoin ecosystem. In this talk, I will explore the pioneering work being done by developers building applications with this technology. We will examine the cryptosystem behind the Cashu protocol and discuss potential improvements, paving the way for more advanced Chaumian ecash systems in the future.\n\nWatch now: https://youtu.be/DZjqTsgO8To\n\nThis presentation was recorded in October 2024 in Berlin, Germany during bitcoin++ conference, ecash edition. \n\nSign up for one of our upcoming dev conf at https://btcpp.dev\n\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #cypherpunks",
+    "timestamp": "1733919596",
+    "date": "12/11/2024, 12:19:56 PM",
+    "id": "bd9f954da8c37cbe33cc8457bdb5a55270f9a94a4bac375c066fa7fbf746f319",
+    "kind": 6
+  },
+  {
+    "content": "We are excited to share this intro video with you. Bringing video archives to NOSTR. There are still a lot of rough edges but we are looking forward to your feedback.\n\nhttps://blossom.primal.net/9a217f49ba3c4313e7c49f7a9e22bdc8fa8ee24a3713d06dfe621c75d0b66ed1.mp4",
+    "timestamp": "1733919454",
+    "date": "12/11/2024, 12:17:34 PM",
+    "id": "7ab62f799f037c9b1359ba19f1cc0e21267726a482ca82e383337b5af465618a",
+    "kind": 6
+  },
+  {
+    "content": "Great to see the foss approach in gaming!",
+    "timestamp": "1733918199",
+    "date": "12/11/2024, 11:56:39 AM",
+    "id": "e7dbaa6190149d4e90abc4ff6ae25455c7ccb16b576467cf2e936539a7fed99c",
+    "kind": 1
+  },
+  {
+    "content": "Literally years in the making, Saving Satoshi is an interactive RPG that uses storytelling and gaming mechanics to onboard developers into the FOSS bitcoin ecosystem: https://savingsatoshi.com/",
+    "timestamp": "1733916852",
+    "date": "12/11/2024, 11:34:12 AM",
+    "id": "164bd3a28037f8970f8cc0590764e33cd46ec332e9f9dc14d86ddc9a2f01b1c2",
+    "kind": 6
+  },
+  {
+    "content": "📢 Announcing: Olas Web 0.1 👉 https://olas.app\n\n* NIP-07 login (NIP-46 coming)\n* View-only\n* NIP-22 comments\n\nLegacy platforms keeps doubling down on raising their garden's walls.\n\nFreedom tech keeps doubling down on building more tools, more open, more capable.\n\n👉 Want to come help create a credible alternative to Instagram? Ping me, there's a shitload of work to do.\n\nhttps://m.primal.net/MqlK.mp4 \n\nnostr:note1latg3x7pprrhtdzu4nsejz9zxm0sjcdty42wpyt6m6nl7ug87h9snpxnnj ",
+    "timestamp": "1733915532",
+    "date": "12/11/2024, 11:12:12 AM",
+    "id": "7feea847b52b646b593e917f49618b2e9042681292ce9e726b9e82d2ad1babf5",
+    "kind": 6
+  },
+  {
+    "content": "Nice.\nNow make it ecash per KB, no need to have account data for the monthly timeout.\nMaybe with a custom VPN client for seemless ux",
+    "timestamp": "1733907547",
+    "date": "12/11/2024, 8:59:07 AM",
+    "id": "afb4ef35b79dc281504cd84cbc2a06a58b0398f9fa0b27baa96773607d20d4ad",
+    "kind": 1
+  },
+  {
+    "content": "You can now buy VPN with #Cashu #Ecash 🥜🐿️ thank you nostr:npub12rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sf485vg are we the first to accept Ecash for vpn?\n\nhttps://video.nostr.build/59083acd816fd5252d38c36cb71d297350b65ef337e69b8081c510bfcae0ba22.mp4",
+    "timestamp": "1733907350",
+    "date": "12/11/2024, 8:55:50 AM",
+    "id": "3d24b1969823cb39ca085e0ea6a8e3338654d9dc292b84ef0f5895a422ce219b",
+    "kind": 6
+  },
+  {
+    "content": "We got digital bearer certificates ",
+    "timestamp": "1733907185",
+    "date": "12/11/2024, 8:53:05 AM",
+    "id": "0fbb6a0bd618803757d4133df376d8bee14b53fdf0843bcc275c4938bc3be70e",
+    "kind": 1
+  },
+  {
     "content": "Good to see Roger still kicking.\nhttps://www.youtube.com/watch?v=dbLHXOipQN4",
     "timestamp": "1733863341",
     "date": "12/10/2024, 8:42:21 PM",
