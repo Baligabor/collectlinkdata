@@ -1,5 +1,75 @@
 [
   {
+    "content": "If you could buy whatever you need on nostr marketplaces, would you use it? ",
+    "timestamp": "1734123160",
+    "date": "12/13/2024, 8:52:40 PM",
+    "id": "eb437617dd2cf4e3d15cef0cabb6e2de4e936e6a78048b3b68aef645d2e2cb7b",
+    "kind": 1
+  },
+  {
+    "content": "This is not about quantum computing.\nEven a quantum computer cannot break sha256, it's elliptic curve cryptography and discrete log proofs that are broken. ",
+    "timestamp": "1734119662",
+    "date": "12/13/2024, 7:54:22 PM",
+    "id": "24225a4134bbaf4de94c117c57543105bd8a42c58aabe0085c2e0ffcd7b8f5c8",
+    "kind": 1
+  },
+  {
+    "content": "The future is gonna be wild.",
+    "timestamp": "1734112525",
+    "date": "12/13/2024, 5:55:25 PM",
+    "id": "a03880aa7eddf330d3475a479dda6ffcb22ec9eb06f97c26531566c57bdc4f2d",
+    "kind": 1
+  },
+  {
+    "content": "It's sad that there aren't many...",
+    "timestamp": "1734112056",
+    "date": "12/13/2024, 5:47:36 PM",
+    "id": "6a9171b760dda34b458b6b146a1538fdb031fd0e729fb47374e8c9979ea8a904",
+    "kind": 1
+  },
+  {
+    "content": "You don't even need that phone number again to recover the account on another phone, as long as you have pin lock and a backup file, so even one time burner numbers work well.",
+    "timestamp": "1734111654",
+    "date": "12/13/2024, 5:40:54 PM",
+    "id": "61f9be4386c547eccb117d74fdd1fd53c7e18b805295a1d07dd66afd20b4fa05",
+    "kind": 1
+  },
+  {
+    "content": "Transcribro is whisper on android, works nice, but no llm.\n",
+    "timestamp": "1734109905",
+    "date": "12/13/2024, 5:11:45 PM",
+    "id": "b285656684fda15ea162da2cfe2037673479014de809624bd20f8f00f83f7ef7",
+    "kind": 1
+  },
+  {
+    "content": "Transcribal is quite fast actually. It's a pure text to speech engine though, so it doesn't do any editing of the text.",
+    "timestamp": "1734109072",
+    "date": "12/13/2024, 4:57:52 PM",
+    "id": "8078b61b4977939c0e2a3061402983e6c0225b8cd51ae171900c5b06d74d9e34",
+    "kind": 1
+  },
+  {
+    "content": "Learn more how nostr:nprofile1qqsr4d7zzzzjfd73c8zctuyurdlpjn670u395kaegleh3cr56a8fm0cpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq3wamnwvaz7tmjv4kxz7fwdehhxarj9e3xzmny9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcmut80v uses advanced Bitcoin script and nostr to provide a resilient protocol for investing in projects.\nhttps://docs.angor.io/start/",
+    "timestamp": "1734108347",
+    "date": "12/13/2024, 4:45:47 PM",
+    "id": "8a0368bcbc537f09509a5ed86b321c89f8154bf9f18c2f70fc2d4f79c03a7df0",
+    "kind": 1
+  },
+  {
+    "content": "Is there a FOSS app that takes microphone speech input, transcribes it, and then edits it for readability and coherence?",
+    "timestamp": "1734107919",
+    "date": "12/13/2024, 4:38:39 PM",
+    "id": "d1de944998fa22f33c1fac5f44783a2f6fbdbb2e3e2b304e5086b3b6c9d64031",
+    "kind": 1
+  },
+  {
+    "content": "# The Labor Theory of Value makes people idiotic\n\nSince forever, I've been fascinated by some seemingly inexplicable phenomena I encounter daily in Argentina—something that makes people prefer slow services over fast ones or trivial services over those that require expertise, study, or specialized knowledge.\n\nToday, I finally understood why, and I’d like to share it here. The Argentine is a socialist man. We may not be fully conscious of this, but it’s true. Just as someone who believes there is only one God and that Muhammad is His prophet is a Muslim, regardless of what they claim, we embrace socialist mantras, making us socialists—even if we vehemently deny it.\n\nOne of the deepest beliefs ingrained in the Argentine belief system is that the value of something is determined by the amount of work required to produce it. This belief is so deeply rooted in our culture that it’s taken as common sense. It explains some self-defeating behavior and absurd decision-making.\n\nHere’s an example: Juan is a graphic designer with a week to complete an important project when his laptop suddenly stops working. In desperation, he takes it to Pedro, a computer repair technician with a solid reputation. Juan is stressed because this is his only laptop, he has no backup, and the deadline is looming. He anxiously asks Pedro how long it will take to fix the problem.\n\nPedro is an expert with extensive experience fixing laptops, especially that specific model. He immediately knows what the issue is and could resolve it in a matter of minutes. However, he tells Juan, “It will take about a week.”\n\nBut why!? Why lie? Wouldn’t Pedro be seen as more efficient, knowledgeable, and even life-saving if he fixed Juan’s laptop on the spot? The answer: of course not! Remember that Juan doesn’t value Pedro’s service based on how quickly his need is met. Not at all. Juan’s need is irrelevant to Juan. What Juan values is the perceived amount of work Pedro has to do. If Pedro repairs the laptop in half an hour, the service would be perceived as worthless, and Pedro couldn't request more than a few pesos for it.\n\nPedro also believes in the labor theory of value. He feels he should be compensated not just for the time it takes to fix the laptop but for all the years of training and expertise that made the repair possible. Yet, Pedro knows that if he fixes the laptop on the spot, he couldn't charge what he thinks is fair because Juan would feel cheated and never return—or recommend him to others.\n\nThe result is a compromise where neither party is truly satisfied. Juan waits days for his laptop, and Pedro receives better payment than he would for a quick repair, but still less than he feels his expertise warrants.\n\n\nThe Argentine man is perfectly okay paying one hundred American dollars for a meal or forty dollars for a bottle of mediocre red wine. But paying forty or fifty dollars for a visit to the doctor? No way.\n\nYou could argue that a visit to the doctor might save your life in some cases, but those visits rarely last more than fifteen minutes. How could you justify paying more than what you pay for a bottle of wine that required tens of hours of hard work to produce?\n\n-----\n\nI wite about Argentine people but other Latin American peoples are even more retarded than us.\n\n",
+    "timestamp": "1734073795",
+    "date": "12/13/2024, 7:09:55 AM",
+    "id": "7cd530c9c2b5199f9f4687f0732f28e26a1f715a6f5f5c3882c9c4b4804080c3",
+    "kind": 6
+  },
+  {
     "content": "If you want to stack sats while helping onboard people to FOSS, let me know.",
     "timestamp": "1733956238",
     "date": "12/11/2024, 10:30:38 PM",
