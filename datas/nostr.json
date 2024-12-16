@@ -1,5 +1,33 @@
 [
   {
+    "content": "It's probably not rendering clickable because of the ä, but you should be able to copy and paste ",
+    "timestamp": "1734283005",
+    "date": "12/15/2024, 5:16:45 PM",
+    "id": "e0028f87c9fa366c984b6488446c4415add837f6e8d26ff6c5193ed54f5ce0c2",
+    "kind": 1
+  },
+  {
+    "content": "Why?",
+    "timestamp": "1734282954",
+    "date": "12/15/2024, 5:15:54 PM",
+    "id": "f399dc4d3af6d961c518374388cd0205ab513a33b034cf2decb06cd41773feed",
+    "kind": 1
+  },
+  {
+    "content": "nostr:npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc made a job board. https://ostrich.work",
+    "timestamp": "1734259199",
+    "date": "12/15/2024, 10:39:59 AM",
+    "id": "2e81b70726a65d47a0136e55f67bd65dd1ce9c6a8958381ea762db98ca00519c",
+    "kind": 6
+  },
+  {
+    "content": "Is there a NIP for a job board yet?",
+    "timestamp": "1734250185",
+    "date": "12/15/2024, 8:09:45 AM",
+    "id": "77609fd7603c46f65d779960b3e970c680e4b2b903f05e4b2dcb4a7fc7e0043d",
+    "kind": 1
+  },
+  {
     "content": "Well alright...\n\nnostr:nevent1qqswksmkzlwjea8r69ww7r9tkm3dun5nde48spyt8d52aaj96t3vk7cpz3mhxw309ucnydewxqhrqt338g6rsd3e9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqy5tndfl",
     "timestamp": "1734165870",
     "date": "12/14/2024, 8:44:30 AM",
