@@ -1,5 +1,26 @@
 [
   {
+    "content": "The latest version of Signal supports call links, you can invite people to a call without adding them to a group.",
+    "timestamp": "1734467228",
+    "date": "12/17/2024, 8:27:08 PM",
+    "id": "aaa0cb4f60cf23cba6cb98fef77c0ba09e27df6f10b54bb7c01a9eeba2eddd46",
+    "kind": 1
+  },
+  {
+    "content": "Angor is leveraging decentralized protocols (bitcoin and nostr) to ensure transparency and trust in every interaction.\n\nWith a foundation built on secure systems, Angor empowers founders to operate with integrity while fostering accountability and innovation.\n\n#nostr #angor \n#bitcoin ",
+    "timestamp": "1734421873",
+    "date": "12/17/2024, 7:51:13 AM",
+    "id": "f5a5caf5a7b29616cee56007c450d86d214783b25beaebe94767a82dc30b305c",
+    "kind": 6
+  },
+  {
+    "content": "GM Nostr 🌞\n\nI've taken a short break from Whitenoise for a few days to fix remote signing for teams once and for all. \n\nThere are lots of tools out there to help you remotely sign (Amber, nsec.app, knox, etc.) but none of them are focused on enabling multiple people to have access to the key with differing levels of access (e.g. they can only send notes, but can't decrypt, full access but only until friday, etc.)\n\nWhich teams out there would be keen to test out a beta version?",
+    "timestamp": "1734421662",
+    "date": "12/17/2024, 7:47:42 AM",
+    "id": "8f025c61272771b17e96e556d1c5a4f5b48640ec067acece295d8fb87665ea12",
+    "kind": 6
+  },
+  {
     "content": "Bitcredit Protocol is looking for a top-notch UX/UI Tester. We need structured, actionable feedback for the first version of the reference client for Bitcoin redeemable ebills. \nIf you grok the needs of business users, we need you.\nhttps://bitcoinerjobs.com/job/1632235-usability-tester-uxui-for-ebill-reference-client-bitcredit-protocol",
     "timestamp": "1734350603",
     "date": "12/16/2024, 12:03:23 PM",
