@@ -1,5 +1,201 @@
 [
   {
+    "content": "CHRISTMAS SPECIAL IS GOING LIVE! https://zap.stream/naddr1qqjxye3sxejnzwp595unwc3k956xzc3n94sk2dm995ekxwtzxy6kycfhxuexyqgwwaehxw309ahx7uewd3hkctcpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcpz9mhxue69uhkummnw3ezumrpdejz7qg7waehxw309ahx7um5wgkhqatz9emk2mrvdaexgetj9ehx2ap0qyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhhyetvv9ujumn0wd68ytnzvuhsz9thwden5te0dehhxarj9ehhsarj9ejx2a30qgsv73dxhgfk8tt76gf6q788zrfyz9dwwgwfk3aar6l5gk82a76v9fgrqsqqqan8k3draf",
+    "timestamp": "1734730490",
+    "date": "12/20/2024, 9:34:50 PM",
+    "id": "91d7b76d522564de0942638109608cd29084ce2a0e102cd1482a83c9170e891a",
+    "kind": 6
+  },
+  {
+    "content": "Amazing, looking forward to the upcoming releases!",
+    "timestamp": "1734716828",
+    "date": "12/20/2024, 5:47:08 PM",
+    "id": "3a4fa5984eb76eaef864b1e1ea70c62eca5e6f4a416dbb788fbca2d3ebcba238",
+    "kind": 1
+  },
+  {
+    "content": "Amber works with the mobile browser, for example nostrudel & shopstr",
+    "timestamp": "1734716454",
+    "date": "12/20/2024, 5:40:54 PM",
+    "id": "a853799528de5e56ad76bb20fce6f9195abe9a26cb4dacfac7154f7c5ac63b7c",
+    "kind": 1
+  },
+  {
+    "content": "Or the appstore first recommends a dedicated onboarding app.",
+    "timestamp": "1734714284",
+    "date": "12/20/2024, 5:04:44 PM",
+    "id": "578490a2806987bec08497b418c6b13c468d7d904deb24e85f18434885110a25",
+    "kind": 1
+  },
+  {
+    "content": "\"We deliver shippable intermediaries.\"",
+    "timestamp": "1734713225",
+    "date": "12/20/2024, 4:47:05 PM",
+    "id": "459c1fc35d56c6684ccbd207eebb696b587efea917200b4662168347c82f21b5",
+    "kind": 1
+  },
+  {
+    "content": "When I first heard of daylight, I thought the non-color screen was a deal breaker.\nBut now I've used my phone almost exclusively in greyscale for months, and its perfect for 99% of screen time. The biggest issue is with colored graphs etc, which you rarely see anyhow.",
+    "timestamp": "1734713097",
+    "date": "12/20/2024, 4:44:57 PM",
+    "id": "b251d77fee1c611312b187cf224d835a8e9b84d7017c3fbdbb7794765273e2b5",
+    "kind": 1
+  },
+  {
+    "content": "NSF Open Office is live! Join us:\n\nhttps://hivetalk.org/join/NSFOpenOfficeQA",
+    "timestamp": "1734712479",
+    "date": "12/20/2024, 4:34:39 PM",
+    "id": "4bdbbb8fc1ec664d3e268823dc0a0952874626684a7ae43d66dbf22daa809581",
+    "kind": 6
+  },
+  {
+    "content": "Bitcoin Optech newsletter #334: 2024 Year-in-Review Special is here:\n\n- notes Bitcoin developments during each month of 2024\n- feature: Vulnerability disclosures\n- feature: Cluster mempool\n- feature: P2P transaction relay\n- feature: Covenants and script upgrades\n- feature: Major releases of popular infrastructure projects\n- feature: Optech\nhttps://bitcoinops.org/en/newsletters/2024/12/20/\n\nIn 2024, Optech summarized more than two dozen vulnerability disclosures...\nhttps://bitcoinops.org/en/newsletters/2024/12/20/#vulnreports\n\nAn idea for a mempool redesign from 2023 became a particular focus for several Bitcoin Core developers throughout 2024...\nhttps://bitcoinops.org/en/newsletters/2024/12/20/#cluster\n\nFee management has always been a challenge in the decentralized Bitcoin protocol, but widespread use of contract protocols such as LN-Penalty and ongoing research into newer and more complex protocols has made it more important than ever to ensure users can pay and increase fees on demand. Bitcoin Core contributors have been working on this problem for years, and 2024 saw the public release of several new features that significantly improve the situation...\nhttps://bitcoinops.org/en/newsletters/2024/12/20/#p2prelay\n\nSeveral developers devoted much of their time in 2024 towards advancing proposals for covenants, scripting upgrades, and other changes that would support advanced contract protocols such as joinpools and channel factories...\nhttps://bitcoinops.org/en/newsletters/2024/12/20/#covs\n\nOptech covered major releases of popular infrastructure projects throughout the year...\nhttps://bitcoinops.org/en/newsletters/2024/12/20/#releases\n\nIn Optech’s seventh year, we published:\n\n- 51 newsletters\n- 35 new topic pages\n- over 120,000 words, a 350pg book equivalent\n- a wallet guide for developers\n- over 59hr of podcasts, with 488,000 words of transcripts w/75 guests\n- 200+ non-English translations\nhttps://bitcoinops.org/en/newsletters/2024/12/20/#optech\n\nBitcoin Optech will host an audio recap discussion of this special newsletter with special guests Dave Harding, Niklas Gögge, Gloria Zhao, and Brandon Black on Riverside.fm Monday at 15:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.fm/studio/bitcoin-optech",
+    "timestamp": "1734711263",
+    "date": "12/20/2024, 4:14:23 PM",
+    "id": "0ab7d8189395bc5a41704e512842a95518a31c1cbe6e34eaf77ba0c2fc23d7c4",
+    "kind": 6
+  },
+  {
+    "content": "ngit v1.6 (beef-up onboarding) released with improved on-boarding and login flow.\nThanks to new contributor nostr:npub1elta7cneng3w8p9y4dw633qzdjr4kyvaparuyuttyrx6e8xp7xnq32cume who added nip05 address support to nostr git clone url.",
+    "timestamp": "1734711244",
+    "date": "12/20/2024, 4:14:04 PM",
+    "id": "d8dfe50cde87b2a3a89ba42b8e6a777e87e967defeca867bcb78201681f9df8c",
+    "kind": 6
+  },
+  {
+    "content": "Amber is an Android Nostr Signer (NIP55).\nIts an application that has your nsec private key, and other apps can ask Amber to sign an event for you.\nThis way you don't have to put in your nsec into any application, a big security upgrade.\nIt's kinda like a nostr browser extension.",
+    "timestamp": "1734706749",
+    "date": "12/20/2024, 2:59:09 PM",
+    "id": "7823943ad9d1ca61ef5822920c004ac73afd2d81b9b4557ac2b18e64210aec7f",
+    "kind": 1
+  },
+  {
+    "content": "And I guess the websocket is https anyhow...",
+    "timestamp": "1734705477",
+    "date": "12/20/2024, 2:37:57 PM",
+    "id": "70e33c1d93162a84e9fee01e45165bb8b2c1100dc99d10d01c7f94028e3775c3",
+    "kind": 1
+  },
+  {
+    "content": "NIP numbers are broken AF...\n\n\nTo your NIP88, buy why wouldn't the user want to verify the message is authentic from the relay?",
+    "timestamp": "1734702832",
+    "date": "12/20/2024, 1:53:52 PM",
+    "id": "d7139fa79e4d0ea12118657b62c98738bd80ac8df057425874208aca25919a93",
+    "kind": 1
+  },
+  {
+    "content": "Only seen nostr:nprofile1qqsgqke57uygxl0m8elstq26c4mq2erz3dvdtgxwswwvhdh0xcs04scpr9mhxue69uhkummnw3ezuun4vf3x2unydakxctnrvvq3xamnwvaz7tmwdaehgu3wxccrqtnhw3nqz8nhwden5te0d9h8v6tvd3skwefdda6hganfd3kxzem99e3k7mgzf0c7j device at a couple conferences, it's very impressive.",
+    "timestamp": "1734695424",
+    "date": "12/20/2024, 11:50:24 AM",
+    "id": "71836eb143ad059168cb4be2d971dedb44f7fe7ecd4ec45a09eb6059f5f7a7df",
+    "kind": 1
+  },
+  {
+    "content": "Try greyscale, it's reducing the dopamine hit substantially ",
+    "timestamp": "1734695391",
+    "date": "12/20/2024, 11:49:51 AM",
+    "id": "0639c54fc5329c1df78032a0a0531102d31478deaa23d0f4069deb2b0378cd03",
+    "kind": 1
+  },
+  {
+    "content": "Yet another of those very bullish days.\nThe rate of progress is intense.",
+    "timestamp": "1734695324",
+    "date": "12/20/2024, 11:48:44 AM",
+    "id": "16ecf3ce77686b60d3403c53ad59aa22f06c3ef35de887c74750fe5625fcc9cc",
+    "kind": 1
+  },
+  {
+    "content": "GraoheneOS has a nice shortcut to switch from color to grey by swiping up two fingers from the bottom.",
+    "timestamp": "1734689139",
+    "date": "12/20/2024, 10:05:39 AM",
+    "id": "aa0d7fd15a048485641a8e437df910a98d067ff9db250b892d1ba2d0215e18a6",
+    "kind": 1
+  },
+  {
+    "content": "Yup, heard it in a couple pods.",
+    "timestamp": "1734688536",
+    "date": "12/20/2024, 9:55:36 AM",
+    "id": "099fb886e98ceff1951df3a74dc4e8e2de9fda3e9c2cad7c68adfb9b9f28980d",
+    "kind": 1
+  },
+  {
+    "content": "They're working on an entire lineup: tablet, phone, laptop, monitor...",
+    "timestamp": "1734687776",
+    "date": "12/20/2024, 9:42:56 AM",
+    "id": "84cbedf1f4a119cdadc70391123f5f55880c0d99d2a9e7ba8d68de54a800564f",
+    "kind": 1
+  },
+  {
+    "content": "Yes.",
+    "timestamp": "1734687226",
+    "date": "12/20/2024, 9:33:46 AM",
+    "id": "b301d88deb127ab8d60187db88ac6c14e9279499d262c32c295a690317e9875b",
+    "kind": 1
+  },
+  {
+    "content": "Set your phone screen to greyscale and maximum night light.\nAfter a couple weeks, go back to default, and feel your eyes bleed.\nI really hope nostr:nprofile1qqswhhhf99z77pfg80s2c00z27rusxn2tzss7450n34krkwa2yadhtgpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhkummnw3ezuerkv36zuer9wcq3vamnwvaz7tmpw5h8yetvv9ukzcnvv5hx7un8lpntld survives and thrives.",
+    "timestamp": "1734687128",
+    "date": "12/20/2024, 9:32:08 AM",
+    "id": "554a52c71e2e26eb4f32b5c30c5179b4a1b7384de1955af38c418f0d46443494",
+    "kind": 1
+  },
+  {
+    "content": "Thats amazing!\n\nNested musig or top level frost?\nWhich hardware wallets support it?",
+    "timestamp": "1734685986",
+    "date": "12/20/2024, 9:13:06 AM",
+    "id": "e848497dfe9923e9e3c740b61970af06b1fb44575bc5887265329c20cd17f4c5",
+    "kind": 1
+  },
+  {
+    "content": "Plot twist: Both transactions came from a 2-of-4 multisig wallet—but you’d never know it!\n\nThanks to Taproot, they’re completely indistinguishable from single-sig transactions.\n\nComing to you this Christmas. 🎁\n\n https://m.primal.net/NBLC.png \n\nnostr:note1hx0hjf9gs5jyx4vls79v74hzt267l3adu4m64xfwkn3lrky7mcnqkk3exy ",
+    "timestamp": "1734685899",
+    "date": "12/20/2024, 9:11:39 AM",
+    "id": "83e71c579f4b23d64388a797182516efa790d448836d3478d0588c70f755f5de",
+    "kind": 6
+  },
+  {
+    "content": "Would be cool if you can publish on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0",
+    "timestamp": "1734685784",
+    "date": "12/20/2024, 9:09:44 AM",
+    "id": "0d3a1064d5575435353ef0aa72140214677e853412bb969c5fff0cde312b26e0",
+    "kind": 1
+  },
+  {
+    "content": "I don't see it in the web version.\nAnd I couldn't find an apk.",
+    "timestamp": "1734685465",
+    "date": "12/20/2024, 9:04:25 AM",
+    "id": "9898ceb00beeb1875990fb7e87df3fa26f6d02466293082ed3edc67a0c16b185",
+    "kind": 1
+  },
+  {
+    "content": "Is it possible to log in to nostr:nprofile1qqszpxr0hql8whvk6xyv5hya7yxwd4snur4hu4mg5rctz2ehekkzrvcpzamhxue69uhhyetvv9ujuurvv438xarj9e3k7mgpr9mhxue69uhkummnw3ezu7n9vfjkget99e3kcmm4vsq3yamnwvaz7tm0venxx6rpd9hzuur4vg5xqmxe with nostr:nprofile1qqswacu3amp428kj8wtpqf77yd2upukcn2ft4aycmxm5scmh359e0ssppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uvt9vcv yet?",
+    "timestamp": "1734685359",
+    "date": "12/20/2024, 9:02:39 AM",
+    "id": "87477823a40660c7d57d7009c0f3fe81ad06c5fc94f0f8a92f03e776dd6572f8",
+    "kind": 1
+  },
+  {
+    "content": "After months of building, we are excited to announce the release of the first desktop beta version, which supports macOS, Linux, and Windows.\nIf you encounter any issues during usage, please feel free to contact us.\nEnjoy!\n\nDownload Links:\n\nLinux： https://github.com/0xchat-app/0xchat-app-main/releases/download/v1.0.0-desktop-beta/0xchat-v1.0.0-linux.tar.gz\n\nMacos：https://github.com/0xchat-app/0xchat-app-main/releases/download/v1.0.0-desktop-beta/0xchat-v1.0.0-macos.dmg \n\nWindows：https://github.com/0xchat-app/0xchat-app-main/releases/download/v1.0.0-desktop-beta/0xchat-v1.0.0-windows.exe \n\nFuture Plans:\n\n1. Support NIP-46 login\n2. Optimize the UI & UX for the desktop version\n3. Improve performance of the desktop version ",
+    "timestamp": "1734684885",
+    "date": "12/20/2024, 8:54:45 AM",
+    "id": "798a1f4dd7038bd9f1508019278dacbc3bf79225638e853648d96258f570e2af",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsx9lszg93486dvqxwzr7vms2y020ga984zmpsx2wn8dyxhgltwfmqpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcf95ta5",
+    "timestamp": "1734681725",
+    "date": "12/20/2024, 8:02:05 AM",
+    "id": "ee3c4694ed153faefc618982439ff1560eb9216e81324bc5cb3ceec8decdcd6b",
+    "kind": 1
+  },
+  {
+    "content": "Thanks!\n\nWhy unsigned events nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpz9mhxue69uhkummnw3ezuamfdejj7qgwwaehxw309ahx7uewd3hkctcscpyug?",
+    "timestamp": "1734680409",
+    "date": "12/20/2024, 7:40:09 AM",
+    "id": "bc0f0f9fb0c1a73329c9a4745f130a2c27c344e141024bb50753f5681a7b59ec",
+    "kind": 1
+  },
+  {
     "content": "so, iPhone users can't remove icons in the bottom line?\n\nwow...",
     "timestamp": "1734644821",
     "date": "12/19/2024, 9:47:01 PM",
