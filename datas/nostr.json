@@ -1,5 +1,145 @@
 [
   {
+    "content": "Crazy bullish on seed hammer v2.\nI was already in love with v1, but v2 is better in every regard!\nFully open source firmware and hardware, made by plebs for plebs.\nEngrave your output script descriptor qr code in steel!\nhttps://seedhammer.com/",
+    "timestamp": "1734814837",
+    "date": "12/21/2024, 9:00:37 PM",
+    "id": "e7c526392094da0c5eb0edaa5608190004bbdcc4f1f0354ca78c4b5619e73185",
+    "kind": 1
+  },
+  {
+    "content": "You're not radical enough.",
+    "timestamp": "1734813686",
+    "date": "12/21/2024, 8:41:26 PM",
+    "id": "93d843e28dd75d28dd1e168979fc899d58267bbbc3383cd542008238b97686e5",
+    "kind": 1
+  },
+  {
+    "content": "Today I am releasing \"narr\", a lightweight RSS and Nostr longform reader for the desktop: https://github.com/fiatjaf/narr\n\nIt supports all sorts of RSS feed discovery from HTTP URLs and renders them beautifully in a simple straightforward interface, you can also paste nostr:... URIs, including nip05, npub and nprofile codes (they should also work without the nostr: prefix).\n\nIf you install narr and use it in the next 2 hours you'll be entitled to our special bonus offer: you'll get one free complaint and one free feature request, which you can write as a reply to this note -- but only if you include a screenshot of your setup.\n\nhttps://cdn.satellite.earth/79794529f2d5778a911d59d98fa7b330654e45edc3d0c4eec2b6579ab510b7bd.png",
+    "timestamp": "1734813591",
+    "date": "12/21/2024, 8:39:51 PM",
+    "id": "075c4b46beb72e102e45360cd592a509791aa3078044efa131a74cf8aa8779d4",
+    "kind": 6
+  },
+  {
+    "content": "Why open investment protocols are important?\n\n🟣 No barrier to entry, anyone can raise money if they have a good idea. \n🟣 No licenses by authorities that may be influenced by bad actors. \n🟣 It's cheaper, it's more secure, it promotes good competition. \n🟣 It levels the playing field, no ability to block innovation. \n\n",
+    "timestamp": "1734813500",
+    "date": "12/21/2024, 8:38:20 PM",
+    "id": "71bc4929c0c05ed6caa021e70e2958e17c7771ec0b3cbd42d07b5f431fec8fc5",
+    "kind": 6
+  },
+  {
+    "content": "Probably the best thing that happened to nostr, is that they killed utxo's bitcoin business.\n\nKudos for going even harder!",
+    "timestamp": "1734813393",
+    "date": "12/21/2024, 8:36:33 PM",
+    "id": "0031f817c4ee5fc5d11c10f0830745011e8b85a611f490f2aa3e0371eacc5100",
+    "kind": 1
+  },
+  {
+    "content": "Introducing: Aegis Relay\nIncentiving Decentralization \nhttps://aegis.utxo.one/7a29f0e870337ee6d74218f5996e7dcb738359737179a10a4778b1265f476dd4.jpg\n\nAegis Relay is a premium relay and blossom server in one that anyone can run to earn revenue for operating it.\n\nBy having significantly more blossom servers available, we will strengthen the network and ensure our file storage is more distributed.\n\nSubscription payments are powered by the Bitvora lightning API, no code, no node management or KYC is required, you can be up and running in minutes.\n\nWritten in Go and powered by LMDB, it is the fastest subscription relay software in the ecosystem today and can run on just 1 core and 1 gig of ram.\n\nTo see it in action, you can subscribe to my relay here: https://aegis.utxo.one\n\nTo run your own relay and start earning, checkout the GitHub repo here: https://github.com/bitvora/aegis\n\nLook forward to hearing your feedback! As is nostr tradition, this is early beta software so please report any bugs to me directly! ",
+    "timestamp": "1734813332",
+    "date": "12/21/2024, 8:35:32 PM",
+    "id": "073a8adf6cb905057d4fb436ffe01a69249b1c161d5f272dd31156efd2cb6bd2",
+    "kind": 6
+  },
+  {
+    "content": "Yeah, it's a pretty bad shitcoin...",
+    "timestamp": "1734811690",
+    "date": "12/21/2024, 8:08:10 PM",
+    "id": "99066f4935b720fc7fb3258ce3bada8899f39dfd7fd6c214253334b32764eabb",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsw4m6evhlz0qj02ekw86657dc5nm3gunvgk4ux0r4qyz6h2ywkk7gpzamhxue69uhhyetvv9ujucm4wfex2mn59en8j6gpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3samnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kqvrj95t I was trying to find your chart that shows the bitcoin price at the market cap valuation of each fiat, but I couldn't find it in the recent reports.\nThe website has a new graph, which doesn't show the price though.\nhttps://www.porkopolis.io/topmoney/\n\nDo you have an up to date version?",
+    "timestamp": "1734811653",
+    "date": "12/21/2024, 8:07:33 PM",
+    "id": "7e7e95f1ace8982297ef64543ecef3cf583e463f4bd881afdab1c3d409e5291f",
+    "kind": 1
+  },
+  {
+    "content": "Yes, anything else is a wrong comparison, it's all about base money.",
+    "timestamp": "1734810606",
+    "date": "12/21/2024, 7:50:06 PM",
+    "id": "a695e74825bc2b2a73d2bfae2cc06a644c4bdfce25d0335d4bdea28e07a1eaf0",
+    "kind": 1
+  },
+  {
+    "content": "I'd say this isn't correct either, saleability is neither a promise nor a contract.\n\nI'd suggest reading What Has The Government Done To Our Money by Rothbard,\nhttps://mises.org/library/book/what-has-government-done-our-money\n\nAnd The Ethics of Moneyproductuon by Hülsmann.\nhttps://mises.org/library/book/ethics-money-production",
+    "timestamp": "1734793470",
+    "date": "12/21/2024, 3:04:30 PM",
+    "id": "078094d4136220a187f4866e16f4e041836d708309fbb0339f5d31ae4b5ede87",
+    "kind": 1
+  },
+  {
+    "content": "They don't even promise you that...",
+    "timestamp": "1734793259",
+    "date": "12/21/2024, 3:00:59 PM",
+    "id": "62209c3e56fafa57c2251917603a6a911453eb9faadc6d9447e4454321b1d68e",
+    "kind": 1
+  },
+  {
+    "content": "The original dollar paper bill was a promise to pay out gold, so to say a money warehouse receipt.\nBut in 1934/1971 the paper changed to not be redeemable for anything anymore, thus turning it into base money without counterparty risk, because there is no counterparty that can fail to honor the payout of gold.",
+    "timestamp": "1734775938",
+    "date": "12/21/2024, 10:12:18 AM",
+    "id": "58a0a59a8ec238b26b4d95dc3d1fd4b54ddab8b728e6b0b3c5b20b217c090a6b",
+    "kind": 1
+  },
+  {
+    "content": "I understand your narrative, but that's not correct in a rigorous analysis.\nFiat paper does not represent a promise, it's not backed by anything, you cannot redeem it for anything.\nIt's the equivalent to gold, or bitcoin, a stupid rock without liabilities or responsibilities.\n",
+    "timestamp": "1734775778",
+    "date": "12/21/2024, 10:09:38 AM",
+    "id": "e33a6757a359b7971b1ad73943633bfc788a2418c7d1a4993825c640953f0ae4",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin has a higher market cap than euro at ~300k usd/btc. \nUSD gets overtaken at ~350k.\nGold however we only overtake at ~650k usd/btc.\n\nYou got the timeline wrong nostr:nprofile1qqsp4lsvwn3aw7zwh2f6tcl6249xa6cpj2x3yuu6azaysvncdqywxmgprpmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctvq9n8wumn8ghj7enfd36x2u3wdehhxarj9emkjmn99ah8qatzx9e8gmr3vdsnsu3kv96hjcthx4hr26pnds6ngv3jv3kngumj0y6kg7nxv4jngd3exen8zefcwvm8zem4v34hxdmydf6xvuelvfex7ctyvdshxapaw3e82egpzpmhxue69uhkummnw3ezuamfdejs5mzk3a",
+    "timestamp": "1734772298",
+    "date": "12/21/2024, 9:11:38 AM",
+    "id": "9fe5ad563cf0114b9ea1cf9262786bda768f45f4acab633c0a28bdbe69eec226",
+    "kind": 1
+  },
+  {
+    "content": "Fiat cash is base money without counterparty risk.\n\nCashu/Fedimint is a moneywarehouse receipt with counterparty risk redeemable for bitcoin base money.",
+    "timestamp": "1734772077",
+    "date": "12/21/2024, 9:07:57 AM",
+    "id": "59e392c590841860755c3c0df23a083c01783cd2e17fb779c499a6e32bb50bc8",
+    "kind": 1
+  },
+  {
+    "content": "Just because it's a bearer certificate rather than a account balance doesnt change the nature of the deposit.\nUser has bitcoin, sends it to mint, mint sends to where ecash holder wants.",
+    "timestamp": "1734771678",
+    "date": "12/21/2024, 9:01:18 AM",
+    "id": "9ac6c3aeeae81801616d4b11f4134affb80b1f95663bb67260f4577039c5baf9",
+    "kind": 1
+  },
+  {
+    "content": "Why would it not be a deposit?",
+    "timestamp": "1734771111",
+    "date": "12/21/2024, 8:51:51 AM",
+    "id": "c2024d90a1d60344f9630432d821b0838fef6b49c5123bb512a953447929cfab",
+    "kind": 1
+  },
+  {
+    "content": "But what you explain is much more than just deposit ecash.",
+    "timestamp": "1734770901",
+    "date": "12/21/2024, 8:48:21 AM",
+    "id": "ed7ff54cbbea61588a6444b77fe00c5c7a62bec4f5f4348133292a8757987d4a",
+    "kind": 1
+  },
+  {
+    "content": "Is the paper receipt to a gold vault a letter of credit?\n\nIt depends on the legal setup, buy many money warehouse do not gain legal ownership of the money stored, for example physically allocated gold vaults.",
+    "timestamp": "1734770324",
+    "date": "12/21/2024, 8:38:44 AM",
+    "id": "df0767e9abf233b9c471742fc97ce1001405dae1140ba7122448bc4c7220a78b",
+    "kind": 1
+  },
+  {
+    "content": "Amazing to see these cool taproot tricks be shipped.\nLooking forward to that release!\nCheck your DMs",
+    "timestamp": "1734769653",
+    "date": "12/21/2024, 8:27:33 AM",
+    "id": "b5763558adcd95e00f46368dfd2a425b09925350c4fef31d74ab979aca3040fa",
+    "kind": 1
+  },
+  {
     "content": "CHRISTMAS SPECIAL IS GOING LIVE! https://zap.stream/naddr1qqjxye3sxejnzwp595unwc3k956xzc3n94sk2dm995ekxwtzxy6kycfhxuexyqgwwaehxw309ahx7uewd3hkctcpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcpz9mhxue69uhkummnw3ezumrpdejz7qg7waehxw309ahx7um5wgkhqatz9emk2mrvdaexgetj9ehx2ap0qyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhhyetvv9ujumn0wd68ytnzvuhsz9thwden5te0dehhxarj9ehhsarj9ejx2a30qgsv73dxhgfk8tt76gf6q788zrfyz9dwwgwfk3aar6l5gk82a76v9fgrqsqqqan8k3draf",
     "timestamp": "1734730490",
     "date": "12/20/2024, 9:34:50 PM",
@@ -81,6 +221,13 @@
     "timestamp": "1734702832",
     "date": "12/20/2024, 1:53:52 PM",
     "id": "d7139fa79e4d0ea12118657b62c98738bd80ac8df057425874208aca25919a93",
+    "kind": 1
+  },
+  {
+    "content": "Great!\nIs there some UX for which key pair is in the keypath spend?",
+    "timestamp": "1734702728",
+    "date": "12/20/2024, 1:52:08 PM",
+    "id": "9e53d5e6082fd569a6fca7581ca58bfa8abd1d89181b1a07ca423bbf57c49278",
     "kind": 1
   },
   {
