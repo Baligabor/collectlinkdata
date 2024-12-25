@@ -1,5 +1,348 @@
 [
   {
+    "content": "There's a lot of deployment of the topics mentioned, and more research on multi party channel feasibility.\nBut a lot of recent work is about edge case stability especially related to mempool and transaction propagation ",
+    "timestamp": "1735077093",
+    "date": "12/24/2024, 9:51:33 PM",
+    "id": "8ecbc4b35c1607c2389577ca110e0baba7b16416614d015f6bb43308b0629067",
+    "kind": 1
+  },
+  {
+    "content": "Yes you can import your subscriptions and app settings via the backup and restore database.",
+    "timestamp": "1735076771",
+    "date": "12/24/2024, 9:46:11 PM",
+    "id": "ae16cca4729b9d8eafd045a4de665cef2e477b0728ed2c46d0fe5c485d274c4f",
+    "kind": 1
+  },
+  {
+    "content": "Yes, there's a crowd sourced list of time stamps of different type of ads, the app then simply skips to the end of the ad and gives you the option to rewind.",
+    "timestamp": "1735076702",
+    "date": "12/24/2024, 9:45:02 PM",
+    "id": "04ba7c0e8a9fd8a2680bd611c3f6b0cef372dc4748b2b4d9847df9aa86e9acbc",
+    "kind": 1
+  },
+  {
+    "content": "Want to start to contribut to FOSS?\nConsider merging newpipe upgrades to tubular.\n\nnostr:nevent1qqsdje3a7xkcsnyc7mvy32v8mk3hg0p6370tmqz9q3237qf82tukvtqpzpmhxue69uhkummnw3ezumt0d5hsyg9qedcdxgy0ta70v6uuhdvzau0zzhh5auxf2vvx8pv0kejdm7ct3upsgqqqqqqsvpwact",
+    "timestamp": "1735074982",
+    "date": "12/24/2024, 9:16:22 PM",
+    "id": "065edb3801919443370fa7451ba0495ea2e4fae0e305fdc964969ca9718204ad",
+    "kind": 1
+  },
+  {
+    "content": "Very interesting, thanks for checking, sounds like they need more contributors!",
+    "timestamp": "1735074946",
+    "date": "12/24/2024, 9:15:46 PM",
+    "id": "887200ddd1fe84d2d8f8e02bd3d3fdcfad13384b87cf4ae5890bd583762c26d2",
+    "kind": 1
+  },
+  {
+    "content": "Interesting, Thanks!\nI'm not a big fan of the neckband style though.",
+    "timestamp": "1735074877",
+    "date": "12/24/2024, 9:14:37 PM",
+    "id": "441f4f3b0e60387157cfd2e0723ea1558ee747f289b5cf2d51bc656549596f37",
+    "kind": 1
+  },
+  {
+    "content": "btw, checkout tubular, a newpipe fork with sponsor block integrated, so it automagically skips the in-video ads as well.",
+    "timestamp": "1735073164",
+    "date": "12/24/2024, 8:46:04 PM",
+    "id": "cd110e49d622e22ae2ff95cd3c410a657a7dd4caba49779ad02449484f28759c",
+    "kind": 1
+  },
+  {
+    "content": "Android cannot split incoming mic from outgoing audio, so using such a plug in mic with Bluetooth headset isn't possible.",
+    "timestamp": "1735071731",
+    "date": "12/24/2024, 8:22:11 PM",
+    "id": "a6c98aa4b852cb50eada4cf01874490272e7f331e42f2e770fdf331117ea631a",
+    "kind": 1
+  },
+  {
+    "content": "Open source hardware security module by nitrokey\nhttps://www.nitrokey.com/products/nethsm",
+    "timestamp": "1735071473",
+    "date": "12/24/2024, 8:17:53 PM",
+    "id": "b7ef0264a7ce3280194b5d390ab05cdeb1e9d0eac7d02a6a5e414ccdc2fb0f6b",
+    "kind": 1
+  },
+  {
+    "content": "That mic out only plays the recorded sound, right?\n\nI need something for calls, so the audio should be sourced from the phone and play in the earbuds.",
+    "timestamp": "1735068949",
+    "date": "12/24/2024, 7:35:49 PM",
+    "id": "6dd08f9b03bf3b669d2228558822e3d09f6e0ae1c32b708970f5e351610535cb",
+    "kind": 1
+  },
+  {
+    "content": "How does the call audio output get to the headphones?",
+    "timestamp": "1735068635",
+    "date": "12/24/2024, 7:30:35 PM",
+    "id": "8193bc58effd6fd2f56786a56ef51f790696252a85979fb0257ecc0741331b8c",
+    "kind": 1
+  },
+  {
+    "content": "Is that domain also yours?",
+    "timestamp": "1735068353",
+    "date": "12/24/2024, 7:25:53 PM",
+    "id": "12ef7f95993ba74a624a5fa36e95f91b41d9d5610a195724e92d483d5f634dce",
+    "kind": 1
+  },
+  {
+    "content": "It's absolutely unbelievable how much advertising is shown to apple users.",
+    "timestamp": "1735068214",
+    "date": "12/24/2024, 7:23:34 PM",
+    "id": "067f0cf884bbf9ed2d8ec31bd1f89faa5139977af3427d46f031876dbcf0f382",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqszpxr0hql8whvk6xyv5hya7yxwd4snur4hu4mg5rctz2ehekkzrvcpzamhxue69uhhyetvv9ujuurvv438xarj9e3k7mgpr9mhxue69uhkummnw3ezu7n9vfjkget99e3kcmm4vsq3yamnwvaz7tm0venxx6rpd9hzuur4vg5xqmxe just shipped RTL",
+    "timestamp": "1735067918",
+    "date": "12/24/2024, 7:18:38 PM",
+    "id": "5ae869bdf127abeb1fd2b05214b91929c46a53c054d82741d479e8aadf2346dd",
+    "kind": 1
+  },
+  {
+    "content": "EU & FATF 2025: Your Bitcoin Wallet's New Rules?\n\nWhat is the best Christmas gift from human rights, privacy and Bitcoin advocates?\n\nOpen Dialogue Foundation provides you with a comprehensive respond on what you should know while using #Bitcoin p2p wallet, privacy payments tools & open-source technologies like the #LightningNetwork, #Fedimint, and e-cash in the European Union.  \n\nHuge kudos for nostr:npub1trkudtnp7jg3tmy4sz8mepmgs5wdxk9x2esgts25mgkyecrse7js6ptss5 and nostr:npub15ka0zlfeys4vphnl6dk4x63e7sra0mp3wmrp4ml7q993z8km0n6spjxua8 for gathering all of this information in the report “Impact of the EU and FATF Regulatory Frameworks on Non-Custodial Crypto-Assets Wallets”. https://en.odfoundation.eu/a/726702,impact-of-the-eu-and-fatf-regulatory-frameworks-on-non-custodial-crypto-assets-wallets/￼\n\nSave, share with your friends, especially new users of Bitcoin privacy tools. \n\nMerry Christmas!\nhttps://cdn.nostrcheck.me/8f6568deec0120acb2a4d1e4e311c881d306c396a9288b0a07f564d20f186268/d296656111c20b1521618cf681a181b3e17d7fc79f7cb3521e50597f8eb11603.webp",
+    "timestamp": "1735067828",
+    "date": "12/24/2024, 7:17:08 PM",
+    "id": "d5062264021145eaa382dea9f40c757ea58759074e7f96982cd8250fc5a1e35a",
+    "kind": 6
+  },
+  {
+    "content": " That's a shame, I'm looking for a compact tool good for walk and talks in the forest.",
+    "timestamp": "1735067787",
+    "date": "12/24/2024, 7:16:27 PM",
+    "id": "575ff98a88f7583a80bfb6a84897e85fceb08684983062384239ca215a17b997",
+    "kind": 1
+  },
+  {
+    "content": "LineageOS, launched in 2016, is a direct fork of CyanogenMod and is known for its stability, security, and customizability.\nCalyxOS, launched in 2018, and GrapheneOS, launched in 2019, both are a privacy-focused ROM that provides a more secure and private version of Android.",
+    "timestamp": "1735066494",
+    "date": "12/24/2024, 6:54:54 PM",
+    "id": "999559feba770b49318957630de2d9e1bf2ec2ddc6a12f0ccad952e413b8f8d1",
+    "kind": 1
+  },
+  {
+    "content": "Does that gear work with android?",
+    "timestamp": "1735066306",
+    "date": "12/24/2024, 6:51:46 PM",
+    "id": "3d928e507b22292f58c2443350d52d79d64f4d9abfba59a346d9e12fdf683f8f",
+    "kind": 1
+  },
+  {
+    "content": "The mic isn't good enough, by far.\nIt should be insanely great studio quality mic.",
+    "timestamp": "1735063837",
+    "date": "12/24/2024, 6:10:37 PM",
+    "id": "99d3337462047f7920219c79a25d49064eaefbdf72d25c8e6e44ae90f1869d30",
+    "kind": 1
+  },
+  {
+    "content": "Any hardware tinkers that could do a prototype much cheaper?\n\nnostr:nevent1qqsxkfsw6af0lwxjghg926fw6nvse65tr857tsus6498wepxpn2ng8spz3mhxw309ucnydewxqhrqt338g6rsd3e9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqyyp7j2d",
+    "timestamp": "1735063770",
+    "date": "12/24/2024, 6:09:30 PM",
+    "id": "e78f90aa9762825a9ab9b2b9e010ecb81a1af5c29bbc01c4ab5c5f9c6406bbcd",
+    "kind": 1
+  },
+  {
+    "content": "I was thinking to build wireless earbuds with a studio-grade high quality microphone. There should be an additional clip-on mic that uses the same bluetooth connection and charges in the case. I want to record podcasts while walking with superb audio quality.\n\nTurns out, will cost roughly 5 bitcoin in research and development.\n\nI guess I'll do it if you zap this note hard.",
+    "timestamp": "1735063178",
+    "date": "12/24/2024, 5:59:38 PM",
+    "id": "6b260ed752ffb8d245d055692ed4d90cea8b19e9e5c390d54a7764260cd5341e",
+    "kind": 1
+  },
+  {
+    "content": "Which 3 vendors then?",
+    "timestamp": "1735062221",
+    "date": "12/24/2024, 5:43:41 PM",
+    "id": "626c7f78579c2ebcd90108541036cf3c10143ebf572436b529f90d994047bd41",
+    "kind": 1
+  },
+  {
+    "content": "Best hardware wallets for multisig?",
+    "timestamp": "1735062074",
+    "date": "12/24/2024, 5:41:14 PM",
+    "id": "18e90cd12ba77f71d9d46399a3db264073fdddcfa754d3ab1877574426ffe1f6",
+    "kind": 1
+  },
+  {
+    "content": "We have so much to build.\nIt will be so much fun.",
+    "timestamp": "1735061320",
+    "date": "12/24/2024, 5:28:40 PM",
+    "id": "ee0f0c2459a248d59055b4006b497bef2a9cb98131902a5f346cf83123973454",
+    "kind": 1
+  },
+  {
+    "content": "Same goes for writing nips...\nnostr:nevent1qqsq93uuf3vuj7jsujqtusa80q6hp4j0y9x6kzm2h9aflmajtj4wg2cpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqrqsqqqqqp70fp4q",
+    "timestamp": "1735060458",
+    "date": "12/24/2024, 5:14:18 PM",
+    "id": "765f5abea9e5abe966e9789bdf0d97fbf5f90cdac43f14c848520eb862018753",
+    "kind": 1
+  },
+  {
+    "content": "Beautiful!",
+    "timestamp": "1735060429",
+    "date": "12/24/2024, 5:13:49 PM",
+    "id": "e61c84cb4678d0ab8507c5c3286c24fefc8fbf0a2ab94163ba7541ee3f464878",
+    "kind": 1
+  },
+  {
+    "content": "Doing business on Christmas is amazing.\nGive the gift of productivity to human kind.",
+    "timestamp": "1735058252",
+    "date": "12/24/2024, 4:37:32 PM",
+    "id": "e2e674ea24acaffde38cd0f5d48861638d6efc03e3adb6428d04d1cd0479a158",
+    "kind": 1
+  },
+  {
+    "content": "I mean, it's up 5x since, so turns out it wasn't bad advice after all.\n\nNevertheless, dangerous indeed.",
+    "timestamp": "1735052890",
+    "date": "12/24/2024, 3:08:10 PM",
+    "id": "43c82e6f39c544a9be9d9893107c2c614d8fe7c4b23905eda1a0b7cc9de50258",
+    "kind": 1
+  },
+  {
+    "content": "Global Trending is a bad algo because post velocity (the key metric on trending) depends on sub-community velocity while ignoring the user's interest and expertise to find narrow-audience trends.",
+    "timestamp": "1735052662",
+    "date": "12/24/2024, 3:04:22 PM",
+    "id": "2c715e24ab11321b40655ccc7f54999e8de424f5e22efef6f47eba7bf0989510",
+    "kind": 6
+  },
+  {
+    "content": "That's a great explanation!\n\nMaybe we need a \"meaninful\" DVM...",
+    "timestamp": "1735052615",
+    "date": "12/24/2024, 3:03:35 PM",
+    "id": "e9baaae9cb6e9b5567aaf64f196cf06119430c5f5547757ab8c8db8fe6a29224",
+    "kind": 1
+  },
+  {
+    "content": "Tell that to the plebs who convinced their friends to buy the top.",
+    "timestamp": "1735052546",
+    "date": "12/24/2024, 3:02:26 PM",
+    "id": "b45b7dd6c8168fd2eccdcd5b60acd803ddc40347eedf3f16658c6f1c4636c35f",
+    "kind": 1
+  },
+  {
+    "content": "Checkout the website and some of Matthew's podcasts, base money is a fascinating rabbit hole!",
+    "timestamp": "1735052465",
+    "date": "12/24/2024, 3:01:05 PM",
+    "id": "83e8df55103e4fc492a49b3cc8cf37736658dc79e777525db15a521135d0ea7f",
+    "kind": 1
+  },
+  {
+    "content": "Most trending DVMs are pretty bad actually...",
+    "timestamp": "1735050962",
+    "date": "12/24/2024, 2:36:02 PM",
+    "id": "8c315de75428a46e03abee5d4608bcd4c040048a14b240f16c930560fcd48526",
+    "kind": 1
+  },
+  {
+    "content": "Advice is a dangerous gift.",
+    "timestamp": "1735050384",
+    "date": "12/24/2024, 2:26:24 PM",
+    "id": "99eb1bab9a58533dde92a15337319b2b94e50d9b7180eb60f2999558d38e07d4",
+    "kind": 1
+  },
+  {
+    "content": "Greatful for nostr:nprofile1qqsw4m6evhlz0qj02ekw86657dc5nm3gunvgk4ux0r4qyz6h2ywkk7gpzamhxue69uhhyetvv9ujucm4wfex2mn59en8j6gpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3samnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kqvrj95t doing base money research for close to a decade!",
+    "timestamp": "1735050147",
+    "date": "12/24/2024, 2:22:27 PM",
+    "id": "73f4619cdd8167b8477159b27338ece1e7f6ceea9bfe140b3fdad790010aded4",
+    "kind": 1
+  },
+  {
+    "content": "Very wrong.\nBitcoin is base money, so it shall be compared to other base moneys.",
+    "timestamp": "1735050111",
+    "date": "12/24/2024, 2:21:51 PM",
+    "id": "fec8748b642aa39c9aa0e902e3361700f06e7caa850a04d2a2ee42f63c7325c2",
+    "kind": 1
+  },
+  {
+    "content": "For Bitcoin to overtake USD reserves (M0), it only has to grow 3x. If that happens, it becomes second largest reserve asset in the world (after gold).\n\nLet that sink in.\n\nSource: porkopolis.io/topmoney/ \n\nhttps://m.primal.net/NFJq.png ",
+    "timestamp": "1735050086",
+    "date": "12/24/2024, 2:21:26 PM",
+    "id": "f7b7e09d8aa0a39526f002bf5e4c7a65ff7854d415af064d1c0888358c5f80f5",
+    "kind": 6
+  },
+  {
+    "content": "Grateful for my friends building freedom tech.",
+    "timestamp": "1735049201",
+    "date": "12/24/2024, 2:06:41 PM",
+    "id": "28dda9e698344387ea56497a55f43bb776b1a4a90b9d32b3ab4aa352ab50e9b7",
+    "kind": 1
+  },
+  {
+    "content": "Is there any fancy connection between LSP and mint?",
+    "timestamp": "1735049106",
+    "date": "12/24/2024, 2:05:06 PM",
+    "id": "316d436641adeb0be2e6718dee1248e6f21a52049f0f485d2d13679eea38fc37",
+    "kind": 1
+  },
+  {
+    "content": "I don't think dual boot is possible with phones.",
+    "timestamp": "1735048784",
+    "date": "12/24/2024, 1:59:44 PM",
+    "id": "260b6aec05102ef2792c7b64cceb4e5368e79fe5e7f01b219fcf92d077bef57b",
+    "kind": 1
+  },
+  {
+    "content": "The research grant is over, but new contributions are always good.\nWhat needs maintaining?",
+    "timestamp": "1735048743",
+    "date": "12/24/2024, 1:59:03 PM",
+    "id": "71e5584d673f23489a2d106bb81c02c33b3298611f2f01ed6df73477179ca52c",
+    "kind": 1
+  },
+  {
+    "content": "REMINDER: #German children building a Christmas tree with worthless currency at the height of hyperinflation. By December 1923, one US dollar was worth 4.2 trillion German marks, up 567 million times YoY.\n\n“History doesn’t repeat itself, but it often rhymes.” - Mark Twain https://image.nostr.build/05f0e30f2c6144683eae7f3dcebcc1bdf3dcd75573efe085924b1f775e6ced43.jpg ",
+    "timestamp": "1735045097",
+    "date": "12/24/2024, 12:58:17 PM",
+    "id": "1b8aa918496ccbd3707bce458803bcfcb0b8419bcbe1771c818d77b7d838632e",
+    "kind": 6
+  },
+  {
+    "content": "Beautiful present, thanks!",
+    "timestamp": "1735043379",
+    "date": "12/24/2024, 12:29:39 PM",
+    "id": "86204def57f500fe74b8d94d8af7a53bc613115a15259838d2ffc046e88d69dd",
+    "kind": 1
+  },
+  {
+    "content": "GM Nostr! 🌞\n\n🎁 Announcing Keycast 🔑 \nA remote signing platform for teams. \n\nhttps://share.cleanshot.com/y4XbqKpT\n\nRemote signing (NIP-46) has always had a lot of promise. Apps like Amber, nsec.app, and others have made it possible to manage your nostr keys in a way that is safer than browser extensions or pasting your nsec around the internet.\n\nBUT, none of them catered to teams. Groups like  nostr:npub1nstrcu63lzpjkz94djajuz2evrgu2psd66cwgc0gz0c0qazezx0q9urg5l and  nostr:npub19mduaf5569jx9xz555jcx3v06mvktvtpu0zgk47n4lcpjsz43zzqhj6vzk and many many companies out there are just sharing the main account nsec between different people and using it in different apps. A recipe for disaster. \n\nKeycast aims to finally fix this. It allows you to:\n\n- Manage teams of nostr users\n- Manage multiple keys that you want to give others access to\n- Create authorizations for those keys that grant specific permissions that can be changed, revoked, etc. \n- Create your own custom permissions\n- Run the signing infrastructure without any extra work\n\nAnd do it all in a self-sovereign way. Keycast is meant to be run on your server, by you. I think it's tremendously important that this sort of tool doesn't exist as a hosted service (which would basically be a huge key honeypot over time). \n\n The app is both a management web app AND a backend process that manages sub-processes that listen for remote signing requests, check permissions, and sign events.\n\nThere is a basic docker setup to start, but my goal is to have this easily deployable to StartOS, Umbrel, Podman, and others. \n\nCode here: https://github.com/erskingardner/keycast",
+    "timestamp": "1735043171",
+    "date": "12/24/2024, 12:26:11 PM",
+    "id": "f1710b6c4a0b2561812875de211ce751ba685cce281b7c91cc3dcbc716c5df07",
+    "kind": 6
+  },
+  {
+    "content": "But it asks for a license key on first start.",
+    "timestamp": "1735029735",
+    "date": "12/24/2024, 8:42:15 AM",
+    "id": "7c9abc77a3a44e621529f323b978620a0b80cfd7a1f8b529051d36beda851432",
+    "kind": 1
+  },
+  {
+    "content": "nostr:npub19hg5pj5qmd3teumh6ld7drfz49d65sw3n3d5jud8sgz27avkq5dqm7yv9p fixes subscription payments nostr:note1pdg2rmkje9ewatq4l2mmszd4hfn36st9vgxvdn6wy4k4myqz39lq0snjxc",
+    "timestamp": "1735025750",
+    "date": "12/24/2024, 7:35:50 AM",
+    "id": "98cf045ecf9a0f26e6a646219402cf11633dfe4a01273bc26f79af13a808b7e9",
+    "kind": 6
+  },
+  {
+    "content": "Nope, I take it back, it's proprietary software that requires a license, what a shame!",
+    "timestamp": "1735023283",
+    "date": "12/24/2024, 6:54:43 AM",
+    "id": "52d1c0004ab3a67112653aeb36b710616d9b4000c2beae4c8500838ebd4ab03b",
+    "kind": 1
+  },
+  {
+    "content": "I keep discovering new useful apps on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0\n\nLike cryptomator, an automatic encryption client for android.\nhttps://github.com/cryptomator/android",
+    "timestamp": "1735022651",
+    "date": "12/24/2024, 6:44:11 AM",
+    "id": "23d78e4bb6bf271f5b49507dfc0c3d7fb487169ff5c71702176aaabe326606de",
+    "kind": 1
+  },
+  {
+    "content": "It only works on google pixels, there are some second hand vendors that flash it for you, but its trivial to install for yourself.",
+    "timestamp": "1735021816",
+    "date": "12/24/2024, 6:30:16 AM",
+    "id": "253589bec325c5961c904dd24d55972aee3f8d72c2fdd72362da573209e59a67",
+    "kind": 1
+  },
+  {
     "content": "Schedule payments using any NWC wallet: https://zapplanner.albylabs.com",
     "timestamp": "1734983295",
     "date": "12/23/2024, 7:48:15 PM",
