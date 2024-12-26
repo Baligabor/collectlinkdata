@@ -1,5 +1,12 @@
 [
   {
+    "content": "It's very smart to scale out slowly as your revenues allow.\nKudos for not taking reckless shortcuts to scale.",
+    "timestamp": "1735113244",
+    "date": "12/25/2024, 7:54:04 AM",
+    "id": "e0afbfd5da621dabd0c914416d3fbce19e5642104d7f30f187da35204a54fff4",
+    "kind": 1
+  },
+  {
     "content": "There's a lot of deployment of the topics mentioned, and more research on multi party channel feasibility.\nBut a lot of recent work is about edge case stability especially related to mempool and transaction propagation ",
     "timestamp": "1735077093",
     "date": "12/24/2024, 9:51:33 PM",
@@ -123,6 +130,13 @@
     "timestamp": "1735066306",
     "date": "12/24/2024, 6:51:46 PM",
     "id": "3d928e507b22292f58c2443350d52d79d64f4d9abfba59a346d9e12fdf683f8f",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsd74a5np4zcevevhpal9w28l4r2vazq7cfhuk9tfcdgpk86py3yncpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5hnxg5v wdyt about feasibility of a cheaper prototype?",
+    "timestamp": "1735064359",
+    "date": "12/24/2024, 6:19:19 PM",
+    "id": "d7afcb8be0a36cffcea73ec176598949fd778d33aeb31c512da5afbe4f148b6e",
     "kind": 1
   },
   {
