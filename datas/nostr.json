@@ -1,5 +1,138 @@
 [
   {
+    "content": "nostr:nprofile1qqsr4d7zzzzjfd73c8zctuyurdlpjn670u395kaegleh3cr56a8fm0cpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq3wamnwvaz7tmjv4kxz7fwdehhxarj9e3xzmny9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcmut80v shows what's possible with Bitcoin script, for example a threshold htlc, by using multiple tapscript paths with two AND HTLCs.",
+    "timestamp": "1735493202",
+    "date": "12/29/2024, 5:26:42 PM",
+    "id": "6d4d021005bab95262771b28f2f3cbcb52c0fe9ee65c1aa1666c4e2457fda421",
+    "kind": 1
+  },
+  {
+    "content": "How to get started with Reticulum and RNode\nBy Andy Kirby\n\n2025 is going to be a big year for mesh radio and Reticulum.\n\n#reticulum #rnode #rns #sideband #nomadnet #hamradio #amateurradio #radio  #lora #esp32 #mesh #meshtastic\n\nhttps://youtu.be/aBt56UpaQ0E",
+    "timestamp": "1735493083",
+    "date": "12/29/2024, 5:24:43 PM",
+    "id": "81423d18507ed4850f7a52a6f319f5d9847583f7e5502739c4016f3cc2dc2bfb",
+    "kind": 6
+  },
+  {
+    "content": "Going all in on Bitcoin was the most important decision of my life. Not for the money it would become, nor for the purpose and meaning that it would deliver to me, but because it was a decision that was truly mine. \n\nThe whole world and everyone in it has ideas of who you are suppose to be, and most of the time we conform with that in some way or another.  While I did not know it at the time, I knew in my heart of hearts that Bitcoin not only had a chance to save me from a life of mind-numbing pointless work, and nihilistic existence; but more than that, it allowed for me to believe in what I saw for myself, and my own understand of it before what everyone else was telling me. It let me stand up for myself against a world that just wanted to use me and keep me in the suppressed, small role it had relegated to me. Bitcoin allowed for me to decide something else against this system that could not see the light and love that I really am. \n\nThis decision came from my own strong conviction within myself that I knew from the deepest levels within me. Even though it seemed crazy, irrational, and like it wouldn’t work to everyone else; just like most major decisions that can change your life for the better, I knew it was what I had to do for myself. There are no other people who can make these kind of decisions for you, and that is why they are them in their lives and you are you in your life. Only you can make the decision for yourself about how your life is going to be, where you are going to put your energy and how you are going to save yourself against a world that wants to exploit you like a machine, and give you worthless paper in exchange for it. You can choose something else now, but that decision is on you alone. \n\nWhile I cannot promise that you’ll get rich from Bitcoin, or even that it will be a profitable decision with your timing of the markets, you will learn to have a new kind of conviction and faith in yourself which is a kind of wealth in its own right. You will learn that you can decide to take a risk on your own thoughts and decisions, and that is worth something in and of itself. \n\nJust some food for thought going into 2025.",
+    "timestamp": "1735485268",
+    "date": "12/29/2024, 3:14:28 PM",
+    "id": "5aeb1e17676c874be026111da54a04263bc209487a79b4368b2178d6f467df1b",
+    "kind": 6
+  },
+  {
+    "content": "A remarkable anecdote about Uber's early growth strategy: \n\n \"Regulators eventually figured out they needed to impersonate honest customers, summon a driver through Uber’s App and then finally arrest them. However, Uber frequently anticipated this scheme and thwarted it. Uber used sophisticated software to identify the cartel’s enforcers and evade them. Uber altered the apps on the phones of the cartel’s would-be enforcers’ so that drivers appeared to be unavailable, with their true locations hidden. Actual cars were replaced with non-existent ghost cars in these apps! Thus, the Uber “underground” rebels could conduct operations right under the regulators’ noses yet still slip away. Sometimes the undercover taxi police would create false identities on a new cell phone number. Even then, Uber quickly adapted. They would deduce (or perhaps be informed, since satisfied Uber customers were turning up everywhere in the growing Uber underground) where the batch of phones had been purchased and eventually identify them. When cartel enforcers did manage to catch a driver. Uber would pay all fines and legal costs.\"\n\nObviously i have no way of verifying how true it is, but, wow.\n\nhttps://www.adamsmith.org/blog/uber-literally-saves-lives",
+    "timestamp": "1735485157",
+    "date": "12/29/2024, 3:12:37 PM",
+    "id": "2603812e8d82f0c34c2790fdfa070b88af3e0f5afde056650ef3b7847d54f926",
+    "kind": 6
+  },
+  {
+    "content": "Yes.",
+    "timestamp": "1735485077",
+    "date": "12/29/2024, 3:11:17 PM",
+    "id": "9c493f38c6f37d4268263444ac3062f7998a94b510aa201075082291942528f0",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs80n2hqvjppgqh2c5t2dtl5e2mr7kw4d90u468xwaaenke8r0frgspz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3samnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kqzxthwden5te0wpuhyctdd9jzuenfv96x5ctx9e3k7mg6k4xa4 has a \"random server\" location option for the single and two hop VPN.\nUnfortunately no random timer, but it does randomize when you turn it off and on.",
+    "timestamp": "1735484965",
+    "date": "12/29/2024, 3:09:25 PM",
+    "id": "afe5d7660588fec1915281b6e4e343b9f16451becdeee601c70c9965c97cb3a0",
+    "kind": 1
+  },
+  {
+    "content": "Today I am releasing \"noflux\", a lightweight RSS and Nostr longform reader for the desktop and personal servers: https://github.com/fiatjaf/noflux\n\nIt supports all sorts of RSS feed discovery from HTTP URLs and renders them beautifully in a simple straightforward interface, you can also paste nostr:... URIs, including nip05, npub and nprofile codes (they should also work without the nostr: prefix).\n\nhttps://aegis.utxo.one/43417862e275f85224cd14c3b8cb5c84a530d03dd20b21d639c5756a423bb332.png",
+    "timestamp": "1735484870",
+    "date": "12/29/2024, 3:07:50 PM",
+    "id": "dd79864cada3759d882d5d089c74d811186b1c9cf0fa0b384761e313a2cbe6e5",
+    "kind": 6
+  },
+  {
+    "content": "I'll get my site up with the store this weekend ASAP; no more excuses\n\nThat's the beauty with Reticulum; literally any hardware will work with it, over any communications protocol. Its much bigger than just a LoRa device on a ESP. \nhttps://reticulum.network/hardware.HTML\n\nCan easily use a LilyGo LoRa32 V2.1 board (same as what you can use with meshtastic), just flash reticulum firmware on there. \n\nHere's also a simple build guide for an RNodefrom awhile ago👇\nhttps://unsigned.io/guides/2023_01_14_Making_A_Handheld_RNode.html\n\nReticulum boards work best, if thinking the same setup as meshtastic, if you use any board that has;\n- ESP32 chip\n- SX1262 chip for transceiver\n\nSo, boards like the LilyGo T-Echo Meshtastic LoRa SX1262, 915MHz devices work well \n- their T-Decks & T-beams would suffice too",
+    "timestamp": "1735484762",
+    "date": "12/29/2024, 3:06:02 PM",
+    "id": "262e6b591bdd8ca21df0c64ec3117616524d50db50941c19596005f7f88a222e",
+    "kind": 6
+  },
+  {
+    "content": "Max out every cm^2 of your roof with solar panels. Get a house battery. Get some ASICs in an immersion cooling tank as a heat reservoir. Start with old hardware to reduce upfront capex. Use heat exchangers and/or radiators as modular heating solutions for your HVAC, water heater, hot tub, under floor heating, greenhouse cannabis farm, cocoa factory, maple syrup processing, or whatever else you can think up.\n\nAlternatively, you can start cheap by installing ASICs directly in the air return of your HVAC like in this pic from Anadro:\n\nhttps://image.nostr.build/2931f885641b283e8c858799f29016eafb00ffe276e9a2dd513a388b5a7f20a6.jpg",
+    "timestamp": "1735483772",
+    "date": "12/29/2024, 2:49:32 PM",
+    "id": "46a10dad82fbdb21c989003f82d8aafd4e38085185f04701a3b77fc32d33fdb5",
+    "kind": 6
+  },
+  {
+    "content": "Rockwool lined plywood/lumber box, 12inch fan on the outlet 1600cfm, air intake in top through half window and down the right side through a furnace filter, exhaust out other half of window (or open door and exhaust into utility room/house). this is in basement in the utility room, I dont even have the door on the utility room and have never been too bothered by the remaining noise. These machines were fired up Jan 1, 2022 so coming right up on 3 years without trouble. \n\nMining on nostr:npub1qtvl2em0llpnnllffhat8zltugwwz97x79gfmxfz4qk52n6zpk3qq87dze and still need to get Datum setup on my node.\n\n(1) s19 mines less sats now than (1) s9 did when i started mining in 2022.\n\nhttps://m.primal.net/NKXe.jpg\nhttps://m.primal.net/NKXi.jpg\n",
+    "timestamp": "1735483750",
+    "date": "12/29/2024, 2:49:10 PM",
+    "id": "35663c6906ebfef48b080451a8d3f38a2851c6341406cece74d4145de6525c07",
+    "kind": 6
+  },
+  {
+    "content": "Which version?",
+    "timestamp": "1735476201",
+    "date": "12/29/2024, 12:43:21 PM",
+    "id": "c19efce9f6b8e311044044e13258aed1fc9e76c2805158c53bcf58cd2d233934",
+    "kind": 1
+  },
+  {
+    "content": "Best home mining setup?",
+    "timestamp": "1735474629",
+    "date": "12/29/2024, 12:17:09 PM",
+    "id": "4191b5002595c81aba9be590cbbf7636eab80c8425ca341d9c9cb2938e3a57cd",
+    "kind": 1
+  },
+  {
+    "content": "Yet another nice writeup, thanks!",
+    "timestamp": "1735472403",
+    "date": "12/29/2024, 11:40:03 AM",
+    "id": "8ae401041891cbecb821d8abf972333ef12d144ff5ec123c6f3070e9f17679cc",
+    "kind": 1
+  },
+  {
+    "content": "New blog post:\n\nhttps://reyify.com/blog/the-fallacy-of-agency\n\nA pictorial essay about a (wrong) mental pattern, which I think is very pervasive, and my own speculation about why it exists.\n\nIt is a *bit* related to bitcoin, I promise :)",
+    "timestamp": "1735470646",
+    "date": "12/29/2024, 11:10:46 AM",
+    "id": "a59392542ad224a763b47369125895693fff0bd19b3b471ec40bebb69d756878",
+    "kind": 6
+  },
+  {
+    "content": "That's amazing.",
+    "timestamp": "1735466656",
+    "date": "12/29/2024, 10:04:16 AM",
+    "id": "c1af4a002bbfbcffd9c0aa18ec8ec5f87d811a6a42f29302ce443bf4376ecc52",
+    "kind": 1
+  },
+  {
+    "content": "Brother was asking about it over Christmas and is now on his way ”to read” list. He was the one who introduced me to Atlas, so feel like I’m returning the favour",
+    "timestamp": "1735466631",
+    "date": "12/29/2024, 10:03:51 AM",
+    "id": "9cbc1f172d113ccb1964db1f0d23184dbc95968ee2a85e685aa1c67b37a62e0a",
+    "kind": 6
+  },
+  {
+    "content": "I'm glad you read and enjoyed it!",
+    "timestamp": "1735465550",
+    "date": "12/29/2024, 9:45:50 AM",
+    "id": "d2b78730de8d7e7a7c8e50308d5313d53f36a1c52300d93e5f229c455da18623",
+    "kind": 1
+  },
+  {
+    "content": "Best book I have read in a loooong time. Maybe even new favorite book. \nThanks again for the recommendation 🤙",
+    "timestamp": "1735465507",
+    "date": "12/29/2024, 9:45:07 AM",
+    "id": "0b47a695bb6d850297bfb9067d055986b15a10c9214b348bff6a48a2c069a997",
+    "kind": 6
+  },
+  {
+    "content": "A Lodging of Wayfaring Men will not be forgotten.\n\nBullish",
+    "timestamp": "1735465191",
+    "date": "12/29/2024, 9:39:51 AM",
+    "id": "e8d15afbdff5065c574b6c347b39da3ff52141fd7a342a596a14c38f84d1710d",
+    "kind": 1
+  },
+  {
     "content": "I am convinced that the ‘Time’ part of Heidegger's “Being and Time’ is Bitcoin.\n\nIt is Bitcoin because all of these pieces that work together within Bitcoin to create it as what it is, are bound up with temporality itself and connects us, as inner-worldly beings with other inner-worldly beings to overcome objective present reality to create a new world from our own resoluteness through logic itself. \n\nIt’s super fucked and going to take me the better part of a decade to parse and explain, but I am convinced that is what is going on and why Bitcoin is such a monumental event. \n\nBecause Bitcoin is The seminal Event of Philosophy where Beyng unveils itself as a logical concourse of how inner-worldly beings may organize themselves within that logic against the barbaric violence that has consummated all of human history until now. Bitcoin ruptures and abrogates that organizational violence for a new kind of organization that forbids such violence and within that overturns the ordering of the human condition, which itself involves the deepest contemplations of the human condition in our day and age. It resoundingly ask the question of the meaning of life in modernity with an answer that cannot be said, but understood with a precision and fidelity that is beyond our spoken language and into another kind of communication that can rescue us from the human condition of history until now.\n\nEnjoy your little dose of my crazy for the day.",
     "timestamp": "1735412359",
     "date": "12/28/2024, 6:59:19 PM",
