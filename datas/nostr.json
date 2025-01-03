@@ -1,5 +1,19 @@
 [
   {
+    "content": "Two great features here:\nFingerprint + 2FA PIN \n80% charge limit\nnostr:nevent1qqsdqjjnlzppg5vwqryf0sr2we9p6y8xxhcdm0zjm9qakaypvt3mt4cpz3mhxue69uhhwmm59ehx7um5wghxuet59upzq4rghnhtwn8rtj6pw0wvn96tmkkfaz22wjln638ee29h24rqtj0dqvzqqqqqqygwywsh",
+    "timestamp": "1735840416",
+    "date": "1/2/2025, 5:53:36 PM",
+    "id": "a82e046e0c6c45482ce9992207bd495797ef8cb14af304a28deb4dc745982b15",
+    "kind": 1
+  },
+  {
+    "content": "Our 2-factor fingerprint unlock feature is now fully implemented and will be available in the upcoming GrapheneOS release. This adds the option to set a PIN for using fingerprint unlock. You can use a strong diceware passphrase as the primary unlock method with fingerprint+PIN secondary unlock.",
+    "timestamp": "1735840300",
+    "date": "1/2/2025, 5:51:40 PM",
+    "id": "9d9e360aed4a9e98f9dffed79c17ea7aa9c56f0ea17f00023908d57ab065a64b",
+    "kind": 6
+  },
+  {
     "content": "Blast 'em",
     "timestamp": "1735750412",
     "date": "1/1/2025, 4:53:32 PM",
