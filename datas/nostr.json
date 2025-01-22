@@ -1,5 +1,96 @@
 [
   {
+    "content": "That sound cool!\nLet's have a chat, check DMs.",
+    "timestamp": "1737478957",
+    "date": "1/21/2025, 5:02:37 PM",
+    "id": "70575d9129591596205072d3dd1b200b725f78b75a2e088c72f4d12e0276515d",
+    "kind": 1
+  },
+  {
+    "content": "The brother nostr:npub1s9etjgzjglwlaxdhsveq0qksxyh6xpdpn8ajh69ruetrug957r3qpklxzl  is making a generic FOSS version of Pleb Devs:\n\nhttps://plebdevs-three.vercel.app\n\nAnd stripping it back, so we can all fork it and have our own NOSTR 🤝 Next.js platform with Bitcoin integrated for educational purposes. \n\nI’d like to take this, repurpose it with education from nostr:npub1hk0tv47ztd8kekngsuwwycje68umccjzqjr7xgjfqkm8ffcs53dqvv20pf & I, make it so you can have e-commerce (merch) and also multi-sig (BitPac, Bitcoin Keeper) backup keys & signing services, or inheritance planning, without having to rely on normies from the fiat clown world who don’t get it. \n\nIt will be cool if we can rope in a friend of Erik’s so that we can add FROST (DKG) for the multi-sig side of things too, perhaps it will help solve NOSTRs key privs, rotation and degradation issues.\n\nWe reached out to nostr:npub1qny3tkh0acurzla8x3zy4nhrjz5zd8l9sy9jys09umwng00manysew95gx & nostr:npub10pensatlcfwktnvjjw2dtem38n6rvw8g6fv73h84cuacxn4c28eqyfn34f to gauge whether or not he could get a grant from this. What do you think nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt ? Good idea? ",
+    "timestamp": "1737478902",
+    "date": "1/21/2025, 5:01:42 PM",
+    "id": "1db803009bf04ef1516a0eb2dfcbfb1545f5c29a6872eee2a428d1904cbe4058",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqspe93c0rqxkfg6rn3jeepunt4fl28e0fxhrzsg22ce79akcfd0ewspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz8thwden5te0dehhxarj9e3xjarrda5kuetj9eek7cmfv9kz7qg4waehxw309aex2mrp0yhxummnw3ezucn89ulxdtza is on it!",
+    "timestamp": "1737478566",
+    "date": "1/21/2025, 4:56:06 PM",
+    "id": "344f8d1a0d29a4a14c33d785699e66fba36f05ecd74ff57e263c580af6881e5e",
+    "kind": 1
+  },
+  {
+    "content": "They start talking about tiktok on the nostr, and I miss the good old days when we just talked about the bitcoin...",
+    "timestamp": "1737478539",
+    "date": "1/21/2025, 4:55:39 PM",
+    "id": "295ea7227434bc3104ad3d47f54ef1a830fa6e9e2ef095fbbc31ef1a71191ac6",
+    "kind": 1
+  },
+  {
+    "content": "So, what shall we build next?",
+    "timestamp": "1737477762",
+    "date": "1/21/2025, 4:42:42 PM",
+    "id": "33c9de9902e04e0c01afaf7fa09db6836093278f1bad3e5c4316bdd7815bca05",
+    "kind": 1
+  },
+  {
+    "content": "That moment when plebs fix your UI without permission...\nAnd people still think FOSS is useless.",
+    "timestamp": "1737477401",
+    "date": "1/21/2025, 4:36:41 PM",
+    "id": "ab062ea723b9895f24fc62faf9b15628e8eeb58c1bebddea2ff9a2345f87c7f3",
+    "kind": 1
+  },
+  {
+    "content": "With the recent splicing upgrade, the onchain footprint is actually very small for onchain payments.\nI don't recall the service fee structure for the splices, but its probably larger than onchain only wallets, plus less private due to the channel counter party.",
+    "timestamp": "1737476848",
+    "date": "1/21/2025, 4:27:28 PM",
+    "id": "a72e97cea1b960d8423db0ca6e9a2b40e21f064aae3fe175b4d52932f2a1bb1b",
+    "kind": 1
+  },
+  {
+    "content": "Wow this is amazing!\nIt's been so long since the original concept of multi party channels, it's so good to finally see at least a limited proof of concept implementation.\nWell done, your hacking is greatly appreciated!",
+    "timestamp": "1737476674",
+    "date": "1/21/2025, 4:24:34 PM",
+    "id": "b8c8aba41bcbf20f0d98c1f95185759dfd358b3e8e4e053e136aadfe1f1251ed",
+    "kind": 1
+  },
+  {
+    "content": "I am about to give you three links instead of one. I recommend starting by reading this readme:\n\nhttps://github.com/supertestnet/hurricash\n\nI think it is the simplest way to begin to understand how my channel factory works. While implementing that, I figured out a way to solve its principal problem, which is that the way \"withdrawal transactions\" work in hurricash does not allow users to know the txid of their \"withdrawal utxo\" in advance. Having figured out a solution, I created Tornado Factory: https://github.com/supertestnet/tornado_factory\n\nI recommend reading that readme because it tells how I solve hurricash's problem. Also, play with the implementation! It calls itself a channel factory, but it doesn't actually produce channels; each user only gets a withdrawal utxo whose txid and amount they know in advance.\n\nLastly, there is Hedgehog Factory: https://github.com/supertestnet/hedgehog_factory\n\nThat doesn't have a readme yet, but it is a WIP attempt to improve Tornado Factory in three ways:\n\n(1) it has real, usable channels now, not just a random utxo you get to withdraw (though the channels are currently receive-only)\n\n(2) users can run the app separately now and coordinate over the internet to do the funding transaction (in Tornado Factory, all users are just different pubkeys generated by the same page, so it's really just one user with n pubkeys)\n\n(3) I implemented a massive efficiency gain by delegating *one* person to do the funding transaction and having everyone else *pay him over lightning* as a kind of admission-fee to the pool. This makes it so that n channels are opened with a single transaction needing only one input and two outputs (the multisig and some change).\n\nThis greatly reduces the cost of channel opens *and* gives people an opportunity to make money on their bitcoin. E.g. if a btc transaction costs $10, you can make money on your bitcoin offering more than 10 people the opportunity to open a channel in a pool where you are the delegate, and then you just charge each person a $1 admission fee. Everyone wins: you make money, and they each get a channel for $1 that would have costed them $10 otherwise.\n\nSo that's what I'm currently building in Hedgehog Factory: a tool where you can invite people to enter a pool where you perform the funding transaction and charge an \"admission fee\" to recoup your costs and hopefully make something extra.",
+    "timestamp": "1737476547",
+    "date": "1/21/2025, 4:22:27 PM",
+    "id": "fe8beffd290c5ad804497f881662d4c5537d5f9b9c255ce2aad14db44b7e2592",
+    "kind": 6
+  },
+  {
+    "content": "I am excited, my channel factory implementation is making great progress! I got \"receiving\" to work today -- which is the hard part. Right now I am working on making it so users can also \"send\" money from their off-chain channels.\n\nOnce that is done, it won't just be a channel factory, it will also count as a coinpool: n users share a utxo locked to an n-of-n multisig, and any member can spend money from it on LN (because it's a channel factory) OR on the base layer via an LN-to-base-layer swap.\n\nif any member chooses the latter, a transaction will appear on the base layer that an analyst might be able to trace to the pool (if the swapper colludes, along with all routing nodes from the pool to the swapper), but they can't trace it any further. Nothing on the blockchain tells who's who in the pool, and not even the channel counterparties know who's who in the pool.\n\nhopefully this will help fix two problems with LN: the sometimes-high cost of creating a channel and the privacy drawback of putting your channel-opening transaction on the base layer",
+    "timestamp": "1737475167",
+    "date": "1/21/2025, 3:59:27 PM",
+    "id": "335cdb86c5e615f145dcfd2dedf17dcad180035347200ab052f9fc7cdb6fcc13",
+    "kind": 6
+  },
+  {
+    "content": "Phoenix still most reliable and usable option, spanish is available afaict.",
+    "timestamp": "1737472254",
+    "date": "1/21/2025, 3:10:54 PM",
+    "id": "8879699c0ece4ec4d012b958dae3cebb08163b9bd824c6f2f8eaac815ffe8f73",
+    "kind": 1
+  },
+  {
+    "content": "Hello people of nostr! I am brand new here thanks to nostr:npub1xr7t5h0l25ej73pm04zgz9afeexyzsjx67s5v0xxf2sshjn4sx6sep2gqh for sharing the info about this app on TikTok. I am a rock singer songwriter, and look forward to to checking out this new platform.  I love the idea of a decentralized space for us all to freely share. Look forward to getting to know you.\nDanny ",
+    "timestamp": "1737471924",
+    "date": "1/21/2025, 3:05:24 PM",
+    "id": "9ff0b340cd7734b0448ce7b2156b13d6c76070463d61ecbe75de7dba03c39e0f",
+    "kind": 6
+  },
+  {
+    "content": "Decentralization is the only solution to tyranny.\nhttps://m.primal.net/NoWk.mov",
+    "timestamp": "1737462258",
+    "date": "1/21/2025, 12:24:18 PM",
+    "id": "cee6a555168b7fbc4caa6cad4ac07c506850279a515316fb8be0c7aa40b9260f",
+    "kind": 6
+  },
+  {
     "content": "Shopinbit is essential if you don't have a bank account.",
     "timestamp": "1737294461",
     "date": "1/19/2025, 1:47:41 PM",
