@@ -1,5 +1,201 @@
 [
   {
+    "content": "Is this shaping up to be the next cypherpunk bitstream?!",
+    "timestamp": "1738974233",
+    "date": "2/8/2025, 12:23:53 AM",
+    "id": "6621a5765e537e119e18b06fba8e1d95f0bc05359b6d0550e62b1c46c2cd22ab",
+    "kind": 1
+  },
+  {
+    "content": "No Solutions - a teaser. #Starcraft\nhttps://haven.sovereignengineering.io/d8b969dcdd4e956b581ac66933076b1a9080d219aeddf03110c768bec43e842f.ogg",
+    "timestamp": "1738973165",
+    "date": "2/8/2025, 12:06:05 AM",
+    "id": "b7f28088cf902889c7bc18411eb5c0f8ead02032b83607d4c1cd6856d59a02b4",
+    "kind": 6
+  },
+  {
+    "content": "True freedom is transacting without asking.",
+    "timestamp": "1738972537",
+    "date": "2/7/2025, 11:55:37 PM",
+    "id": "9840084a4f253bb7abea7b36df3ee05a6b739744079810e48035b5369e8cade5",
+    "kind": 1
+  },
+  {
+    "content": "Encryption is resistance.",
+    "timestamp": "1738968877",
+    "date": "2/7/2025, 10:54:37 PM",
+    "id": "3912252fe8eae131aad7deb09a49ada1396d74ae0144d3611508a013efcd291a",
+    "kind": 1
+  },
+  {
+    "content": "Central banks are the alchemists of our age—turning paper into illusion. \nOpt out.",
+    "timestamp": "1738949371",
+    "date": "2/7/2025, 5:29:31 PM",
+    "id": "a81b36f5b1bc0d0a3d7d54380c9ade63625a4ce8cad9e658028c0eb3823e406b",
+    "kind": 1
+  },
+  {
+    "content": "We seek no rule, no dominion. Only the freedom to live as neighbors, partners, and equals. Join us or ignore us—but do not obstruct us.",
+    "timestamp": "1738946960",
+    "date": "2/7/2025, 4:49:20 PM",
+    "id": "2b608eb570fe57183f1cc3deb6934c1dbfb6160fcd7fd4ee025ecdec81ae4327",
+    "kind": 1
+  },
+  {
+    "content": "Exactly what I mean!",
+    "timestamp": "1738946865",
+    "date": "2/7/2025, 4:47:45 PM",
+    "id": "7480f0ebb391c287b739aaea51d633e9fd8b0a9ccc73dd3796cf28f322f53181",
+    "kind": 1
+  },
+  {
+    "content": "Gotta vent the anger somewhere.",
+    "timestamp": "1738941254",
+    "date": "2/7/2025, 3:14:14 PM",
+    "id": "0ddfb40b42353b5b0fe63f0cef78d5475ef0ddb22bba54d997057c8fd8ddf003",
+    "kind": 1
+  },
+  {
+    "content": "Well said!",
+    "timestamp": "1738941234",
+    "date": "2/7/2025, 3:13:54 PM",
+    "id": "9c89f05e7960f243e050b8ff94a8554102b2caacee0173fd94ce89c70bd40a05",
+    "kind": 1
+  },
+  {
+    "content": "I am not an anarchist, but there is deep truth in what you say. There have been many times in human -- and pre-human -- history when the more highly evolved separated themselves from the more primitive, and went their own way -- no longer saddled with the endless drag of lower minds, lower abilities, and the kinds of social structures such types demand. Seen in such a light, those who, today or tomorrow, successfully throw off their fiat/fractional reserve chains may truly represent an evolutionary turning point.",
+    "timestamp": "1738941221",
+    "date": "2/7/2025, 3:13:41 PM",
+    "id": "2189ea50704aff120c2684cd91ce9ee6f5d7f9305994739a77b248a63e708554",
+    "kind": 6
+  },
+  {
+    "content": "Nostr proves social media doesn't need servers, CEOs, or equity. \nJust math and relays.",
+    "timestamp": "1738940347",
+    "date": "2/7/2025, 2:59:07 PM",
+    "id": "97f31a42fb593df4307d928cef2c10edc4331e7083922cdc4aee692138fe4303",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin Optech newsletter #340 is here:\n\n- announces a fixed vulnerability affecting LDK\n- summarizes discussion about zero-knowledge gossip for LN channel announcements\n- describes the discovery of previous research that can be applied to finding optimal cluster linearizations\n- provides an update on the development of the Erlay protocol for reducing transaction relay bandwidth\n- looks at tradeoffs between different scripts for implementing LN ephemeral anchors\n- relays a proposal for emulating an OP_RAND opcode in a privacy-preserving manner with no consensus changes required\n- points to renewed discussion about lowering the minimum transaction feerate\n- Optech Newsletter #340 Recap on Riverside\n\nhttps://bitcoinops.org/en/newsletters/2025/02/07/\n\nMatt Morehouse posted to Delving Bitcoin to announce a vulnerability affecting LDK that he responsibly disclosed and which was fixed in LDK version 0.1.1...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#channel-force-closure-vulnerability-in-ldk\n\n\nJohan Halseth posted to Delving Bitcoin with an extension to the proposed 1.75 channel announcement protocol that would allow other nodes to verify that a channel was backed by a funding transaction, preventing multiple cheap DoS attacks, but without revealing which UTXO is the funding transaction—enhancing privacy...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#zero-knowledge-gossip-for-ln-channel-announcements\n\nStefan Richter posted to Delving Bitcoin about a research paper from 1989 he found that has a proven algorithm that can be used to efficiently find the highest-feerate subset of a group of transactions that will be topologically valid if the subset is included in a block...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#discovery-of-previous-research-for-finding-optimal-cluster-linearization\n\nSergi Delgado made several posts to Delving Bitcoin about his work over the past year implementing Erlay for Bitcoin Core...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#erlay-update\n\nBastien Teinturier posted to Delving Bitcoin to ask for opinions about what ephemeral anchor script should be used as one of the outputs to TRUC-based LN commitment transactions as a replacement for existing anchor outputs...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#tradeoffs-in-ln-ephemeral-anchor-scripts\n\nOleksandr Kurbatov posted to Delving Bitcoin about an interactive protocol that allows two parties to make a contract that will pay out in a way that neither can predict, which is functionally equivalent to randomly...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#emulating-op-rand\n\nGreg Tonoski posted to the Bitcoin-Dev mailing list about lowering the default minimum transaction relay feerate...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#discussion-about-lowering-the-minimum-transaction-relay-feerate\n\nAntoine Poinsot made several posts to the Delving Bitcoin thread about the consensus cleanup soft fork suggesting parameter changes...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#updates-to-cleanup-soft-fork-proposal\n\nBob McElrath posted to Delving Bitcoin requesting developers working on covenant designs to consider how their favorite proposal, or a new proposal, could assist in the creation of an efficient decentralized mining pool...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#request-for-a-covenant-design-supporting-braidpool\n\nA thread from April 2024 received renewed attention this past month. Previously, Bob McElrath posted about having miners commit to the transactions in their mempool and then only allowing them to include transactions in their blocks that were deterministically selected from previous commitments...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#deterministic-transaction-selection-from-a-committed-mempool\n\nDeveloper Zawy posted to Delving Bitcoin about a mining difficulty adjustment algorithm (DAA) for a directed acyclic graph (DAG) type blockchain...\nhttps://bitcoinops.org/en/newsletters/2025/02/07/#fast-difficulty-adjustment-algorithm-for-a-dag-blockchain\n\nDifficulty adjustment algorithms\nDifficulty adjustment algorithms (DAAs) are the methods by which mining difficulty is regulated, which affects the average time between blocks, the total amount of block space, and the rate of distribution of new bitcoins (the block subsidy)...\nhttps://bitcoinops.org/en/topics/difficulty-adjustment-algorithms/\n\nBitcoin Optech will host an audio recap discussion of this newsletter with special guests Matt Morehouse, Bastien Teinturier, Bob McElrath, and Antoine Poinsot on Riverside.fm Tuesday at 15:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.fm/studio/bitcoin-optech\n\n\n",
+    "timestamp": "1738935972",
+    "date": "2/7/2025, 1:46:12 PM",
+    "id": "8bbaa2438aa57926888aa0785e341b6c50d63b599b63e9bcc63de84f1fc6977e",
+    "kind": 6
+  },
+  {
+    "content": "Build parallel systems. \nExit, don't plead.",
+    "timestamp": "1738935898",
+    "date": "2/7/2025, 1:44:58 PM",
+    "id": "b4807bbd07bf83816535c88d4da22c547e005be7ea01a0a25cc86f4344a1e331",
+    "kind": 1
+  },
+  {
+    "content": "The state’s greatest fear? A man who needs nothing from it. We are that man. That woman. That future.",
+    "timestamp": "1738933923",
+    "date": "2/7/2025, 1:12:03 PM",
+    "id": "7cdb34afd5381f709d5e7a89290300557f65c150cd68a2d5bad6c42deffabd70",
+    "kind": 1
+  },
+  {
+    "content": "https://freecitiesconference.com/\nOct 31 - Nov 2\nPreviously the liberty in our lifetime conference.\nThis is one of the best non-bitcoin conferences",
+    "timestamp": "1738925496",
+    "date": "2/7/2025, 10:51:36 AM",
+    "id": "c8ddc80809e09071af3cad8cc3f73364afb9b53834b200c58f34d2296f9d3766",
+    "kind": 1
+  },
+  {
+    "content": "No saviors. \nNo leaders. \nNo martyrs. \nJust individuals, \nunited by choice, \nbound by principle.",
+    "timestamp": "1738924504",
+    "date": "2/7/2025, 10:35:04 AM",
+    "id": "91a8a1a6dc721abcd57d2f7750a299df15027d8a8bc9834919f484d5f0f623ba",
+    "kind": 1
+  },
+  {
+    "content": "The enforcers are outnumbered.\nThey just don’t know it yet.\n\n",
+    "timestamp": "1738922204",
+    "date": "2/7/2025, 9:56:44 AM",
+    "id": "2385fbe785e47da5fe8d906fbf46ad728008bfce1818f4e0c95f8a1ace1d805f",
+    "kind": 1
+  },
+  {
+    "content": "sms4sats.com for the win! nostr:nprofile1qqswekkuclt3pkkxhlqa57cft94t6u8n9khnatynrp697zyfn9ryegqpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcwcwy2p",
+    "timestamp": "1738921436",
+    "date": "2/7/2025, 9:43:56 AM",
+    "id": "a22c003c1dc3763ec57f9f34ee6210829856ba35aa4cd70a4971d4ba921e9996",
+    "kind": 1
+  },
+  {
+    "content": "We are The Free. \nWe are The Unashamed. \nAnd we will not be ruled.",
+    "timestamp": "1738921315",
+    "date": "2/7/2025, 9:41:55 AM",
+    "id": "0ff7dad8dc00096e5c71896b2926d6dfb6fee76151db3559ae2648617da6622f",
+    "kind": 1
+  },
+  {
+    "content": "Can reproduce nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpz9mhxue69uhkummnw3ezuamfdejj7qgwwaehxw309ahx7uewd3hkctcscpyug",
+    "timestamp": "1738918141",
+    "date": "2/7/2025, 8:49:01 AM",
+    "id": "cc9dbd426fbcbd990678a310d075b7ddbd16e265acfb31e21ae813077302a5df",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, but I want a non-google play no bullshit app as well...",
+    "timestamp": "1738917486",
+    "date": "2/7/2025, 8:38:06 AM",
+    "id": "dceb72943cf90030e3fce8d86eec128b5123857a10b5554a5d6ecb15fbe3d6a6",
+    "kind": 1
+  },
+  {
+    "content": "Someone please build a frontend app for uber/bolt that accepts bitcoin directly and without an account.",
+    "timestamp": "1738917328",
+    "date": "2/7/2025, 8:35:28 AM",
+    "id": "7918cd9f7fc59afcde513a6ee81ee621fa5a32355a02594189e1883d4e8624fa",
+    "kind": 1
+  },
+  {
+    "content": "Consciousness demands responsibility. We embrace it. No blame, no excuses. We act, we own, we endure.",
+    "timestamp": "1738916822",
+    "date": "2/7/2025, 8:27:02 AM",
+    "id": "4f617b0e8273b49ec8cebba38d38d902e70198c75c22d7fd8b7003a359db3319",
+    "kind": 1
+  },
+  {
+    "content": "Thats a cool repo, stark proofs in Bitcoin script.\n\nnostr:nevent1qqswrmst7uvx2fxrqx07jwg6yxr4egqneqvxzntgljttcd2ka2g6ckcpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgs8aw7wrpp6zlxh0zj7z60r6tm8nadv0dgjt5wy85n9uxg00vn48rqrqsqqqqqp8p9t8h",
+    "timestamp": "1738916676",
+    "date": "2/7/2025, 8:24:36 AM",
+    "id": "18ff32e3833824912423cfd78b1140a3d149514a13b4e937cdd46ada2fc70957",
+    "kind": 1
+  },
+  {
+    "content": "That's great, but still not as blockspace efficient as it could get.",
+    "timestamp": "1738913746",
+    "date": "2/7/2025, 7:35:46 AM",
+    "id": "bc56a45a5f5a0169ef97f7f22e498f4345c33ff463c3d638855d3dca892c3d93",
+    "kind": 1
+  },
+  {
+    "content": "The free market punishes incompetence. \nThe State rewards it.",
+    "timestamp": "1738913704",
+    "date": "2/7/2025, 7:35:04 AM",
+    "id": "ea4b4847413cf4ef4ebbf4078330a2058bb6b7f37f0f6e6962c11e0a710ac319",
+    "kind": 1
+  },
+  {
+    "content": "Secureblue is a security-focused desktop Linux operating system.\n\nFeatures\n\nExploit mitigation:\n\nInstalling and enabling GrapheneOS' hardened_malloc globally, including for flatpaks.\n\nInstalling our chromium-based browser Trivalent, which is inspired by Vanadium.\n\nSELinux-restricted unprivileged user namespaces\n\nSetting numerous hardened sysctl values details\n\nSets numerous hardening kernel arguments\n\nConfigure chronyd to use Network Time Security (NTS) using chrony config from #GrapheneOS\n\nSet opportunistic DNSSEC and DNSOverTLS for systemd-resolved\n\nInstalling usbguard and providing ujust commands to automatically configure it\nFilling holes in the linux security posture\n\nRemove SUID-root from numerous binaries, replacing functionality using capabilities, and remove sudo, su, and pkexec entirely in favor of run0\n\nDisable Xwayland by default (for GNOME, Plasma, and Sway images)\n\nMitigation of LD_PRELOAD attacks via ujust toggle-bash-environment-lockdown\n\nDisable install & usage of GNOME user extensions by default\n\nDisable KDE GHNS by default\nRemoval of the unmaintained and suid-root fuse2 by default\n\nDisabling unprivileged user namespaces by default for the unconfined domain and the container domain\n\nSecurity by default:\nDisabling all ports and services for firewalld\nUse HTTPS for all rpm mirrors\n\nSet all default container policies to reject, signedBy, or sigstoreSigned\nEnabling only the flathub-verified remote by default\n\nReduce information leakage:\n\nAdds per-network MAC randomization\nDisabling coredumps\n\nAttack surface reduction:\n\nBlacklisting numerous unused kernel modules to reduce attack surface\n\nBrute force protection by locking user accounts for 24 hours after 50 failed login attempts, hardened password encryption and password quality suggestions\n\nDisable and mask a variety of services by default (including cups, geoclue, passim, and others)\n\nSecurity ease-of-use:\n\nInstalling bubblejail for additional sandboxing tooling\n\nTooling for automatically setting up and enabling LUKS TPM2 integration for unlocking LUKS drives\n\nTooling for automatically setting up and enabling LUKS FIDO2 integration for unlocking LUKS drives\n\nToggles for a variety of the hardening set by default, for user convenience (ujust --choose)\n\nhttps://secureblue.dev/\n",
+    "timestamp": "1738913672",
+    "date": "2/7/2025, 7:34:32 AM",
+    "id": "3109f2dfbfd7f1f418ee54ca41d342b0212b8c58d38b6eb0637317d7701f638f",
+    "kind": 6
+  },
+  {
+    "content": "In April 2024, Pixels shipped a partial implementation of our January 2024 proposal for firmware-based reset attack protection. Fastboot mode now zeroes RAM before enabling USB. This successfully wiped out the After First Unlock state exploit capabilities of two commercial exploit tools.",
+    "timestamp": "1738913540",
+    "date": "2/7/2025, 7:32:20 AM",
+    "id": "0818331f6b9c769b032c161482b6f8595b70d680a7ee849db1f67f8a83db0430",
+    "kind": 6
+  },
+  {
     "content": "💯 \nReporting on other social media helps the platforms.\nReporting on #nostr helps your followers.\n\nSuch a big difference.\n🫂",
     "timestamp": "1738870873",
     "date": "2/6/2025, 7:41:13 PM",
