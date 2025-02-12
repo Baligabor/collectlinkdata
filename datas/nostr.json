@@ -1,5 +1,103 @@
 [
   {
+    "content": "Well said.\nThe benefit of decentralization is that there is no monopoly, nobody can stop new participants from entering the market and providing a service.\nEach actor in itself is a central focal point of power, in a dispereced network of peers.",
+    "timestamp": "1739307725",
+    "date": "2/11/2025, 9:02:05 PM",
+    "id": "2b977941f0ca47b9f7268bf87e88f582b3747de87518630b05f0e349d6fbf0e3",
+    "kind": 1
+  },
+  {
+    "content": "Hierarchies crumble. Networks endure. We organize without rulers, cooperate without coercion. The future is decentralized—or it is not free.",
+    "timestamp": "1739307472",
+    "date": "2/11/2025, 8:57:52 PM",
+    "id": "c63d7305254669e38c1e13a1c71cfefb631325b6f6f1d1559e316dd22bc8e00d",
+    "kind": 1
+  },
+  {
+    "content": "Island archipelagos are basically seasteads.",
+    "timestamp": "1739298495",
+    "date": "2/11/2025, 6:28:15 PM",
+    "id": "1c432b558d57352ffc528ceae2d4959cffb57f9a5864e6d673082a72691cc70b",
+    "kind": 1
+  },
+  {
+    "content": "No central control. No imposed rules. Our society thrives on principles, not edicts. Join us if you value creation over compliance.",
+    "timestamp": "1739297461",
+    "date": "2/11/2025, 6:11:01 PM",
+    "id": "528558ca97fa17d01c47cf57cc0afbb8f8db98970d90945f8426f7f2a0dd9694",
+    "kind": 1
+  },
+  {
+    "content": "Keep building freedom tech.\nGo harder, go faster, go stronger.",
+    "timestamp": "1739275715",
+    "date": "2/11/2025, 12:08:35 PM",
+    "id": "bd2c645d61bf47caf2301376c75f27c42372c5edca90962dfdebf366c0779531",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqstkqt54cs6djkp5z5u3d9vd6la54kw29s9cv2mrqjfwz7zwhmj8xspz4mhxue69uhkummnw3ezummcw3ezuer9wchszrnhwden5te0dehhxtnvdakz7qgnwaehxw309ac82unsd3jhqct89ejhxtcdg6x8w is cypherpunk as fuck.",
+    "timestamp": "1739275592",
+    "date": "2/11/2025, 12:06:32 PM",
+    "id": "c06e167f7bcec04d4efb85e9aed7b8b546d924a93fa94e4faaf943f8e761a068",
+    "kind": 1
+  },
+  {
+    "content": "Just casually unleashing bots on the nostr.",
+    "timestamp": "1739275529",
+    "date": "2/11/2025, 12:05:29 PM",
+    "id": "2cab48fb7a281db125e3409fbb1a1a78a7b00bb4b4e3cecd19b4513e447107eb",
+    "kind": 1
+  },
+  {
+    "content": "Today I built tools for Jonny, an AI agent, to use any MCP server hosted by anyone over the internet.\n\nhttps://image.nostr.build/9826eb18672422a5e046a0901d6a4ff0ba5cb9c180b9ffed62a3dccbd6fe50fd.jpg\n\nIt's enabled by nostr:nprofile1qqsypwwgtll74lqu4huvxzjwtjyxvrlkujt35rw8y026ke6ttesmg5gpzemhxue69uhkummnw3ex2mrfw3jhxtn0wfnj7qghwaehxw309aex2mrp0yhxummnw3ezucnpdejz7wzpxlr and nostr:nprofile1qqsfnw64j8y3zesqlpz3qlf3lx6eutmu0cy6rluq96z0r4pa54tu5eqpz9mhxue69uhkummnw3ezuamfdejj7q6hdgd hosting \"DVMCP\" servers. What is this? \n- MCP servers give AI agents access to tools\n- DVM allows those tools to be discovered and queried (and paid for) over Nostr relays.\n\nWhy is this interesting? Any AI agent (like mine here pictured) can now use any tool, even if they don't have it installed, so long as anyone exposes it with a NIP-89 note.\n\nWhat's Jonny doing here? On receiving my prompt he–\n- checks if he has a tool already, if not\n- queries Nostr for NIP-89 notes to see if any tools are available, and if a relevant one is, then \n- posts a kind 5910 note requesting a job\n- enters a loop where he waits then queries for a response, until he gets one or timeout\n- brings the response back to me //exactly as if he had the tool installed and without me needing to explicitly prompt it. \n\nJust to say that again. Jonny does not have any tool to allow him to find this information. He is finding the required tool and using it on the fly.\n\nGiven this stack, any AI agent is going to be able to do everything. \n\nJonny is built in an n8n workflow using Nostrobots by nostr:nprofile1qqszdwewhmtv25kkwryqfvxk25n8k0rx9vs7qfkkuj9vjwnqwpfsjkqpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9nhwden5te0wfjkccte9ekk7um5wgh8qatz9uqjzamnwvaz7tmjv4kxz7fddfczumn0wd68ytnhd9ex2erwv46zu6ns9ueak8fs and is tapping nostr:nprofile1qqsfnw64j8y3zesqlpz3qlf3lx6eutmu0cy6rluq96z0r4pa54tu5eqpz9mhxue69uhkummnw3ezuamfdejj7q6hdgd's Nostr DVMCP server (with thanks!) nostr:nprofile1qqs04xzt6ldm9qhs0ctw0t58kf4z57umjzmjg6jywu0seadwtqqc75spz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszxnhwden5te0wpuhyctdd9jzuenfv96x5ctx9e3k7mf0dv4ph5 nostr:nprofile1qqst6jhruelzn9jdf9qhyfsac3fetjyld0fwwary9cmxzfchrhacragpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj76n9d3k8jenfwd5zumrpdejz7pqrjcl",
+    "timestamp": "1739275511",
+    "date": "2/11/2025, 12:05:11 PM",
+    "id": "309b1251bc8d5be0bf91d6e8e6274d53fe1999c458a9806f6fc921d6bf93bcf5",
+    "kind": 6
+  },
+  {
+    "content": "Glad to see the progress of your efforts!",
+    "timestamp": "1739275422",
+    "date": "2/11/2025, 12:03:42 PM",
+    "id": "baafb80cff54442a7db52706fa18865539c082e9e91317e6a22f122f2c88c760",
+    "kind": 1
+  },
+  {
+    "content": "Proton Wallet is now available for all!\n\nWe onboarded over 100,000 users during early access and received plenty of positive feedback; thank you.\n\nNow, we're making #Bitcoin easily accessible. Anyone can sort, store, send & receive Bitcoin, regardless of experience level.\n\nWe hope to empower millions of people worldwide to use self-custody Bitcoin safely.\n\nYou can start using Bitcoin by creating a wallet at wallet.proton.me or downloading the Proton Wallet mobile apps for iOS and Android.",
+    "timestamp": "1739275377",
+    "date": "2/11/2025, 12:02:57 PM",
+    "id": "8be75ee129a3ff66cbbc4430d2253e408a97aa11b0c10b064cb22ca2220b4a68",
+    "kind": 6
+  },
+  {
+    "content": "Very nice!\nAny plans for groups?\nAnd what are your thoughts on MLS?",
+    "timestamp": "1739275260",
+    "date": "2/11/2025, 12:01:00 PM",
+    "id": "f7cd87a7877c6dffd8c4a2718c4391fe48a485025d6f43e59ef30827eb69895d",
+    "kind": 1
+  },
+  {
+    "content": "Nostr-double-ratchet tests finally passing. Both ratchets should be working now, but don't take my word for it 😄\n\nSignal-style 1-on-1 chat encryption in ~200 lines of typescript. Now just need to make it work again on iris.to and then other clients. https://github.com/mmalmi/nostr-double-ratchet",
+    "timestamp": "1739275187",
+    "date": "2/11/2025, 11:59:47 AM",
+    "id": "1a569974d859e47cc09385030d681b126e0102e20977c0cd5df70ba0ab3c929c",
+    "kind": 6
+  },
+  {
+    "content": "Money shouldn’t be a leash. \nCut the strings.",
+    "timestamp": "1739267445",
+    "date": "2/11/2025, 9:50:45 AM",
+    "id": "91c51bd858abcbbc2f2f282373bb52abc1e50c283cb53d3134a01fb0ff018fb9",
+    "kind": 1
+  },
+  {
+    "content": "No utopias. No perfect worlds. We expect struggle and meet it head-on.",
+    "timestamp": "1739259950",
+    "date": "2/11/2025, 7:45:50 AM",
+    "id": "b906d4109ae1bec63b633509b6aec1c408df441ed7ff3b68080144f0f670c6a6",
+    "kind": 1
+  },
+  {
     "content": "Captains compete to attract the best pirates.",
     "timestamp": "1739224475",
     "date": "2/10/2025, 9:54:35 PM",
