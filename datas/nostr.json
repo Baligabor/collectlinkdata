@@ -1,5 +1,54 @@
 [
   {
+    "content": "I am designing my implementation with an \"admission fee\" system where the coordinator charges people money to get into the pool. In this design, I think reputation is important. Nothing stops a coordinator from charging 100 people $1 to get into the pool and then running off with the money without ever actually letting them in. In order to allow coordinators to grow a reputation for honesty, I think it is important that they be *pseudonymous,* rather than *anonymous.*\n\nI did think of a way to do the admission fee atomically (i.e. so that users don't pay unless they get into the pool), which would allow for full anonymity because in this alternate model, the coordinator is not even trusted with a single sat. But the way I thought of requires each user to broadcast a base layer transaction in the \"sad path.\"\n\nFor example, if a troll joins the signing ceremony and then refuses to sign anything, that would force each user to use the sad path to recover their admission fee, and thus do a base layer transaction. I suspect a typical base layer mining fee will cost more than $1 in the majority of cases where a coinpool might be desirable, so doing the funding transaction atomically (at least the way I thought of doing it) would give trolls the ability to cause asymmetric misery in a pool of e.g. 100 people. Namely, it would only cost them 1 uneconomical base layer transaction to make 100 people do an uneconomical base layer transaction or lose their money.\n\nI thought that was an unreasonable tradeoff, especially when the admission fee is likely to be a low amount: any coordinator who charges a *large* admission fee is likely to be dispreferred by users, who will likely gravitate toward coordinators with three characteristics: (1) they charge a low admission fee (2) they have a good reputation concerning \"not stealing the admission fee\" (3) they have a good reputation concerning uptime",
+    "timestamp": "1739480452",
+    "date": "2/13/2025, 9:00:52 PM",
+    "id": "937ef8f02d2a93e53b9070abd93624200a91027a8576718df929327821b78aca",
+    "kind": 6
+  },
+  {
+    "content": "Very interesting!\nAnd consider that users closing the laptop, or even just a flaky Tor route, can cause failed attempts with missing signatures, so this is likely a very common case, especially for large rounds.",
+    "timestamp": "1739480447",
+    "date": "2/13/2025, 9:00:47 PM",
+    "id": "c24d538510066ab669befe421f358d4344c1c6cfe78f4b24e4c254724a73d360",
+    "kind": 1
+  },
+  {
+    "content": "Cypherpunks didn’t lobby for change—they built it. Bitcoin is their masterpiece: a system where virtue (proof-of-work) is the security model.",
+    "timestamp": "1739480161",
+    "date": "2/13/2025, 8:56:01 PM",
+    "id": "51895e11c5b6f1d642c5129c466acc1994303ac5dec68ae9cdbd8516d19a4475",
+    "kind": 1
+  },
+  {
+    "content": "Very nice!\nBut you only switched the requirement of running a coinjoin coordinator, to running a coinpool coordinator...\nAny thoughts on adding an anonymous coordination mechanism?",
+    "timestamp": "1739435510",
+    "date": "2/13/2025, 8:31:50 AM",
+    "id": "61078eb9d7c35ec9b87ba95102917b6fab7aff9b1cbe3d33234396e46aa9ff86",
+    "kind": 1
+  },
+  {
+    "content": "Fixing the preview, add nostr: to the event.\n\nnostr:naddr1qq2kxm2gwajrxe3n2fshwn6lvs6xgmnvxykh5qgnwaehxw309amk7apww468smewdahx2tczyqsc8628tpyp6rcjf77e83tve2j9ulj5tnht34fgfrucy5l5j7uh2qcyqqq823c9duh56",
+    "timestamp": "1739432354",
+    "date": "2/13/2025, 7:39:14 AM",
+    "id": "a70750e4f7360ca02c25cff5d4c82835aab93baae84c2583e92910b87b924ba1",
+    "kind": 1
+  },
+  {
+    "content": "My latest essay is \"How coinpools improve bitcoin\"\n\nIt also covers how CTV improves the coinpools that are possible todayMy latest essay is \"How coinpools improve bitcoin\"\n\nIt also covers how CTV improves the coinpools that are possible today\n\nhttps://njump.me/naddr1qvzqqqr4gupzqgvra9r4sjqapufyl0vnc4kv4fz70e29em4c655y37vz206f0wt4qq2kxm2gwajrxe3n2fshwn6lvs6xgmnvxykh5g60zzr",
+    "timestamp": "1739432298",
+    "date": "2/13/2025, 7:38:18 AM",
+    "id": "dd275b474278dd0b0970da7250967b642580ff8221b7119e3acde51c084bb800",
+    "kind": 6
+  },
+  {
+    "content": "Fiat is alchemy for cowards: turning paper into debt through legal sorcery. Bitcoin is physics for the brave: turning energy into truth through mathematics.",
+    "timestamp": "1739431792",
+    "date": "2/13/2025, 7:29:52 AM",
+    "id": "0fe9bae9e39a4e291415bee289ccf38222ee76ef9042856af7f1da2721c2b9f9",
+    "kind": 1
+  },
+  {
     "content": "Reclaim it.",
     "timestamp": "1739399253",
     "date": "2/12/2025, 10:27:33 PM",
