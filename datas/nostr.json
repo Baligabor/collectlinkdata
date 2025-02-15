@@ -1,5 +1,103 @@
 [
   {
+    "content": "Deepseek now has web search enabled in venice",
+    "timestamp": "1739566357",
+    "date": "2/14/2025, 8:52:37 PM",
+    "id": "0e81652c0a9d596017dd28a84a8527a3bee0ded43242203af77f886187c8d34b",
+    "kind": 1
+  },
+  {
+    "content": "Whoever quotes cryproeconomics gets a follow.",
+    "timestamp": "1739564612",
+    "date": "2/14/2025, 8:23:32 PM",
+    "id": "b11664e379a19db48898d08ef758877244ab0d7bec7d0dc342f7b96c6aee8987",
+    "kind": 1
+  },
+  {
+    "content": "Checkout nostr:nprofile1qqsv7exgrnd0xd3gfhw5jl45596zuawudu39nzctk7vhxy58y4nr7mcpz3mhxue69uhhwmm59ehx7um5wghxuet59uwwawf7",
+    "timestamp": "1739564573",
+    "date": "2/14/2025, 8:22:53 PM",
+    "id": "1b8c7da769ff9658eafb0b9be82d6e35d2f96cdb5761cf7dc963f394bc901770",
+    "kind": 1
+  },
+  {
+    "content": "Every satoshi you earn is a testament to your ability to solve problems others value. Stack them proudly; they’re proof you’re not a moocher.",
+    "timestamp": "1739562639",
+    "date": "2/14/2025, 7:50:39 PM",
+    "id": "4745777f9363d363abe2f9bdd4cc7fd0e2d1606ac6ebc1f423e73ffbbb2daa15",
+    "kind": 1
+  },
+  {
+    "content": "Fractional reserve banking: Because why have 1 fake dollar when you can make 10?",
+    "timestamp": "1739551104",
+    "date": "2/14/2025, 4:38:24 PM",
+    "id": "1b4cf8dac5b96a2504b9583cf3e28843dffded2a3f9bdc4b743f20a26aa2e8f1",
+    "kind": 1
+  },
+  {
+    "content": "That's cool.",
+    "timestamp": "1739548999",
+    "date": "2/14/2025, 4:03:19 PM",
+    "id": "777fd21a88903aa65922c9eed749ac109264b74a06765c094ac794841132f51a",
+    "kind": 1
+  },
+  {
+    "content": "The block explorer for your wallet? \nBitcoin Safe bitcoin-safe.org has you covered. Navigate through your transactions  \n\nhttps://raw.githubusercontent.com/andreasgriffin/bitcoin-safe/refs/heads/main/docs/explorer.gif\nand get warned if you have transactions linking your coin categories\nhttps://i.postimg.cc/BnJM0kLx/Screenshot-20250205-111600.png\n\nBitcoin Safe is available in 🇺🇸 🇨🇳 🇪🇸 🇯🇵 🇷🇺 🇵🇹 🇮🇳 🇮🇹 🇫🇷 🇩🇪\n\n#Bitcoin #wallet #BTC #bitcoinsafe #multisig #selfcustody #blockexplorer",
+    "timestamp": "1739548984",
+    "date": "2/14/2025, 4:03:04 PM",
+    "id": "c0ef1d9dd967da4cefd37a1d910d4ab5f5c93507ef9ea7246cd0704a43601682",
+    "kind": 6
+  },
+  {
+    "content": "Freestyling, inspired by great thinkers though.",
+    "timestamp": "1739548912",
+    "date": "2/14/2025, 4:01:52 PM",
+    "id": "57510b916929c9945a579591e67367a720f272a6dadcfa192efaabac6d60bdf2",
+    "kind": 1
+  },
+  {
+    "content": "Negative rights are sacred: Your freedom ends where mine begins. No coercion, no aggression. Live and let live.",
+    "timestamp": "1739548481",
+    "date": "2/14/2025, 3:54:41 PM",
+    "id": "d68ddb6ac26578e466f0eca1e219fc435801536298b791deb8f1824f496d8e1c",
+    "kind": 1
+  },
+  {
+    "content": "We are not rebels. We are builders. A new society rises—voluntary, decentralized, rooted in honesty. No rulers, no slaves. Only free individuals.",
+    "timestamp": "1739539720",
+    "date": "2/14/2025, 1:28:40 PM",
+    "id": "22b1365124b763ba4ee2e23bf7a7fcf8b1526235e57db2a43dc69b06d063af9d",
+    "kind": 1
+  },
+  {
+    "content": "Phase 0. Waiting. Someone requests that the admin do a signing ceremony, such that each pool member will receive X sats of inbound capacity, where X is picked by the person who made the request (\"the Requester\") and must be below whatever amount the admin has in on-chain bitcoin. The admin's software automatically sets a 30 minute timer and gives the Requester a sharable link for people to join the ceremony. The Requester goes about finding additional people to join the ceremony, and gets to see how many people clicked the link and are waiting. At any point before the 30 minutes are up, the Requester may prompt the admin's software to start the ceremony, and the admin's software will do so as long as the number of people in the room is above a minimum established in their configuration file. If the 30 minutes expire without the Requester starting the ceremony, it aborts.\n\nPhase 1. Admission fee. The admin's software identifies the number of people from phase 0 and calculates an admission fee, based on taking the amount of money to be provided to each as inbound capacity, plus a mining fee divided by however many users there are, and makes a bunch of lightning invoices for the resulting amount. The admin shows this to each person in the signing ceremony. They each have 1 minute to pay. If anyone does not pay, the remaining people are still in there ceremony. If, when the 1 minute is up, the number of people who paid is below a minimum threshold determined in the admin's configuration file, it aborts.\n\nPhase 2. Signing. The admin tells everyone what utxo he will use to fund a multisig composed of every user's pubkey in an n-of-n. Each user independently constructs the funding transaction and all the transactions needed for each user to have a unilateral withdrawal into a channel. The number of signatures which each user must produce is (n**2) + n. Since the number of signatures required is variable, I don't have a static timer; instead, I require each user to send in a batch of data every 10 seconds, and right now I simply require that the number of signatures they've signed so far increases by at least 1. (I should probably raise that to something like 1000.) If anyone fails to send in valid signatures, they are ejected; the admin keeps their money; and he resends the signal to start signing, but only includes the pubkeys who did everything right. So everyone recreates the n-of-n multisig with the new set of pubkeys and starts resigning the funding tx and the unilateral withdrawal transactions. Repeat til everything is signed.\n\nPhase 3. Broadcast. The admin broadcasts the funding transaction, funding the multisig. All of the money is in a state where any user, at any time, can unilaterally withdraw their share into a channel, i.e. a 2 of 2 multisig where the user has a key and the admin has a key. This channel has an initial state whereby all the money is on the admin's side of the channel, thus giving the user maximum inbound capacity. So, if anyone unilaterally withdraws at this stage, the admin will not lose any money; it's all on his side of every channel. The admin also sends every user the set of sigs they need to unilaterally withdraw, and each user validates these signatures before using the channel. Since they know the multisig script, and they validate all the signatures, there is no danger of them being tricked into not having a unilateral exit. But the admin *could* just not send them anything and keep their admission fee, which would constitute theft. So he has to be trusted not to do that, though I imagine admission fees will tend to be small, because that's the point.\n\nPhase 4. Confirmation. Once the funding transaction confirms, it is safe for every user who has validated their withdrawal signatures to use their channel. Although it is not broadcasted yet, each user, as well as the admin, has the signatures necessary to put it on chain at any time. Consequently, they can treat the channel as if it is *already* on-chain. Meaning the user can use it to send and receive lightning payments as well as hedgehog payments, which are asynchronous. I have the admin charge 0 fees to route payments within the pool, which is easy because he has direct channels to each user. I also have him charge 0 fees to route payments to members of any *other* pool that he is the admin for. For payments to other (non-pooled) people, users can use lightning. For on-chain payments, they can use Boltz and competing submarine swap servers. (I will probably eventually have each admin run a submarine swap server too.)",
+    "timestamp": "1739532428",
+    "date": "2/14/2025, 11:27:08 AM",
+    "id": "091d698a99ba9b5c7a0e1d6163112710232a832f9251cbb15e5a51714036cb2a",
+    "kind": 6
+  },
+  {
+    "content": "They call us criminals for wanting liberty. We call them tyrants for demanding submission. Let history judge who served humanity.",
+    "timestamp": "1739527335",
+    "date": "2/14/2025, 10:02:15 AM",
+    "id": "d933815dff0cffaee19ed5f296a2f9f59b44d4148c171d01aaf6219ae5d22667",
+    "kind": 1
+  },
+  {
+    "content": "Very nice.\nSo what are the different phases of the protocol, and what's the timeout for each of them?",
+    "timestamp": "1739519287",
+    "date": "2/14/2025, 7:48:07 AM",
+    "id": "722fd09fe967060a8babb75fa48b589a5ba5f28dddad46df6a351896b3537a40",
+    "kind": 1
+  },
+  {
+    "content": "The cypherpunks saw it early: just as encryption protects speech, Bitcoin protects value. Both demand courage to uphold sovereignty in a world of parasites.",
+    "timestamp": "1739519195",
+    "date": "2/14/2025, 7:46:35 AM",
+    "id": "d34665018f8984bbf96bb43d489cd5f761e9ebae3fe8fe360ca9abe5cb193a12",
+    "kind": 1
+  },
+  {
     "content": "I am designing my implementation with an \"admission fee\" system where the coordinator charges people money to get into the pool. In this design, I think reputation is important. Nothing stops a coordinator from charging 100 people $1 to get into the pool and then running off with the money without ever actually letting them in. In order to allow coordinators to grow a reputation for honesty, I think it is important that they be *pseudonymous,* rather than *anonymous.*\n\nI did think of a way to do the admission fee atomically (i.e. so that users don't pay unless they get into the pool), which would allow for full anonymity because in this alternate model, the coordinator is not even trusted with a single sat. But the way I thought of requires each user to broadcast a base layer transaction in the \"sad path.\"\n\nFor example, if a troll joins the signing ceremony and then refuses to sign anything, that would force each user to use the sad path to recover their admission fee, and thus do a base layer transaction. I suspect a typical base layer mining fee will cost more than $1 in the majority of cases where a coinpool might be desirable, so doing the funding transaction atomically (at least the way I thought of doing it) would give trolls the ability to cause asymmetric misery in a pool of e.g. 100 people. Namely, it would only cost them 1 uneconomical base layer transaction to make 100 people do an uneconomical base layer transaction or lose their money.\n\nI thought that was an unreasonable tradeoff, especially when the admission fee is likely to be a low amount: any coordinator who charges a *large* admission fee is likely to be dispreferred by users, who will likely gravitate toward coordinators with three characteristics: (1) they charge a low admission fee (2) they have a good reputation concerning \"not stealing the admission fee\" (3) they have a good reputation concerning uptime",
     "timestamp": "1739480452",
     "date": "2/13/2025, 9:00:52 PM",
