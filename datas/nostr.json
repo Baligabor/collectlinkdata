@@ -1,5 +1,250 @@
 [
   {
+    "content": "Governments have become cages for humanity. We reject your authority, your legitimacy, and your endless hunger for control. Sovereignty is ours.",
+    "timestamp": "1739826353",
+    "date": "2/17/2025, 9:05:53 PM",
+    "id": "fd430948fba8a7013c2181637d7517142eb625ade0b589142c73ca171cb4a04a",
+    "kind": 1
+  },
+  {
+    "content": "Systems decay without maintenance and adaptation.",
+    "timestamp": "1739821423",
+    "date": "2/17/2025, 7:43:43 PM",
+    "id": "d8c911b366b741633f5ee469358356709623fac2c3c16a79ebaf038b30c92f48",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, but the lack of sponsor block is annoying.\nTubular is a bit behind on updates.\nTrying out pipepipe now, and so far no loading issues.",
+    "timestamp": "1739819809",
+    "date": "2/17/2025, 7:16:49 PM",
+    "id": "2ba048fb60ec2ac274d098010f2311ea1c832633c5b2e2cc363f4bd605ff263d",
+    "kind": 1
+  },
+  {
+    "content": "One benefit of pipepipe, it goes up to 10x speed, for when 3x is not fast enough.",
+    "timestamp": "1739819338",
+    "date": "2/17/2025, 7:08:58 PM",
+    "id": "e3f03a345809f1351d556466df7e9695eedf0b14c3384da397ba7a3e836119f8",
+    "kind": 1
+  },
+  {
+    "content": "https://image.nostr.build/907853c3800e41eaf9f716477370414d6b34e81013dd81bb9d00f95e9da6cb05.jpg\n\nNo rush nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpz9mhxue69uhkummnw3ezuamfdejj7qgwwaehxw309ahx7uewd3hkctcscpyug 🖤",
+    "timestamp": "1739812767",
+    "date": "2/17/2025, 5:19:27 PM",
+    "id": "296fd42053f705c86a2ce4e80d98cedc277909cb8049a6fc6409634353d8d18a",
+    "kind": 1
+  },
+  {
+    "content": "Tools for privacy must be invisible in daily use, seamless yet powerful.",
+    "timestamp": "1739812308",
+    "date": "2/17/2025, 5:11:48 PM",
+    "id": "b87b37852a568011152b9d0efde0121d8dfbafff260f8cd7547d4be7bfb96955",
+    "kind": 1
+  },
+  {
+    "content": "Only defaults matter.",
+    "timestamp": "1739810073",
+    "date": "2/17/2025, 4:34:33 PM",
+    "id": "aecf624894aaa434174263964145cb9e80607fdd42f4a9f41a7e4dc1def43210",
+    "kind": 1
+  },
+  {
+    "content": "I was taling about xmr/btc",
+    "timestamp": "1739809857",
+    "date": "2/17/2025, 4:30:57 PM",
+    "id": "591ee0a3771fe1143474b31fe5cd1fe6f15e3a5fd40a4876c9b5c007bf4b6bb2",
+    "kind": 1
+  },
+  {
+    "content": "Ecash enables accountless mining pools. I think your mind is stuck in the account based model and this thinking leads you to false conclusions.\n\nAs nostr:nprofile1qy2hwumn8ghj7erfw36x7tnsw43z7un9d3shjqpq2rv5lskctqxxs2c8rf2zlzc7xx3qpvzs3w4etgemauy9thegr43sa96tzn said, pool redemptions decouple submitted work from redeemed value. The pool won't be able to link these two because eHash tokens can be freely traded before redemption. The value represented by a proof of work share can go through any number of splits, joins, and trades before it is redeemed. How do you disentangle that using IP tracking? You could try, but if there is any significant volume...good luck with that.\n\nBOLT12 and on-chain addresses just add the account aspect back in. This is a strict reduction in privacy for the user. They can certainly choose this option if the pool offers it but in terms of privacy it is better to receive ecash mining rewards and spend it directly. This way all your activities occur within the anonymity set of the ecash mint.\n\nThe ecash model simplifies accounting because the pool no longer needs to track the work of every user that connects to it. Instead, the pool accounts for all shares within a time window and that's it. Instead of maintaining hundreds or thousands of accounts in perpetuity the pool manages one 'account' per hour with a prearranged start and end date. I prefer to think of them as contracts. When the contract end date approaches all the assets (mining shares) and liabilities (eHash tokens) of the contract can be zeroed out and removed from the books. The pool never needs to carry a balance for users that have not met their withdrawal threshold.\n\nThis is a dramatic simplification in accounting because it removes an entire class of liabilities that need to be tracked. The business owner no longer needs to be concerned with unredeemed shares.",
+    "timestamp": "1739808686",
+    "date": "2/17/2025, 4:11:26 PM",
+    "id": "43fbd8d4c6b545a73ea4b68dd79c2a70a0e5b17c1e5f0d58aa85f99ee7bb7309",
+    "kind": 6
+  },
+  {
+    "content": "Of course there is...",
+    "timestamp": "1739808280",
+    "date": "2/17/2025, 4:04:40 PM",
+    "id": "cff6ca8856c84582a331243692fcb813167d852fcce9ea8fb9f77088947ecbfd",
+    "kind": 1
+  },
+  {
+    "content": "Do you want to see who is muting whom? There's an app for that. https://www.mutestr.com",
+    "timestamp": "1739808250",
+    "date": "2/17/2025, 4:04:10 PM",
+    "id": "ea8e65d174e3bb2762c54760280802302b0374e49e6193faddd741966fad1061",
+    "kind": 6
+  },
+  {
+    "content": "Revive the principle of ephemeral interactions in a world of permanent records.",
+    "timestamp": "1739807753",
+    "date": "2/17/2025, 3:55:53 PM",
+    "id": "53dfc4fec3837ed97c53523249c5f763395eb6e51b87d58b64c0da08b7e91d45",
+    "kind": 1
+  },
+  {
+    "content": "By the way, I can recommend the habit of deleting at least one account per week.\n\nJust look through your password manager, or the list of passwords kept by your browser.\n\nStep 1: check if the site still exists and if you can log in (if not, delete the entry)\n\nStep 2: look around and see what data they kept on you, for who knows how many years. You should now experience an urge for step (3).\n\nStep 3: figure out how to delete the account. Often hidden under privacy or advanced options, more often requires an email to support. If so, set a reminder to followup after a week or so if nothing happened.\n\nStep 4: once the account is gone, delete the entry from your password manager (browser)\n\nKeep this up for a few years and you might get there....",
+    "timestamp": "1739803401",
+    "date": "2/17/2025, 2:43:21 PM",
+    "id": "5d7250b4ca37c6e4127d0a5cf6bb44efdc3fe8071956555129b995fabf4eb8a8",
+    "kind": 6
+  },
+  {
+    "content": "You made me check the all time chart...\nhttps://image.nostr.build/e4d41988679999ab2e60daef6edc7b4602e23551bd8ba0a4ea47c9342f1c27a4.gif",
+    "timestamp": "1739803274",
+    "date": "2/17/2025, 2:41:14 PM",
+    "id": "85d767bd580e699afe4c01d81696e078c20fa384496e1851b4adc7447fd408bf",
+    "kind": 1
+  },
+  {
+    "content": "Damn, time flies, congrats on what you built!",
+    "timestamp": "1739803135",
+    "date": "2/17/2025, 2:38:55 PM",
+    "id": "0d5d4004f857d2f45dba972b2da9e44ade024b0dc5c741df8f286e7106c3b0df",
+    "kind": 1
+  },
+  {
+    "content": "I imagine these are actual memecoin and defi platform names, right?",
+    "timestamp": "1739803098",
+    "date": "2/17/2025, 2:38:18 PM",
+    "id": "3008e8e3767144f288c9b4176b3bbc545e2486bd0537a6b3446da41e7a44d8ea",
+    "kind": 1
+  },
+  {
+    "content": "Shitcoiners during tax season vs Bitcoiners during tax season (FULL RAW UNCUT VERSION)\nhttps://m.primal.net/OxkP.mov",
+    "timestamp": "1739803059",
+    "date": "2/17/2025, 2:37:39 PM",
+    "id": "e8a9f2731edb744d7cc45daf858699739253b149348b600da294f87a713b6ee1",
+    "kind": 6
+  },
+  {
+    "content": "It's a zen way of dealing with the rage...",
+    "timestamp": "1739801423",
+    "date": "2/17/2025, 2:10:23 PM",
+    "id": "c990b2e9cdbd735b82d13563f0bb31854a6b33346a16c3f47f1920fd06c2a3e5",
+    "kind": 1
+  },
+  {
+    "content": "Rage levels are rather high recently...",
+    "timestamp": "1739801281",
+    "date": "2/17/2025, 2:08:01 PM",
+    "id": "ee6484cf89d3e11ed86c76afb68bc2506346c0dbda23ca6a1c09a50e7ec021d9",
+    "kind": 1
+  },
+  {
+    "content": "Money is the crystallized essence of human ingenuity. Bitcoin distills it further: incorruptible, global, free from the violence of decaying systems.",
+    "timestamp": "1739801234",
+    "date": "2/17/2025, 2:07:14 PM",
+    "id": "80ffca0d8cf15a70de37ef687ba0afc325d5f1f80649cdc5cf45957e80b6ec5b",
+    "kind": 1
+  },
+  {
+    "content": "Keep building.",
+    "timestamp": "1739796111",
+    "date": "2/17/2025, 12:41:51 PM",
+    "id": "bbbeaecaf9f9e5dfae58cc31c05dc13be42e9e7f81dea7445b0abd1d1efeb86f",
+    "kind": 1
+  },
+  {
+    "content": "Mastodon server goes down: 😱\nNostr relay goes down: 😏",
+    "timestamp": "1739795971",
+    "date": "2/17/2025, 12:39:31 PM",
+    "id": "ef10fa927e99cd5196977889b083c81e356942941d04e5e4b3eb080cced9316b",
+    "kind": 6
+  },
+  {
+    "content": "Mastodon server goes down: 😱\nNostr relay goes down: 😏",
+    "timestamp": "1739795956",
+    "date": "2/17/2025, 12:39:16 PM",
+    "id": "b9b9e1bb9b2f7fa1d1134fc107f4e30002a470fca9136d9ef47aa03fe844be47",
+    "kind": 1
+  },
+  {
+    "content": "Good work takes time.\nSwiping pages was the other big UX frustration, very glad you're on it!",
+    "timestamp": "1739795652",
+    "date": "2/17/2025, 12:34:12 PM",
+    "id": "e4d36033535afd2454c513a0986353b1c1e2057a6a792e03c75b1031b9db1f18",
+    "kind": 1
+  },
+  {
+    "content": "Fiat is the looters’ tool: infinite, deceptive, weaponized. \nBitcoin is the antidote—scarce, honest, peaceful. \nChoose wisely.",
+    "timestamp": "1739795165",
+    "date": "2/17/2025, 12:26:05 PM",
+    "id": "963221a2e73fc267b7a434e2cdce18342b5880465d57493a513eee78e6a940be",
+    "kind": 1
+  },
+  {
+    "content": "What's the difference of Monero's view key, compared to a coinjoined bitcoin xpub / signature proofs?",
+    "timestamp": "1739790576",
+    "date": "2/17/2025, 11:09:36 AM",
+    "id": "f3e714882a38f7825a35a7d6cd16c1fbedac91130d89cb4450329bce25e58e56",
+    "kind": 1
+  },
+  {
+    "content": "RegFi vs DarkFi: Tough Regulations Will Create A Split In The Crypto Industry\n\nTough regulations will cause the crypto space to be divided into two main groups of developments. \n\nOne will be the blockchain industry as a modern banking system that will respect increasing regulations, it will be banking 3.0. Another will be a marginal ecosystem, in which the cryptoeconomy will be developed as a peer-to-peer activity in unregulated markets, which the legal system will surely call the black or illegal market.\n\nMy article\nhttps://medium.com/@liberlion/regfi-vs-darkfi-tough-regulations-will-create-a-split-in-the-crypto-industry-1c9e435175de",
+    "timestamp": "1739790481",
+    "date": "2/17/2025, 11:08:01 AM",
+    "id": "1ba06c1e8397966c9d71197a7adc401dc7153b5870c9da1209dfae1bffe22067",
+    "kind": 6
+  },
+  {
+    "content": "Exactly.",
+    "timestamp": "1739790385",
+    "date": "2/17/2025, 11:06:25 AM",
+    "id": "283d21c9ddd1f6e78099a36157404d77b0d37defd691cb14abcc6b8f180a1cb4",
+    "kind": 1
+  },
+  {
+    "content": "It is inherent to centralized money issued by states.\nWhen money is not voluntary, it generates inflation due to corruption of its own incentives and tends to zero over time.",
+    "timestamp": "1739790380",
+    "date": "2/17/2025, 11:06:20 AM",
+    "id": "80d895940ef55e6aaa02c910e2cc221b0f97908d7cc25db5a61870e3e5347a65",
+    "kind": 6
+  },
+  {
+    "content": "Great read!",
+    "timestamp": "1739790367",
+    "date": "2/17/2025, 11:06:07 AM",
+    "id": "6b5a053b8f8eafc60757ecab06b0930ad7e16f967f666f56ea201d032bdd35f6",
+    "kind": 1
+  },
+  {
+    "content": "Very true, and very sad...",
+    "timestamp": "1739790220",
+    "date": "2/17/2025, 11:03:40 AM",
+    "id": "1e86fbd91045eff4fc79a26836df132279e210ffe72520758876cc938c20c2de",
+    "kind": 1
+  },
+  {
+    "content": "Privacy isn’t isolation. It’s engaging with the world on your terms.",
+    "timestamp": "1739790106",
+    "date": "2/17/2025, 11:01:46 AM",
+    "id": "4844ff4df650cc85d0c34c6b5863cf4dbcbe8045251ba0a29faf2a5311ef638f",
+    "kind": 1
+  },
+  {
+    "content": "The West is repeating Rome’s mistake: debasing currency to fund decadence.",
+    "timestamp": "1739785791",
+    "date": "2/17/2025, 9:49:51 AM",
+    "id": "00ee587d3e930c266717a16fb59ffc0d569f6c33de63bff0fed7b7a448479f4c",
+    "kind": 1
+  },
+  {
+    "content": " https://m.primal.net/OzjU.jpg ",
+    "timestamp": "1739778164",
+    "date": "2/17/2025, 7:42:44 AM",
+    "id": "8f182139a1ab43a6d98f214651809299d2ffc43dec465ed5898543f1d2a923ba",
+    "kind": 6
+  },
+  {
+    "content": "The cypherpunk’s dream: money too hard to hack, too distributed to ban, too transparent to corrupt.",
+    "timestamp": "1739775616",
+    "date": "2/17/2025, 7:00:16 AM",
+    "id": "1b499e653374abd9e1790ed413d070758d690a19310db88b4a58c5823c2f76ae",
+    "kind": 1
+  },
+  {
     "content": "So happy about the 10x zoom, it's the simple things in life...",
     "timestamp": "1739735779",
     "date": "2/16/2025, 7:56:19 PM",
