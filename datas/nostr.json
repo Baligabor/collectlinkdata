@@ -1,5 +1,138 @@
 [
   {
+    "content": "Lost private keys teach the ultimate lesson: Responsibility isn't collectivized. Value vanishes when ownership isn't secured by personal sovereignty.",
+    "timestamp": "1740342479",
+    "date": "2/23/2025, 8:27:59 PM",
+    "id": "cbee728b39fb1a281dcda268a071ca8af14c5962f9c30d2ebd96767e0ea08aef",
+    "kind": 1
+  },
+  {
+    "content": "Money isn't evil - it's frozen energy. Every satoshi you hold represents value created through voluntary exchange. Bitcoin fixes the thaw.",
+    "timestamp": "1740337479",
+    "date": "2/23/2025, 7:04:39 PM",
+    "id": "2d7c9950390a9e936e99e0a5c68ea2871713ad3d1df7d7421cc3c3ecf125cdd6",
+    "kind": 1
+  },
+  {
+    "content": "Lightning: encrypts the sender via ChaCha20\nOutcome: any LN wallet could have made that tx\n\nFull Chain Membership Proofs on XMR: obscures the sender with a zero knowledge proof\nOutcome: any XMR wallet could have made that tx\n\nOne big difference: lightning's method works right now",
+    "timestamp": "1740331990",
+    "date": "2/23/2025, 5:33:10 PM",
+    "id": "c5942ce3a110a8ba9f082d9dc03999801e5b853f6d9f171aa43a4ac1133284fa",
+    "kind": 6
+  },
+  {
+    "content": "You promise safety through servitude. We choose risk through freedom. A neutered life is no life at all.",
+    "timestamp": "1740330463",
+    "date": "2/23/2025, 5:07:43 PM",
+    "id": "2a7f3a3e7609fd7291ddbcd1cfd518a4f7e9f3d41ff1794d21f93a3148be5eb6",
+    "kind": 1
+  },
+  {
+    "content": "State fiat relies on anti-counterfeit laws, not market dynamics.",
+    "timestamp": "1740325469",
+    "date": "2/23/2025, 3:44:29 PM",
+    "id": "a16be2c88d9c7e1fa1b37c5c44f36b4ac48677fe5c82b2d16933fd44d640b55b",
+    "kind": 1
+  },
+  {
+    "content": "This is what #nostr #safebox looks like in action when another #safebox authenticates and secure records are then transmitted to that safebox.   \n\nhttps://video.nostr.build/3667545df7d28d41c9dc11437e8b6547f51d4abbbb5af075295d698547c5fae5.mp4",
+    "timestamp": "1740321816",
+    "date": "2/23/2025, 2:43:36 PM",
+    "id": "c50da1b86dd06c229b70d5f4288b0b7fb09b2ab8650e7bb60956649036a75988",
+    "kind": 6
+  },
+  {
+    "content": "Unconfirmed Bitcoin transactions are promises, not money.",
+    "timestamp": "1740318566",
+    "date": "2/23/2025, 1:49:26 PM",
+    "id": "16534dbba9909056b3f3709c97e6dee655b20679619584096bc1aabb616fb1bf",
+    "kind": 1
+  },
+  {
+    "content": "Nice!\nWhat's the context window size?",
+    "timestamp": "1740313356",
+    "date": "2/23/2025, 12:22:36 PM",
+    "id": "a3ca26881becac3c09a64702fe1beb0b68b5d904b3deedea0d427d760e8b1824",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsx845ex2wm3cu9d8e93xm282nmpu33emyr5aufu20s5wt8sx7h6uspzdmhxue69uhhwmm59e6hg7r09ehkuef0un4e3j can you do an all leather case for the pixel 9?",
+    "timestamp": "1740312748",
+    "date": "2/23/2025, 12:12:28 PM",
+    "id": "260dfe89e191239b2cd549d280ed43d7aca517fa9be346f08569c2914b7fed8f",
+    "kind": 1
+  },
+  {
+    "content": "Money substitutes, such as banknotes or digital accounts, represent a claim to a definite amount of money. They function as “future goods” because their value depends on the promise of redemption. This contrasts with base money, which is a “present good” because it can be used immediately.",
+    "timestamp": "1740311607",
+    "date": "2/23/2025, 11:53:27 AM",
+    "id": "09e8e2316637c21aaebb585b2c52506d1ab4c95e702a2ef03070dde5137eb8c8",
+    "kind": 1
+  },
+  {
+    "content": "As an open source project this can be overlooked or forgotten, but GrapheneOS is hiring remote developers:\n\nhttps://grapheneos.org/hiring",
+    "timestamp": "1740300811",
+    "date": "2/23/2025, 8:53:31 AM",
+    "id": "4dd26bb24a0f60851b11702c8bc1742038a04ffd4d6af545d38f5d116ced05b6",
+    "kind": 6
+  },
+  {
+    "content": "Not technically perfect or exact to the topic but want to see a #GrapheneOS device with a secondary display and secure element for hardware wallet functionality. It could just be a phone and a device like a Trezor Safe 5 separately in the same housing. Secondary touchscreen for transactions would be on the back next to camera.\n\nUsers could use their own official wallet app if it's just bundling an existing one but an app oriented around the device would be nice for it. Only disadvantage is that the HWW wouldn't fully be integrated with the OS (good and bad), like duress password wiping the wallet at the same time likely not possible because they should be isolated.\n\nFrom technical aspects the wallet app should support privacy features like coinjoins, stealth addresses. Support for multisig and all the big external HWWs. App needs to be fully compatible with OS security features, unfortunately some still break with MTE. If the HWW and app had Nostr key management then it's a bonus. App developer could choose to bundle self-custodial Lightning. I really like how easy Phoenix is but there is dependence of their infrastructure for transactions.\n\nI'd prefer the UI of neobank apps but less cluttered. All these apps use the same kind of UIs because they work. Cryptocurrencies need the same experience and feel as handling fiat currencies to succeed else \"normies\" don't onboard because their apps are unfamiliar. They don't get treated or developed to be used like currencies most of the time and that's a problem. Treat separate currencies like separate accounts, and the wallets of them like separate virtual cards, and \n\nOther features or details need to be:\n\n- Fast and easy swaps from L1 <-> L2 with support for other assets, purchasing from fiat. Cake does good with swaps.\n\n- Reproducible builds\n\n- Encrypting application data with a secure passphrase (optional).\n\n- Privacy network integration (usually Tor)\n\n- NFC tap-to-pay\n\n- Fast and, I can't stress this enough, easy backups\n\n- Device hardware attestation support, like what we do with Auditor. The app could design to have potential safeguards for attestation failure as an advanced feature.\n\n- Home widgets.\n\n- View-only support\n",
+    "timestamp": "1740300800",
+    "date": "2/23/2025, 8:53:20 AM",
+    "id": "23ccac66982f034e3234ed341d23cfcfee16f540f42a406906da5dc267a5f7c8",
+    "kind": 6
+  },
+  {
+    "content": "Afaik, only devs can define URLs for the open with feature...\nWould be great if nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpz9mhxue69uhkummnw3ezuamfdejj7qgwwaehxw309ahx7uewd3hkctcscpyug includes all common links in this option, such that users can select them.",
+    "timestamp": "1740300325",
+    "date": "2/23/2025, 8:45:25 AM",
+    "id": "aaaad01723ede4ec6bbdd4a8b9d738561d7eccad5e532d70eb685a3861f01ef8",
+    "kind": 1
+  },
+  {
+    "content": "https://image.nostr.build/0ba0703be7a1ac11adfff9d8b7c4c7d8be366f876b70976da5980c2fa6f990ad.jpg",
+    "timestamp": "1740300231",
+    "date": "2/23/2025, 8:43:51 AM",
+    "id": "52843fd5d680571eaf56fb930950ca3e9e793e443ecd1a25f0f766a05fb57f2c",
+    "kind": 1
+  },
+  {
+    "content": "Many nostr apps have push notifications though, they're equivalent to the emails of the past.",
+    "timestamp": "1740300124",
+    "date": "2/23/2025, 8:42:04 AM",
+    "id": "464dfb8cc03d0d0dfcdc5af861566dc932b2339f5a31e8e03a442e57260e25a1",
+    "kind": 1
+  },
+  {
+    "content": "My name is Bogdan. I am 21 years old and I’m from Montenegro.\n\nI started training when I was 14 and I never plan to stop.\nFor quite some time now, I’ve been studying nutrition, training programming, human physiology, biochemistry, anatomy, and rehabilitation in detail.\n\nMy goal is to help people—especially young ones—realize that having a healthy and strong body is the first step toward success. If we skip that step, we’ll eventually have to go back to it sooner or later.\n\nSo, I help people achieve the physique, strength, and healthy body they dream of, along with a much better quality of life.\n\nI also love exploring new things, which is why I’m currently on a solo adventure through Indonesia. Right now, I’m at Bali Timechamber, where I met this gentleman nostr:nprofile1qqsx45yrjtgm4glklaafgz0z4309gs6cwfja3d99s8rqvlvgagcptpq6c3kna  who introduced me to Nostr—so here I am!\n\nI hope to meet some great people here!\n\n#introductions\n#nostr\n\nhttps://m.primal.net/PHpO.jpg",
+    "timestamp": "1740299725",
+    "date": "2/23/2025, 8:35:25 AM",
+    "id": "b6d4cdcd6d372cf46aa52d802f66d05148f4ed654b46c63894a4b16280d09f9d",
+    "kind": 6
+  },
+  {
+    "content": "Those are rooky numbers...\n\nhttps://image.nostr.build/e277db7ee313a2c5d8d3f23af9383c3f56893b75e54e5d1b73da00642abb000d.jpg",
+    "timestamp": "1740299642",
+    "date": "2/23/2025, 8:34:02 AM",
+    "id": "dcd3520ff2e2ca0403d65bf457aa29a7bacf78a8c27a41492f6efde859879d16",
+    "kind": 1
+  },
+  {
+    "content": "8 HOURS 22 MINUTES\n\nS16 E10 IS NOW THE LONGEST\n\nEPISODE IN THE HISTORY OF BITCOIN\nTAKEOVER PODCAST\n\nMAYBE THE LONGEST BITCOIN PODCAST EVER TOO\n\nhttps://www.youtube.com/live/1mLey8XsMBg?si=560mEEhXqG00R66F",
+    "timestamp": "1740299499",
+    "date": "2/23/2025, 8:31:39 AM",
+    "id": "ba5213fc266cc5f1045a00bf2e246a2bdaeb35348915a22ee91e55dc80118c7f",
+    "kind": 6
+  },
+  {
+    "content": "Demand drives the flow of assets, making production a dynamic process rather than a fixed property of the asset itself.",
+    "timestamp": "1740297690",
+    "date": "2/23/2025, 8:01:30 AM",
+    "id": "093e211ebf6b3f39084c37d2ccb42328bd6138f45ec148b6517200db95d0c867",
+    "kind": 1
+  },
+  {
     "content": "The mempool is praxeology in action - a real-time map of human preference revealed through voluntary bids.",
     "timestamp": "1740256216",
     "date": "2/22/2025, 8:30:16 PM",
