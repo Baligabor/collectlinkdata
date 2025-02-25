@@ -1,5 +1,159 @@
 [
   {
+    "content": "Hashrate is not a goof measure of security, as the censor has hashrate too.",
+    "timestamp": "1740430251",
+    "date": "2/24/2025, 8:50:51 PM",
+    "id": "75a2a91e8a2906bb074500bdb85b7136e4141c14bf5dd4f20ad911c9960df8c1",
+    "kind": 1
+  },
+  {
+    "content": "Decentralization needs physical hubs: local markets, workshops. Digital tools alone can’t sustain parallel economies.",
+    "timestamp": "1740430203",
+    "date": "2/24/2025, 8:50:03 PM",
+    "id": "0116aafda3ac2057ddb807a82cd5b8829ad345f908de836af8366cc0d3e2cf54",
+    "kind": 1
+  },
+  {
+    "content": "Encryption isn’t optional for decentralized participation. Security literacy is foundational.",
+    "timestamp": "1740421606",
+    "date": "2/24/2025, 6:26:46 PM",
+    "id": "8710fe0145d2db1d65d95783ea8ca831ec0f64b51ded16a85940e6498124c2ee",
+    "kind": 1
+  },
+  {
+    "content": "See chapter 9 on page 26: The problem of \"Hoarding\"\n\nhttps://mises.org/library/book/what-has-government-done-our-money",
+    "timestamp": "1740421453",
+    "date": "2/24/2025, 6:24:13 PM",
+    "id": "1ab38ec2a358fff822a49885a0edb11903c85eb40460a5308a0a80ea25b371c5",
+    "kind": 1
+  },
+  {
+    "content": "Hoarding is the OG term, used by Mises and Rothbard et al.",
+    "timestamp": "1740419449",
+    "date": "2/24/2025, 5:50:49 PM",
+    "id": "fff2c848d2911441e5dfc9945e5c8d8ffbbc26b5644ae6e5fce5aeee54da6f98",
+    "kind": 1
+  },
+  {
+    "content": "We're Hiring!\n\n*DEVELOPER COMMUNITY MANAGER**\n\nWe're looking for a part-time social media manager to help us reach developers who haven't taken the orange pill yet.\n\nThe right candidate for this role should share our vision for Bitcoin as a universal medium of exchange, have a background knowledge in programming (entry level) and excellent communication skills.\n\nAt a high level, the role is responsible for: \n - Creating engaging content (video, infographics, articles) highlighting the benefits of Bitcoin over legacy financial rails\n - Developing tutorials and prototypes on how developers can build on Bitvora (with help from our engineering team)\n - Engaging with developers across social media platforms (Nostr, Twitter, LinkedIn, Discord)\n\nWe're looking for an individual with the following qualifications: \n - Based - no suits, clown world dummies\n - Active npub so we can get a sense of your writing abilities and basedness\n - Disrespects fiat and crypto, especially stablecoins, which is somehow both of the worst things\n - Some examples of little pet dev projects you've built\n - Some examples of videos you've made\n\nWe expect the candidate to work between 5-10 hours a week, perfect for a side hustle to earn some extra sats!\n\nDM us right here on Nostr if you're interested in learning more about the position with any relevant qualifications we should review.\n\n*** \n\nAbout Bitvora Inc.\n\nBitvora's mission is to make Bitcoin the universal medium of exchange. We make it dead simple for developers and small businesses to process bitcoin payments without any prior knowledge of how Bitcoin works. ",
+    "timestamp": "1740416762",
+    "date": "2/24/2025, 5:06:02 PM",
+    "id": "7b31d99c0f96cf761b42f72da0f69ee9efb46f4c88f115c293bcb0ca4a98eece",
+    "kind": 6
+  },
+  {
+    "content": "Deliver shippable intermediaries.",
+    "timestamp": "1740416611",
+    "date": "2/24/2025, 5:03:31 PM",
+    "id": "8e7ec309fe04c625030d2f6370af67416ed1914a0d2fa2db7d5be4505725eac3",
+    "kind": 1
+  },
+  {
+    "content": "Perfectionism paralyzes. Early agorists embraced barter and precious metals despite imperfections; they prioritized utility over idealism. Waiting for flawless systems cedes ground to entropy. Iteration refines ideas: release prototypes, test in real markets, adapt. Critics of imperfection often contribute nothing—ignore them. Functional mediocrity outperforms hypothetical utopias.",
+    "timestamp": "1740413986",
+    "date": "2/24/2025, 4:19:46 PM",
+    "id": "49da22b4a49728ea613eb4392f57caf2f792235875d2456c6f2ec23aa3f09fe1",
+    "kind": 1
+  },
+  {
+    "content": " https://m.primal.net/PJTb.png #Angor",
+    "timestamp": "1740410990",
+    "date": "2/24/2025, 3:29:50 PM",
+    "id": "99e04792e76ec75e9346fa9a0bc9d223245b4903620ea7f1a4ffe6fad7164de1",
+    "kind": 6
+  },
+  {
+    "content": "Meshtastic is one packet, Reticulum is like TCP/IP replacement, it can split message into multiple packets.\n\nBTW Reticulum is not limited to LoRA. But it works over LoRA, seamless splitting of packets and then reassembling.\n\nReticulum needs a more performant machine, the ESP32 is only radio interface. So encryption, packet assembly and reassembly is happening outside of the ESP32.",
+    "timestamp": "1740410918",
+    "date": "2/24/2025, 3:28:38 PM",
+    "id": "1d77ee5c1c675a76430222a5d0172166dcaf5c0b18391789255a5d875716d582",
+    "kind": 6
+  },
+  {
+    "content": "That's quite sad news, I'm very bullish on the great script restoration, it's the most promising scaling solution to bitcoin imo.\n\nI can't help with coding, but I can help get some funding for it. If you vouche for a contributor, I'll hussle to get him paid.",
+    "timestamp": "1740410420",
+    "date": "2/24/2025, 3:20:20 PM",
+    "id": "7aca2a14f97e9be40f082ff97e0bedcaecfddc0c7b4282143a3a260df785fdf7",
+    "kind": 1
+  },
+  {
+    "content": "I have too much on my plate. I am excited about restoring Bitcoin Script, but I am more then full-time with my Lightning work. \n\nBut if someone has experience with Bitcoin's inner workings and wants to work on this, I would commit to carving out time to mentor them and help them get a grant. \n\nIt's not going to be easy, but it could be Great! \n\nPing me if you want to discuss 🧡",
+    "timestamp": "1740410285",
+    "date": "2/24/2025, 3:18:05 PM",
+    "id": "87605c4b0cd9007cafc1c8bffd94e94c3f034c33b10ec5819f23e8bde0908343",
+    "kind": 6
+  },
+  {
+    "content": "We built a Coinflip PoC using multiparty contracts on Ark!\n\nBonus points: it uses Nostr on the backend. \n\nArk's client-server architecture, built around presigned transactions, provides an interesting framework for coordinating complex multi-party interactions.\n\nA key insight from our Coinflip implementation: Ark operators validate spending conditions off-chain, such that in the optimistic case, complex validation logic doesn't hit the blockchain at all.\n\nOnce the game concludes, players settle their balance without intermediary trust.\n\nIt's available here: Coinflip is available here: http://coinflip.casino\n\nCheck it out! 👾 https://m.primal.net/PFcL.png ",
+    "timestamp": "1740409218",
+    "date": "2/24/2025, 3:00:18 PM",
+    "id": "fbfbaed86b23bcac06d0a6a5d88eaa7981d27c878afcb50cffa803cb2b5dde72",
+    "kind": 6
+  },
+  {
+    "content": "There is no difference.",
+    "timestamp": "1740408924",
+    "date": "2/24/2025, 2:55:24 PM",
+    "id": "a5dfe5698f88239728044215ce1d5a804fb777e0bf4cd06678864a9781d8831e",
+    "kind": 1
+  },
+  {
+    "content": "Hoarding reduces trade activity, which can weaken network security over time.",
+    "timestamp": "1740408686",
+    "date": "2/24/2025, 2:51:26 PM",
+    "id": "e87b80085b97107f9e6a59b0ad39e23a57064e51c4d5c5ccc4efd0b10571a62e",
+    "kind": 1
+  },
+  {
+    "content": "Fiat money lacks use value and relies on state monopoly for production.",
+    "timestamp": "1740404910",
+    "date": "2/24/2025, 1:48:30 PM",
+    "id": "b6a0dcc9563dfae7730374f619a9969dd59f591a58ce687c2d853b19a45fbaf6",
+    "kind": 1
+  },
+  {
+    "content": "\"Please\" makes it sound as if this is optional...",
+    "timestamp": "1740392601",
+    "date": "2/24/2025, 10:23:21 AM",
+    "id": "575292e16a7a0080ad205eb44b60ce59711481638c12220a39241aec89fb1133",
+    "kind": 1
+  },
+  {
+    "content": "awesome.utxo.one ",
+    "timestamp": "1740392231",
+    "date": "2/24/2025, 10:17:11 AM",
+    "id": "5528e66e35e12f8268c7870f48bb13f2966bdc19eb6c04112e4c30d4727a739a",
+    "kind": 1
+  },
+  {
+    "content": "High-level idea for gradual scaling of bitcoin with the proper combination of verified contacts, cashu, nostr, and channel factories. \n\nSee the post on GitHub: \nhttps://github.com/hynek-jina/Hynek/blob/main/blog/Channel%20Factories%20fueled%20by%20Cashu.md",
+    "timestamp": "1740391470",
+    "date": "2/24/2025, 10:04:30 AM",
+    "id": "b12c9314a16af4acb194a2a05c6d0ba1354b4c6a895fd173b41439dfd57247f5",
+    "kind": 6
+  },
+  {
+    "content": "Plebs zapping 21 sats with NWC be like\nhttps://image.nostr.build/027935fd2b248ec88058e9cf161386ded0a2fc1e1bd0248e0c986944170c0b3e.gif",
+    "timestamp": "1740390067",
+    "date": "2/24/2025, 9:41:07 AM",
+    "id": "3bd264e73d19a58af1138757d74817c60e5ea9d3f0502cf2636351d973e84a59",
+    "kind": 1
+  },
+  {
+    "content": "The Mona Lisa's value isn't just because it's scarce, but because it's unique and in demand. Similarly, Bitcoin's value is tied to its unique properties and the demand for those properties.",
+    "timestamp": "1740386074",
+    "date": "2/24/2025, 8:34:34 AM",
+    "id": "b8e9dd0db6a9a33d8c170a5418a84dbdfb1068e64a20b10a553da2729d3f0d1e",
+    "kind": 1
+  },
+  {
+    "content": "Has to be 21k obviously...",
+    "timestamp": "1740382274",
+    "date": "2/24/2025, 7:31:14 AM",
+    "id": "0db54e31113acb66897c28fd10782ff3668bebb12998ef7737d8dd91ee853a90",
+    "kind": 1
+  },
+  {
     "content": "Lost private keys teach the ultimate lesson: Responsibility isn't collectivized. Value vanishes when ownership isn't secured by personal sovereignty.",
     "timestamp": "1740342479",
     "date": "2/23/2025, 8:27:59 PM",
