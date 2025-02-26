@@ -1,5 +1,124 @@
 [
   {
+    "content": "For years, Bitcoiners pushed exchanges to adopt Lightning.\n\nAnd guess what? It worked. Public Lightning volume is up 266% in about a year.\n\nA few interesting insights from our new nostr:nprofile1qqsrtv3u6qkj6a09tnhr3l0wy67g9uw3t57ftqyqpvztpk3wmd6306s92qxwz report:\n\nOur previous Lightning research in 2023 showed a 1212% increase in transactions.\n\nMany of these were low value, as people experimented with new apps & business models.\n\nNow, a new wave of bigger volume has come in, driven by exchanges.\n\nWe used the same methodology for our estimates as in 2023, but instead of having data on 52% of public capacity, we now got up to 79.4%\n\nA massive thank you to Acinq, nostr:nprofile1qqsyv47lazt9h6ycp2fsw270khje5egjgsrdkrupjg27u796g7f5k0s8jq7y6, Bitfinex, nostr:nprofile1qqsfwyw34w5qdgazshlnap73wkgzcte9qaqcvrvuvkgrez67scltmqglmz585, C=, nostr:nprofile1qqsf5wdlsd7gdrtpakxvu6jv0g8tjm67t0xqs2kk4lw4f9ktv99z87c9ekpvj, Kraken, LQWD, NiceHash, OKX, Cyberdyne, Sunny Sarah, nostr:nprofile1qqstaag5h4vv3nh2f04eu6uy4rvc8y6l003x7j0pfhmgpx83hfjp2ms0tudgq, and nostr:nprofile1qqstu8vf099ljt09m4jvres0dgk8ps2q4wkfjvjp3lhrp3wxxllfg7gnp0y44 for sharing data.\n\nThe Lightning industry continues to grow\n\nWe’ve updated our map, adding 46 new companies and removing 12.\n\nWe expect Lightning to continue growing:\n- On-chain fees remain low, slowing adoption.\n- USDT on Lightning may increase activity.\n- Dozens of scaling proposals continue to build on Lightning.\n\nMore Lightning + Bitcoin adoption trends in our new report 👇\nhttps://blog.river.com/bitcoin-adoption-2025/\nhttps://m.primal.net/PKtu.png\nhttps://m.primal.net/PKtv.jpg\nhttps://m.primal.net/PKuJ.jpg",
+    "timestamp": "1740511742",
+    "date": "2/25/2025, 7:29:02 PM",
+    "id": "7a44f0d529380816c7a993505f61403c126210f2711358b77836bb427f80c5f1",
+    "kind": 6
+  },
+  {
+    "content": "This is the way.",
+    "timestamp": "1740511641",
+    "date": "2/25/2025, 7:27:21 PM",
+    "id": "70ca4cf6eb58cdbcd8e955af3873a9897f7c76d31cdfa6934f4bf0d273cd7471",
+    "kind": 1
+  },
+  {
+    "content": "This bot has replied to 1052 events with tracking tokens in the last 3 days.\nZap this bot to incentivize development.\nFind the code on GitHub: https://github.com/f321x/nostr-tracking-token-remover \n@npub1z9n5ktfjrlpyywds9t7ljekr9cm9jjnzs27h702te5fy8p2c4dgs5zvycf",
+    "timestamp": "1740510988",
+    "date": "2/25/2025, 7:16:28 PM",
+    "id": "8b30c1403dd3ec9f44cc21f9d169a288c80ce33810a2dc6559c79da0d8f90cdf",
+    "kind": 6
+  },
+  {
+    "content": "Buying the dip is rookie stuff. \nReal ones are long out of fiat.",
+    "timestamp": "1740509819",
+    "date": "2/25/2025, 6:56:59 PM",
+    "id": "999c1fb9ecf4055de3707f2bc51c0b71fa81086cca9f42be2ff148952fdd681f",
+    "kind": 1
+  },
+  {
+    "content": "The Great Depression was exacerbated by government policies, not market failures, highlighting the need for laissez-faire economics.",
+    "timestamp": "1740507629",
+    "date": "2/25/2025, 6:20:29 PM",
+    "id": "3e53eebc42668b6013bc1024f5770d0ea35409266a2dc1bc8c3b4c9cc37c5ffe",
+    "kind": 1
+  },
+  {
+    "content": "Counterfeit laws restrict competition, allowing states to control money supply independent of market forces.",
+    "timestamp": "1740495392",
+    "date": "2/25/2025, 2:56:32 PM",
+    "id": "d34a14e0a59fb01d580feca90e53946c67e0435642a8c8309a7130cebf848cde",
+    "kind": 1
+  },
+  {
+    "content": "A miner who excludes a valid transaction from his candidate block, and potentially doesn't build on top of a chain with a specific valid transaction included.",
+    "timestamp": "1740495362",
+    "date": "2/25/2025, 2:56:02 PM",
+    "id": "a0147d9f03a772c1368d853eb8711fb22bddd757a8967f6e19a87199036ceb73",
+    "kind": 1
+  },
+  {
+    "content": "Such a great chapter.",
+    "timestamp": "1740487166",
+    "date": "2/25/2025, 12:39:26 PM",
+    "id": "8953ef2419724a8f7c1189c117276414b92f3a690de94a5aa488b80ef624897f",
+    "kind": 1
+  },
+  {
+    "content": "\"Technology is never the root of system security.\nTechnology is a tool to help people secure what they value.\"\n ~ Eric Voskuil, Cryptoeconomics",
+    "timestamp": "1740484389",
+    "date": "2/25/2025, 11:53:09 AM",
+    "id": "d9e86157e386d2379f19205ec0f72760acac39356718a2695ab4e59e3a146dc1",
+    "kind": 1
+  },
+  {
+    "content": "Tools matter less than strategic use.",
+    "timestamp": "1740481813",
+    "date": "2/25/2025, 11:10:13 AM",
+    "id": "0478e2f2ae17e6f139ac7f246f37f9104a07db9cd5dd7cefdb2d1b5ef5a05eac",
+    "kind": 1
+  },
+  {
+    "content": "Cryptoeconomics is outrageously good...\nvoskuil.org/cryptoeconomics",
+    "timestamp": "1740476530",
+    "date": "2/25/2025, 9:42:10 AM",
+    "id": "236978cb4bce3fb81484f39615dcd42ba3c8465fc18e31b9c25ea35e6b5626e5",
+    "kind": 1
+  },
+  {
+    "content": "Please don't behead me...",
+    "timestamp": "1740476449",
+    "date": "2/25/2025, 9:40:49 AM",
+    "id": "2d7d25d71e22a3414ea6725bb89dad9b044e9411911cd4a519047ac35e2a8339",
+    "kind": 1
+  },
+  {
+    "content": "Imperfect tools still enable progress.\nIterate",
+    "timestamp": "1740475969",
+    "date": "2/25/2025, 9:32:49 AM",
+    "id": "b1aeb949546d925110ec51838cee29a4f2522366d2d787ff25c96d9263e803c2",
+    "kind": 1
+  },
+  {
+    "content": "The block subsidy does not add to the security budget, because a censor gets it too.",
+    "timestamp": "1740471186",
+    "date": "2/25/2025, 8:13:06 AM",
+    "id": "5d002e7ecd83f85ce05dffc0d2d1e63cb4844bf862b93794e3889e43cdf9c0a3",
+    "kind": 1
+  },
+  {
+    "content": "Fear is a tool. It sharpens vigilance in secure communication, contract enforcement, and risk assessment. But paranoia without action wastes energy. Balance caution with boldness: use encrypted networks to organize, then meet in person to trade. The digital shields the physical; the physical sustains the digital.",
+    "timestamp": "1740471145",
+    "date": "2/25/2025, 8:12:25 AM",
+    "id": "9f638af169b0f08891801a5c72a5a6c00dea35b1d71d02d54e92278887fe61b1",
+    "kind": 1
+  },
+  {
+    "content": "There has to be at least some transactions though ",
+    "timestamp": "1740461039",
+    "date": "2/25/2025, 5:23:59 AM",
+    "id": "ba15e1e3759b4259de1e0badd39109572fc8d80bce277614a8df68ddab80b654",
+    "kind": 1
+  },
+  {
+    "content": "The Second Realm isn't a location but a protocol suite.",
+    "timestamp": "1740460979",
+    "date": "2/25/2025, 5:22:59 AM",
+    "id": "c5eb94646af853257ab9e34466b31de8168a8020f9bf6b86c4e8bab3bd5c925e",
+    "kind": 1
+  },
+  {
     "content": "Hashrate is not a goof measure of security, as the censor has hashrate too.",
     "timestamp": "1740430251",
     "date": "2/24/2025, 8:50:51 PM",
