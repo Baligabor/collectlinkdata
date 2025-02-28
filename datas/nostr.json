@@ -1,5 +1,299 @@
 [
   {
+    "content": "I like the recent long rips of nostr:nprofile1qqs9qp2dql3vmuetzq6hw77eeaeej2j2ughers22wch0m2jm7c05w4g7fd4xj",
+    "timestamp": "1740689693",
+    "date": "2/27/2025, 8:54:53 PM",
+    "id": "29ca30f0dbecfc77f8bc72e5b4deaa4aa21da53f4a627ed3ea4f5b339fff625b",
+    "kind": 1
+  },
+  {
+    "content": "This is one of those \"you seriously don't get how huge this is\" moments...\nnostr:nevent1qqsdhrha84t03m6x2xgzlydpmg4u7z7f388lac2awqgf7k2gfpyup0cppemhxue69uhkummn9ekx7mp0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqqqpf76642",
+    "timestamp": "1740689106",
+    "date": "2/27/2025, 8:45:06 PM",
+    "id": "f0e0ae437f1a364643c3e2338e47782cce8daf667382c08a42d07d25916bff7d",
+    "kind": 1
+  },
+  {
+    "content": "It's absolutely incredible that tropic square managed to produce and ship the first version.\n\nLiterally EVERYONE told them that a open secure element was impossible to produce.\n\nBitcoiners are going to safe the world with sheer will and dedication.\n\nhttps://tropicsquare.com/tropic01",
+    "timestamp": "1740688338",
+    "date": "2/27/2025, 8:32:18 PM",
+    "id": "db8efd3d56f8ef4651902f91a1da2bcf0bc989cffee15d70109f59484849c0bf",
+    "kind": 1
+  },
+  {
+    "content": "Tropic Square of Satoshi Labs now have TROPIC01 secure elements available!\n\nFrom their newsletter: \"After a thorough development period, we are happy to say we have physical secure elements at hand. Our TROPIC01 open and auditable security chips are now available!\"\n\nhttps://tropicsquare.com/tropic01",
+    "timestamp": "1740687845",
+    "date": "2/27/2025, 8:24:05 PM",
+    "id": "05d3abd336a1c3867d3646fef850cd8c559841c53359a0ce6f08c0f233454a3c",
+    "kind": 6
+  },
+  {
+    "content": "There's a big list of second layers that currently use bitVM to hack an emulated zk verifier onchain:\nhttps://www.bitcoinlayers.org/?entityCategory=Sidesystems",
+    "timestamp": "1740687817",
+    "date": "2/27/2025, 8:23:37 PM",
+    "id": "0d917d7b653ceb6fcfee14e1d16ddcd842a47b9635a2eadc0d41ff6344d10e1f",
+    "kind": 1
+  },
+  {
+    "content": "Oh thats weird, some links work, this one not...\n\nhttps://njump.me/nevent1qqsyklslwlht6s5c4asj7r33468x7z5fc20gsr27r003r99e5dx899cpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgsy2ga7trfetvd3j65m3jptqw9k39wtq2mg85xz2w542p5dhg06e5qrqsqqqqqps2ted6",
+    "timestamp": "1740686571",
+    "date": "2/27/2025, 8:02:51 PM",
+    "id": "8997111d8b8a2c10920c5583eef10b2e3b4949621ec11747af5cf4dfd3161816",
+    "kind": 1
+  },
+  {
+    "content": "njump is down nostr:nprofile1qqsrhuxx8l9ex335q7he0f09aej04zpazpl0ne2cgukyawd24mayt8gprfmhxue69uhkcmmrdd3x77pwve5kzar2v9nzucm0d5hszxmhwden5te0wfjkccte9emk2um5v4exucn5vvhxxmmd9ux73xm6",
+    "timestamp": "1740686259",
+    "date": "2/27/2025, 7:57:39 PM",
+    "id": "81ab71253d113bbdcab9e567a3c5a0105425f8cc944e9ddf5df9a5e45bb74b3f",
+    "kind": 1
+  },
+  {
+    "content": "Good to focus on DMs first.\nFor groups MLS is interesting, the Merkle tree makes key rotation on user exit a lot more scalable, plus it's designed for the \"fediverse\", which seems to translate well to nostr.",
+    "timestamp": "1740685498",
+    "date": "2/27/2025, 7:44:58 PM",
+    "id": "7fd820157a53aa001b604b8b6ae9ec139eceff524b16377549a6d94de97ffe00",
+    "kind": 1
+  },
+  {
+    "content": "That's why proper saunas forbid clothing items.",
+    "timestamp": "1740684586",
+    "date": "2/27/2025, 7:29:46 PM",
+    "id": "c7a82f189d088e61aa54057939f3a408fa5bd03ad4fa62ab71971d28478bf4b2",
+    "kind": 1
+  },
+  {
+    "content": "Nice!\nHow does this handle groups?",
+    "timestamp": "1740684477",
+    "date": "2/27/2025, 7:27:57 PM",
+    "id": "8d51cd0c1c327effe2afcc4f022d1b8931084cc0a40e4e60550909ef3aac8538",
+    "kind": 1
+  },
+  {
+    "content": "Double ratchet NIP — Signal style DM encryption on Nostr. Deployed on https://iris.to\n\nnostr:naddr1qvzqqqr4gupzq3frhevd89d3kxt2nwxg9vpck6y4evptdq7scff6j4gx3kapltxsqq2kgjzlx338g4zsfymky6ncw4r5ys6nw9rrx2qhejc\n\nDouble ratchet invites:\n\nnostr:naddr1qvzqqqr4gupzq3frhevd89d3kxt2nwxg9vpck6y4evptdq7scff6j4gx3kapltxsqq2kve6tw9c9xn202eny56edvfjhxmzh2gkkuaadaur\n\nGithub PR https://github.com/nostr-protocol/nips/pull/1813",
+    "timestamp": "1740684448",
+    "date": "2/27/2025, 7:27:28 PM",
+    "id": "0de582b4bf119c32c3e22817e8b476571523f3d487fc3d0ef56fda97f4a10c5f",
+    "kind": 6
+  },
+  {
+    "content": "Local relays are a game changer.\nIt turns your device into a nostr full node.",
+    "timestamp": "1740684248",
+    "date": "2/27/2025, 7:24:08 PM",
+    "id": "0bb2f831b25a7266dcf806e7e709a4db9b9419a2d2c64619c68a8de4590b66ec",
+    "kind": 1
+  },
+  {
+    "content": "Best Bitcoin critic is Eric Voskuil.\nnostr:nevent1qqsy0fs6z7yv3d3sz8jkxcd54cd8qdyul4a75u7fnh9lsjr3gpcz6wqppemhxue69uhkummn9ekx7mp0qgs9qp2dql3vmuetzq6hw77eeaeej2j2ughers22wch0m2jm7c05w4grqsqqqqqpqcldjz",
+    "timestamp": "1740684013",
+    "date": "2/27/2025, 7:20:13 PM",
+    "id": "20fbc03924f74b8ba782de01868f5d100eb19b901e2f7d6aa2828b2b3d3dc439",
+    "kind": 1
+  },
+  {
+    "content": "Fiat operates on “Because I said so.” \nBitcoin runs on “Because math proves so.”",
+    "timestamp": "1740683247",
+    "date": "2/27/2025, 7:07:27 PM",
+    "id": "05bff988149f6aa508c7b4a8d05ba31be3a3c407d7ee5991f3fbcae4d51a0a3d",
+    "kind": 1
+  },
+  {
+    "content": "Depends if you're comfortable with the person who paid you knowing how long you hold.",
+    "timestamp": "1740683163",
+    "date": "2/27/2025, 7:06:03 PM",
+    "id": "aad3ee33f27aba7126ff467cef5e3ad0a73c725278b52db65896effee2982605",
+    "kind": 1
+  },
+  {
+    "content": "Really disappointed that the grants didn't go through...",
+    "timestamp": "1740675293",
+    "date": "2/27/2025, 4:54:53 PM",
+    "id": "2ed0ceeab25306bace61174f0e6ce75356557a2bbb9a717002d59f6ecaa1696a",
+    "kind": 1
+  },
+  {
+    "content": "Immediately after Turbolay and me received Wasabi, everybody suggested that we start looking for some grants to support the development effort. After all, Wasabi is just a FOSS software without any source of revenue, and there wasn't a company to pay our salaries anymore. The most resounding alternatives were OpenSats and the HRF grants, and I was suggested to apply to both of them. However, I wanted to avoid asking for money from the HRF, and for that reason, I applied to OpenSats even though I knew that many of the people behind it were not the biggest fans of Wasabi. Anyway, I preferred to ask for help from those who I perceive as part of the community. My application was rejected. Turbolay applied before me but his application was rejected too.\n\nTurbolay then decided to apply for one of the HRF grants and asked me if I was okay with him applying for both of us together as the \"Wasabi team,\" and I agreed. So he did it. It was a mistake; I shouldn't have agreed, but I knew that even though they usually highlight how important privacy is for democracy, they would not support us (maybe they cannot do it, who knows). The application was rejected.\n\nAfter that, Turbolay started looking for a job, and fortunately, he found a non-fiat one! But I cannot avoid feeling that if I had released the Wasabi Silent Payment donation button earlier, he would still be 100% available for Wasabi. Even though Turbolay is still making great contributions, he's a fucking hero, a real one 🫡",
+    "timestamp": "1740675233",
+    "date": "2/27/2025, 4:53:53 PM",
+    "id": "a34475c853fb78d6902ca8ff051c7764d4354d665aebdd89329db8b28f19f2c6",
+    "kind": 6
+  },
+  {
+    "content": "Finally you can deposit directly from a wabisabi coinjoin into a fedimint!\n\nnostr:nevent1qqs24ekmv22lk7eltxh8x7duepy9fxv9h8wffs6ckywfgz4ux5apazspzpmhxue69uhkummnw3ezumt0d5hsyg9e55m4ywa69lx6aptajrv2wcx7fusnnj0epkvx7aruulgwcrgh85psgqqqqqqsj62g9k",
+    "timestamp": "1740674969",
+    "date": "2/27/2025, 4:49:29 PM",
+    "id": "1710c9e158e7360be483d190b4f5fe91d8df74a0ca1ac3aa839de43b0b1c68c3",
+    "kind": 1
+  },
+  {
+    "content": "Correct, the subsidy is irrelevant for security budget.",
+    "timestamp": "1740671710",
+    "date": "2/27/2025, 3:55:10 PM",
+    "id": "15524c9aafdccdfaacbbd030539f8d16b92f37f63b622bba4d5039007077b98c",
+    "kind": 1
+  },
+  {
+    "content": "Inflation steals through the backdoor of your labor. \nCold storage is the steel front door protecting your future’s value.",
+    "timestamp": "1740671530",
+    "date": "2/27/2025, 3:52:10 PM",
+    "id": "f8247a382188a83a1fb2a7cd15ba7b7302b78dcfc491fb98d53869d6a1691605",
+    "kind": 1
+  },
+  {
+    "content": "Transaction fees are the only thing that pays for censorship resistance.\nBecause the censor doesnt earn the fee of that transaction, but his competition does.",
+    "timestamp": "1740671412",
+    "date": "2/27/2025, 3:50:12 PM",
+    "id": "fd000d62fe23c83df3a11f527e3ddb0968323eff9c8db464788bed4cad424396",
+    "kind": 1
+  },
+  {
+    "content": "Your style keeps getting better and better!\nStill similar to the first videos I saw, but now a lot more refined.\nKeep it up!",
+    "timestamp": "1740669924",
+    "date": "2/27/2025, 3:25:24 PM",
+    "id": "64778b68a4dafc2dd1b1f9ff7656b948e8c281188a71ee97f508ef1d90613c2b",
+    "kind": 1
+  },
+  {
+    "content": "Building freedom tech.",
+    "timestamp": "1740665304",
+    "date": "2/27/2025, 2:08:24 PM",
+    "id": "f0250e96b6b5d56f288408afbf091d1d9f129091d81b9957d4b28479dd10f3a5",
+    "kind": 1
+  },
+  {
+    "content": "For those podcast OGs missing fully noded, it's kinda back!\n\nnostr:nevent1qqsygrpkprdtyhtahn26egf9cv2y0xzuaccn2txyw8038x7f4xwjpgspzdmhxue69uhhwmm59e6hg7r09ehkuef0qgs8pvzl39y6h730jnctmfvhrgsj8y2v6wlhqry8juh9dkjvuj8u9psrqsqqqqqpv250sf",
+    "timestamp": "1740664937",
+    "date": "2/27/2025, 2:02:17 PM",
+    "id": "3d76b51abb787494a4166b1647cdd6b3ed0318e9d590932da96ee2d220be6283",
+    "kind": 1
+  },
+  {
+    "content": "The Reorg, Episode 3: nostr:nprofile1qqstn8du5qvy5vkw2kgyevn8kghyxjpre9l5rrekmt6a9hlsm4a4cfcvh2khc joins nostr:nprofile1qqsf272yfpfzyypcmjarg5fz27mx58rwt0d5xwdk09yzd4qzfvlye6guv4mtx to discuss his 2013 article \"The Bitcoin Central Bank's Perfect Monetary Policy.\"\n\nLinks below.\n\nhttps://youtu.be/NA_j02yMx4Y",
+    "timestamp": "1740664896",
+    "date": "2/27/2025, 2:01:36 PM",
+    "id": "d19bb5176b17ba06399e69f2ca4b91fb3a250facb7b24b595c3d6f76ae48e92a",
+    "kind": 6
+  },
+  {
+    "content": "Its a seriously important problem that needs to be fixed...",
+    "timestamp": "1740663585",
+    "date": "2/27/2025, 1:39:45 PM",
+    "id": "bf03c2675ef7eb6bcc684eb5ea409f9b344c8c70362326e0033e9604bea74064",
+    "kind": 1
+  },
+  {
+    "content": "Weak men hate money because it mirrors their inadequacy. Strong men respect it as a scoreboard of value creation. Bitcoin is the strong’s ledger.",
+    "timestamp": "1740661279",
+    "date": "2/27/2025, 1:01:19 PM",
+    "id": "f76b518eac0a60caceccc0154defc372fc8ad88b4807cc334f2ea25e913c9037",
+    "kind": 1
+  },
+  {
+    "content": "Theres no reason to keep either in memory.",
+    "timestamp": "1740661255",
+    "date": "2/27/2025, 1:00:55 PM",
+    "id": "569cfbd81e4098f29b8c0aca890be93d5be48a3492f15104fe19e67c716e7a3a",
+    "kind": 1
+  },
+  {
+    "content": "Capital in production is split between consumption (for creating goods) and reserves (for liquidity).",
+    "timestamp": "1740656082",
+    "date": "2/27/2025, 11:34:42 AM",
+    "id": "2de1a5dbda8dc9101c77aaac84d410b03024b5a994c994d40e4da431261f7f8c",
+    "kind": 1
+  },
+  {
+    "content": "I started Abode Kitchen and Home Goods as an avenue to make some side money. \n\nI started small in my local community and have had plenty of satisfied customers because, while I sell mass produced items, I give the experience of buying a custom feel. \n\nI was told to start selling online, that it would expand my business a bunch. So, naturally, I decided to give it a try. \n\nFacebook marketplace helped me grow a TON and I got super excited. The huge push in momentum motivated me to open my sales channels to anything that was available. \n\nEtsy, Ebay, Shopify, and I started offering shipping...\n\nEVERY SITE has suspended me simply because I advertise the fact that I accept bitcoin for payment. \n\nMost websites wouldn't even give me the courtesy of telling me why I was being suspended, they just pulled the plug. \n\nI managed to get Facebook to tell me and luckily, they gave me the opportunity to remove any reference to bitcoin in my item descriptions and let me keep my marketplace presence. I did so begrudgingly and still offer discounts for bitcoin purchases when I meet with my buyers in person. \n\nThis experience really opened my eyes to the potential dependency my company might experience if I grow a large online presence and has highlighted the HUGE importance of Nostr. \n\nPutting your blood and sweat into growing a presence on Nostr is true sovereignty. If my business grows here no one can take it away by simply suspending me without a reason or a chance to rectify whatever it was I might have been doing. \n\nWhile I haven't received an order over nostr yet, I've seen other stores gaining traction here and I can only hope more people grow more comfortable with making purchases over the protocol. \n\nnostr:npub15dc33fyg3cpd9r58vlqge2hh8dy6hkkrjxkhluv2xpyfreqkmsesesyv6e , thank you for the client you are creating. \nnostr:npub1f0e6xymc9hy4wmepa7em60tp8p7s6kgnq53q06grq6n5r0m27l2s6tc5r6 thank you for always shedding light on those nostriches selling over the protocol.\n\nThis thing has to grow.\n\n#GrowNostr it is literally a make or break type of thing!\n\n#CircularEconomy #plebchain \n https://media3.giphy.com/media/iE34wXLdFCo1r6WGgI/giphy.gif?cid=4ea4f8d5ym03fxyinkswiklw1m28192s1ch7f6gdxgcqw6c5&ep=v1_gifs_search&rid=giphy.gif&ct=g\n\n\n",
+    "timestamp": "1740653709",
+    "date": "2/27/2025, 10:55:09 AM",
+    "id": "490922a45036ec043ba0de5f676081bac273ede0eee9b20f70054c318c85dc8c",
+    "kind": 6
+  },
+  {
+    "content": "Solid book!\n\nnostr:nevent1qqs94upxajs2g3swfnuntaeu3w2m94wdpyv5tgascpumg3kmlpl8jdgpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgsglr2necu08pzw7hdujxm8xnxmxyg5x4dkqsaqm3ey4jj2rpnqwjsrqsqqqqqp70kc9x",
+    "timestamp": "1740652862",
+    "date": "2/27/2025, 10:41:02 AM",
+    "id": "8e57ed6c1e15ddd7d1c09162b8da3415bc254d6173f991e18410050ee59784d7",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, that pod was cringe af, so many holes in his reasoning...",
+    "timestamp": "1740652699",
+    "date": "2/27/2025, 10:38:19 AM",
+    "id": "83630891bbed46e56e7f861b54a72ea87c8c706cba76b9dcc24e366f98cf518f",
+    "kind": 1
+  },
+  {
+    "content": "Medieval charter cities operated under separate legal systems within kingdoms. They collapsed due to monarchic centralization. That's a caution for modern enclaves relying on state tolerance.",
+    "timestamp": "1740651488",
+    "date": "2/27/2025, 10:18:08 AM",
+    "id": "73ad154dd41b888d0e57e413495d68d858a2582b660e7b9a052161fe3d3b5fd2",
+    "kind": 1
+  },
+  {
+    "content": "TollGate has a beautiful website now thanks to nostr:nprofile1qqs9pq5cgjq08vncjxzq5gph2ynnj9yk0rhu9tycrj5v6qtdqgcyalgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9thwden5te0v4jx2m3wdehhxarj9ekxzmnyqyxhwumn8ghj7mn0wvhxcmmvwk2ewl!\n\nhttps://tollgate.me/\n\nThe new modular nostr based architecture is also progressing rapidly thanks to nostr:nprofile1qqsthdwa5rs42euhnuz5xsrmmssr84hshwes7uj392vpeldj7z0zw3cppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qg3waehxw309ahx7um5wgh8w6twv5hsef7u3d and nostr:nprofile1qqs2nprlh3rtdsgfwyg7mmsjxkjzr7msjj3achku5fjppu0qf4ae70gppemhxue69uhkummn9ekx7mp0qydhwumn8ghj7mn0wd68ytn0wfskuem9wp5kcmpwv3jhvtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsftzpkd. \n\nStay tuned for a big release with an app that handles the interaction with TollGates on your behalf and a modular nostr based architecture that runs on your TollGate. \n\n",
+    "timestamp": "1740644014",
+    "date": "2/27/2025, 8:13:34 AM",
+    "id": "2284a1c78a02173fb8453e06d37bb49a747b0c42218372d8aa618f92474cb151",
+    "kind": 6
+  },
+  {
+    "content": "Did you consider switching your operating system from windows to linux?",
+    "timestamp": "1740643414",
+    "date": "2/27/2025, 8:03:34 AM",
+    "id": "457159a5adc02b7d67ed44ecd64839fc986bd268d39bfb4a02a6d20baa18d435",
+    "kind": 1
+  },
+  {
+    "content": "Maybe the payment for the transport is only released when the package is successfully received by the next node, and with a slashing of stake in the case it is not.",
+    "timestamp": "1740643356",
+    "date": "2/27/2025, 8:02:36 AM",
+    "id": "52aeebb049bc97cad7950b4722932e5695d6b47e77aa23562b8c284be0213668",
+    "kind": 1
+  },
+  {
+    "content": "You can just read cryptoeconomics...\nvoskuil.org/cryptoeconomics \n\nBut the pod goes into a lot of libbitcoin details that aren't in the book.",
+    "timestamp": "1740640619",
+    "date": "2/27/2025, 7:16:59 AM",
+    "id": "8d0c234439ae9bbf83580940c743ef2dcc8116d66ac398687375e7ee2607001c",
+    "kind": 1
+  },
+  {
+    "content": "Undeniably the best podcast episode I've heard in years. Letting Eric unleash his endless rants is a masterstroke, this one is full with brilliant insights.\n\nnostr:nevent1qqswfkxz6u2fr7avprn7lahcpa3tdyny34qph4agvjm8ns5djqh26sgppemhxue69uhkummn9ekx7mp0qgs9qp2dql3vmuetzq6hw77eeaeej2j2ughers22wch0m2jm7c05w4grqsqqqqqpqhfemy",
+    "timestamp": "1740640329",
+    "date": "2/27/2025, 7:12:09 AM",
+    "id": "20407dbb8e3fa11151514960c7474c7be86a31b75a2af705ea313d294e764595",
+    "kind": 1
+  },
+  {
+    "content": "gm, keep nostr weird\n\nThat's how I would explain the podcast with  nostr:nprofile1q9n8wumn8ghj7enfd36x2u3wdehhxarj9emkjmn99ah8qatzx9kx2mrtdqeks6rcwuukserhd33hq6ekwyuhgvrcwsukvdme0fjnq7fsdeuxz7nk0fck5mtjv5ehqwfc0qehxargddm8j73lvfex7ctyvdshxapaw3e82egpp4mhxue69uhkummn9ekx7mqqyrl8767x7uecka4mlqxmgq4duev48cst9u37vm5fsgztv0xyy5u6xs34wwg  if I were forced to use one sentence. We talked about heydays of Twitter bans, contributing to Bitcoin, Nostr weirdness (hello  nostr:nprofile1qyxhwumn8ghj7mn0wvhxcmmvqyw8wumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctvqqswpadlfxyehp8334vt3ags7df2y63r0yaj67p6efhhsze6n8hlt2g8td943 ) & most importantly - how \"no privacy, no freedom\" helps you start living free.\n\nhttps://www.youtube.com/watch?v=UoEcDHEnjRM\n\n As with all my recent podcasts - zapping Nostriches who take time to repost, like & comment on the YouTube video; show love for Max's work and your dearest Uncle.",
+    "timestamp": "1740637472",
+    "date": "2/27/2025, 6:24:32 AM",
+    "id": "8ccb2641779b25df0ef170c933453bb622181a1742dc3f0e3e91299eef11e89c",
+    "kind": 6
+  },
+  {
+    "content": "Let's do one!",
+    "timestamp": "1740637433",
+    "date": "2/27/2025, 6:23:53 AM",
+    "id": "3bc58e33753dbbf9980ae432a8948c542f2ad50f858aab724b30fbf428352275",
+    "kind": 1
+  },
+  {
+    "content": "Multiplying numbers, haha, groundbreaking I know!\nThat gets us zero knowledge verifiers though.\n",
+    "timestamp": "1740637391",
+    "date": "2/27/2025, 6:23:11 AM",
+    "id": "db313e68c3e7e21f2e0e1398f291e4bc777a2119ad0daa5fb70b9a94cbcec53c",
+    "kind": 1
+  },
+  {
+    "content": "Second Realm commerce requires dead-drop logistics: package lockers and anonymous shipping hubs.",
+    "timestamp": "1740637284",
+    "date": "2/27/2025, 6:21:24 AM",
+    "id": "016d4c5e5428f9006227d2087b3c58bb656599696ac2a1b68174f2080ccdd219",
+    "kind": 1
+  },
+  {
     "content": "(I'm not kidding btw, these are real numbers, Core architecture is just bad)",
     "timestamp": "1740595096",
     "date": "2/26/2025, 6:38:16 PM",
