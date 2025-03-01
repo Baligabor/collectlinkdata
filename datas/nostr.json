@@ -1,5 +1,89 @@
 [
   {
+    "content": "The root of production is man’s mind.\nBitcoin is the mind’s money.",
+    "timestamp": "1740764346",
+    "date": "2/28/2025, 5:39:06 PM",
+    "id": "a85260e2ab6b5e39ea2f40fc9383ceb57828f5b2c5c5b3e1dcfc0cc6064c8f93",
+    "kind": 1
+  },
+  {
+    "content": "You can’t erase the reality of shared knowledge.",
+    "timestamp": "1740751535",
+    "date": "2/28/2025, 2:05:35 PM",
+    "id": "2ae8037be77884e2501833c47c694ae6f1364dd67ce27b48e8300363ce360c63",
+    "kind": 1
+  },
+  {
+    "content": "Their white paper looks more like a regular onion router, do you have some resources on how they structure the mixnet?",
+    "timestamp": "1740745337",
+    "date": "2/28/2025, 12:22:17 PM",
+    "id": "fcd121555143f9ca0c815e34cc41c552b9458f2a45da85ec0cb9bc7a1401f668",
+    "kind": 1
+  },
+  {
+    "content": "Moochers want UBI. Bitcoiners want open protocols. One breeds dependence; the other, resilience.",
+    "timestamp": "1740743693",
+    "date": "2/28/2025, 11:54:53 AM",
+    "id": "b5fe3a181c65e644fcb5b6c12e0c227f7729763a6188b59208f2eb164a16f84f",
+    "kind": 1
+  },
+  {
+    "content": "I am sorry to tell you but Bitcoin used as DA layer for rollups could handle ALL Ethereum Rollups of today! \n\nAnd this is WITHOUT Starknet's current compression.\n\nMethodology here: https://github.com/AbdelStark/bitcoin-da-throughput-simulator\n\nTL;DR: Bitcoin as Starknet's Data Layer\nMethodology\n\nAnalyze Starknet-on-Ethereum:\n- Measure L2 transactions and data (state diff) posted to Ethereum.\n- Calculate TPS and data per transaction.\n\nExtrapolate to Bitcoin:\n- Use Bitcoin’s block size (4 MB) and block time (600 seconds).\n- Compute Bitcoin’s data throughput and estimate Starknet TPS.\n\nKey Numbers\n\nStarknet-on-Ethereum over the selected period:\nTPS: ~270.\nData per tx: ~29 bytes.\n\nStarknet-on-Bitcoin (Theoretical):\nBitcoin throughput: ~6,830 bytes/s.\nEstimated TPS: ~235.\n\nConclusion\n\nIf Bitcoin was Starknet’s Data Availability layer, ~235 TPS could be supported, assuming full block usage and efficient state diff compression (~29 bytes/tx). Real-world throughput would be lower due to unrealistic assumptions made here, but you get the point.\n\n#bitcoin #zkrollup #scaling",
+    "timestamp": "1740741413",
+    "date": "2/28/2025, 11:16:53 AM",
+    "id": "a58434872ffee5f5c71eff3338a4ae4ef77c9360e2c11d8aa4b87a7bc7f8270b",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcnv0md0 it seems the revolut workaround is no longer working...",
+    "timestamp": "1740740418",
+    "date": "2/28/2025, 11:00:18 AM",
+    "id": "c335410d54f5acc4b4877edee6037e8b80a29a152fb83965d7cc94075bef459d",
+    "kind": 1
+  },
+  {
+    "content": "Ist dein graphene os up to date?\nDa gabs ein paar workaround in den letzten updates.",
+    "timestamp": "1740738467",
+    "date": "2/28/2025, 10:27:47 AM",
+    "id": "506733740d5efae21be424e7745d49883a2286226287092a1eede717228f91bd",
+    "kind": 1
+  },
+  {
+    "content": "I wonder how the etf outflows affect this metric...",
+    "timestamp": "1740736145",
+    "date": "2/28/2025, 9:49:05 AM",
+    "id": "3f02bb063430e8e95a9c9dfa6ae32bed14133248338d943e7ca31e34ef15d633",
+    "kind": 1
+  },
+  {
+    "content": "List of 21 Futures writers on NOSTR:\n\n nostr:nprofile1qyf8wumn8ghj7ur4wfcxcetsv9njuetnqythwumn8ghj7un9d3shjtnwv46kzmnrv5hxuet5qqsw756zdga5pmx5rqtff0zqjqpvznehagd72zqgs202phzy06vgs5gwchyuh ,  nostr:nprofile1qyx8wumn8ghj7cnjvghxjmcpz4mhxue69uhk2er9dchxummnw3ezumrpdejqqgqr06lp88234g24ndh3h4e6pa4nlnuly6twumvnht7qp62e8tcpms7xj9h9   nostr:nprofile1qyvhwumn8ghj7mrpvfhh2u3wve5kzar2v9nzucm0d5hsz8thwden5te0dehhxarj9eex2mrp0yhx6mmf0fjkutnc09az7qpqcwzduskqu6yuxjs2a75uptj3vzfa84gv5q3xlkcpzs6usjfey24qprpck2 ,  nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpq905c85e2nr25650up3wxjw0hs2arlz9xd4zw02juanaftyag3eyqcsxqwz ,  nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmwdaehgu3wv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhur83xg2   nostr:nprofile1qy2hwumn8ghj7mn0wd68yetvd96x2uewdaexwqg5waehxw309aex2mrp0yhxgctdw4eju6t0qqsf9jl9scw0c5snmkylpfhkppzgd7z7dupul6ms5yl52kfcz9jr8wq2rhjlc ,  nostr:nprofile1qythwumn8ghj7ct59ehx7um5wfmk7untwvhxxmmdqyx8wumn8ghj7cnjvghxjmcqyr32j578kmtw02sezta95rrjuh27782wsv3axrv47wgdqgf2fl4skz76plz ,  nostr:nprofile1qythwumn8ghj7ct5d3shxtnwdaehgu3wd3skuep0qyg8wumn8ghj7efwdehhxtnvdakz7qpqcp0eqtakqgwckx6eax9uwtmrz9pdh2thcgu2l3lhnedyztm0ahuslc3yl4 ,  nostr:nprofile1qyw8wumn8ghj7cn5vdcxz7fwdd6kk6mn9ehhyee0dehhxarjqyt8wumn8ghj7mn0wd68ytn8v46xwmr99ehhyecqyzkq6fuyyefxph334wr0enetjvw8yzcjwgh0t9sw397utfg343rlwfkgjtz   nostr:nprofile1qyt8wumn8ghj7etyv4hzumn0wd68ytnvv9hxgtcpr3mhxue69uhkummnw3ez6ur4vgh8xetdd9ek7mpwv3jhvtcqyp8kw2pqn6fzlnek87jayrchk8qkevks5m2yaksz7t08xrys0cc9g87ve7r   nostr:nprofile1qywhwumn8ghj7mn0wd68yttsw43zuam9d3kx7unyv4ezumn9wsq36amnwvaz7tmwdaehgu3dwfjkccte9emkcann9eehqctrv5ysqg8cqrmp72s52qm2qeya25xyqt7aq4wq00psv0hfxcqk0asyjnpx0vew9z6w   nostr:nprofile1qyv8wumn8ghj7erpd46hxtnjv4kxz7fwvdjkuar9wgqs7amnwvaz7tm99ehx7uewd3hkcqpqcnelqc62s2g8s0zx0v5c86zkulgh38kwy4xg0txekrpacga629ysaamv9l   nostr:nprofile1qyt8wumn8ghj7cmp9eex2mrp09skymr99ehhyecpr3mhxue69uhkummnw3ez6an9wf5kvtnnd3hhg6re9emkjmsqyrz2y4juuy0kvpg2896x0q6mjuf2cv7ydufuung0drw3sef6w46rwn7d9vt   nostr:nprofile1qy2hwumn8ghj7mn0wd68yetvd96x2uewdaexwqgewaehxw309ac8yetdd96k6tnswf5k6ctv9ehx2ap0qqs80hyjufffxxvmqkln0mcgn7vcgdeks3grrv9v34hlvpf3qdvj2wq7xyp8u   nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgmwaehxw309ahx7um5wgkhqatz9eek2mtfwdhkctnyv4mqqg8r5ax7x2kjaf0d9cvr6flvcaz4t3da8ldnmfcveue2e8ax0sj37gw77xn0   nostr:nprofile1qythwumn8ghj7ct5d3shxtnwdaehgu3wd3skuep0qyt8wumn8ghj7etyv4hzumn0wd68ytnvv9hxgtcqyqeqjtkp5fvvnukpr2d9hdfmzf72yz2p7xqrm4lkw9g9pluwnlgn5679r35 \n\nLet's chat, follow each other and keep our community strong.\n🦍🦍🦍\n\n  https://m.primal.net/POTg.png \n\nWant to discuss freedom fiction, sci-fi, and writing?\n\nJoin our Telegram group: \nhttps://t.me/+9VjT18lr3mRkYTg8\n\n#fiction #writestr #writers #authors #scifi",
+    "timestamp": "1740734683",
+    "date": "2/28/2025, 9:24:43 AM",
+    "id": "928a34cbb8e78e6ca6cc57ab5c59d20a743b30b00faeb73c81edaf8dadc21205",
+    "kind": 6
+  },
+  {
+    "content": "Inflation rewards debtors. Deflation rewards savers. Bitcoin is the savers’ revolt—a strike against the cult of consumption.",
+    "timestamp": "1740732446",
+    "date": "2/28/2025, 8:47:26 AM",
+    "id": "5d4bf32c4fb26c1daa37bfaa2be7d64a731d422a4cda565006006624a968e891",
+    "kind": 1
+  },
+  {
+    "content": "Your own relay is the testnet!",
+    "timestamp": "1740723736",
+    "date": "2/28/2025, 6:22:16 AM",
+    "id": "893e0480fd97913934e87e3516910fe4b5ebbcadc3c559dc6e02472718b9c1bb",
+    "kind": 1
+  },
+  {
+    "content": "Consumption that results in the creation of an economic good is effectively production. Otherwise, it is either leisure or waste, depending on the outcome.",
+    "timestamp": "1740723657",
+    "date": "2/28/2025, 6:20:57 AM",
+    "id": "38e9ccb5a3216cf48de22b72634c8b5c8b4808d3690a5158772ba5effc11e071",
+    "kind": 1
+  },
+  {
     "content": "I like the recent long rips of nostr:nprofile1qqs9qp2dql3vmuetzq6hw77eeaeej2j2ughers22wch0m2jm7c05w4g7fd4xj",
     "timestamp": "1740689693",
     "date": "2/27/2025, 8:54:53 PM",
