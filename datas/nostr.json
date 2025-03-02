@@ -1,5 +1,61 @@
 [
   {
+    "content": "To trade by means of money is the code of the men of good will.",
+    "timestamp": "1740836232",
+    "date": "3/1/2025, 1:37:12 PM",
+    "id": "3922418ce85e115563c8ec28d5e72664a80855ad04364479604bd029d4f51376",
+    "kind": 1
+  },
+  {
+    "content": "Praxeology 101: Humans act. \nBitcoin rewards action—mining, saving, building—not whining for handouts.",
+    "timestamp": "1740831203",
+    "date": "3/1/2025, 12:13:23 PM",
+    "id": "bfaa3767e8a803459a01e3d4e7f7414ef9935f5572086a6be9bd9308350e6e98",
+    "kind": 1
+  },
+  {
+    "content": "Solid work guys!",
+    "timestamp": "1740829309",
+    "date": "3/1/2025, 11:41:49 AM",
+    "id": "b287a59fb3cfc9aeb64791c1cc4789f8ca31d44061d4aaa9ef61666940d2d3ab",
+    "kind": 1
+  },
+  {
+    "content": "Amnesty International’s Security Lab has a post about 3 vulnerabilities exploited by Cellebrite to extract data from locked Android devices. #GrapheneOS blocked exploiting these vulnerabilities in multiple different ways. We also patched them much earlier.\n\nhttps://securitylab.amnesty.org/latest/2025/02/cellebrite-zero-day-exploit-used-to-target-phone-of-serbian-student-activist/\n\nEach of these is an upstream Linux kernel vulnerability:\n\n* CVE-2024-53104: heap overflow in a Linux kernel USB webcam driver\n* CVE-2024-53197: heap overflow in a Linux kernel USB sound card driver\n* CVE-2024-50302: uninitialized heap memory in a Linux kernel USB touchpad driver\n\nGrapheneOS blocks reaching any of these vulnerabilities for locked devices through our USB-C port and pogo pins control feature disabling new connections at a hardware level and a software level after locking along with disabling USB data in hardware too:\n\nhttps://grapheneos.org/features#usb-c-port-and-pogo-pins-control\n\nCVE-2024-50302 is benign on GrapheneOS. For both the kernel and the rest of the OS, we use the combination of use zero-on-free and either zero-on-allocate or a write-after-free check at allocation time. On devices with hardware memory tagging (MTE), it's done as part of tagging.\n\nCVE-2024-53104 and CVE-2024-53197 are both kernel heap overflows in slab allocations. We provide improved defenses against these attacks in multiple ways covered in the kernel section at https://grapheneos.org/features#exploit-mitigations. Our defenses in userspace are far stronger due to hardened_malloc.\n\nWe recently enabled hardware memory tagging (MTE) for Linux kernel after over a year of deploying it for userspace via hardened_malloc. It provides an approximation of memory safety which can be improved over time. It requires hardware support exclusive to 8th/9th gen Pixels.\n\nGrapheneOS shipped patches for these 3 vulnerabilities significantly before the stock Pixel OS or inclusion in an Android Security Bulletin through shipping the latest Linux kernel GKI LTS releases. However, what really matters is we prevented them being used before discovery.\n\nWe have a recent post at https://grapheneos.social/@GrapheneOS/113961075324902277 covering how we've significantly improved our defenses against forensic data extraction since January 2024. It covers a lot more than what we talked about here and we recommend reading it along with our features page covering more.",
+    "timestamp": "1740829285",
+    "date": "3/1/2025, 11:41:25 AM",
+    "id": "af4a4b82d133606eec93ef6e997e3d1200a3c9613b3321b26fb0887a7ccf15dc",
+    "kind": 6
+  },
+  {
+    "content": "Money is the barometer of a society’s virtue. Hyperbitcoinization will be the greatest moral awakening since the industrial revolution.",
+    "timestamp": "1740824154",
+    "date": "3/1/2025, 10:15:54 AM",
+    "id": "9706f7bd904d347c66d5dc797009a1f323827ad82a8d9e3feb6c750d416cdc7e",
+    "kind": 1
+  },
+  {
+    "content": "How many lines of F# is that?",
+    "timestamp": "1740821511",
+    "date": "3/1/2025, 9:31:51 AM",
+    "id": "962c16224abfcf376931253c1c20addc6e851193b717d9afc24b9fd72db0b9f6",
+    "kind": 1
+  },
+  {
+    "content": "I've just pushed a new toy:\nhttps://github.com/lontivero/Explora\n\nhttps://image.nostr.build/6efba9c8bec29f9c4e70795efbf41ce3d9bb5f390f0764101c53096708c9b743.jpg\n",
+    "timestamp": "1740821421",
+    "date": "3/1/2025, 9:30:21 AM",
+    "id": "9fd6ba1b32272b9192df139b595ec132027b46221b1222977cbbf773ed4fed86",
+    "kind": 6
+  },
+  {
+    "content": "Money is a living power that dies without its root. \nFiat’s root? Violence. \nBitcoin’s? Energy and math.",
+    "timestamp": "1740816314",
+    "date": "3/1/2025, 8:05:14 AM",
+    "id": "4b435ea146bba647ab849c8fba47c1eb10cf2061b5260d4070b67cdb994bb914",
+    "kind": 1
+  },
+  {
     "content": "The root of production is man’s mind.\nBitcoin is the mind’s money.",
     "timestamp": "1740764346",
     "date": "2/28/2025, 5:39:06 PM",
