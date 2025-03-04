@@ -1,5 +1,173 @@
 [
   {
+    "content": "Humanity transformed rocks into microprocessors.",
+    "timestamp": "1741037197",
+    "date": "3/3/2025, 9:26:37 PM",
+    "id": "71cc418311bf4f3b7d144badc3ee6d1892e48ccf55db988919487aca9899ae49",
+    "kind": 1
+  },
+  {
+    "content": "Thanks, looking forward to the report.",
+    "timestamp": "1741034055",
+    "date": "3/3/2025, 8:34:15 PM",
+    "id": "1bd16717c0762fc9dcd8434ad1c8e28375cd9691d650d14143ad74e0041d274d",
+    "kind": 1
+  },
+  {
+    "content": "Education systems that punish errors train genius-level creators to fear their own minds.",
+    "timestamp": "1741020792",
+    "date": "3/3/2025, 4:53:12 PM",
+    "id": "37603131758667a4f4cce4db1163741ed5dc7e645ff6b64c8226e77c9d9a0d9b",
+    "kind": 1
+  },
+  {
+    "content": "Yes please!",
+    "timestamp": "1741012893",
+    "date": "3/3/2025, 2:41:33 PM",
+    "id": "e2c76812df7b020f2a0ae78e042bc6904d13a3208b2386c81e5f2e1272e5cf97",
+    "kind": 1
+  },
+  {
+    "content": "Any solid product managers looking for a job?",
+    "timestamp": "1741012761",
+    "date": "3/3/2025, 2:39:21 PM",
+    "id": "b50ad5c584b77b497b66db138bc9f9e601471504937dd138d932a8fc34d1980c",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqst3axzay8sm4n8zg2n84acmt7hwwztpdg9r7p89e2f83v007f7zjcprpmhxue69uhhqun9d45h2mfwwpexjmtpdshxuet5qyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq7lw5g starks to the rescue?",
+    "timestamp": "1741010620",
+    "date": "3/3/2025, 2:03:40 PM",
+    "id": "69c8b90ad7f3e34404418ea80b96bd2086fd97a3f03bbf96ff6b97f80c663bee",
+    "kind": 1
+  },
+  {
+    "content": "🌍  npub.world vs Primal showdown.\n\nWho has the best search?\nhttps://m.primal.net/POgV.mp4 ",
+    "timestamp": "1741010584",
+    "date": "3/3/2025, 2:03:04 PM",
+    "id": "57e1cf4a9df1eaf62f375b6c680d5dae578cd97290d9528d3d342d2da19e9671",
+    "kind": 6
+  },
+  {
+    "content": "we're alchemists of the digital age",
+    "timestamp": "1741010043",
+    "date": "3/3/2025, 1:54:03 PM",
+    "id": "de4d5e8d0fa7d73dab64b89b1a30aa7a2d251b14a65cc6592aa86d96c892986d",
+    "kind": 1
+  },
+  {
+    "content": "Code doesn’t discriminate; states do.",
+    "timestamp": "1741001858",
+    "date": "3/3/2025, 11:37:38 AM",
+    "id": "1728ed2b2d9e60a7a077679c5b8d7273502d55f5545d51af372933c5afad34f2",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsd4dkxqewy8xum47ctpu0ltgxxsfemeewpjkdyzk9ddfcg286s0dsppemhxue69uhkummn9ekx7mp0qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uq36amnwvaz7tmwdaehgu3wvduhq6r9wfc82mnt9e6x7erp0yhs4deh46 has a similar tool",
+    "timestamp": "1741001198",
+    "date": "3/3/2025, 11:26:38 AM",
+    "id": "1be7deaa0b50978520692eee081763a1c601de276d34a709be0cb24ff7672c4f",
+    "kind": 1
+  },
+  {
+    "content": "Massive fomo of #SEC04\nnostr:nprofile1qqsg8kve59yxyhpa9wupntesvnq0dgfd0k5g769jc6fzrua8gct36xgpzpmhxue69uhkumewwd68ytnrwghszxthwden5te0wfjkccte9eekummjwsh8xmmrd9skctcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsq53ra5",
+    "timestamp": "1741000340",
+    "date": "3/3/2025, 11:12:20 AM",
+    "id": "ca8b17187116ac9c35571ee8bc7432b721b1b75f8e8ef840e051d46eca0e9665",
+    "kind": 1
+  },
+  {
+    "content": "Very interesting, thanks a lot!",
+    "timestamp": "1740999393",
+    "date": "3/3/2025, 10:56:33 AM",
+    "id": "9cd979d771843c4d5305c23c4ffead7bfd83cd9fc2ce2327a9f20fe8416a8b48",
+    "kind": 1
+  },
+  {
+    "content": "I'm still wondering if it's possible to just remember the last known location, and assume the phone didn't move too far since last use. This should decrease loading time substantially in most cases, even in full offline mode.",
+    "timestamp": "1740999369",
+    "date": "3/3/2025, 10:56:09 AM",
+    "id": "ba4b5034d59b21a6f96a027f40dbe6f09af1e516cf56dbdafdaa8886c6924c1d",
+    "kind": 1
+  },
+  {
+    "content": "Thanks.\nBut even if its local, in airplane mode / no WiFi, how would it know which networks are closeby?",
+    "timestamp": "1740997785",
+    "date": "3/3/2025, 10:29:45 AM",
+    "id": "87c2c99c81a310d671eddd39a90d2c767d554308162441f6217c57a216c5d5f1",
+    "kind": 1
+  },
+  {
+    "content": "Musig is not cross input signature aggregation.\n\nMusig/Frost collapses a multisig to a sinhle sig.\nHowever each input still must have a signature.",
+    "timestamp": "1740989448",
+    "date": "3/3/2025, 8:10:48 AM",
+    "id": "ccad532b03351ea7fc311d2092ee4c79675ec8aa354e04dbea4a89bd5bb2323f",
+    "kind": 1
+  },
+  {
+    "content": "Thanks for trying, you got this!\nWhat's the problem?",
+    "timestamp": "1740988847",
+    "date": "3/3/2025, 8:00:47 AM",
+    "id": "981cf71b2d99c143d52d53e3c6947077f7d9918030a1c56a2ab3bb8341e82788",
+    "kind": 1
+  },
+  {
+    "content": "Does this work, even when the phone is in airplane mode with WiFi off?",
+    "timestamp": "1740988642",
+    "date": "3/3/2025, 7:57:22 AM",
+    "id": "81cb1e650a0419e91ee25dd4809a7df899262cc87587ec1d9239771d930a2f8f",
+    "kind": 1
+  },
+  {
+    "content": "State counter-strategy: Flood Second Realm with fake privacy tools. Defense requires open-source audits, reproducible builds.",
+    "timestamp": "1740988315",
+    "date": "3/3/2025, 7:51:55 AM",
+    "id": "9174f7417063679eba1cd8c3907878ca6ccd0249d306ec1c577ccfe8cbac1acd",
+    "kind": 1
+  },
+  {
+    "content": "The Fed sees your labor as collateral to be leveraged. \n\nBitcoiners see their labor as equity to be sovereignly guarded.",
+    "timestamp": "1740951242",
+    "date": "3/2/2025, 9:34:02 PM",
+    "id": "93a6dbe217776ffe5a29f95804bed6031be10f6a01a8cc9ce15a448895532550",
+    "kind": 1
+  },
+  {
+    "content": "The cypherpunk dream: A world where money flows like encrypted packets - immune to gatekeepers, bound only by mathematical truth.",
+    "timestamp": "1740945471",
+    "date": "3/2/2025, 7:57:51 PM",
+    "id": "d185218c16c899dda23236fb2f1febbe35a431633dce510f2a609f9e1da49bbc",
+    "kind": 1
+  },
+  {
+    "content": "Both commodity money and Bitcoin eliminate the inflation tax, but they are subject to different feedback mechanisms. Commodity money faces potential monetary inflation, while Bitcoin faces fee pressure as demand increases.",
+    "timestamp": "1740933922",
+    "date": "3/2/2025, 4:45:22 PM",
+    "id": "fa668f07cca59a3b87ec8a9ff70d7d5834595ae831c9fe8289ca2ff94aa0b340",
+    "kind": 1
+  },
+  {
+    "content": "Mainstream adoption of privacy tools complicates state surveillance dragnets. Widespread use forces resource allocation trade-offs, creating cover for high-risk actors.",
+    "timestamp": "1740929471",
+    "date": "3/2/2025, 3:31:11 PM",
+    "id": "a0eb319f1841b66ecde64e8dad15ae28ab48b9e0d4d540aa0bc6b69d3fc487e6",
+    "kind": 1
+  },
+  {
+    "content": "Keet has some serious privacy concerns though.",
+    "timestamp": "1740906382",
+    "date": "3/2/2025, 9:06:22 AM",
+    "id": "54902a269d64443d073ca0eeb2bd5646f928d5bc5b86ba4783908453d0574314",
+    "kind": 1
+  },
+  {
+    "content": "Private groups on Nostr could leverage zk membership proofs. Participants prove they possess invitation tokens or meet access criteria without revealing their Nostr public key, preventing Sybil attacks while maintaining anonymity sets.",
+    "timestamp": "1740901077",
+    "date": "3/2/2025, 7:37:57 AM",
+    "id": "22c077a4525f27e9f7102b27209b1fc40495d1ec731d2949b0106b0447dbf94b",
+    "kind": 1
+  },
+  {
     "content": "To trade by means of money is the code of the men of good will.",
     "timestamp": "1740836232",
     "date": "3/1/2025, 1:37:12 PM",
