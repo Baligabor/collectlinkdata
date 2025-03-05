@@ -1,5 +1,110 @@
 [
   {
+    "content": "Cryptoanarchy’s learning curve includes unlearning dependency. Contracts enforced without courts, dispute resolution without police, identity without bureaucracy. These skills aren’t optional. Mastery demands patience: start small, barter goods, honor agreements. Competence in autonomy is the foundation of sovereignty.",
+    "timestamp": "1741112529",
+    "date": "3/4/2025, 6:22:09 PM",
+    "id": "0d8eb92c193289b0c6835be448cd8ef402f629ce82e343aa5b943ec1c52a2c0a",
+    "kind": 1
+  },
+  {
+    "content": "https://image.nostr.build/870d7f5675aa0139213aa96c5b543b666f065d71918ed6fee7dac9c979cb689f.jpg",
+    "timestamp": "1741101307",
+    "date": "3/4/2025, 3:15:07 PM",
+    "id": "29cf3e438b1cd92ec33e7a17c46b0ddfa4191f7eb194d233d896b70b68c6e44f",
+    "kind": 1
+  },
+  {
+    "content": "So with the arithmetic Opcode's in GSR, how is the size of the proof comparitavely?",
+    "timestamp": "1741100366",
+    "date": "3/4/2025, 2:59:26 PM",
+    "id": "8266c9fd0eb63accba85f242ed98fc4795b158585af61531e72f0fc9ee55b9d2",
+    "kind": 1
+  },
+  {
+    "content": "The Grove City Collage just digitized the personal library of Ludwig von Mises!\nhttps://gcc.historyit.com/public-sites/featured-collection/digital-collection?hsxezn=kezfcv",
+    "timestamp": "1741099754",
+    "date": "3/4/2025, 2:49:14 PM",
+    "id": "b2b3cb911cd9c620029624cef98cdc52b0a159fb9f81177fbc3169fb2a1eaa37",
+    "kind": 1
+  },
+  {
+    "content": "March security bulletin lists 2 vulnerabilities as actively exploited in the wild:\n\nhttps://source.android.com/docs/security/bulletin/2025-03-01\n\nCVE-2024-43093 patch was in Android 15 QPR1 released in December. It's just being backported now.\n\nCVE-2024-50302 doesn't impact GrapheneOS due to our exploit protections.\n\nAndroid Security Bulletins are very commonly misinterpreted as being Android's monthly security patches. They're actually backports of most High and Critical severity patches to older releases of Android: 12, 12L, 13, 14 and 15. Yes, Android 15 is an older release of Android.\n\nCVE-2024-50302 is one of 3 vulnerabilities which Amnesty International recently found being exploited by Cellebrite. This one was fully eliminated as a bug in GrapheneOS through zeroing. Separately from that, our USB-C port control blocked reaching any of the 3 bugs while locked.\n\nFor more details on the 3 Linux kernel USB bugs exploited by Cellebrite, see the previous thread on the socials. #GrapheneOS blocked reaching all 3 while locked at both a hardware and software level, eliminated one and made the other 2 much harder to exploit even when unlocked.\n\nThey included one in the February security bulletin, another this month and still need to add CVE-2024-53197. We patched all 3 earlier via the kernel.org LTS revisions. Our exploit protections blocking exploiting them prior to patching is the far bigger difference.\n\nMarch security bulletin lists 9 Critical severity Bluetooth vulnerabilities caused by use-after-free bugs. Our hardened_malloc project provides strong protections against exploiting these, especially on Pixel 8 and later where it has very good hardware memory tagging integration.\n\nWhen a memory allocation of 128kiB or below is freed on GrapheneOS, memory tagging gives it a dedicated tag detecting any invalid access. It goes through a random quarantine and first-in-first-out quarantine before reuse. First reuse is guaranteed to use a different random tag.\n\nMemory tagging also zeroes the allocation. On devices without it, we still zero it at free time and then check for the zeroing at allocation time to detect write-after-free and guarantee that fresh allocations are zeroed. With memory tagging, it detects the invalid accesses.\n\nAfter a memory allocation is freed, goes through both quarantines, is allocated again, freed again, goes through both quarantines and is allocated again there's still a 14/15 chance for the random tag to detect an invalid memory access. Attackers also usually need to chain bugs.\n\nGrapheneOS users have been regularly finding obscure Bluetooth memory corruption bugs with specific accessories. We generate user-facing notifications for MTE detecting invalid accesses for users to report to us and app devs. We can likely close several more of those issues now.\n\nWe've actually had these Critical severity Bluetooth patches backported for a month already:\n\nhttps://github.com/GrapheneOS/platform_packages_modules_Bluetooth/commits/69d9332c8d7097ecece3b94bcd506739e4e5a54b/\n\nGood news is that we've already had those patches for a month. Bad news is it's not the reason for the remaining issues being caught by MTE, will need more work.\n\n\"Fix UAF in sdp_discovery.cc\" patch was included upstream previously, it's just a backport. The others we applied ourselves last month. They weren't listed in the bulletin or included in the monthly update but they were published and they did fix some issues we'd caught with MTE.\n\nnostr:nevent1qqszrwjpzt7fmsm6c44l8av8z27q7g3gl24m2w2583ntsjg8znnngvcpz4mhxue69uhkummnw3ezummcw3ezuer9wchsyg9e3hk5e6h2ypusm09ncv2qq6fqp8f5clueylpgdq66nxm5sxjuygpsgqqqqqqsqe56vq",
+    "timestamp": "1741095694",
+    "date": "3/4/2025, 1:41:34 PM",
+    "id": "f5f1d2f5674ecdebe8bfb889f2adab5b9cccc6b4cc0acc61a95fa456ed0a5098",
+    "kind": 6
+  },
+  {
+    "content": "It doesnt have the concept of the utxo set or the mempool in memory, just a database of transactions where confirmation status is only one field.\n\nIt's also multi CPU core, but I'm not sure how this relates to your question...",
+    "timestamp": "1741094348",
+    "date": "3/4/2025, 1:19:08 PM",
+    "id": "415bc65639ea5eebc734bbc8677e48ebedd1056e3c24015098fd5f29c3d603c5",
+    "kind": 1
+  },
+  {
+    "content": "And can the Mersenne prime be used to generate *zk* starks?",
+    "timestamp": "1741094147",
+    "date": "3/4/2025, 1:15:47 PM",
+    "id": "f95bced68da1076cacd019b0013756aae65b5fa19188355cf41687df7b481414",
+    "kind": 1
+  },
+  {
+    "content": "How does it compare to the great script restoration?",
+    "timestamp": "1741093648",
+    "date": "3/4/2025, 1:07:28 PM",
+    "id": "4225121471b8e4ca0d39a57dbf3f43bdabb5516c375af02e955c429a92dff02d",
+    "kind": 1
+  },
+  {
+    "content": "What about M31 arithmetic opcodes for efficient STARK verification on Bitcoin ?\nIdea: OP_M31ADD, OP_M31SUB, OP_M31MUL, OP_M31INV  operating over the M31 Mersenne prime field.\nOP_CAT too generic ? OP_STARK_VERIFY too narrow ? This is something in between.\n\nhttps://hackmd.io/@abdelhamid/m31-opcodes-bitcoin-stark\n\n#bitcoin #starks #zkp",
+    "timestamp": "1741093605",
+    "date": "3/4/2025, 1:06:45 PM",
+    "id": "51ce1dfdab741f72152c8e300ef8945f385c7399f12b7185e205b50eedd25812",
+    "kind": 6
+  },
+  {
+    "content": "Curious, what are your thoughts on libbitcoin nowadays? It's designed to address this and other architectural flaws of core.",
+    "timestamp": "1741093358",
+    "date": "3/4/2025, 1:02:38 PM",
+    "id": "6b37a2f5e5e19cd0b1c2c10a4f082122c66a12223a865d3e5f57323ceb26d41e",
+    "kind": 1
+  },
+  {
+    "content": "All producers consume, and all consumers produce in some capacity. The difference lies in whether the consumption or production creates economic value or leads to waste.",
+    "timestamp": "1741089065",
+    "date": "3/4/2025, 11:51:05 AM",
+    "id": "617e119382eea4fa1ae203f0b8550ecc297493660e7c5b492af103eb49aa0873",
+    "kind": 1
+  },
+  {
+    "content": "That's a cool use case!",
+    "timestamp": "1741075965",
+    "date": "3/4/2025, 8:12:45 AM",
+    "id": "206f871285c0712ff615a1f8758d77687a66622f765a34356da22744ae752516",
+    "kind": 1
+  },
+  {
+    "content": "Could be an option.\nWe started some experiments to see how starks could be useful for Nostr.\nRight now we are focused on delegate signature aggregation verification.\n\nhttps://github.com/keep-starknet-strange/starkstr",
+    "timestamp": "1741075738",
+    "date": "3/4/2025, 8:08:58 AM",
+    "id": "e5189abb3f4a9d98e794fc32f88c7b2f612a6d6ca2a687b4f24b7bd4ba077181",
+    "kind": 6
+  },
+  {
+    "content": "its mainly that the peers learn your IP address.\nThis can partially be addressed with a VPN or Tor, but I'm not sure how sophisticated network layer identity management could work, like a new IP for each group etc.",
+    "timestamp": "1741072326",
+    "date": "3/4/2025, 7:12:06 AM",
+    "id": "e81d27bf7984ef050a7e95d0cf414c47f8e3af5bdbe79e6a702dcf13fc3214e0",
+    "kind": 1
+  },
+  {
+    "content": "Risk asymmetry favors builders. States expend vast resources crushing dissent, but decentralized cells regenerate. Each failed venture teaches resilience. Losses are localized; successes scale. The cost of suppressing 1,000 autonomous projects exceeds their benefit to rulers. Outproduce their capacity to retaliate.",
+    "timestamp": "1741069765",
+    "date": "3/4/2025, 6:29:25 AM",
+    "id": "dc0264cef47d5ca0819fae928e7e47bdafdd51cfd8d1f6b0cd86404ecb79ce56",
+    "kind": 1
+  },
+  {
     "content": "Humanity transformed rocks into microprocessors.",
     "timestamp": "1741037197",
     "date": "3/3/2025, 9:26:37 PM",
