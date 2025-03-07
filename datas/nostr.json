@@ -1,5 +1,103 @@
 [
   {
+    "content": "Your laws are chains. Your taxes are theft. Your borders are illusions. We step beyond them, into a world of voluntary bonds.",
+    "timestamp": "1741292139",
+    "date": "3/6/2025, 8:15:39 PM",
+    "id": "8479ea3212b97b7ebc13ed6c0249689d5533779bf021969865e874f4e840b7e6",
+    "kind": 1
+  },
+  {
+    "content": "Privacy tools must be woven into society’s fabric, not imposed by force or authority.",
+    "timestamp": "1741286853",
+    "date": "3/6/2025, 6:47:33 PM",
+    "id": "aab0ad45e39d153c80ddf0180bdb2928f44b8cc053e668377319dcb2905f6c20",
+    "kind": 1
+  },
+  {
+    "content": "Enlightening chat about praxeology, freedom tech, and financial dystopia with cypherpunk gentleman  nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmwdaehgu3wv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhur83xg2 \n\nhttps://youtu.be/nXC0llyWzFs?feature=shared\n\nRead Max's story 'Underworld' in the anthology - out next week!\n\npreorder at 21futures.com/shop\n\n#cypherpunk #nostronly #freedom #dystopia",
+    "timestamp": "1741286830",
+    "date": "3/6/2025, 6:47:10 PM",
+    "id": "a8bbdaa6f667c23aadfbe0b6a3938a8ef6796a9055dc7220570e1450138fe720",
+    "kind": 6
+  },
+  {
+    "content": "Every interaction leaks data. Minimize it by design to protect autonomy.",
+    "timestamp": "1741277102",
+    "date": "3/6/2025, 4:05:02 PM",
+    "id": "11d26c754bb15402c568ae9764ebc59b9375c660790bdda2fd83f7af98d88294",
+    "kind": 1
+  },
+  {
+    "content": "So, what's the best protocol for Bitcoin inheritance?",
+    "timestamp": "1741266583",
+    "date": "3/6/2025, 1:09:43 PM",
+    "id": "7738b3202f37f5bfc84a8804ba474b5fdbd53fa601eafc6ff215ec9fbe21c5fe",
+    "kind": 1
+  },
+  {
+    "content": "I hear noone complaining for another marathon with him...",
+    "timestamp": "1741258997",
+    "date": "3/6/2025, 11:03:17 AM",
+    "id": "acbcf771e2ef69c6f7b4f6bfa9eb8fe3a7aa7a3a93a768eca9e386aa66a68a05",
+    "kind": 1
+  },
+  {
+    "content": "Cryptography is so cool...",
+    "timestamp": "1741258901",
+    "date": "3/6/2025, 11:01:41 AM",
+    "id": "57f0bfe1088eb9e28ca11c1dceb34118f1a938836f7891393bc2b09bb56486c8",
+    "kind": 1
+  },
+  {
+    "content": "You can make it work. It requires some UX finesse. You have to sort of “prepare” the silent payment address by getting a threshold of frost signers to do partial Diffie-Hellman and give the result to the coordinator. From there the coordinator can instantiate the silent payment outputs without the signers but it needs to be done once for each SP address.\n\nI think we’re gonna try and hide this behind a kind of “save address” feature which (for security as well) requires you to sign the address with a threshold of devices to associate it with human readable identifier e.g. “Max”. You can slip this crypto in there.",
+    "timestamp": "1741258789",
+    "date": "3/6/2025, 10:59:49 AM",
+    "id": "89b0d3395b354d52976da06306204f56acd3fe5f81785d5a7f1bb847ad8491f7",
+    "kind": 6
+  },
+  {
+    "content": "A competitive market for transaction confirmation emerges from Bitcoin blocks scarcity, financed by demand for transaction settlement.",
+    "timestamp": "1741258760",
+    "date": "3/6/2025, 10:59:20 AM",
+    "id": "2ad2573f14ff4a7e1415b4beb8dd12c01036f5fd1a2ecdff5078cafe941bb435",
+    "kind": 1
+  },
+  {
+    "content": "Does silent payments work with musig/frost?",
+    "timestamp": "1741247695",
+    "date": "3/6/2025, 7:54:55 AM",
+    "id": "7e2654187bf86a56c8a360f749fba75a281a4049cabfb47ce71827d5b8f87c73",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin is money, the most quantifiable good.",
+    "timestamp": "1741246219",
+    "date": "3/6/2025, 7:30:19 AM",
+    "id": "1d1660bf18c8b8a04d79c7d32a1639607bce6b926a1454c958804cd716d60e66",
+    "kind": 1
+  },
+  {
+    "content": "Price is a quantity of money, but price is never the exact value of the individual, it has to be lower than the good traded, otherwise trade wouldn't happen.\n\nThat's why property rights and trade are so important, it gives a cardinal valuation with which we can do math and accounting, whereas this is impossible with subjective valueation alone.",
+    "timestamp": "1741246196",
+    "date": "3/6/2025, 7:29:56 AM",
+    "id": "3c3e2ea343a857ceef914b2295d1a9e8387e235fa86f1a9c07c40bd8247a54a6",
+    "kind": 1
+  },
+  {
+    "content": "loaditfor.me",
+    "timestamp": "1741246046",
+    "date": "3/6/2025, 7:27:26 AM",
+    "id": "6bf8b2033b9aac3b0b234d94b26a0d9f190a4bbe2e7a2f75b3df0146c2ecbfb0",
+    "kind": 6
+  },
+  {
+    "content": "Cultural entrepreneurship isn’t about winning debates. It’s about creating viable alternatives that outcompete legacy systems. The dominant culture will resist—through regulation, coercion, ridicule. Mitigate risks via operational security, but avoid isolation. Resilience comes from interconnected nodes, not fortresses. Survival hinges on producing value others can’t ignore.",
+    "timestamp": "1741244887",
+    "date": "3/6/2025, 7:08:07 AM",
+    "id": "b93303afb8a07c4d41abe0cfdb303cf414bf09bc71e1d6fb0a9f06b9da851f86",
+    "kind": 1
+  },
+  {
     "content": "Utility is ordinal, not cardinal, making it impossible to compare or aggregate preferences coercively.",
     "timestamp": "1741208994",
     "date": "3/5/2025, 9:09:54 PM",
