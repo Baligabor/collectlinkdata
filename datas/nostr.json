@@ -1,5 +1,47 @@
 [
   {
+    "content": "Interesting, thanks!",
+    "timestamp": "1741629157",
+    "date": "3/10/2025, 5:52:37 PM",
+    "id": "4d4b1e2779bf299cf9a5db210029a865467f1254955566fec85784237ca8093f",
+    "kind": 1
+  },
+  {
+    "content": "5G has less insecure authentication and encryption (still absolutely terrible) but 4G is simpler and has less attack surface. 4G is better if talking about avoiding remote exploitation of the operating system. There's tradeoffs to each and one is not objectively better overall and only in certain needs.\n\n4G / LTE only mode existed in GrapheneOS for a while for attack surface reduction to cut attack surface from 2G, 3G and 5G but now 5G only is also available now too. If your carrier doesn't support VoLTE then calls won't work.\n\nPeople with high risk threats shouldnt use the mobile network if they can help it and stick to WiFi. Use Airplane Mode and keep WiFi on if you're on WiFi as most modern carriers still let you call and text through WiFi calling / VoWiFi anyway.",
+    "timestamp": "1741629096",
+    "date": "3/10/2025, 5:51:36 PM",
+    "id": "6ad00369c151ee47b7e1a04516cc635cae0d46a68cf10e6f12e35052deca9eb7",
+    "kind": 6
+  },
+  {
+    "content": "https://plebrap.de/de/Lyrics/Money-Fest-EP/Money-Fest/ 🧡",
+    "timestamp": "1741624115",
+    "date": "3/10/2025, 4:28:35 PM",
+    "id": "164088364016dc1e62c506181a0227da7be9c29398f31e4f58cb9b3d544af43e",
+    "kind": 6
+  },
+  {
+    "content": "What are the security differences between 4G and 5G?\nnostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcnv0md0",
+    "timestamp": "1741611549",
+    "date": "3/10/2025, 12:59:09 PM",
+    "id": "6861b65e50eb741c5c6711f56fa162f1270845524e98306cb642cdd85063aa07",
+    "kind": 1
+  },
+  {
+    "content": "Price controls distort market signals, leading to inefficiencies and shortages, undermining economic stability.",
+    "timestamp": "1741594370",
+    "date": "3/10/2025, 8:12:50 AM",
+    "id": "6b4b29c5b091b655a7348d60059e520dfd1c8240affda5430337a83d16ed7130",
+    "kind": 1
+  },
+  {
+    "content": "The market isn’t a benevolent force—it’s a mechanism that rewards those who produce value. Entrepreneurs, not institutions, drive change. Passive observers remain trapped in systems they critique.",
+    "timestamp": "1741584463",
+    "date": "3/10/2025, 5:27:43 AM",
+    "id": "4f7596f527dff742c1733b9940b7b30ef9d5e2c34f88e18256232dad9795cfe2",
+    "kind": 1
+  },
+  {
     "content": "Screw that, we're fighting.",
     "timestamp": "1741540479",
     "date": "3/9/2025, 5:14:39 PM",
