@@ -1,5 +1,61 @@
 [
   {
+    "content": "Running a node is the modern equivalent of Galt's motor - silent rebellion against stolen valor, powered by the electricity of conviction.",
+    "timestamp": "1741723476",
+    "date": "3/11/2025, 8:04:36 PM",
+    "id": "74c07f3517a3b822519a6f8795ac9f1e32f15e5a5990a1c4428d2a633390aaf8",
+    "kind": 1
+  },
+  {
+    "content": "Sherpa is so far the best text to speech engine I could find for nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43q4gnztg.\n\nhttps://f-droid.org/de/packages/org.woheller69.ttsengine/",
+    "timestamp": "1741718277",
+    "date": "3/11/2025, 6:37:57 PM",
+    "id": "ce70a94d04c266c3b918e5818fdc81784a55021d0b7d244ef992c82c8826d06b",
+    "kind": 1
+  },
+  {
+    "content": "An objective ethics based on human nature supports individual rights and freedoms, opposing state coercion.",
+    "timestamp": "1741716669",
+    "date": "3/11/2025, 6:11:09 PM",
+    "id": "69c19da02ffd6e62f6b06f94430e0cdaf185777122237665d5127856c7da2d54",
+    "kind": 1
+  },
+  {
+    "content": "If the user does not resist the censor, then no technology can provide him censorship resistance.\nSecurity is always a human affair.",
+    "timestamp": "1741716521",
+    "date": "3/11/2025, 6:08:41 PM",
+    "id": "464f8b2456501f668e7b9090b4c63633e8a9672ff1c4935c2d8494ccb52b3273",
+    "kind": 1
+  },
+  {
+    "content": "🇵🇾 We still have active Paraguay hashrate auctions to bid on on the site today! ⛏️\n\nhttps://rigly.io/\n\n https://m.primal.net/PcOZ.png ",
+    "timestamp": "1741715851",
+    "date": "3/11/2025, 5:57:31 PM",
+    "id": "86a69c4ff1fbba760eaec5c476d2ad53368dc433c5873142f36250f1f5ffbb64",
+    "kind": 6
+  },
+  {
+    "content": "Wait, so any debian software can run on android now?!",
+    "timestamp": "1741714721",
+    "date": "3/11/2025, 5:38:41 PM",
+    "id": "e005b71aa5d21ebf598aed6ca19715c96af186cc04c2d4a032528bd21971ebac",
+    "kind": 1
+  },
+  {
+    "content": "Our 2025030900 release currently in the Beta channel is the first one with support for managing hardware-based virtual machines via the Terminal app in Android 15 QPR2. Since then, we've backported massive improvements to the feature for an upcoming new release, maybe even today.\n\nBackports include terminal tabs, GUI support with opt-in GPU hardware acceleration (ANGLE-based VirGL until GPU virtualization support is available), speaker/microphone support and fixes for a bunch of bugs including overly aggressive timeouts. We're working on VPN compatibility.\n\nAt the moment, the Terminal app isn't compatible with having a VPN in the Owner user. It only works if VPN lockdown (leak blocking) is disabled and the VPN allows local traffic to pass through. It's also not clear how it SHOULD interact with a VPN since VPNs are profile-specific. #GrapheneOS",
+    "timestamp": "1741714665",
+    "date": "3/11/2025, 5:37:45 PM",
+    "id": "39b799d888753af4d1f477b4d42db9ad65132d54f50c68a0df0cb31fd6e557b5",
+    "kind": 6
+  },
+  {
+    "content": "If the axiom of resistance is incorrect, Bitcoin's ability to remain permissionless and censorship-resistant is compromised.",
+    "timestamp": "1741680397",
+    "date": "3/11/2025, 8:06:37 AM",
+    "id": "563fbcc94514dee0e2e88cb24c7452edc918aa18db73c4a4375eceac4b5c7bff",
+    "kind": 1
+  },
+  {
     "content": "Interesting, thanks!",
     "timestamp": "1741629157",
     "date": "3/10/2025, 5:52:37 PM",
