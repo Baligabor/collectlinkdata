@@ -1,5 +1,138 @@
 [
   {
+    "content": "War persists because humanity refuses to confront its root causes: fear, envy, greed, tribalism, and sloth. Until we do, bloodshed continues.",
+    "timestamp": "1741807313",
+    "date": "3/12/2025, 7:21:53 PM",
+    "id": "fab799ce594981e1f50a02f270c0d115283622989a1028a9c71a0042d781a823",
+    "kind": 1
+  },
+  {
+    "content": "Would be nice if the client can give some feedback on selected relays.",
+    "timestamp": "1741806340",
+    "date": "3/12/2025, 7:05:40 PM",
+    "id": "a29cfb4c48d39045f206437c928573fce9203b74e2c5b455f63d1a499c43ab11",
+    "kind": 1
+  },
+  {
+    "content": "Sliced bread is a horrible invention.\nIt requires a shit ton of toxic stuff to be added to prevent dry outs.",
+    "timestamp": "1741806101",
+    "date": "3/12/2025, 7:01:41 PM",
+    "id": "7890b6cebae122371d5e3f5e77a73dea80cb5e1c0b2895ecf5a33f3a8654c2ba",
+    "kind": 1
+  },
+  {
+    "content": "- No permissions, isolates PDFs in a sandboxed WebView (no network/files access).  \n- CSP enforces static APK content, blocks fonts.  \n- Memory-safe rendering with disabled code execution.  \n- Exploits confined to Chromium’s limited sandbox, restricting system access.  \n- Reduces risks of code execution, data leaks, or external threats.\n\nhttps://github.com/GrapheneOS/PdfViewer",
+    "timestamp": "1741795948",
+    "date": "3/12/2025, 4:12:28 PM",
+    "id": "8b1ba69546951ca55e0d70d7b6021da8f2f58bf159380a05d10c9dde549bdb53",
+    "kind": 1
+  },
+  {
+    "content": "They just started working on it again, now you can finally zoom in!",
+    "timestamp": "1741795135",
+    "date": "3/12/2025, 3:58:55 PM",
+    "id": "b0308a61d7dd9b0920e38909d082c76315b5b2382341f458d72a189982fb3d0b",
+    "kind": 1
+  },
+  {
+    "content": "Woah that's great!\nIs there an RSS feed?",
+    "timestamp": "1741795066",
+    "date": "3/12/2025, 3:57:46 PM",
+    "id": "ec87e4ec06b82d2fa7ada569f53d314d148dd75b8a68ae3c375f16c7f5189988",
+    "kind": 1
+  },
+  {
+    "content": "Check out the first episode of the Vexl podcast with nostr:npub1n0arukddjfs69cztsqy2qcsllqpzsk3748ccz40p9jrsagsl4hqsv3gvx5  now even on YouTube! 🔥\n\nhttps://www.youtube.com/watch?v=48zlOPHkVTE&feature=youtu.be",
+    "timestamp": "1741795041",
+    "date": "3/12/2025, 3:57:21 PM",
+    "id": "2f1e38fe8a423c1d8521283bbdbec4c3a1c1b12735e9abf68d204ba240602653",
+    "kind": 6
+  },
+  {
+    "content": "Thats  solid title!",
+    "timestamp": "1741794970",
+    "date": "3/12/2025, 3:56:10 PM",
+    "id": "57045c8e0a6fb1216582eac6443471758358fe516f59f0f62e813d9827dd8ede",
+    "kind": 1
+  },
+  {
+    "content": "The nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43q4gnztg PDF viewer is very secure.\n\nIn fact, would I didnt see any native graphene apps in nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0",
+    "timestamp": "1741794051",
+    "date": "3/12/2025, 3:40:51 PM",
+    "id": "6cf7eb9e04f49fb3a9a1737fd63e60fcf71ce75e1508237d7c3c16c392bbcdcc",
+    "kind": 1
+  },
+  {
+    "content": "Nice, glad to hear it got through!",
+    "timestamp": "1741793495",
+    "date": "3/12/2025, 3:31:35 PM",
+    "id": "74f8da35f8e5be25358fcf0288373a5866ae8763df0cadfed26e52f891c2816f",
+    "kind": 1
+  },
+  {
+    "content": "Huge thank you to nostr:nprofile1qqs8suecw4luyht9ekff89x4uacneapk8r5dyk0gmn6uwwurf6u9ruspzpmhxue69uhkumewwd68ytnrwghszxthwden5te0wfjkccte9eekummjwsh8xmmrd9skctcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhs2juazd for approving my grant for Zapstore!\n\nExcited for the year ahead!",
+    "timestamp": "1741793480",
+    "date": "3/12/2025, 3:31:20 PM",
+    "id": "c0fc0527dfa36fe347324f62d8ec231f900f945350f23fe241c386c2c0584dac",
+    "kind": 6
+  },
+  {
+    "content": "Sherpa TTS is on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0\n\nBtw, you can install F-Droid apps from Obtainium",
+    "timestamp": "1741792898",
+    "date": "3/12/2025, 3:21:38 PM",
+    "id": "951edeb279599adada76b1db42669e61827476ee264d704b9eff2e31ae71283f",
+    "kind": 6
+  },
+  {
+    "content": "https://hyperionics.com/atVoice/",
+    "timestamp": "1741791984",
+    "date": "3/12/2025, 3:06:24 PM",
+    "id": "c32f7c6c95b1701fc66499a5cca0229ca2a268326c015c2625356b9812006c66",
+    "kind": 1
+  },
+  {
+    "content": "Cypherpunk Meetup, vol. III? \n\nYes, we're doing it again! Your favorite side event of nostr:nprofile1qqsd0f68dvf98gvs9am9dp0lu0f4r7xzu2k89rm9tt448axf5tu6wlgpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcdgv90x is coming back this June. 🔥\n\nSave the date:\nThursday, June 19th, 6PM, Prague\n\nhttps://image.nostr.build/6b3d978ba46df91bb94969d40575da615dcc1c6cd2a175ba981c29e884e0858c.jpg\n",
+    "timestamp": "1741786079",
+    "date": "3/12/2025, 1:27:59 PM",
+    "id": "4b6a6292c6ebb23beaeebd2af5363d23f014751192084160d028facb9298dc0d",
+    "kind": 6
+  },
+  {
+    "content": "Cultural entrepreneurship faces inertia, not malice. Entrenched systems resist obsolescence.",
+    "timestamp": "1741784862",
+    "date": "3/12/2025, 1:07:42 PM",
+    "id": "141784657afe8474466483200009389e0cd1f2b8a20bf1f60ca63e1ab9183241",
+    "kind": 1
+  },
+  {
+    "content": "Cypherpunk Meetup, vol. III? \n\nYes, we're doing it again! Your favorite side event of nostr:nprofile1qqsd0f68dvf98gvs9am9dp0lu0f4r7xzu2k89rm9tt448axf5tu6wlgpzdmhxue69uhhwmm59e6hg7r09ehkuef05zpgcm is coming back this June. 🔥\n\nSave the date:\nThursday, June 19th, 6PM, Prague\n\nhttps://image.nostr.build/85530cab38a9e15468054da8944990b0577a5ee2f8a61d7015ec22a0f82b8966.jpg",
+    "timestamp": "1741784363",
+    "date": "3/12/2025, 12:59:23 PM",
+    "id": "2cf88e46ce90b8de663badaf0883910a15de84f419e7b1388afabaf96b706d52",
+    "kind": 1
+  },
+  {
+    "content": "Thinking about writing a book on how cryptography might be used to craft a more humane social media ecosystem.\n\nhttps://image.nostr.build/b7623c279e5f664e799a5e4f89d4646bef3884165aa4b66c41b2385bada239eb.jpg\n\nWould you be interested in reading such a thing?",
+    "timestamp": "1741768432",
+    "date": "3/12/2025, 8:33:52 AM",
+    "id": "3f7b6b14892e10378ca50b472a99e43593fe99168aa2d341746d36c37a1dd401",
+    "kind": 6
+  },
+  {
+    "content": "@voice is a semi good reader app, I wish there were a better FOSS alternative.",
+    "timestamp": "1741768126",
+    "date": "3/12/2025, 8:28:46 AM",
+    "id": "faa051aa274ca337c71384cbe68ff77d226ae533b4dcb50c1473eb3580c7acca",
+    "kind": 1
+  },
+  {
+    "content": "The failure of mass movements lies in their reliance on centralized control. Cryptoanarchy’s stagnation isn’t due to flawed ideas but the inertia of collectivist thinking. Hierarchical systems collapse under their own complexity, yet proposed “fixes”—more regulation, oversight—only deepen fragility. True progress requires detangling from monocultures: individual builders creating decentralized alternatives, not petitions to existing power structures. Solutions emerge through competition, not consensus.",
+    "timestamp": "1741756646",
+    "date": "3/12/2025, 5:17:26 AM",
+    "id": "f5c0dde349580f315d894cff5511dd83ba27ac4f6e9d46576c182170e6b74563",
+    "kind": 1
+  },
+  {
     "content": "Running a node is the modern equivalent of Galt's motor - silent rebellion against stolen valor, powered by the electricity of conviction.",
     "timestamp": "1741723476",
     "date": "3/11/2025, 8:04:36 PM",
