@@ -1,5 +1,103 @@
 [
   {
+    "content": "Revolution without philosophy repeats cycles of violence. Toppling a regime changes nothing if the mindset remains.",
+    "timestamp": "1741984985",
+    "date": "3/14/2025, 8:43:05 PM",
+    "id": "9d94aec6c96bf4e5c11135d435087ea60330285002af88f89e2d36627ccf0327",
+    "kind": 1
+  },
+  {
+    "content": "#GrapheneOS version 2025031300 released.\n\nThis release greatly improves the experimental virtual machine management app with many backports from the Android Open Source Project main branch. You'll need to install Android's latest Debian-based image in order to continue using it. You'll be prompted to do this at startup after it fails to start with the old setup with an opportunity to back up the data. The data inside it should continue to be treated as disposable rather than relying on it not losing it from a bug or a backwards incompatible update.\n\n •  Sandboxed Google Play compatibility layer: overhaul our default enabled reimplementation of the Google Play location service (location request rerouting) to provide much better compatibility for apps depending on network-based location by always telling apps that the Google Improve Location Accuracy toggle is enabled and providing fallback to GNSS for low power location requests when the OS network location service is disabled as it is by default (unlike Google Play services, which has no fallback, but apps assume users enable the feature)  \n\n•  fix Storage Scopes related null pointer exception in thl\n\n•  Bluetooth: backport fix for empty adapter name handling in Android 15 QPR2 to avoid crashes when the name is set to an empty value or whitespace  \n\n•  Terminal (virtual machine management app): backport a large set of improvements including terminal tabs, port forwarding, GUI support with opt-in GPU hardware acceleration (ANGLE-based VirGL until GPU virtualization support is available), speaker/microphone support and fixes for a bunch of bugs including overly aggressive timeouts  \n\n•  Settings: add Terminal app toggle to System category when developer options are enabled (requirement will be dropped when it's no longer experimental) so it can be enabled in other users (it's still currently only possible to use 1 instance at a time due to conflicting use of an internal network specific to virtual machine management)  \n\n•  Pixel 8 Pro, Pixel 9 Pro, Pixel 9 Pro XL, Pixel 9 Pro Fold: fix support for enabling UWB (ultra wideband) radio by adding missing SELinux policy to avoid the UWB service chain crashing and burning CPU  \n\n•  kernel (6.1): update to latest GKI LTS branch revision including update to 6.1.130  \n\n•  kernel (6.6): update to latest GKI LTS branch revision including update to 6.6.82  •  Seedvault: update to 15-5.3 (will be replaced with a better backup implementation in the future)  \n\n•  Vanadium: update to version 134.0.6998.95.0\n\n  •  Camera: update to version 83\n\nhttps://grapheneos.org/releases#2025031300",
+    "timestamp": "1741984109",
+    "date": "3/14/2025, 8:28:29 PM",
+    "id": "9aa3434bf013af76bb61f80510987541c2797396b27556fb48b5ad44cbbdc2e3",
+    "kind": 6
+  },
+  {
+    "content": "The war industry needs perpetual conflict. Without enemies, armies dissolve, and power structures collapse.",
+    "timestamp": "1741984037",
+    "date": "3/14/2025, 8:27:17 PM",
+    "id": "163079a0514ee62901ca2dc3d99703c3f9bc6ed05a8dc942654839f59506a7ff",
+    "kind": 1
+  },
+  {
+    "content": "Just for the contrarian take, I like Voskuils definition of Bitcoin as a market fiat money, man made and without use value, but without monopoly on production.",
+    "timestamp": "1741977328",
+    "date": "3/14/2025, 6:35:28 PM",
+    "id": "8c99797f94f1b38784ff888456471cc10ff49a33a29c3abd372aa9b4a4c2d657",
+    "kind": 1
+  },
+  {
+    "content": "Shoutout for the sponsorship goes to nostr:nprofile1qqsf80gvdu7vhtj88z9srtrvuzevqyc3fh9yczxkufcj6nlhzsz68scpp4mhxue69uhkummn9ekx7mqpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgqg0waehxw309aek7mr0vdhjumnvmxmjyh!\nAnd to you and all the plebs for doing the work.",
+    "timestamp": "1741977245",
+    "date": "3/14/2025, 6:34:05 PM",
+    "id": "2f670eafa2261a4f9254b3e712455efa51c01381e4560643b0d634173017cf65",
+    "kind": 1
+  },
+  {
+    "content": "On this day in 1900, the Gold Standard Act was passed.\nBut the age of sound money lasted only 70 years.\nSince 1971, we have been in monetary freefall.\nAnd we are headed for FINANCIAL FALLOUT...\n\nAt 21 Futures, we promote freedom through fiction.\n\nTo achieve a world where we can be truly free, we first need to look into the future.\n\nThe future is bleak, dystopian even.\n\nThere is only one root cause: broken money.\n https://m.primal.net/PfSA.png \n\n\"21 Futures: Financial Fallout\"\n\nCurrencies debased.\nPrivacy under attack.\nCash goes underground.\nThe crushing weight of debt.\n\nWe were never prepared.\n\n***\n\nOrder the book from our store:\nhttps://bitcoinbook.shop/products/21-futures-financial-fallout?Format=Paperback\n\nOrder from Amazon:\nhttps://mybook.to/K3mv3d\n\nFull colour eBook coming very soon.\n\nKeep livin' free.\n\n#bookstr #book #writestr",
+    "timestamp": "1741977123",
+    "date": "3/14/2025, 6:32:03 PM",
+    "id": "8b1d29ca7c114b80fcf9f20a8f65ccfa3096900d590fc70c4006cbf4c63a010c",
+    "kind": 6
+  },
+  {
+    "content": "Commodity money and Bitcoin share a key trait: neither relies on monopoly privilege. Commodity money’s supply is controlled by market demand, while Bitcoin’s supply is fixed by protocol.",
+    "timestamp": "1741976920",
+    "date": "3/14/2025, 6:28:40 PM",
+    "id": "b6c80a7da1f0bf396efd685d2af179cdbc3cefcc1ae4dcf845fd571c539e656a",
+    "kind": 1
+  },
+  {
+    "content": "Fear is the tool of tyrants. Every election cycle proves how easily masses are manipulated by threats and division.",
+    "timestamp": "1741963127",
+    "date": "3/14/2025, 2:38:47 PM",
+    "id": "6a72d85f829de26530133ac5cbb01b3c8f8041b1c2750d832ba628f279479866",
+    "kind": 1
+  },
+  {
+    "content": "A Trusted Nostr npub: The Intersection of Self-Validating Data and Socially-Verified Claims\n\nIn Nostr, a trusted npub (public key) is built on two distinct but complementary components:\n\t1.\tSelf-validating data – Cryptographically provable facts that require no external trust.\n\t2.\tSocially-verified claims – Assertions about identity, reputation, or key possession that rely on external trust and can go out of date.\n\nUnderstanding this distinction is crucial to how trust is established and maintained in decentralized systems.\n\nSelf-Validating Data: Always Provable, Always Valid\n\nSelf-validating data is mathematically contained and can be verified at any time without requiring an external authority.\n\nFor example:\n\t•\tA Nostr event is valid if its cryptographic signature correctly matches the npub.\n\t•\tA message signed with a private key is valid as long as the signature is intact.\n\t•\tThe same message will always validate in the future, no matter when it is checked.\n\nThis property makes self-validating data timeless—it does not degrade or depend on external context.\n\nSocially-Verified Claims: Trust Requires Timeliness\n\nSocially-verified claims, on the other hand, are context-dependent and can become outdated over time.\n\nFor example:\n\t•\t“This npub belongs to Alice.” This claim might be true today, but how do we know Alice still controls the private key tomorrow?\n\t•\tPossession of a private key (nsec) is a socially-verified claim. While signing a message proves possession at the moment of signing, that proof becomes stale over time. The key could be lost, stolen, or compromised, and observers must rely on recent confirmation to continue trusting it.\n\nVerification of a socially-verified claim happens at a specific point in time—but since time moves forward, the claim is always slightly out of date. This time delta means verification inherently involves some level of trust.\n\nThe Key Insight: Validation is Timeless, Verification is Temporary\n\t•\tValidation (self-validating data) can be done at any time and remains true forever.\n\t•\tVerification (socially-verified claims) must be done in the present but will always be slightly outdated.\n\nThis means that trust in an npub requires both:\n\t•\tThe ability to validate cryptographic proofs whenever needed.\n\t•\tThe willingness to accept slightly outdated verification based on social consensus.\n\nThe Challenge of Long-Term Trust in Nostr\n\nBecause socially-verified claims go out of date, maintaining trust in an npub requires:\n\t•\tRecurrent verification – Users must periodically check if the npub is still actively controlled by the same entity.\n\t•\tRedundancy – Multiple signatures or alternate verification mechanisms can reduce reliance on any single moment of verification.\n\t•\tAwareness of revocation risks – Just because an npub was trusted yesterday does not mean it is safe today.\n\nConclusion: Trust is a Moving Target\n\nA trusted npub is never fully trusted forever—it is a balance between self-validating cryptographic proof (which never expires) and socially-verified claims (which require continuous updating). The reality of decentralized trust is that while validation is deterministic and timeless, verification is a social process that degrades over time and must be continuously renewed.",
+    "timestamp": "1741941921",
+    "date": "3/14/2025, 8:45:21 AM",
+    "id": "e8d635024cd4da46a882b418389ac4a95ecd22112943cd9c49c886ecf7ea4def",
+    "kind": 6
+  },
+  {
+    "content": "Sloth isn’t laziness; it’s the cowardice of demanding others solve your problems.",
+    "timestamp": "1741941786",
+    "date": "3/14/2025, 8:43:06 AM",
+    "id": "fbd111039c5496ccccb6418c9f7a8c2df76111d13b8ccdc0e1a74e1ec1473d0d",
+    "kind": 1
+  },
+  {
+    "content": "We did not receive the promised equality and fraternity, but we did loose our freedom.",
+    "timestamp": "1741938283",
+    "date": "3/14/2025, 7:44:43 AM",
+    "id": "a7f5f8a1c0413c407ba4af1a2f3ec6e40b1fcc078ed96d9a5bbd369260eaff02",
+    "kind": 1
+  },
+  {
+    "content": "Awesome that you're tinkering on this, thanks!\n\nSo you used a plastic case as inside and glued the leather ontop?",
+    "timestamp": "1741935219",
+    "date": "3/14/2025, 6:53:39 AM",
+    "id": "62c0519a083987449c7bc1e3ca1f5ffe0f9ac98ad064ca4c276bd45a69da563c",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpz9mhxue69uhkummnw3ezuamfdejj799fc4j pixel 9 case\nhttps://image.nostr.build/677450930927fb2d8c45b0af7370962117842b067a2e1f3f394cb0310dc996db.jpg",
+    "timestamp": "1741935062",
+    "date": "3/14/2025, 6:51:02 AM",
+    "id": "9b4d4c4f64c8f593db6afdb4d1d68e361ffa4792669f47c144a3b72e02e0e450",
+    "kind": 6
+  },
+  {
+    "content": "Medieval stagnation wasn’t stupidity, it was life shackled by permission slips.",
+    "timestamp": "1741935026",
+    "date": "3/14/2025, 6:50:26 AM",
+    "id": "7101e81b45c6162028e598334aca77f2e3231597c6b393fe1c64f2bfd26422ca",
+    "kind": 1
+  },
+  {
     "content": "Privacy erosion isn’t about safety—it’s about control. Surveillance states monitor dissenters, not terrorists.",
     "timestamp": "1741888208",
     "date": "3/13/2025, 5:50:08 PM",
