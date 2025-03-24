@@ -1,5 +1,82 @@
 [
   {
+    "content": "Money is so noble a medium it does not compete with guns.",
+    "timestamp": "1742761309",
+    "date": "3/23/2025, 8:21:49 PM",
+    "id": "a52941d49bdb30237f83f93fbce45b3ec5610ee28b167de31e5a612087e66f4a",
+    "kind": 1
+  },
+  {
+    "content": "Transactions should only require the minimum necessary information.",
+    "timestamp": "1742756110",
+    "date": "3/23/2025, 6:55:10 PM",
+    "id": "f434a6d7811631d3f430899e2627729ee082f72a439adcbfb2a6ae4f5ee18a99",
+    "kind": 1
+  },
+  {
+    "content": "Fiat is the money of the herd—printed to placate the masses. Bitcoin is the money of the individualist: opt-in, noncustodial, anti-fragile.",
+    "timestamp": "1742753813",
+    "date": "3/23/2025, 6:16:53 PM",
+    "id": "389195fc4c4604ccd775cd6ae7f93c6ee0a9d2c2b4d11ce9996d08e438815356",
+    "kind": 1
+  },
+  {
+    "content": "Gold required armies to protect. \nFiat requires propaganda to sustain. \nBitcoin requires only mathematics to thrive. \nEvolution of money, unshackled.",
+    "timestamp": "1742751869",
+    "date": "3/23/2025, 5:44:29 PM",
+    "id": "a14baa5a5a7873ae446227a3270d41c9ef379bc39a8429a51420cf7363652ce5",
+    "kind": 1
+  },
+  {
+    "content": "Folge Nummer 60 ist endlich da! Marius war bei mir zu Gast um über #E-Cash zu reden, ein Thema was schon längst überfällig war. E-Cash könnte eine weitere Möglichkeit sein, Bitcoin nachhaltig zu skalieren, natürlich gibt es aber immer Nachteile, zum Glück aber auch Vorteile! Zusammen mit nostr:nprofile1qqsrmd72g25ws0qyh4fvaqm2nqvtd6g9960r42zaytpt83c47ysljmcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshs6e06yu  erfahren wir mehr über diese spannende Technologie und versuchen zu verstehen, wie E-Cash auf technischer Ebene funktioniert!\n\nViel Spass!\nnostr:nprofile1qqsx2wyjt6lmvc05rrvv05r5hm3w3t7h0pcpmkyswrpd4ymd2u09tscpvemhxue69uhkv6tvw3jhytnwdaehgu3wwa5kuef0dec82c33wc6h2enedq6xc6m9wdkxw7rcvd3kceecvccxs7np0f5xzaehwfehy6rkvech27r6d5exv6ekx33nwvngwpengdtwxpmr20mzwfhkzerrv9ehg0t5wf6k2qgkwaehxw309aex2mrp0yhxummnw3ezu6twvehs97pldv \nhttps://fountain.fm/episode/BQgvOcFIX0nCA246Uz4A\n\n\nnostr:nprofile1qqs9pk20ctv9srrg9vr354p03v0rrgsqkpggh2u45va77zz4mu5p6ccpzpmhxue69uhkummnw3ezumt0d5hsz9nhwden5te0dp5hxapwdehhxarj9ekxzmny9ucdnzk0 nostr:nprofile1qqsvfdfkn2wmy73wr0yhkf065jrzm8705ar4q6clyuhc7jekhqfdh4sprpmhxue69uhhyetvv9ujumn0wd68y6trdqhxgef0qys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tctw5twh nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt ",
+    "timestamp": "1742751846",
+    "date": "3/23/2025, 5:44:06 PM",
+    "id": "08b4c7c5f0445c6f9618cc54fc3128891212348a406a0c524f3c800179f32b4f",
+    "kind": 6
+  },
+  {
+    "content": "Your systems are anti-human. Your power is theft. Your legitimacy is a myth. We withdraw our obedience. The Free and Unashamed bow to no master.",
+    "timestamp": "1742736623",
+    "date": "3/23/2025, 1:30:23 PM",
+    "id": "a11584d2b5d2d4fb5e47781725b42ce03c49ab231145e09c83824cbcd83e0f04",
+    "kind": 1
+  },
+  {
+    "content": "Software can’t be destroyed. Decentralized systems resist censorship and shutdowns.",
+    "timestamp": "1742732084",
+    "date": "3/23/2025, 12:14:44 PM",
+    "id": "5f3422c0b36eec938889b0dd3b792848978e8a0c96ca85ddf99c81e26d859a7c",
+    "kind": 1
+  },
+  {
+    "content": "Self-esteem built on external validation makes you a puppet. True confidence comes from within, not crowd approval.",
+    "timestamp": "1742723431",
+    "date": "3/23/2025, 9:50:31 AM",
+    "id": "d51a6f5316471127417ec73d259f7d13131e8af2eabf1d4a1a1d21cb5877df5e",
+    "kind": 1
+  },
+  {
+    "content": "Although last I checked this isn't zero knowledge, just succinct.",
+    "timestamp": "1742712870",
+    "date": "3/23/2025, 6:54:30 AM",
+    "id": "b8c685c21e9311f166506ddb0cea72c99dfb93582024d1b994530996e3b95f90",
+    "kind": 1
+  },
+  {
+    "content": "Maybe checkout Cairo\nhttps://github.com/starkware-libs/cairo",
+    "timestamp": "1742712252",
+    "date": "3/23/2025, 6:44:12 AM",
+    "id": "90a95b840b97897f6267efe3c78d077a7e2bc459cc5c406b0f06f87ea2d4745d",
+    "kind": 1
+  },
+  {
+    "content": "Contracts enable complex coordination. Enforceable agreements expand possibilities for advanced contracts.",
+    "timestamp": "1742712134",
+    "date": "3/23/2025, 6:42:14 AM",
+    "id": "2c4a355485fdeb8d6df96df8834c677b42322d1809753c31d71e5fd1678b68a8",
+    "kind": 1
+  },
+  {
     "content": "Honor agreements to build trust in all interactions.",
     "timestamp": "1742670100",
     "date": "3/22/2025, 7:01:40 PM",
