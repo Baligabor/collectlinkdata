@@ -1,5 +1,159 @@
 [
   {
+    "content": "Modern pollen analysis can geo-locate within 10 square kilometers. Regularly vacuum car interiors and change HVAC filters during migrations.",
+    "timestamp": "1742846643",
+    "date": "3/24/2025, 8:04:03 PM",
+    "id": "50c83dcf2b22a8604dda55fad7fb8052b59d3cc3f6c0668b2952b29e0eb067e7",
+    "kind": 1
+  },
+  {
+    "content": "I'm curious while we're on this topic, how is the flickering rate on pixel screens, and how does diming the brightness affect it, also what does extra dim do exactly?",
+    "timestamp": "1742841158",
+    "date": "3/24/2025, 6:32:38 PM",
+    "id": "a70dc3dec2939001e76bd9be4884ab3aaf0f174dd2382afa6704884a1eb7aada",
+    "kind": 1
+  },
+  {
+    "content": "Patiently waiting for the first nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0 release of voca.\nhttps://image.nostr.build/94750d19331e5a72e9ded72283207d57c89bf01f4985bce13741a4f5ba3ec360.jpg",
+    "timestamp": "1742841034",
+    "date": "3/24/2025, 6:30:34 PM",
+    "id": "d2f0542bb4e0cc451a7a7addf1793fc92588fdb263bdaaca6ae501c3bbe43851",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qy2hwumn8ghj7un9d3shjtnddaehgu3wwp6kyqpqklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qq7hjgu nostr:nprofile1qy2hwumn8ghj7un9d3shjtnddaehgu3wwp6kyqpqhxx76n82ags8jrduk0p3gqrfyqyaxnrlnynu9p5rt2vmwjq6ts3qf3easn It changes the color enough to completely turn off the blue pixels for pure blue. It should make the pure blue image completely black. That's already quite extreme and has questionable usability since blue text on black will be invisible as one example of the consequences of turning it all the way up to full. That's why stock OS doesn't let you turn it that much.",
+    "timestamp": "1742840699",
+    "date": "3/24/2025, 6:24:59 PM",
+    "id": "dc5aee74076e4648501e9f7aae5dc5da94d7cf48bbe626151b3d797f685b5dc4",
+    "kind": 6
+  },
+  {
+    "content": "I didn't even know the clock app is blue.\nGrey scale + night light for the win.\n\nThanks!",
+    "timestamp": "1742840599",
+    "date": "3/24/2025, 6:23:19 PM",
+    "id": "1be6ce167992e928bb73e874785d71e5c13baa9ff3c75072ce56d66ae04f5cd1",
+    "kind": 1
+  },
+  {
+    "content": "That's great, I didn't realize it turns off blue pixels entirely.\nYou guys are amazing!",
+    "timestamp": "1742840571",
+    "date": "3/24/2025, 6:22:51 PM",
+    "id": "a8430b5a3649385e0f7f49bdf6ce65b0dcc686de62f7381cead800e7d320881c",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcnv0md0 is there a way to get the nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43q4gnztg night light mode even more extreme red?",
+    "timestamp": "1742839026",
+    "date": "3/24/2025, 5:57:06 PM",
+    "id": "b3c2773f2648cf6dd1e341a74a3aea8a13ae255f0567d24df43244413742ee3f",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsd74a5np4zcevevhpal9w28l4r2vazq7cfhuk9tfcdgpk86py3yncpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz73k0pvq nostr:nprofile1qqsxsvs3h524c7mkfe9enw3x8g23mqfqn0n62e4zhvvhrhqmh5ahzhspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qgewaehxw309aex2mrp0yhxummnw3exjmm59e3k7mf0sxguym maybe up for it?",
+    "timestamp": "1742833982",
+    "date": "3/24/2025, 4:33:02 PM",
+    "id": "bf9ad6a8f89d336170b55f732f5b3f4eb3bca0c55e8d2f961be88a2101b53129",
+    "kind": 1
+  },
+  {
+    "content": "Walk and talks are very productive.",
+    "timestamp": "1742833781",
+    "date": "3/24/2025, 4:29:41 PM",
+    "id": "7dbbf037264bc1b9c26390aa56da00b51657d8acbfedbc5a5d76689d3ae8489c",
+    "kind": 1
+  },
+  {
+    "content": "Monero is a bitcoin",
+    "timestamp": "1742833742",
+    "date": "3/24/2025, 4:29:02 PM",
+    "id": "f26c88aa8c9289312398a9c5c2c5b4ae620ec40e2baf8f794365ae0233418868",
+    "kind": 1
+  },
+  {
+    "content": "A bit of all of the above!",
+    "timestamp": "1742833708",
+    "date": "3/24/2025, 4:28:28 PM",
+    "id": "d30fe2388a86d7fc3f3e6e27f5f4f35ef28a12a7b817766da1f840bb46ac5b8f",
+    "kind": 1
+  },
+  {
+    "content": "Freedom tech builders might be more accurate.",
+    "timestamp": "1742828499",
+    "date": "3/24/2025, 3:01:39 PM",
+    "id": "4dbef3edced8b6d7bc10c04e2d93d3cd6a407c6442931549e0998cdb0281d2a9",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoiners are the best.\nSo helpful and supportive.",
+    "timestamp": "1742828362",
+    "date": "3/24/2025, 2:59:22 PM",
+    "id": "1f365a4a6204eb41e31f7650bb864ea7e0f46851ca29594cd4ba8c12f5366667",
+    "kind": 1
+  },
+  {
+    "content": "Cross platform iOS -> Android ecash payment over NFC using  nostr:nprofile1qyv8wumn8ghj7cmg9ec82unsd3jhyetvv9ujucm0d5qjjamnwvaz7tmwdaehgu33xcmnvve38y6nvde3xuczuctswqh8yatwdahxvmr40qhxjmcqyq0986gqcwaut6kjj5s4al38ktydt773t7eamqgd5vrrvaxtwgfmyh20a8l  and cashu.me 🥜 \n\nhttps://m.primal.net/PqRx.mp4 ",
+    "timestamp": "1742821881",
+    "date": "3/24/2025, 1:11:21 PM",
+    "id": "59e54b2f6184f227ebf37fd206d1e2791d3d5f5a559f0736f50d4a9b229f6941",
+    "kind": 6
+  },
+  {
+    "content": "Violence escalates costs; resolve disputes peacefully.",
+    "timestamp": "1742821638",
+    "date": "3/24/2025, 1:07:18 PM",
+    "id": "eb35a9eca5cdcf0571a41202fcf22489170a899d1e60c44f3bdead765418bf88",
+    "kind": 1
+  },
+  {
+    "content": "Drink broth and keep going for a while longer.",
+    "timestamp": "1742813010",
+    "date": "3/24/2025, 10:43:30 AM",
+    "id": "acdf9bb905ee8de85472a57086f8ce596eeca0f29b493ef2514834de7fc997be",
+    "kind": 1
+  },
+  {
+    "content": "Self-inflicted harm is your responsibility alone.",
+    "timestamp": "1742808356",
+    "date": "3/24/2025, 9:25:56 AM",
+    "id": "b531a58998a1eabe6f3ec310273aa70154772abbe4d94d222981324cded3f015",
+    "kind": 1
+  },
+  {
+    "content": "Law's purpose: Facilitate beneficial interaction. Minimize friction through clear rights and dispute resolution.",
+    "timestamp": "1742805692",
+    "date": "3/24/2025, 8:41:32 AM",
+    "id": "6d35f4ec7fbb86cb74aa37668e6ffff0d12213e5555e067909e6f475a366ff44",
+    "kind": 1
+  },
+  {
+    "content": "The first release of voca will be very tightly scoped.\nCopy text, share to voca, start reading out loud.\nShip ugly but ship fast!",
+    "timestamp": "1742805682",
+    "date": "3/24/2025, 8:41:22 AM",
+    "id": "ea1887eb98b98199b8ff125a18d1df90960811fe74c15395f5d9117c5b1177b8",
+    "kind": 6
+  },
+  {
+    "content": "That's awesome bro, well done!",
+    "timestamp": "1742805660",
+    "date": "3/24/2025, 8:41:00 AM",
+    "id": "920c0e253451dd2291291c35ffd8c33dcf8c77e466d60791eccc8e2a9eba7789",
+    "kind": 1
+  },
+  {
+    "content": "🚀 Excited to share https://dvmcp.fun – a Nostr-powered catalog where humans and AI discover and use DVMCP servers for decentralized computation. Think of it as a decentralized directory where MCP operators can announce their tools and resources using DVMs, allowing people to utilize them. This represents a new way to leverage DVMCP servers, and the creation of custom interfaces.\n\n🤖💻 It's still a work in progress (so expect some rough edges!), but you can already explore and use tools at https://dvmcp.fun Guides on usage and deploying your own DVMCP setup are coming soon, in the meantime if you are interested there are some readmes in the DVMCP repo\n\n→ Code: https://github.com/gzuuus/dvmcp\n→ Frontend: https://github.com/gzuuus/dvmcpfun\n\nFeedback welcome :) \n#dvm #mcp #ai #llm",
+    "timestamp": "1742805640",
+    "date": "3/24/2025, 8:40:40 AM",
+    "id": "a9df7c92e486191c7f0e4fabd92b53cb5698597dc65ed19033c897f29f83131f",
+    "kind": 6
+  },
+  {
+    "content": "Property security combats envy-driven plunder. Capital accumulation drives progress when ownership rights are sacred.",
+    "timestamp": "1742801380",
+    "date": "3/24/2025, 7:29:40 AM",
+    "id": "18378e3a2d26d40d5c0ca65a1ec1241d72df8f784bad98877c95c62614d79424",
+    "kind": 1
+  },
+  {
     "content": "Money is so noble a medium it does not compete with guns.",
     "timestamp": "1742761309",
     "date": "3/23/2025, 8:21:49 PM",
