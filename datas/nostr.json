@@ -1,5 +1,166 @@
 [
   {
+    "content": "Stockpile skills, not just supplies.",
+    "timestamp": "1742930148",
+    "date": "3/25/2025, 7:15:48 PM",
+    "id": "4dda498c804ee74b23888be6de932cfbf03b9d2ac95994c7e5d73a3c6cfe4b96",
+    "kind": 1
+  },
+  {
+    "content": "If you can buy it, sure!",
+    "timestamp": "1742923706",
+    "date": "3/25/2025, 5:28:26 PM",
+    "id": "68819e7ebd926403c05619c9f3bd42a8338c84ad31bd3a0212e77fe67b7768da",
+    "kind": 1
+  },
+  {
+    "content": "Tired of ads & data mining? Voca reads any text/PDF/website aloud 100% offline. Your eyes get a break, your privacy stays intact. Try it free, zap the devs if it improves your day.",
+    "timestamp": "1742923662",
+    "date": "3/25/2025, 5:27:42 PM",
+    "id": "8773d7febe5da85f4c7a58b988a41504e7770f314211555f8df2ef2d6af3bfe5",
+    "kind": 6
+  },
+  {
+    "content": "The goal is to create a culture of liberty, independent of mainstream society, emphasizing voluntary associations and mutual respect.",
+    "timestamp": "1742920908",
+    "date": "3/25/2025, 4:41:48 PM",
+    "id": "641ddbaaafac0e21d89a94ebf8b6c7fe329cda08bd6a4da690d3a8d46831d232",
+    "kind": 1
+  },
+  {
+    "content": "Make the next generation ungovemable.",
+    "timestamp": "1742918916",
+    "date": "3/25/2025, 4:08:36 PM",
+    "id": "ee8303c7d130aa6e5df836cf88f4ad9d9c2c9f0da6fbf115c7a90df15f9fe908",
+    "kind": 1
+  },
+  {
+    "content": "Deep Seek Coder V2 released\nhttps://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+    "timestamp": "1742917828",
+    "date": "3/25/2025, 3:50:28 PM",
+    "id": "c37a45465c9c6dbfe45df3a34c9c051bacb3beb04b18f42d1b4c99f52a426caa",
+    "kind": 1
+  },
+  {
+    "content": "Loyalty to principles, not people. Vet allies by actions, not words. Betrayal is inevitable, plan contingencies.",
+    "timestamp": "1742915123",
+    "date": "3/25/2025, 3:05:23 PM",
+    "id": "7c9554d77db03bb8c0152c683331baa02bf62e71f6888978191e951452ae2d9e",
+    "kind": 1
+  },
+  {
+    "content": "The first voca release is out!\nhttps://git.nostrdev.com/voca/voca/releases/tag/0.0.2\n\nTry it, zap it, give feedback",
+    "timestamp": "1742908840",
+    "date": "3/25/2025, 1:20:40 PM",
+    "id": "2ea0cb7d18d389423c4cae5d5d270a7aef96ba89b6c55ee118896424bf9d31fa",
+    "kind": 6
+  },
+  {
+    "content": "Cryptography ",
+    "timestamp": "1742908348",
+    "date": "3/25/2025, 1:12:28 PM",
+    "id": "533c6a630a5561ba44fdadc56b1e5775417d5e3659f0c57a927a42c0a8380951",
+    "kind": 1
+  },
+  {
+    "content": "Privacy tech is a moral imperative. Develop open-source tools for encryption, anonymization, and secure collaboration.",
+    "timestamp": "1742907235",
+    "date": "3/25/2025, 12:53:55 PM",
+    "id": "9edbd23e5ccf9eda9f637526745bab37bfeabfb0306c586f19ab757d74915814",
+    "kind": 1
+  },
+  {
+    "content": "\"I have walked myself into my best thoughts.\"\n  ~ Søren Kiergegaard\n#soveng",
+    "timestamp": "1742905547",
+    "date": "3/25/2025, 12:25:47 PM",
+    "id": "e1822f7a7c1e5ad3ba80f6a98ea4c114b89d8da670b83baafc4545d1f5a0b9df",
+    "kind": 1
+  },
+  {
+    "content": "Oracolo big update!\n\nYou know, Oracolo lets you create a personal blog using your Nostr content, and now is more powerful!\n\nhttps://chronicle.dtonon.com/bd7c48a4deb7cafd0c725fa98ff0458b047c8aec47477e4b887491a140fcedcd.mp4\n\nFreely organize your articles, notes and images in \"blocks\", with different styles, and pin your favorites, too! You can do this with a handy web wizard, no coding is required.\nAs usual, the blog is just a single HTML file, so you can host it everywhere.\n\nBut there is another great news, from a nostr:npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6's smart idea: you can also take advantage of Oracolo web service to host your blog. Just point your DNS to the generated auto-config domain, and your blog is live. It's free, too!\n\nCheck it at https://oracolo.me\n\nSource code and more info at https://github.com/dtonon/oracolo\n\nA couple of preview examples:\n\nnostr:npub1jlrs53pkdfjnts29kveljul2sm0actt6n8dxrrzqcersttvcuv3qdjynqn\nhttp://npub1jlrs53pkdfjnts29kveljul2sm0actt6n8dxrrzqcersttvcuv3qdjynqn.ba-i69e9c-i820b9.ba-3-grid.bn-10-slide-m400.ba-2-grid.bi-10-grid.ba-10-list.ba-2-grid.ba-10-list.comments.topics-nostr-groups-nip44.oracolo.me\n\nnostr:npub1c8n9qhqzm2x3kzjm84kmdcvm96ezmn257r5xxphv3gsnjq4nz4lqelne96\nhttp://npub1c8n9qhqzm2x3kzjm84kmdcvm96ezmn257r5xxphv3gsnjq4nz4lqelne96.bi-5-grid.bn-20-slide-m400.bi-10-grid.bi-1-grid.bi-10-grid.oracolo.me\n\nPS: These “chaotic” domains are obviously only for viewing the blog preview, downloading the html (from the footer) or configuring the DNS of one's domain.",
+    "timestamp": "1742903676",
+    "date": "3/25/2025, 11:54:36 AM",
+    "id": "5ba43262f9144de738a2d7845655d814b051d7590a08ec2d39ef9aa9c62eae28",
+    "kind": 6
+  },
+  {
+    "content": "The more they tighten control, the more cracks appear.",
+    "timestamp": "1742902830",
+    "date": "3/25/2025, 11:40:30 AM",
+    "id": "1aa46e034ba1a4b04abf6060c38fabf2c9c9040636af42e5d408d1c6bec25c85",
+    "kind": 1
+  },
+  {
+    "content": "Avoid debt. Liquidity = freedom. Hoard cash, crypto, and tradables, debts make you a slave.",
+    "timestamp": "1742900658",
+    "date": "3/25/2025, 11:04:18 AM",
+    "id": "4cdef145f8b3edb693e2c56ed26be643b3ae97a034b1d660586525f1deffebbc",
+    "kind": 1
+  },
+  {
+    "content": "lol, true that",
+    "timestamp": "1742896557",
+    "date": "3/25/2025, 9:55:57 AM",
+    "id": "a017d4f73aa0a051d2ca0524cd99ec9b62a345c43977b19ec2e273b008fdf47c",
+    "kind": 1
+  },
+  {
+    "content": "Legacy media dies ignored.",
+    "timestamp": "1742893809",
+    "date": "3/25/2025, 9:10:09 AM",
+    "id": "fae41f88973a4c9af5e186c1bd77ed06c35e22417d7d1d05532cbe65edd77e57",
+    "kind": 1
+  },
+  {
+    "content": "Parasites outnumber producers. Stop waiting for mass enlightenment, carve your freedom now.",
+    "timestamp": "1742893326",
+    "date": "3/25/2025, 9:02:06 AM",
+    "id": "c47e3b1308cb974abf2643ac1f41d5d0c2cfe4850100486488b4e003872e3572",
+    "kind": 1
+  },
+  {
+    "content": "Justice eliminates coercion. Restore freedom where force disrupted voluntary exchange.",
+    "timestamp": "1742892831",
+    "date": "3/25/2025, 8:53:51 AM",
+    "id": "ada884d98ec15fb3c805cd1a3c41a2091e35b464148cbc4005ebdf5161ed259b",
+    "kind": 1
+  },
+  {
+    "content": "Gather in the shadows, evacuate upon first contact.",
+    "timestamp": "1742889088",
+    "date": "3/25/2025, 7:51:28 AM",
+    "id": "c1e965650e12246fd73a0311931cd181cb19ffc47d6f99b0049e2dffb25874e0",
+    "kind": 1
+  },
+  {
+    "content": "Via duplication and redundancy, let 1000 TAZ bloom",
+    "timestamp": "1742887395",
+    "date": "3/25/2025, 7:23:15 AM",
+    "id": "01497e1b9f39e67a557e52ef99f71a5ac98c9d7446afcfa980502ebaca60ce22",
+    "kind": 1
+  },
+  {
+    "content": "Physical infrastructure is cryptoanarchy’s missing layer. Digital tools enable coordination, but survival demands tangible networks: local trade hubs, currency alternatives, and autonomous services. Reliance on state-linked systems (banks, courts) creates vulnerabilities. A functional parallel society requires bakeries, clinics, and workshops—not just encrypted chat rooms. Decentralization fails without material independence.",
+    "timestamp": "1742886666",
+    "date": "3/25/2025, 7:11:06 AM",
+    "id": "cc6c1a7d45f440eff94fcf8b3c5a6c35ef6e84bf8ae4dace6805ced91236e5fd",
+    "kind": 1
+  },
+  {
+    "content": " Legend 🧡\n\nhttps://m.primal.net/Pjux.jpg ",
+    "timestamp": "1742885596",
+    "date": "3/25/2025, 6:53:16 AM",
+    "id": "10600536d870c02cc5806ff43debf964e379f0393ba6ada9bb2cc4e8017fb528",
+    "kind": 6
+  },
+  {
+    "content": "Heroes don’t follow orders—they resist them.",
+    "timestamp": "1742882761",
+    "date": "3/25/2025, 6:06:01 AM",
+    "id": "652ce4c80067ae77f773d8fa7b864ae2464d1eb6af756b805024420263e49155",
+    "kind": 1
+  },
+  {
     "content": "Modern pollen analysis can geo-locate within 10 square kilometers. Regularly vacuum car interiors and change HVAC filters during migrations.",
     "timestamp": "1742846643",
     "date": "3/24/2025, 8:04:03 PM",
