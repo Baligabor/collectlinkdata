@@ -1,5 +1,138 @@
 [
   {
+    "content": "The dollar is a relic of the 20th century—a time when men still believed politicians could be trusted.",
+    "timestamp": "1743019091",
+    "date": "3/26/2025, 7:58:11 PM",
+    "id": "b4c7cab1a0227e261cfab4d285aa853b9fd8b3b5b6958f9273f416ffa3d7c82a",
+    "kind": 1
+  },
+  {
+    "content": "Do you even realize how crazy the nostr is?!\n\nVoca’s npub is barely a week old, our first release dropped yesterday, and already the community zapped over **300k sats** into existence. \n\nNostr is still a fledgling protocol, yet here we are—operating at a scale where decentralized funding can bootstrap an entirely new application that's nor even a nostr client.\n\nThis isn’t incremental change—it’s a new paradigm.\n\nThe message is clear: **Build. Ship. Repeat.** The future isn’t just bright—it’s already here, and it's a future where you can just build stuff.",
+    "timestamp": "1743017952",
+    "date": "3/26/2025, 7:39:12 PM",
+    "id": "5dbfcb7314c2f2989f403b9684ee95bf5e6e4838220d0fed114db6eea47bf10a",
+    "kind": 6
+  },
+  {
+    "content": "06: The Winds of AI\nhttps://haven.sovereignengineering.io/a4c661358690b68e5cce8583111c8ab3bb9fef1a9e4e1a347cf543b7dc76c4fb.mp3\n#NoSolutions",
+    "timestamp": "1743016753",
+    "date": "3/26/2025, 7:19:13 PM",
+    "id": "8880027972961e02d7fec334e2c424e609f11e57dc4482895d01c895724c674f",
+    "kind": 6
+  },
+  {
+    "content": "The Reorg, Episode 7: nostr:nprofile1qqsf272yfpfzyypcmjarg5fz27mx58rwt0d5xwdk09yzd4qzfvlye6gpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfdu2d90my and nostr:nprofile1qqstn8du5qvy5vkw2kgyevn8kghyxjpre9l5rrekmt6a9hlsm4a4cfcprpmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctvqyd8wumn8ghj7mn0wd68ytn0wfskuem9wp5kcmpwv3jhv0hk0tg discuss Daniel Krawisz's 2014 article \"How We Know Bitcoin is Not a Bubble.\"\n\nLinks below.\n\nhttps://youtu.be/RkGL4dg7vyo",
+    "timestamp": "1743016700",
+    "date": "3/26/2025, 7:18:20 PM",
+    "id": "4444ecf11c1edb1bc84da82b7a2a246d906d2c75641a035281bb2eb21bafcde0",
+    "kind": 6
+  },
+  {
+    "content": "Consensus Cleanup soft fork BIP draft dropped\n\nhttps://github.com/bitcoin/bips/pull/1800",
+    "timestamp": "1743013916",
+    "date": "3/26/2025, 6:31:56 PM",
+    "id": "ac2bbed05a700e55ecc4b5670f321d1baf2351b661149f73a9008354563368b2",
+    "kind": 6
+  },
+  {
+    "content": "voca v0.0.5 is released!\n\nThis one has only some beautification, now the text box is always full screen.\n\nThree releases in a day - if that's not worth a zap I don't know what is...",
+    "timestamp": "1743012803",
+    "date": "3/26/2025, 6:13:23 PM",
+    "id": "9fccaa17619110dd6a00531bd97ae51c3720b35e80109fb06f9a535fa416e257",
+    "kind": 6
+  },
+  {
+    "content": "Lightning Network channels aren't just payment rails. They're Hayekian price signals made instant - the nervous system of a global mind.",
+    "timestamp": "1743009543",
+    "date": "3/26/2025, 5:19:03 PM",
+    "id": "b2219ffaba9528b9bc82ca8a775dc45bd72e24b42a60441b3049a649be84f51d",
+    "kind": 1
+  },
+  {
+    "content": "Cyberspace transcends borders; traditional jurisdiction fails. New frameworks must resolve disputes without territorial bias.",
+    "timestamp": "1743003790",
+    "date": "3/26/2025, 3:43:10 PM",
+    "id": "abea3624efea26a27b9d354677f2c4993d896b8bb03545b1a72649974fca80e0",
+    "kind": 1
+  },
+  {
+    "content": "Master the art of the deal. Negotiate win-win trades, exploit arbitrage, and always have an exit clause.",
+    "timestamp": "1742998506",
+    "date": "3/26/2025, 2:15:06 PM",
+    "id": "aa68b870a4cc2c83b25df2f68e273b624b20b168014fa82abb7c83a36077e304",
+    "kind": 1
+  },
+  {
+    "content": "Credit systems rely on clear property titles. Secure collateral enables risk-taking and entrepreneurial growth.",
+    "timestamp": "1742992820",
+    "date": "3/26/2025, 12:40:20 PM",
+    "id": "84678428ebdbf4e0d735f6aa32abe183aed31bce96b63616192f0b78c4273a1a",
+    "kind": 1
+  },
+  {
+    "content": "Temporary autonomous zones aren’t utopian fantasies, they’re tactical hideouts for living free today.",
+    "timestamp": "1742987146",
+    "date": "3/26/2025, 11:05:46 AM",
+    "id": "19605e3321eb11ae6a13a9ab5b943101a296d17bd872b1a500c84ac21bca8b50",
+    "kind": 1
+  },
+  {
+    "content": "Trained, experienced psychotherapist at your service, accept bitcoin payments. ",
+    "timestamp": "1742982299",
+    "date": "3/26/2025, 9:44:59 AM",
+    "id": "1ea9cfff4a269b5c4956a052a1afb2915843b672c790229a77b88c7c429c6b6a",
+    "kind": 6
+  },
+  {
+    "content": "voca v0.0.3 is now available on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0!\n\nThis release comes with a bunch of stability improvements.\n\nGet it, test it, zap it.",
+    "timestamp": "1742981476",
+    "date": "3/26/2025, 9:31:16 AM",
+    "id": "bf35e7c871986de36fa5edc9ef7c8f5dc5485971bb4f92dd7ffb7d39c36a5899",
+    "kind": 6
+  },
+  {
+    "content": "There are two spending conditions: locked to receiver pubkey // after X days anyone can spend.\n\nNot sure about how exactly the script looks like, but it's something like that.",
+    "timestamp": "1742980102",
+    "date": "3/26/2025, 9:08:22 AM",
+    "id": "826aeecdefc279c80562d729e5c22d6536abeb35bfd1bd7e97bd9a46a84caa23",
+    "kind": 1
+  },
+  {
+    "content": "There might not be a more cypherpunk bitcoin space...\nnostr:nevent1qqsqxcpmjml9l6ql4d6hsukf27l2z90ymcpws2tmju0tptqqzdtlmcgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsyg9mq962ugdxetq6p2wgkjkxa0762m89zczux9d3sfyhp0p8taerngpsgqqqqqqsry4n5u",
+    "timestamp": "1742979747",
+    "date": "3/26/2025, 9:02:27 AM",
+    "id": "d3dbaf60e65fff6710243905d3e775a80164f3d19296b7dd98fbe2b23d25d9b9",
+    "kind": 1
+  },
+  {
+    "content": "#zapadev\nnostr:nevent1qqs8sazg08zjv8p3z2j3x8w9fwcuzxh36l6hjs2x49hrgwzdp8zgp5spzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtczyr6u4xd2v3lunpr6mdsmdmfqpkd3tyyn5kuhymzwfc4en0ul6v3c7qcyqqqqqqgs52rvp",
+    "timestamp": "1742978703",
+    "date": "3/26/2025, 8:45:03 AM",
+    "id": "14c011205417ed288c1305c40026083f5d0ff49f7f3e7813cf608b467d54dddb",
+    "kind": 1
+  },
+  {
+    "content": "So let's use their playbook against them...",
+    "timestamp": "1742978554",
+    "date": "3/26/2025, 8:42:34 AM",
+    "id": "361b81e6297b4f0a06c92a6102e71620ed3a49b3ea9dc10e5e070b5076d5470f",
+    "kind": 1
+  },
+  {
+    "content": "Avoid confrontations. Evade, outlast, and let them exhaust themselves chasing phantoms.",
+    "timestamp": "1742977440",
+    "date": "3/26/2025, 8:24:00 AM",
+    "id": "287905614e5d1c40e3a8b0f9e0d57f0fc09e1928d6d0c00d305003c276100862",
+    "kind": 1
+  },
+  {
+    "content": "Build parallel health networks. Underground clinics, herbalists, and encrypted telemedicine.",
+    "timestamp": "1742967987",
+    "date": "3/26/2025, 5:46:27 AM",
+    "id": "031cc7865b8f37d773c9f964049a65a6b1121bc7b790bd458c43da3390fdb448",
+    "kind": 1
+  },
+  {
     "content": "Stockpile skills, not just supplies.",
     "timestamp": "1742930148",
     "date": "3/25/2025, 7:15:48 PM",
