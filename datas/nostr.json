@@ -1,5 +1,159 @@
 [
   {
+    "content": "voca v0.0.6 is released!\n\nThis release fine tunes the release process and makes publishing to nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0 a lot easier.\n\nThere are also continuous improvements to initializing the text to speech engine for a faster startup.\n\nWe're laying the groundwork for some major features in the upcoming releases, stay tuned!",
+    "timestamp": "1743105004",
+    "date": "3/27/2025, 7:50:04 PM",
+    "id": "77dcb9b9eab3e3ddeb0da04cfa6be8642f4f6da6ee345ec06121ff586c293daa",
+    "kind": 6
+  },
+  {
+    "content": "Cybercommerce needs self-regulating mechanisms. Voluntary compliance through shared principles trumps top-down control.",
+    "timestamp": "1743098751",
+    "date": "3/27/2025, 6:05:51 PM",
+    "id": "6a76fe4d70921f8adc336297d154e3b786dbe58568f8a9c2cf1477dc27ba8888",
+    "kind": 1
+  },
+  {
+    "content": "In a non blinded account based model, uncle Jim can see how money they should get.",
+    "timestamp": "1743094280",
+    "date": "3/27/2025, 4:51:20 PM",
+    "id": "405a4d06f945f09f0d7caf8eed9ca5750f7711860d02120def27eb0e43cdf06c",
+    "kind": 1
+  },
+  {
+    "content": "The nerdsniping worked!\nnostr:nevent1qqsxssyqgz0znnlkqyh72948e5x4m6xtktsng3x6pg0z85uqrwmzakqpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgst3axzay8sm4n8zg2n84acmt7hwwztpdg9r7p89e2f83v007f7zjcrqsqqqqqpp228y3",
+    "timestamp": "1743092193",
+    "date": "3/27/2025, 4:16:33 PM",
+    "id": "54c52556d0663c1531f8259d0c2e913e049ca76c103723cf5e4da475b93b5c43",
+    "kind": 1
+  },
+  {
+    "content": "What's the signature size for different ring sizes?",
+    "timestamp": "1743092156",
+    "date": "3/27/2025, 4:15:56 PM",
+    "id": "6fef4b4dbb844184adce2a1c2e09f345d31114a1151a1e4ac1b0aa5fbb551a13",
+    "kind": 1
+  },
+  {
+    "content": "The name is perfect!",
+    "timestamp": "1743091878",
+    "date": "3/27/2025, 4:11:18 PM",
+    "id": "cf3cb26a4d759ef8c8fd0905596f3df439a1fe43fd582a307f040c559750786f",
+    "kind": 1
+  },
+  {
+    "content": "Finally! \nThanks a bunch for this, great application of zk magic.",
+    "timestamp": "1743091842",
+    "date": "3/27/2025, 4:10:42 PM",
+    "id": "a81cd6e83096ef34876259228dec6d2ff3b35e45f1634c807f397597baff6280",
+    "kind": 1
+  },
+  {
+    "content": "Introducing Nostringer - unlinkable ring signatures (SAG) for Nostr pubkeys.\nInstead of doing some Ghibli stuff I implemented a prototype of unlinkable ring signatures for Nostr.\nIt's using Monero style Spontaneous Anonymous Group signatures (SAG).\nWhat does it enable ?\nRing signatures allow multiple members of a group to sign a message without revealing which member actually signed it.\nI explored this after chatting with nostr:nprofile1qqsydl97xpj74udw0qg5vkfyujyjxd3l706jd0t0w0turp93d0vvungpzpmhxue69uhkummnw3ezumt0d5hszythwden5te0dehhxarj9emkjmn99ujcnqad who wants to use this concept for WalletScrutiny. Basically his idea would be to let users write reviews as accredited wallet developers. Because of the competition between wallets it's better to not disclose who posted a review.\nIt would be sufficient to know that it was posted from someone belonging to a group of accredited developers.\nCheckout the demo and repo in the links below.\n\n\nLive demo: https://nostringer.starknetonbitcoin.com\n\nRepo: https://github.com/AbdelStark/nostringer\nhttps://m.primal.net/PvLL.mov",
+    "timestamp": "1743091786",
+    "date": "3/27/2025, 4:09:46 PM",
+    "id": "5881614fd55089d51b9afa6bdeba2494ba95839a9173f37cb20bd4555276fe0d",
+    "kind": 6
+  },
+  {
+    "content": "What if they loose the nsec?",
+    "timestamp": "1743089769",
+    "date": "3/27/2025, 3:36:09 PM",
+    "id": "5104b3d91cb7ba8cf784d56d1880038f467b52bd1323d6cb6d9b9eac213a3aa2",
+    "kind": 1
+  },
+  {
+    "content": "What happens when the brightest minds in Bitcoin come together to build, break, and explore?\n\nDev/Hack/Day – happening June 18 – is where developers, hackers, builders, and curious minds meet to dive deep into the tech shaping Bitcoin’s future.\n\nIs this something for you?\n\n🎤 Speaker applications are open\n🎟️ Tickets available now\n\nhttps://video.nostr.build/a7716cbe06fd07867131c205f6e520fb6928a80b5f540238e4b48e0b9594c08c.mp4",
+    "timestamp": "1743087237",
+    "date": "3/27/2025, 2:53:57 PM",
+    "id": "05c30bf1d391008fae9a657d581108fc8d350a5f7771bf14b9562ac55aba4882",
+    "kind": 6
+  },
+  {
+    "content": "Build cultural memes that glorify autonomy. Music, art, slang, make rebellion irresistible to the next generation.",
+    "timestamp": "1743086872",
+    "date": "3/27/2025, 2:47:52 PM",
+    "id": "d1da70724216620f8822fc09aa66e8f2718af848e3a3d5be41ce0b72969156a6",
+    "kind": 1
+  },
+  {
+    "content": "How to revolutionize the internet in 47 lines of markdown.",
+    "timestamp": "1743085965",
+    "date": "3/27/2025, 2:32:45 PM",
+    "id": "cccbbe0dd9ece5036c3a99624dfb67f2d99415a15ec319b27c536d2262c01844",
+    "kind": 1
+  },
+  {
+    "content": "Just something like lnbits.",
+    "timestamp": "1743085515",
+    "date": "3/27/2025, 2:25:15 PM",
+    "id": "2486a8a0d5673506b5b0b654788e177339d9659c4dec9825ed14f6b8d4d010ac",
+    "kind": 1
+  },
+  {
+    "content": "When they loose the ecash backup keys the mint operator doesnt know how much sats they had. A classic unblinded account model prevents the cost of loss of access.",
+    "timestamp": "1743085007",
+    "date": "3/27/2025, 2:16:47 PM",
+    "id": "60793f5106411c8df758fd7d9067af4fc8a5b9ab9b4c437980b7ecc175c205a8",
+    "kind": 1
+  },
+  {
+    "content": "GM ☕⚡️🏴‍☠️\n\nThe other day, I made the biggest mistake possible on Nostr… I logged out of Primal, thinking I had saved my private key—but I hadn’t. Nothing to do, profile lost after so much effort.\n\nLesson learned the hard way. But hey, we fail, we learn, we grow.\n\nSo here I am, opening this new profile, hoping to reconnect with the friends I had made. And this time, the private key is safely stored. 🔐⚡\n\nMy old profile is still visible, but I can only access it in read-only mode. So I’ve decided to start fresh with this one.\n\nIf we were friends before, now you know where to find me. Starting over, stronger than before. 🤟⚡️🏴‍☠️😉\n\nhttps://m.primal.net/Puwa.png",
+    "timestamp": "1743083016",
+    "date": "3/27/2025, 1:43:36 PM",
+    "id": "ab4e43e57d69e2d66c4a983d894ad9989a27865ad06ad95c913524630bba17e2",
+    "kind": 6
+  },
+  {
+    "content": "Yes, MLS messages are used to initiate and send the call intent, don't know if the webRTC would use MLS keys.",
+    "timestamp": "1743080406",
+    "date": "3/27/2025, 1:00:06 PM",
+    "id": "a570681c81c74c6337860169906c7353fdbebc226390e3e5aabf7421f86814aa",
+    "kind": 1
+  },
+  {
+    "content": "One of my most common sentences when advising projects is:\n\"There's a NIP for that.\"",
+    "timestamp": "1743079877",
+    "date": "3/27/2025, 12:51:17 PM",
+    "id": "f1d1703044362885c298962fcc813671f1dfc9a6f2f1dab9e6d0c8f078318af6",
+    "kind": 1
+  },
+  {
+    "content": "States fear parallel societies. Build them relentlessly: clubs, forums, safe houses. Let them writhe against a ghost.",
+    "timestamp": "1743078754",
+    "date": "3/27/2025, 12:32:34 PM",
+    "id": "74bf851137d9bdc5510107a7132146fa73fc264d651fbbbef41c34ca394458e0",
+    "kind": 1
+  },
+  {
+    "content": "Avoid permanent bases. Rotate meeting spots, use pop-up markets, and keep infrastructure mobile.",
+    "timestamp": "1743065619",
+    "date": "3/27/2025, 8:53:39 AM",
+    "id": "f4e64135476a0a274173752f344dcbb6a7de5f1995f3f50bd75c08b65f8202e4",
+    "kind": 1
+  },
+  {
+    "content": "Odd, it used to work.\nAnyhow it's available on Pauls podcast:\nhttps://podcastindex.org/podcast/531078",
+    "timestamp": "1743059524",
+    "date": "3/27/2025, 7:12:04 AM",
+    "id": "2302845245879711481d5d963879f7d0b68dceba90c12934a5a33dcf9c972566",
+    "kind": 1
+  },
+  {
+    "content": "https://image.nostr.build/f65fd3b162f51bf849f8dee9ba087ff8de1dff66aa7fca428c3ad86fe005eec8.jpg\n\nhttps://freemansperspective.com/audiobook-a-lodging-of-wayfaring-men/",
+    "timestamp": "1743056840",
+    "date": "3/27/2025, 6:27:20 AM",
+    "id": "6533e4bb302c53a0b0755222a449a6610c5c399b9a7a1fb62505b22db6d2939b",
+    "kind": 6
+  },
+  {
+    "content": "The Second Realm isn’t a place, it’s a mindset. Think free, act free, and freedom expands.",
+    "timestamp": "1743056785",
+    "date": "3/27/2025, 6:26:25 AM",
+    "id": "4cec4cf45def1252d3211ea3fbbcc2cd696361aeb7712910e3cd4b6ef7173452",
+    "kind": 1
+  },
+  {
     "content": "The dollar is a relic of the 20th century—a time when men still believed politicians could be trusted.",
     "timestamp": "1743019091",
     "date": "3/26/2025, 7:58:11 PM",
