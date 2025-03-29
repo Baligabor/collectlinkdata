@@ -1,5 +1,138 @@
 [
   {
+    "content": "This is more of a state of the art collection rather than cutting edge new research.",
+    "timestamp": "1743191000",
+    "date": "3/28/2025, 7:43:20 PM",
+    "id": "1fca258edfbffefd1d3e5ba612fa4235d85332b5d5aa7d5e4b899412021b19a4",
+    "kind": 1
+  },
+  {
+    "content": "Would be interesting to see a proof for the combination of SSS with the Schnorr signature part, especislly in relation to key rotation.\n\nThis does sound like there is some footgun possibility there.",
+    "timestamp": "1743190101",
+    "date": "3/28/2025, 7:28:21 PM",
+    "id": "044e25b3b0a391c2e2c2fe0a74959de3afec7d2ea26ca062be9f28f74ec9b771",
+    "kind": 1
+  },
+  {
+    "content": "Literal Shamir's secret sharing?\nDo you have some pseudo code for this please?",
+    "timestamp": "1743189456",
+    "date": "3/28/2025, 7:17:36 PM",
+    "id": "a8c8ab2d3d361842227a9cb9962027747a51fd70036ac346c2cdfadaa75d2dd4",
+    "kind": 1
+  },
+  {
+    "content": "Thanks.\nAnd an old share can be kept in the new set?\n\nDo we have security proof for this yet?",
+    "timestamp": "1743189363",
+    "date": "3/28/2025, 7:16:03 PM",
+    "id": "9eb0728713d36b744905b34840a1709a98181f819458e1ef34f787efed3b6e2e",
+    "kind": 1
+  },
+  {
+    "content": "Research on the benefits of cross input signature aggregation.\nhttps://hrf.org/latest/cisa-research-paper/\n\n• CISA lets multiple Schnorr signatures from different inputs be combined into a single signature, significantly cutting transaction size and saving fees.\n\n• By making multi-input transactions cheaper, CISA incentivizes and normalizes usage of collaborative privacy tools like CoinJoin and PayJoin instead of normal transactions, strengthening user anonymity while also improving network efficiency.\n\n• Businesses can enjoy significant savings particularly for consolidation transactions which should counteract UTXO set growth and speed up adoption by exchanges and ecommerce.\n\n• There is no singular CISA concept, there are different aggregation modes (full and half aggregation) and scopes (transaction-wide and block-wide) and their trade-offs need to be weighed for an upcoming proposal.\n\n• CISA requires a soft fork and further cryptographic research is needed for a proposal that maximizes the benefits for the network.",
+    "timestamp": "1743189191",
+    "date": "3/28/2025, 7:13:11 PM",
+    "id": "ea595a6f6272bd87417c3f98098a35b6224b9cb2bfc41074207adff85b53940d",
+    "kind": 1
+  },
+  {
+    "content": "Can someone please explain how frost key rotation actually works, and if there are any security proofs for it?\n#asknostr",
+    "timestamp": "1743182696",
+    "date": "3/28/2025, 5:24:56 PM",
+    "id": "a46abf17b49d8fd960c7303f0ec423e5999070adb324440def506b4a918f3da9",
+    "kind": 1
+  },
+  {
+    "content": "GM fellow 0.3% er's. \n\nWho will keep the bridge with me today and everyday? \n\n----------\n\nFor the Consul’s brow was sad,\n    And the Consul’s speech was low,\nAnd darkly looked he at the wall,\n    And darkly at the foe.\n‘Their van will be upon us\n    Before the bridge goes down;\nAnd if they once may win the bridge,\n    What hope to save the town?’\n\nThen out spake brave Horatius,\n    The Captain of the gate:\n‘To every man upon this earth\n    Death cometh soon or late.\nAnd how can man die better\n    Than facing fearful odds,\nFor the ashes of his fathers,\n    And the temples of his Gods?\n\n‘Hew down the bridge, Sir Consul,\n    With all the speed ye may;\nI, with two more to help me,\n    Will hold the foe in play.\nIn yon strait path a thousand\n    May well be stopped by three.\nNow who will stand on either hand,\n    And keep the bridge with me?’\n\n https://m.primal.net/PDve.png ",
+    "timestamp": "1743181651",
+    "date": "3/28/2025, 5:07:31 PM",
+    "id": "f766554bd1e77c3d1c7aec828d3d07a15ad89765e5992e678bd6218ebb647f93",
+    "kind": 6
+  },
+  {
+    "content": "Absolutely!\n\nYou got me laughing at \"free range, slightly wild children\"",
+    "timestamp": "1743181494",
+    "date": "3/28/2025, 5:04:54 PM",
+    "id": "7007e4aed01920d5e1b3c3717226c0032e574726ad689b94ab014e191241dc42",
+    "kind": 1
+  },
+  {
+    "content": "This is a really important discussion and I have so many thoughts that hopefully I can put together..  \nWhat has the state traditionally done to take out an adversary? Cut off their supply lines (whether its a mobile army or with a siege), completely wiped out their sources of sustenance (see the plains native Americans and the buffalo), or via control of centralized food systems (mostly under communism so far). \n\nThe physical realm is much overlooked by bitcoiners IMO. We should all be growing at least a portion of our food and not be completely reliant on centralized food systems. \nCommunity and networks of resilience are key- these days that is typically via farmers markets and local co-ops. Barter is already commonplace at the markets we attend. \n\nBut the main thing is acquiring skills that can be used and applied anywhere if mobility is required. We all have our intrinsic areas of interest and skill, so finding like minded folks with other specialties and skillsets is key. \n\nBeing your own first responder and doctor is becoming more and more important with skyrocketing costs and \"care\" that often does more harm than good in hospitals/clinics. \n\nBasic building skills, the ability to fix things, tinker and creatively problem solve will all be superpowers in a world that slowly becomes more tech and AI dependent. \n\nLast thing is raising free range, slightly wild children that are outside the state's grasp. This is probably my most important job right now apart from providing fiat for the family. \n\nThe overall goal is building parallel systems that make the old ones obsolete since they are intrinsically better, provide more value, community, security and resilience. \n\nThere was a bunch more I thought of but can't remember- hopefully there is some food for thought there. Thanks for reading my ted talk lol\n",
+    "timestamp": "1743181473",
+    "date": "3/28/2025, 5:04:33 PM",
+    "id": "8730587582ff7927a83e71c202e3f8b2d20cf793a41c232865fe3accfdacaab0",
+    "kind": 6
+  },
+  {
+    "content": "https://video.nostr.build/10388c5292ef91cfa035def6c3336fbc0814c81d6807ee2bd67a1b18284cb448.mp4\nSat 29 Mar\n\nCYPHERMUNK 1$T BIRTHDAY\n\n🎟️ 3 EARLY MUNK LEFT 🎟️\n\nEvents.CyphermunkHouse.com/party\n\nART OF FREEDOM nostr:nprofile1qqs24sp8syccmlyv84ldp9uwlxn7s922dw9wdjgskwjjksha26r4qqsprfmhxue69uhkummnw3ezu7n9vfjkget99e3kcmm4vshsz8thwden5te0dehhxarj9e3xjarrda5kuetj9eek7cmfv9kz7qgwwaehxw309ahx7uewd3hkctcsegxzu GMKOKOH nostr:nprofile1qqsttwkhga9z0wj2cfnunw2a49qw3uz6qwdvxcf4558z4t6zkg5r3lcpzdmhxue69uhhqatjwpkx2urpvuhx2ue0xga202 nostr:nprofile1qqsrat92w6pjd47uaq8kact6mgveh6l8av7p5c9nnv2wpfvthtrxleqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3yamnwvaz7tmsw4e8qmr9wpskwtn9wvq3vamnwvaz7tmjv4kxz7fwdehhxarj9e3xzmny2ctevw WONDERA₿₿IT nostr:nprofile1qqs2vvpra8gdsspn9afnv0evj0nuze7f54mdnkg5esm5qpyw54z8u7qprpmhxue69uhkc6t8dp6xu6twvaex2mrp0yhxxmmdqyg8wumn8ghj7mn0wd68ytnhd9hx2qgdwaehxw309ahx7uewd3hkcqh93zd nostr:nprofile1qqs0zw6lmkhmduzw3p92vjp6mmy4qk4cxg85a9gc34p2wvdx7jfkajcpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcw4tzj3 ⚡\n\nnostr:nprofile1qqsp887vdwesfv58n96vt8x6v8vx67qk449vpuuwu7njfh6gspswvhgpzpmhxue69uhkummnw3ezuamfdejsz9rhwden5te0dehhxarj9ehhsarj9ejx2asppamhxue69uhkummnw3ezumt0d5lsl0k7 nostr:nprofile1qqswyqn7kf0qpdw7gmnj57kqy9g3j282n7m8l50j86u9c8uz45lkkhspzdmhxue69uhhqatjwpkx2urpvuhx2ue00zgweg nostr:nprofile1qqspssn04ugkrynvk08y5s7az2wg0hfsgdx38uphe908vj008t928vqpzdmhxue69uhhqatjwpkx2urpvuhx2ue08trtak nostr:nprofile1qqsfkmv4ka4qzxg6f3mcrptgrmtl808d9ll63eq4zmk8sfqtyyegtagpz4mhxue69uhkummnw3ezummcw3ezuer9wchsc9twyx nostr:nprofile1qqst6l4yfjfp7yu8yr6gegn7mr6u8pasc5ztauur4a5acfy9ldxj9acpz4mhxue69uhkummnw3ezummcw3ezuer9wchsy98fv7 Tommy Marcheschi 🔥\n\nnostr:nprofile1qqs0d3y7rdahzp4j02yz2jcklmsdsd0u3t9pmduw9gxtnglh38zp4jgpz4mhxue69uhkummnw3ezummcw3ezuer9wchszrnhwden5te0dehhxtnvdakz7qgnwaehxw309ac82unsd3jhqct89ejhxtc0gsfj4 nostr:nprofile1qqstdd059fuev9rh5smksewmmkafv0fnwktgsrrpjnku7vx7hvxzfqspr3mhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmqpp4mhxue69uhkummn9ekx7mqprdmhxue69uhhg6r9vd5hgctyv4kzumn0wd68yvfwvdhk65qplll nostr:nprofile1qqsvefuq7s3xeut40rrx0pas6fl547u6eua3d84n30d9s62gss866wspr4mhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet5qyv8wumn8ghj7un9d3shjtnwdaehgu3wvdhk6tnpw5q3vamnwvaz7tmjv4kxz7fwdehhxarj9e3xzmnyqr98vf nostr:nprofile1qqs2ksylalzd3sq2ualtq823h66a4kz4ujgweydrvqd7hqcnyjh9kacpz4mhxue69uhkummnw3ezummcw3ezuer9wchs6rp78e nostr:nprofile1qqs0kcde8kryuncwhfmxhwz4dukuqf3w36v9qyhznw3g2zxa2gr8mxqppemhxue69uhkummn9ekx7mp0qy08wumn8ghj7mn0wd68yttsw43zuam9d3kx7unyv4ezumn9wshsz8thwden5te0dehhxarj9e3xjarrda5kuetj9eek7cmfv9kz7a4qmxx nostr:nprofile1qqsr4d7zzzzjfd73c8zctuyurdlpjn670u395kaegleh3cr56a8fm0cpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq3wamnwvaz7tmjv4kxz7fwdehhxarj9e3xzmny9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcmut80v nostr:nprofile1qqstkqt54cs6djkp5z5u3d9vd6la54kw29s9cv2mrqjfwz7zwhmj8xspz4mhxue69uhkummnw3ezummcw3ezuer9wchszrnhwden5te0dehhxtnvdakz7qgnwaehxw309ac82unsd3jhqct89ejhxtcdg6x8w nostr:nprofile1qqsyr7599w7z8w6v2xua8z7fvesjt33sjsqrcfpp7ah4r0k44aahwpspzdmhxue69uhhqatjwpkx2urpvuhx2ue0sfwzne  🌟🚀🪩\n\n#london #uk #bitcoin #space #nostr #artstr #ART #MUSIC #puravida #gfy #grownostr #plebchain #bullishbounty \n",
+    "timestamp": "1743181136",
+    "date": "3/28/2025, 4:58:56 PM",
+    "id": "51ecead509c116a7561839a38a6aaad64421b96b9c8ff98ee700b4dfc56899b0",
+    "kind": 6
+  },
+  {
+    "content": "Bullish AF on zkNostr!\nnostr:nevent1qqsdgd40t909r7renj8jn909utv7ewy33y7rh9jssh5rkhu3qndhdggppemhxue69uhkummn9ekx7mp0qgst3axzay8sm4n8zg2n84acmt7hwwztpdg9r7p89e2f83v007f7zjcrqsqqqqqpqnl8gj",
+    "timestamp": "1743181022",
+    "date": "3/28/2025, 4:57:02 PM",
+    "id": "fe9c2515fb74a283f64e2e4cfedbf7c3682d1e87577ac26994468606b614e716",
+    "kind": 1
+  },
+  {
+    "content": "lol, right after I watched this one.\nhttps://www.youtube.com/watch?v=4eRCygdW--c",
+    "timestamp": "1743173738",
+    "date": "3/28/2025, 2:55:38 PM",
+    "id": "b04d356dcda1494489cf4804961abe609b5e86c5ccd3ff74a596b837070bf51d",
+    "kind": 1
+  },
+  {
+    "content": "Might be interesting for nostr:nprofile1qqs9pk20ctv9srrg9vr354p03v0rrgsqkpggh2u45va77zz4mu5p6ccpzemhxue69uhk2er9dchxummnw3ezumrpdejz7qgkwaehxw309a5xjum59ehx7um5wghxcctwvshszrnhwden5te0dehhxtnvdakz7qrxnfk et al",
+    "timestamp": "1743162144",
+    "date": "3/28/2025, 11:42:24 AM",
+    "id": "f94fabc04ef32d29744aff33a0f5c56b06b8b76b06ce5d34d408ab7a2a4d33c5",
+    "kind": 1
+  },
+  {
+    "content": "Interesting history of the freedom network, an early mixnet, ecash and zero knowledge cryptography implementation:\n\nZero Knowledge: The Founding of Zero Knowledge Systems with Austin Hill\n\nEpisode webpage: https://zeroknowledge.fm/podcast/354\n\nMedia file: https://podcasts.captivate.fm/media/c139a392-9501-4d62-9990-570fe23ecf12/ZKP-354-AustinHill-MASTER-01.mp3",
+    "timestamp": "1743162101",
+    "date": "3/28/2025, 11:41:41 AM",
+    "id": "df838b942fc03221384e59e7b6bb32bcf2db370332bc48bd608da54e9c1ecb66",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin Optech newsletter #347 is here:\n\n- describes upfront and hold fees in LN based on burnable outputs\n- summarizes discussion about testnets 3 and 4\n- announces a plan to relay certain transactions containing taproot annexes\n- summarizes popular Q&A from Stack Exchange\n- Bitcoin Core 29.0rc2\n- Optech Newsletter #347 Recap\nhttps://bitcoinops.org/en/newsletters/2025/03/28/\n\nJohn Law posted to Delving Bitcoin the summary of a paper he’s written about a protocol nodes can use to charge two additional types of fees for forwarding payments...\nhttps://bitcoinops.org/en/newsletters/2025/03/28/#ln-upfront-and-hold-fees-using-burnable-outputs\n\nSjors Provoost posted to the Bitcoin-Dev mailing list to ask whether anyone was still using testnet3 now that testnet4 has been available for about six months...\nhttps://bitcoinops.org/en/newsletters/2025/03/28/#discussion-of-testnets-3-and-4\n\nPeter Todd announced to the Bitcoin-Dev mailing list his plan to update his Bitcoin Core-based node, Libre Relay, to begin relaying transactions containing taproot annexes if they follow particular rules...\nhttps://bitcoinops.org/en/newsletters/2025/03/28/#plan-to-relay-certain-taproot-annexes\n\nSelected Q&A from Bitcoin Stack Exchange:\n- Why is the witness commitment optional?\n- Can all consensus valid 64 byte transactions be (third party) malleated to change their size?\n- How long does it take for a transaction to propagate through the network? \n- Utility of longterm fee estimation\n- Why are two anchor outputs are used in the LN?\n- Why are there no BIPs in the 2xx range?\n- Why doesn’t Bech32 use the character “b”?\n- Bech32 error detection and correction reference implementation\n- How to safely spend/burn dust? \n- How is the refund transaction in Asymmetric Revocable Commitments constructed?\n- Which applications use ZMQ with Bitcoin Core?\nhttps://bitcoinops.org/en/newsletters/2025/03/28/#selected-qa-from-bitcoin-stack-exchange\n\nBitcoin Core 29.0rc2 is a release candidate for the next major version of the network’s predominate full node. Please see the version 29 testing guide.\nhttps://github.com/bitcoin-core/bitcoin-devwiki/wiki/29.0-Release-Candidate-Testing-Guide\n\nBitcoin Optech will host an audio recap discussion of this newsletter on Riverside.fm Tuesday at 15:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.fm/studio/bitcoin-optech",
+    "timestamp": "1743161760",
+    "date": "3/28/2025, 11:36:00 AM",
+    "id": "40007dd3a599aca0019d181b3b991f9da61e629e077a2b808c29aa0049b1331a",
+    "kind": 6
+  },
+  {
+    "content": "Writing apps for hardware signing devices is about to get this easy\n\n```\n#![cfg_attr(target_arch = \"riscv32\", no_std, no_main)]\n\nextern crate alloc;\nuse alloc::vec::Vec;\n\nsdk::bootstrap!();\n\nfn process_message(_app: &mut sdk::App, msg: &[u8]) -> Vec<u8> {\n    msg.to_vec()\n}\n\npub fn main() {\n    sdk::App::new(process_message).run();\n}\n```\n\n",
+    "timestamp": "1743161742",
+    "date": "3/28/2025, 11:35:42 AM",
+    "id": "75589b429ebffccea7fe7a85f8b447bff9079b2ea315b453b68c4b6799c49e70",
+    "kind": 6
+  },
+  {
+    "content": "Protect dissidents. Offer safe houses, legal aid, and relocation networks. Solidarity weakens their intimidation.",
+    "timestamp": "1743161257",
+    "date": "3/28/2025, 11:27:37 AM",
+    "id": "ac4340d23de947d013256aea12ebf052efc5ec51ef659a020c479c074d446083",
+    "kind": 1
+  },
+  {
+    "content": "It’s basically equivalent to the size of the ring.\nIts ring size multiplied by 32, and add 32 bytes.\nSo if ring size is 10 it’s 342 bytes.\nIf ring size is 100 it’s 3232 bytes. ",
+    "timestamp": "1743159025",
+    "date": "3/28/2025, 10:50:25 AM",
+    "id": "ce14cce7337edd76feecc47e03c1110dcf7acf3cf50e1fae48a3d4b0c425b30f",
+    "kind": 6
+  },
+  {
+    "content": "Forge decentralized intelligence networks. Crowdsource data on corrupt actors, weak points, and opportunities.",
+    "timestamp": "1743143176",
+    "date": "3/28/2025, 6:26:16 AM",
+    "id": "f44417330f6ce10ec68e436e0698a4cc3f87f1c521f477a25f038c261d850779",
+    "kind": 1
+  },
+  {
     "content": "voca v0.0.6 is released!\n\nThis release fine tunes the release process and makes publishing to nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0 a lot easier.\n\nThere are also continuous improvements to initializing the text to speech engine for a faster startup.\n\nWe're laying the groundwork for some major features in the upcoming releases, stay tuned!",
     "timestamp": "1743105004",
     "date": "3/27/2025, 7:50:04 PM",
