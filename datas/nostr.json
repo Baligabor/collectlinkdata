@@ -1,5 +1,145 @@
 [
   {
+    "content": "Be important to the world for what you build, not who you are. \n\nBe important to the people in your life because who you are, not what you build.",
+    "timestamp": "1743274731",
+    "date": "3/29/2025, 6:58:51 PM",
+    "id": "92dda111e529cd16a0e79edc053ae33f81de0b3cb9bba2497c4695c9e9923b9b",
+    "kind": 6
+  },
+  {
+    "content": "Exploit jurisdictional chaos. Operate in border zones, unincorporated areas, and places with conflicting laws.",
+    "timestamp": "1743274687",
+    "date": "3/29/2025, 6:58:07 PM",
+    "id": "9db429e182804f6b08aebdccc0d47397c1c7d7cf276b0ab832d58146b0ad63ff",
+    "kind": 1
+  },
+  {
+    "content": "Leaders become targets, stay faceless.",
+    "timestamp": "1743267794",
+    "date": "3/29/2025, 5:03:14 PM",
+    "id": "1df1a4257183530de3fa2b1cf37204f74c38777a155c975921156399b8e0f99b",
+    "kind": 1
+  },
+  {
+    "content": "That was, in the end, my choice...",
+    "timestamp": "1743265076",
+    "date": "3/29/2025, 4:17:56 PM",
+    "id": "5da39334f8544f4fe8240c6f904a49d82d5c15f19ffdd6f0f27987794ed07a9a",
+    "kind": 1
+  },
+  {
+    "content": "∀x (BitcoinFixes(x))",
+    "timestamp": "1743244285",
+    "date": "3/29/2025, 10:31:25 AM",
+    "id": "fb02ca3c4466bcfce9004f8831e67745c951ef970c947df4580797b72c44996b",
+    "kind": 1
+  },
+  {
+    "content": "One of the best abandoned podcasts: \nCypherpunk Bitstream\nhttps://taz0.org/bitstream/\nTotally worth to relisten to all episodes.\nYou know it's cpaf because episode numbers are in hexadecimal...",
+    "timestamp": "1743244167",
+    "date": "3/29/2025, 10:29:27 AM",
+    "id": "00c0be45d78b680ce7999534b8922551be54c8af5a8214c7360281ac383a469c",
+    "kind": 1
+  },
+  {
+    "content": "Its the cypherpunk bitstream of current times.",
+    "timestamp": "1743243823",
+    "date": "3/29/2025, 10:23:43 AM",
+    "id": "2d4409708f9f7af6274be920d10ddf70794850b7b36de22ebf384cc286d4100b",
+    "kind": 1
+  },
+  {
+    "content": "Would be great to have an android keyboard that does that automatically...",
+    "timestamp": "1743239901",
+    "date": "3/29/2025, 9:18:21 AM",
+    "id": "5818ed59140751ce019dfe78dec8b59c2d605f86d7511b20a0c602d681f38d95",
+    "kind": 1
+  },
+  {
+    "content": "My citrine has 95 MB.\nAll my posts in such a small footprint.\nNow I feel quite insignificant.",
+    "timestamp": "1743239793",
+    "date": "3/29/2025, 9:16:33 AM",
+    "id": "fd2d6a3cb613422bcffd58e8a02c9eeacb0aa0f80004b902d25eefa8d800c8b8",
+    "kind": 1
+  },
+  {
+    "content": "Its the same with any custodial system...",
+    "timestamp": "1743239313",
+    "date": "3/29/2025, 9:08:33 AM",
+    "id": "b84d2ec86f75267c1fd43f8d66593768bfb679b7ca039b3b6f1b16719cf84227",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, this blew my mind a couple years ago!\n\nSame trick doesn't work in german tho...",
+    "timestamp": "1743238470",
+    "date": "3/29/2025, 8:54:30 AM",
+    "id": "a03401aba3c8297b8e2f18feaaf14a418e946a1961d3c822149861258645cfd6",
+    "kind": 1
+  },
+  {
+    "content": "Would be great if proton apps don't depend on google play service framework anymore...",
+    "timestamp": "1743238393",
+    "date": "3/29/2025, 8:53:13 AM",
+    "id": "6d124ea2d4846a49a0fb6367ca7f7d939b42f83087bf44c92d3ed6a8d95b4bf4",
+    "kind": 1
+  },
+  {
+    "content": "Thanks for the summary!\nWhat's the privacy of the current implementation?",
+    "timestamp": "1743238321",
+    "date": "3/29/2025, 8:52:01 AM",
+    "id": "03dbef4ac7cfe922c39d523730af2fe8bed9fdd6076f593b4e9f0c6cb1469ec9",
+    "kind": 1
+  },
+  {
+    "content": "Our latest 2025032500 release greatly improved our built-in network-based location. It's usually better than Google's network-based location in urban areas where Apple has competitive data. Unlike Google's service, position estimation is done locally by fetching location data for nearby networks.\n\nYou can enable this feature via the toggle we added at Settings > Location > Location services > Network location. You can optionally enable the standard Wi-Fi scanning toggle in the Location services menu to allow Wi-Fi scans when Wi-Fi is otherwise disabled to keep network-based location working.\n\nOur implementation is currently based entirely on Wi-Fi Access Points (APs). Location data for nearby APs is fetched in batches from either Apple's service or a GrapheneOS proxy server. We also ask the service for up to 100 nearby APs which it provides with a reasonable density over a large area.\n\nOur implementation caches location data for up to 10000 APs in an in-memory Least-Recently-Used cache with 15 minute expiry after last usage of an AP. This avoids persisting a local location history while enabling semi-offline usage. We can make these parameters user configurable in the future.\n\nMost navigation apps use the fused location service providing the best result from GNSS (GPS, Galileo, etc.) or network-based location (when it's enabled). Other apps often prefer network-based location for lower power usage and quicker results not requiring GNSS reception. Some apps can't use GNSS.\n\nMost apps on the Play Store use the Google Play services location service instead of the OS provided location service. By default, our sandboxed Google Play compatibility layer reroutes location requests from these apps to the OS location service so there's no need to give Location to Play services.\n\nNearly all users on Google Mobile Services devices have their network-based location enabled. This means some apps assume it's always available. For improved compatibility, our default enabled rerouting emulates the presence of network location with GNSS when the OS network location service is off.\n\nIn the near future, we'll be making several major improvements to our network location service including Wi-Fi RTT (Round-Trip-Time) for improved distance estimation and cell tower fallback to make it work better outside cities. There will also be a lot more efficiency and other improvements to it.\n\nLonger term, we'll be providing our own location service rather than only a proxy along with full offline support via database downloads. It already works offline for a while based on the cache. We'll be using data from Apple's service to bootstrap our service, but we'll also be using other sources.\n\nSource code is available here:  \n\nhttps://github.com/GrapheneOS/platform_packages_apps_NetworkLocation\n\nIt's new code and still being built out so it hasn't had much refactoring, optimization or tuning yet. It's a mix of Kotlin and Rust since we wrote position estimation in Rust for significantly better performance.\n\n#GrapheneOS",
+    "timestamp": "1743238292",
+    "date": "3/29/2025, 8:51:32 AM",
+    "id": "e21c099f152cacd7acc50dff964522c786859a623f286aaeb74760eb8e02ea1c",
+    "kind": 6
+  },
+  {
+    "content": "You gotta break your fast eventually...",
+    "timestamp": "1743237886",
+    "date": "3/29/2025, 8:44:46 AM",
+    "id": "bec7c98fb627608ba0926477528cfc49aac88b145fedef478a979355e98977c1",
+    "kind": 1
+  },
+  {
+    "content": "https://image.nostr.build/a57f9b4fcb37e0e20429d8dff7e0b77521f046cd9600d0fdcf2b1196ee474a0c.jpg",
+    "timestamp": "1743237474",
+    "date": "3/29/2025, 8:37:54 AM",
+    "id": "884618d14c8157f874e07af20eb33fc24969eeb0f5664c2b471ff013bfbe39f3",
+    "kind": 1
+  },
+  {
+    "content": "Love to see the progress you make, Thanks for posting it!",
+    "timestamp": "1743237190",
+    "date": "3/29/2025, 8:33:10 AM",
+    "id": "189afdb0d82e802e511bcd587731cea0dcf62891134c60671677344e7eebd1b0",
+    "kind": 1
+  },
+  {
+    "content": "Beautiful bro!",
+    "timestamp": "1743235180",
+    "date": "3/29/2025, 7:59:40 AM",
+    "id": "e417232105c1327b7a6546ca6db78787c520de4a63a9e6e643186d577c4a2f3f",
+    "kind": 1
+  },
+  {
+    "content": "When your hand starts cramping from sanding all day, it’s time to stop…\n\nIt looks good with water sprayed on the surface, but the back and the two holes are only sanded to about 100 grit so far.\n\nSo close to done I can feel it, but I’ve got a few more days to go…\n\nhttps://image.nostr.build/2391f3c2a34eed70f0651c3923d597b93b148fa31eda839f972d0c9f96513266.jpg",
+    "timestamp": "1743235169",
+    "date": "3/29/2025, 7:59:29 AM",
+    "id": "527dc25e0310367de4151db4b182924bb481f22a11ec02c59bd9e5ba09881d99",
+    "kind": 6
+  },
+  {
+    "content": "Never threaten, act. Silent efficiency terrifies them more than bluster. Let results speak.",
+    "timestamp": "1743233946",
+    "date": "3/29/2025, 7:39:06 AM",
+    "id": "c8eb33d86feb98054f1603323c6a980c84479c0c05886051b516181b789cf1e3",
+    "kind": 1
+  },
+  {
     "content": "This is more of a state of the art collection rather than cutting edge new research.",
     "timestamp": "1743191000",
     "date": "3/28/2025, 7:43:20 PM",
