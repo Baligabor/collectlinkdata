@@ -1,5 +1,159 @@
 [
   {
+    "content": "Become a ghost in their machine.",
+    "timestamp": "1743635433",
+    "date": "4/2/2025, 11:10:33 PM",
+    "id": "154c7fda18af813b5746606a7ab3b95e1ed74b4dd68617b1d03d5b76d20491f0",
+    "kind": 1
+  },
+  {
+    "content": "Earlier today, nprofile1qqsf2ds69dp2ympzhtpmdd46f3w2cnfkjphtpnaesf5xs8z95vqu2xqytd0r5 and  nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqghwaehxw309anxjmr5v4ezumn0wd68ytnhd9hx2qpqzsu6h4pfsyt9atxv6prt64j645vlyv22jwkeh5y6mqlrxs47ex0slxtz3n  were joined by Sjors Provoost and Antoine Poinsot to discuss Newsletter #347:\n\n- Fee-Based Spam Prevention For Lightning\n- Testnets 3, Testnet 4\n- Taproot annexes\n- BIP30, BIP34, witness commitments, and the block 1,983,702 problem\n- Malleating any 64-byte transactions\n- And more!\n\nCatch up:\nhttps://bitcoinops.org/en/podcast/2025/04/01/ ",
+    "timestamp": "1743614386",
+    "date": "4/2/2025, 5:19:46 PM",
+    "id": "d9228ce751018f1493205a2d74ac232f20c7a2d5543bca110180af167d4dcd68",
+    "kind": 6
+  },
+  {
+    "content": "Is this even a useful metric?\nI'm guessing fanquake and hhebasto get a lot of commits by the regular maintenance work without actually writing that code.",
+    "timestamp": "1743614376",
+    "date": "4/2/2025, 5:19:36 PM",
+    "id": "546ea20c1866f79ec31fa9547135cc1117a1f915e3d8f0cb4416319ef21ccf50",
+    "kind": 1
+  },
+  {
+    "content": "Wait, lightning wallets weren't suppost to ship such awesome features in the first version!",
+    "timestamp": "1743613360",
+    "date": "4/2/2025, 5:02:40 PM",
+    "id": "fd5f1ea0b44a257ecf954e18123e6f0c2dfb2d50f85d17f09ba33eb40c91d887",
+    "kind": 1
+  },
+  {
+    "content": "Introducing Misty Breez ⚡️\n\nThe simplest self-custodial app for bitcoin payments.\n\nPowered by the Breez SDK - Nodeless.\n\n👌 Lightning Made Easy\n→ No channels. No setup fees. Just permissionless P2P payments.\n\n📶 Receive Offline Payments\n→ Receive payments offline using mobile notifications.\n\n📧 Lightning Address Support\n→ Accept payments with a customizable Lightning address.\n\nRead all about our new app nostr:nprofile1qqs9n7lwwd5a7acnmwl6nw7mpzfvvt46j2fryc2udle8sldrsn9hwrcpzemhxue69uhkummnw3ezumtfd3hh2tnvdakz7qgwwaehxw309ahx7uewd3hkctc5tmc3h nostr:npub1xapjgsushef5wwn78vac6pxuaqlke9g5hqdfjlanky3uquh0nauqx0cnde \n\nThe future of payments starts here 💥\n\nhttps://bitcoinmagazine.com/news/breez-announces-launch-of-new-wallet-misty-breez",
+    "timestamp": "1743613320",
+    "date": "4/2/2025, 5:02:00 PM",
+    "id": "f88f3b0a965c059c2d5b35ff726e1d64767e19ee02308e17bba3eee92e8db14b",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nevent1qqsxssyqgz0znnlkqyh72948e5x4m6xtktsng3x6pg0z85uqrwmzakqpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgst3axzay8sm4n8zg2n84acmt7hwwztpdg9r7p89e2f83v007f7zjcrqsqqqqqpp228y3\n\nnostr:nevent1qqstlyt5yndlq8jzj2s4ylmnpc4q6k90y3edas8cl83m8420thqqk9gpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgst3axzay8sm4n8zg2n84acmt7hwwztpdg9r7p89e2f83v007f7zjcrqsqqqqqp4jnfzn",
+    "timestamp": "1743613156",
+    "date": "4/2/2025, 4:59:16 PM",
+    "id": "97fde7dd45392e5301ed333b50dd127d6b0016a8fa0748647253e1ec7eceda1c",
+    "kind": 1
+  },
+  {
+    "content": "zkNostr is 🔥\nhttps://image.nostr.build/7365cbd76818e88830972b0df26a9ca62a896d4d9611a6bd8047e53a6d925996.jpg",
+    "timestamp": "1743612532",
+    "date": "4/2/2025, 4:48:52 PM",
+    "id": "39adb2ae291d85edaa52643cfaf658b9e5c1ada8a468dd9c0599c6b2931b0157",
+    "kind": 1
+  },
+  {
+    "content": "Amazing bro!\nzkNostr is the future",
+    "timestamp": "1743612113",
+    "date": "4/2/2025, 4:41:53 PM",
+    "id": "1c390c1dd34308e9f47248326b03dc0bca0dad8076e2e7bc233a76741c265331",
+    "kind": 1
+  },
+  {
+    "content": "What can you do with Monero style ring signatures for Nostr ?\nYou can build an Anonymous Voting platform using Nostr identities to vote.\nThanks to the Back's Linkable Spontaneous Anonymous Group, you can detect double voting without leaking identities.\nCheck Ringable demo 👇\n\nA client-side anonymous voting platform using Nostr-compatible ring signatures.\n\nRingable allows users to create proposals and vote anonymously as part of a predefined group (a \"ring\" of public keys). It leverages the cryptographic power of bLSAG ring signatures to ensure that while votes are verified as coming from a valid member of the ring, the specific voter's identity remains hidden.\n\nThe cryptographic functions are powered by the Nostringer Rust library, compiled to WebAssembly (WASM) for use in the browser.\n\n\nLive demo: https://ringable.starknetonbitcoin.com\nRingable rep: https://github.com/AbdelStark/ringable\nNostringer: https://github.com/AbdelStark/nostringer-rs\nhttps://m.primal.net/QBwR.mov",
+    "timestamp": "1743611917",
+    "date": "4/2/2025, 4:38:37 PM",
+    "id": "36abc20843d0a06c8a3a123175d5e21fec98de28491d9496af9f176225027428",
+    "kind": 6
+  },
+  {
+    "content": "Unite in action, not ideology.",
+    "timestamp": "1743611740",
+    "date": "4/2/2025, 4:35:40 PM",
+    "id": "cbba46184239dd73b694662e578dc5ebd39e1fba355aa748cfe8b4cc537732ef",
+    "kind": 1
+  },
+  {
+    "content": "Avoid martyrs. Protect operatives with opsec, legal shields, and escape plans. Dead heroes don’t build futures.",
+    "timestamp": "1743603884",
+    "date": "4/2/2025, 2:24:44 PM",
+    "id": "82cb28e3bc31dbe530f9eecb6bd85764eab32e4fe212204c702cd2de81ee6f2f",
+    "kind": 1
+  },
+  {
+    "content": "Thanks nostr:nprofile1qqs2d0qm73kmvjynznwdknv9uxvcd6fe9f4ctu5ye88egdmtxpvr8dcpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgjwaehxw309ac82unsd3jhqct89ejhxqg5waehxw309aex2mrp0yhxgctdw4eju6t0h6h2ec for the sats, they were past on to a solid business, the spiral continues.\n\nnostr:nevent1qqswqhlv8v2f5q976zvl5pf6ayvpm05dkvjhccx8l76dqt22puerkzgpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgs2d0qm73kmvjynznwdknv9uxvcd6fe9f4ctu5ye88egdmtxpvr8dcrqsqqqqqpnefcr7",
+    "timestamp": "1743602349",
+    "date": "4/2/2025, 1:59:09 PM",
+    "id": "dbf8582a8db6413c72c1121a223dfbadfbf3a4a761dc5a9d28e90fed317d40a5",
+    "kind": 1
+  },
+  {
+    "content": "I pulled out my wallet to pay for drinks at the cafe, and once the zaps loaded, enough sats came in to cover the cost.\n\nJust nostr things.",
+    "timestamp": "1743601975",
+    "date": "4/2/2025, 1:52:55 PM",
+    "id": "8d70a4c8814fa96820d0c0a8fb13b92581c878300a5ff4ef3ae8afafb9eb7a1d",
+    "kind": 1
+  },
+  {
+    "content": "Got a link?",
+    "timestamp": "1743601169",
+    "date": "4/2/2025, 1:39:29 PM",
+    "id": "44563edf6ef6768a87e5955f7a9571657a3e50c7776d1e17e23282c8de2a9e44",
+    "kind": 1
+  },
+  {
+    "content": "Just evacuate before conflict escalates ",
+    "timestamp": "1743600896",
+    "date": "4/2/2025, 1:34:56 PM",
+    "id": "f71490174f0abfe1dffcade677bbac78b97b96d89f206048a1f2e29922ad3c19",
+    "kind": 1
+  },
+  {
+    "content": "Long-term planning depends on property certainty. Unstable ownership discourages investment in complex ventures.",
+    "timestamp": "1743600870",
+    "date": "4/2/2025, 1:34:30 PM",
+    "id": "483ad54adabbba5bcb4492b99559613c3fe9b7bbfec431114d5555ddc06e5879",
+    "kind": 1
+  },
+  {
+    "content": "Temporary Autonomous Zones aren't just parties; they're protected spaces for free trade and social interaction.",
+    "timestamp": "1743592727",
+    "date": "4/2/2025, 11:18:47 AM",
+    "id": "531998af58f27888f3f8b20f427af9a5b3e89bd9f29e5b26b0ad4a0f103ea08f",
+    "kind": 1
+  },
+  {
+    "content": "Its just wild what we can do with freedom money.",
+    "timestamp": "1743592507",
+    "date": "4/2/2025, 11:15:07 AM",
+    "id": "d13ed10b215a1ef14a9b35a770e1df25be78dfc51a13ba64830a66bb9d96a9b9",
+    "kind": 1
+  },
+  {
+    "content": "Awesome! 🚀",
+    "timestamp": "1743592390",
+    "date": "4/2/2025, 11:13:10 AM",
+    "id": "0876b59439db5554d2b846ef497c42cf912018a08185326519bca36a636e2b8b",
+    "kind": 1
+  },
+  {
+    "content": "By the way, if you post nostr:nevent it renders nicely in all clients, having the primal link opens a browser...\n\nnostr:nevent1qqst2krdqsuph6hj6070k453k26hle52eaz08aalpkxplhhu3lpvx7g5ct0ce",
+    "timestamp": "1743591036",
+    "date": "4/2/2025, 10:50:36 AM",
+    "id": "dbaabfb00ae5d6859006dd91fb15b7148abf68c1d2f5e6ac4ed05419133c770e",
+    "kind": 1
+  },
+  {
+    "content": "Its not a looter if you can route around them.",
+    "timestamp": "1743581771",
+    "date": "4/2/2025, 8:16:11 AM",
+    "id": "3ceaa4645d26d5d025acdf88abba42495b0be2f78b8100f8a35fec803d1719d7",
+    "kind": 1
+  },
+  {
+    "content": "Create ungovernable spaces. Squats, encrypted forums, nomadic hubs, zones where their laws are irrelevant.",
+    "timestamp": "1743581672",
+    "date": "4/2/2025, 8:14:32 AM",
+    "id": "a4e383f0541946ead79c4aff4eefff466701acdcd6773c1643bebb751c832665",
+    "kind": 1
+  },
+  {
     "content": "nostr:nprofile1qqs0ekqcg4qq9fky02vq8yls2jdvde3f62x4dzq3fwmqmqcmtsvr9fcpz4mhxue69uhhyetvv9ujumn0wd68ytnzvuhsz9thwden5te0dehhxarj9ehhsarj9ejx2a30qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7m5lzc5 nostr:nprofile1qqszdzu53dd2kjatpe2rpmjfu08lz9mkeuvrm7fmxg2el9nsa42pf9gpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz8thwden5te0dehhxarj9e3xjarrda5kuetj9eek7cmfv9kz7qg4waehxw309aex2mrp0yhxummnw3ezucn89uhccw4k in case you wanna contribute...",
     "timestamp": "1743541326",
     "date": "4/1/2025, 9:02:06 PM",
