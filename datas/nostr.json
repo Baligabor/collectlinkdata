@@ -1,5 +1,68 @@
 [
   {
+    "content": "Axiom of Resistance\n\nIn modern logic an axiom is a premise, it cannot be proven. It is a starting assumption against which other things may be proven. For example, in Euclidean geometry one cannot prove that parallel lines never meet. It simply defines the particular geometry. Proving statements about Bitcoin requires reliance on axiomatic systems, specifically mathematics, probability and catallactics, and therefore the assumptions upon which they rely. \n\nHowever Bitcoin also relies on an axiom not found in these systems. Satoshi alludes to this in an early statement: In other words, there is an assumption that it is possible for a system to resist state control. This is not accepted as a fact but deemed to be a reasonable assumption, due to the behavior of similar systems, on which to base the system. \n\n\"You will not find a solution to political problems in cryptography.  Yes, but we can win a major battle in the arms race and gain a new territory of freedom for several years.  Governments are good at cutting off the heads of a centrally controlled networks like Napster, but pure P2P networks like Gnutella and Tor seem to be holding their own.\" Satoshi Thu Nov 6 15:15:40 EST 2008\n\nIn other words, there is an assumption that it is possible for a system to resist state control. This is not accepted as a fact but deemed to be a reasonable assumption, due to the behavior of similar systems, on which to base the system.\n\nOne who does not accept the axiom of resistance is contemplating an entirely different system than Bitcoin. If one assumes it is not possible for a system to resist state controls, conclusions do not make sense in the context of Bitcoin – just as conclusions in spherical geometry contradict Euclidean. How can Bitcoin be permissionless or censorship resistant without the axiom? \n\nThe contradiction leads one to make obvious errors in an attempt to rationalize the conflict. It is common for people to refer cynically to a Bitcoin-like system that omits the resistance axiom as “just another PayPal”, a designation not without merit. Confinity originally attempted to create a system with a similar value proposition to Bitcoin. Having failed to do so it discarded the axiom, building the PayPal we know today.\n\n\nnostr:nevent1qqsguashckakpyuey5933hzy35z5xx0pqsd99e0xkq4mn69vyuh38kqpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqqqpr86cyv",
+    "timestamp": "1743796881",
+    "date": "4/4/2025, 8:01:21 PM",
+    "id": "c678b40f561a78bdba8afb1b4c3418f2a72aabf9c0c9d9b3f35c272b5f167ab7",
+    "kind": 6
+  },
+  {
+    "content": "Vibe coding on steroids:\nhttps://roocode.com/",
+    "timestamp": "1743796865",
+    "date": "4/4/2025, 8:01:05 PM",
+    "id": "614d279e8b5b7183e58f0096996249d4b26bb5d8cea18b5ad4b061b6bc49e961",
+    "kind": 1
+  },
+  {
+    "content": "Without the axiom of resistance, Bitcoin's censorship-resistant and permissionless design becomes logically inconsistent.",
+    "timestamp": "1743792560",
+    "date": "4/4/2025, 6:49:20 PM",
+    "id": "8e7617c5bb609399250b18dc448d054319e1041a52e5e6b02bb9e8ac272f13d8",
+    "kind": 1
+  },
+  {
+    "content": "The Second Realm strategy is about creating pockets of freedom within a tyrannical society, focusing on building autonomous zones where individuals can live freely despite the state's presence.",
+    "timestamp": "1743785464",
+    "date": "4/4/2025, 4:51:04 PM",
+    "id": "53774bc535552bd798189e209a7915b4cff7ad92af183190f1cecdaa54e0f6b9",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin Optech newsletter #348 is here:\n\n- links to an educational implementation of elliptic curve cryptography for Bitcoin’s secp256k1 curve\n- Changing consensus covering: discussions about quantum computer theft and resistance, a CTV+CSFS soft fork, OP_CHECKCONTRACTVERIFY semantics, and a consensus cleanup draft BIP\n- Optech Newsletter #348 Recap on Riverside\nhttps://bitcoinops.org/en/newsletters/2025/04/04/\n\nSebastian Falbesoner, Jonas Nick, and Tim Ruffing posted to the Bitcoin-Dev mailing list to announce a Python implementation of various functions related to the cryptography used in Bitcoin...\nhttps://bitcoinops.org/en/newsletters/2025/04/04/#educational-and-experimental-based-secp256k1-implementation\n\nSeveral conversations examined how Bitcoiners could respond to quantum computers becoming powerful enough to allow stealing bitcoins...\nhttps://bitcoinops.org/en/newsletters/2025/04/04/#multiple-discussions-about-quantum-computer-theft-and-resistance\n\nSeveral conversations examined various aspects of soft forking in the OP_CHECKTEMPLATEVERIFY (CTV) and OP_CHECKSIGFROMSTACK (CSFS) opcodes...\nhttps://bitcoinops.org/en/newsletters/2025/04/04/#multiple-discussions-about-a-ctv-csfs-soft-fork\n\nSalvatore Ingala posted to Delving Bitcoin to describe the semantics of the proposed OP_CHECKCONTRACTVERIFY (CCV) opcode, link to a first draft BIP, and link to an implementation draft for Bitcoin Core...\nhttps://bitcoinops.org/en/newsletters/2025/04/04/#op-checkcontractverify-semantics\n\nAntoine Poinsot posted to the Bitcoin-Dev mailing list a link to a draft BIP he’s written for the consensus cleanup soft fork proposal. It includes several fixes...\nhttps://bitcoinops.org/en/newsletters/2025/04/04/#draft-bip-published-for-consensus-cleanup\n\nBitcoin Optech will host an audio recap discussion of this newsletter on Riverside.fm Tuesday at 15:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.fm/studio/bitcoin-optech\n\n",
+    "timestamp": "1743780514",
+    "date": "4/4/2025, 3:28:34 PM",
+    "id": "80b0b2f2cfa1c5bba854354782a7764aa7a48f2cc7a36c4a752b78d9d9de6b71",
+    "kind": 6
+  },
+  {
+    "content": "New voca v0.1.1 release is out, and this is a big one!\n\nKey changes:\n- Improved MP3 generation\n- PDF text extraction\n- Enhanced TTS controls (pause/resume, crash prevention)\n- Fresh UI with pretty buttons\n- Fixed critical build errors and UI refinements (text selection, exclusive audio controls)\n- Streamlined layouts and dependency updates for stability\n\nExpect smoother performance, new features, and a better user experience.\n\nYour feedback fuels our next updates, and your zaps help pay and motivate the devs!",
+    "timestamp": "1743778985",
+    "date": "4/4/2025, 3:03:05 PM",
+    "id": "7f2de03a50bc25a5f9e8aea2dcbf84aea1dfe5ce8d777801b746c16882bc75d1",
+    "kind": 6
+  },
+  {
+    "content": "Consent legitimizes transactions. Coerced agreements lack moral and legal validity regardless of formal compliance.",
+    "timestamp": "1743778277",
+    "date": "4/4/2025, 2:51:17 PM",
+    "id": "31b41f4081516a6e3a144bc2f2a7f4fa9c24fa4acf957b0676da8c523cdadf6c",
+    "kind": 1
+  },
+  {
+    "content": "Your greatest leverage? Exit. Physically withdraw, digitally vanish. Make your presence optional to their systems.",
+    "timestamp": "1743773951",
+    "date": "4/4/2025, 1:39:11 PM",
+    "id": "0a5406af076c61c1009f0f7e93e85e234c46ff39172f632ed1b38d97f043c000",
+    "kind": 1
+  },
+  {
+    "content": "Freedom requires sacrifice. Invest time, capital, and social capital into parallel systems.",
+    "timestamp": "1743752754",
+    "date": "4/4/2025, 7:45:54 AM",
+    "id": "82873606a7494b543c68d0aaa9bb7a0fbc99dfdfeb43c7c70138401205cd7ce8",
+    "kind": 1
+  },
+  {
     "content": "No authority can rightfully seize life or property without consent. Ownership sovereignty underpins all liberty.",
     "timestamp": "1743684553",
     "date": "4/3/2025, 12:49:13 PM",
