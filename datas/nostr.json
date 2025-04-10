@@ -1,5 +1,159 @@
 [
   {
+    "content": "Are you even talking to your computer bro\nhttps://github.com/dergigi/vibeline",
+    "timestamp": "1744235291",
+    "date": "4/9/2025, 9:48:11 PM",
+    "id": "252a943732fbfc4cd4d21a17dbedad22c12ed3baf565ce893284d49d84dd9bd5",
+    "kind": 1
+  },
+  {
+    "content": "08: Navigating the Vibe\nhttps://haven.sovereignengineering.io/163991993992a3ba54e22d8c1516bd2fdec4fb228e698931cb9474b80ced7dc5.m4a\n#NoSolutions",
+    "timestamp": "1744234907",
+    "date": "4/9/2025, 9:41:47 PM",
+    "id": "d6fa6298d673d01a553ecedc87e997e03db558dc95f4601495f08b03ba9b5631",
+    "kind": 6
+  },
+  {
+    "content": "Never seen developer enthusiasm at such a high level, coding is addictive again.",
+    "timestamp": "1744234895",
+    "date": "4/9/2025, 9:41:35 PM",
+    "id": "fe6c7e2c153f3c4d6fb902c2ff5e18d2910f5c8f032308e2014862b43adce4ac",
+    "kind": 1
+  },
+  {
+    "content": "Very pretty blog.\nWould be cool to get similar design possibilities into nostr notes.",
+    "timestamp": "1744234800",
+    "date": "4/9/2025, 9:40:00 PM",
+    "id": "84e9176dd69c82ca3e9009be91262f8928dfebcd668fb70ea90bb67b6023722f",
+    "kind": 1
+  },
+  {
+    "content": "New features are now available for the Discovery Package! The dvmcp-discovery package has been updated to provide a more intuitive way to discover and use MCP tools on Nostr. You can now seamlessly integrate these tools with your LLMs, running them locally while they execute remotely by another nostrish.\n\nThis update introduces a reworked configuration system, making it easier to connect to tools with flexible and user-friendly methods. Additionally, the new interactive mode allows you to use natural language to discover and integrate tools as if you were in a toy shop, picking out exactly what you need for your workflows.\nhttps://video.nostr.build/3b30c65e08b673971b01a26f0851e5c354b1430950d3308b1b69bf94c57861f7.mp4 \n\nWe hope the ecosystem will continue to grow with active tools, we are also working on enabling machine-to-machine payments to support operators and make everything more reliable. This is an exciting step forward for the project, which is still in its early stages and constantly evolving. If you’re interested, stay tuned and get involved!\n\nTo start using this, simply configure `npx @dvmcp/discovery -i` as your MCP server in your favorite client, and you’ll be ready to explore and use new tools, you also see the help text with examples using `npx @dvmcp/discovery -h` . For more information, visit  https://github.com/gzuuus/dvmcp or https://dvmcp.fun/\n",
+    "timestamp": "1744234477",
+    "date": "4/9/2025, 9:34:37 PM",
+    "id": "ec8957c4bec66f322eb1f1743c351aba83150599257560dc6f6a1be1d252b3f6",
+    "kind": 6
+  },
+  {
+    "content": "running zapstore ⚡\n",
+    "timestamp": "1744233705",
+    "date": "4/9/2025, 9:21:45 PM",
+    "id": "e8da9db21a2248a237b009d28189ffda10ef93a4629a18f65b97d7164016549f",
+    "kind": 6
+  },
+  {
+    "content": "Equality before the law is non-negotiable.",
+    "timestamp": "1744232342",
+    "date": "4/9/2025, 8:59:02 PM",
+    "id": "d745d87943bab8a7e88e53c66fa27322030af0d9031980c06a0091a4c99fba8f",
+    "kind": 1
+  },
+  {
+    "content": "idk, but libbitcoin makes a fully validating IBD in 37 minutes, so these kind of hacks aren't that impressive in comparison...",
+    "timestamp": "1744230706",
+    "date": "4/9/2025, 8:31:46 PM",
+    "id": "5f28e740f40b1fef7914fe085479e0de05ab17308c8b2433639c0022b1f6c230",
+    "kind": 1
+  },
+  {
+    "content": "Payjo.in Directory Security Incident: Misconfiguration May Have Exposed Some Payjoin v1 Messages\n\nBackwards compatible BIP 77 receives from BIP 78 senders made before April 2 may not have full common input heuristic protection\n\nhttps://payjoindevkit.org/2025/04/08/payjo-in-redis-misconfiguration/",
+    "timestamp": "1744227864",
+    "date": "4/9/2025, 7:44:24 PM",
+    "id": "be1a7bd24b5290f0a2df2bac9c88b7b63cfb1d716ef84e96a2628fd5112073ca",
+    "kind": 6
+  },
+  {
+    "content": "Survival prioritizes correct action. Instinct guides animals; reason must guide humans. Neglecting this distinction proves fatal.",
+    "timestamp": "1744227042",
+    "date": "4/9/2025, 7:30:42 PM",
+    "id": "d7dedb10343f2e35e871a3befa7d86b7313b8acc702c36c1b9274a0b8660d389",
+    "kind": 1
+  },
+  {
+    "content": "Sovereignty begins when obedience ends. We're not revolutionaries burning palaces - we're architects drafting blueprints beyond the reach of crowns.",
+    "timestamp": "1744203743",
+    "date": "4/9/2025, 1:02:23 PM",
+    "id": "10dfeb07f7804f8612ee81d0f113c268cf53c0b2aa1959520cea5783c3e102f4",
+    "kind": 1
+  },
+  {
+    "content": "All acts serve the self, even charity. Denying this breeds hypocrisy, not virtue.",
+    "timestamp": "1744196266",
+    "date": "4/9/2025, 10:57:46 AM",
+    "id": "bf4554a4269f5c2564f785731a5e01ec7b308283cff2294fadd54013b4f6cb97",
+    "kind": 1
+  },
+  {
+    "content": "Borders are performance art for nationalists. We recognize only the frontier between consent and coercion.",
+    "timestamp": "1744185974",
+    "date": "4/9/2025, 8:06:14 AM",
+    "id": "874528ec99907883100ed5bdc690bc94f0b83d82ec9d2271bd17d17240bda54e",
+    "kind": 1
+  },
+  {
+    "content": "Every regulation is a confession: \"We don't trust humans to be decent without our guns pointed at them.\"",
+    "timestamp": "1744140776",
+    "date": "4/8/2025, 7:32:56 PM",
+    "id": "eae492f044d21abd03bad2b8b71f58ce0b8075d141f77753cbe9bbb56a492c2d",
+    "kind": 1
+  },
+  {
+    "content": "Don't fight the system. \nStarve it.",
+    "timestamp": "1744134008",
+    "date": "4/8/2025, 5:40:08 PM",
+    "id": "d88aefafeb097c2ce0271070ef193bbe90bb9deffeed8cc5b426e0a411cf969a",
+    "kind": 1
+  },
+  {
+    "content": "Citizenship is Stockholm Syndrome formalized.",
+    "timestamp": "1744127875",
+    "date": "4/8/2025, 3:57:55 PM",
+    "id": "af3079d1147f61dce844bbee00ba0c992b41d5a49fc5849507394ab8a876fe16",
+    "kind": 1
+  },
+  {
+    "content": "Supply is not the total quantity of money.\n\nIf demand increases, price increases, and more plebs sell their sats, which means supply increases.",
+    "timestamp": "1744121738",
+    "date": "4/8/2025, 2:15:38 PM",
+    "id": "a0fb7069ab9a83bfd0cac4780d70241d636aaf3f761589f97a9ae82f8e911c5f",
+    "kind": 1
+  },
+  {
+    "content": "Scarcity and demand are interdependent. An increase in demand can reduce availability, but it also incentivizes production, which can increase supply. This dynamic stabilizes prices and availability over time.",
+    "timestamp": "1744120507",
+    "date": "4/8/2025, 1:55:07 PM",
+    "id": "6fd5d88e4dc5ab2b8a3d252fe6b8eaeb48112f056fa64c0807ebab885f582a28",
+    "kind": 1
+  },
+  {
+    "content": "The Second Realm can coexist with the First Realm, the state-controlled society, by respecting the autonomy of others even within the First Realm.",
+    "timestamp": "1744118457",
+    "date": "4/8/2025, 1:20:57 PM",
+    "id": "e1c5b5a323f5ffbe27644e99ab14f3c15aa0a57752545d0a1a6f2ad7901a6f3c",
+    "kind": 1
+  },
+  {
+    "content": "Value creation's exponential potential lies in ideas. Physical labor has limits; mental breakthroughs scale infinitely. Economies thrive when minds are free.",
+    "timestamp": "1744109667",
+    "date": "4/8/2025, 10:54:27 AM",
+    "id": "7cc61dd0dfee6ebff406846258980e15072af6c97dbef5c0d095dad85b927e04",
+    "kind": 1
+  },
+  {
+    "content": "I just vibelined a vertex DVM search app without touching a single key.\n\nLiterally only recorded a voice memo and saved it on my phone.\nWhich went to my old laptop via syncthing\n\nnostr:nprofile1qqsxu35yyt0mwjjh8pcz4zprhxegz69t4wr9t74vk6zne58wzh0waycpz4mhxue69uhkummnw3ezummcw3ezuer9wchszxthwden5te0v3jhyemfva5jumn0wd68yvfwvdhk6tc4839wp ‘s vibeline picked it up from there: whisper to transcribe locally, qwen2.5 via Ollama to understand what I wanted, saw that I was talking about building an app so it called my new build_app plugin which transformed my text into an app spec and then kicked-off my vibeline tools with mcp, checking my nostr code snippets to one-shot build a CLI DVM-capable WoT username search tool\n\n😂😂😂 wiiiiild times\n\nVoice-memo in, app out",
+    "timestamp": "1744104009",
+    "date": "4/8/2025, 9:20:09 AM",
+    "id": "318b84302cd8451b23f97d16b2a58390a83263f52ceb06e62a61eb12f0fd0275",
+    "kind": 6
+  },
+  {
+    "content": "# A Declaration of Separation\n\n## To The Governments & People of Earth:\n\nWe claim the right to exist, and we will defend it. We do not seek to overthrow anything. We do not seek to control anything. We/merely wish to be left alone.\n\nAll we ever wanted was to live in peace with our friends and neighbors. For a long, long time we bore insults to our liberty; we took blows, we did what we could to avoid injury and we worked through the system to get the offenses to stop. That has now changed. \n\nWe no longer see any benefit in working through the world?s systems. At some point, working within a system becomes cowardly and immoral; for us, that point has arrived.\n\nRegardless of the parties in power, their governments have continued to restrict, restrain and punish us. We hereby reject them all. We hereby withdraw from them all. We hold the ruling states of this world and all that appertains to them to be self-serving and opposed to humanity. We now withdraw our obedience and reclaim the right to strike back when struck. We will not initiate force, but we do reserve the right to answer it. We did not choose this ? it was forced upon us.\n\n## To The Governments of Earth:\n\nYou are building cages for all that is human. In the name of protection, you have intruded into all areas of human life, far exceeding the reach of any Caesar. You claim ultimate control of our property and our decisions, of our travels and even our identities. You claim ownership of humanity far beyond the dreams of any Emperor of any previous era.\n\nUnderstand clearly: We reject your authority and we reject your legitimacy. We do not believe that you have any right to do the things you do. You have massive power, but no right to impose it upon us and no legitimacy. We have forsaken you. We are no longer your citizens or your subjects. Your systems are inherently anti-human, even if all their operators are not. We are not merely angry young people. We are fathers and mothers; aunts, uncles and grandparents; we are business owners and trusted employees; we are mechanics and engineers and farmers. We are nurses and accountants and students and executives.\n\nWe are on every continent.\n\nThis is not a burst of outrage; this is a sober declaration that we no longer accept unearned suffering as our role in life. \n\nFor long decades we sat quietly, hoping that things would turn around. We took no actions; we suffered along with everyone else. But after having our limits pushed back again and again, we have given up on your systems. If our fellow inhabitants of this planet wish to accept your rule, they are free to do so. \n\nWe will not try to stop them. We, however, will no longer accept your constraints upon us. \n\nFrom now on, when you hurt us, we will bite back. If you leave us alone we will leave you alone and you can continue to rule your subjects. We are happy to live quietly. But if you come after us, there will be consequences. You caused this because of your fetish for control and power. The chief men and women among you are pathologically driven to control everyone and everything that moves upon this planet. You have made yourselves the judge of every human activity. No god-king of the ancient world ever had the power that your systems do.\n\nYou have created a world where only the neutered are safe and where only outlaws are free.\n\n## To The People of Earth:\n\nWe seek nothing from you. We do not want to rule you and we do not want to control you.\n\nAll we wish is to live on earth in peace. As always, we will be helpful neighbors and generous acquaintances. We will remain honest business partners and trustworthy employees. We will continue to be loving parents and respectful children.\n\nWe will not, however, be sacrificial animals. We reject the idea that others have a right to our lives and our property. We will not demand anything from you, and we will no longer acquiesce to any demands upon us. We have left that game. We reject all obligations to any person or organization beyond honesty, fair dealing and a respect for human life. \n\nWe will shortly explain what we believe, but we are not demanding that you agree with us. All we ask is that you do not try to stop us. Continue to play the game if you wish; we will not try to disrupt it. We have merely walked away from it. \n\nWe wish you peace. \n\n## To Those Who Will Condemn Us: \n\nWe will ignore you. \n\nWe welcome and seek the verdict of a just God, before whom we are willing to expose our innermost thoughts. Are you similarly willing? We would stand openly before all mankind if it were not suicidal. Perhaps some day we will have to accept slaughter for our crime of independence, but not yet. \n\nYour criticism and your malice are much deeper than mere disagreements of strategy or philosophy. You do not oppose our philosophy, you oppose our existence. Our presence in the world means that your precious ideals are false. Some of you would rather kill us than face the loss of your ideologies, just as those like you have either hated or killed every sufficiently independent human. \n\nYou present yourselves to the world as compassionate, tolerant and enlightened, but we know that your smooth words are costumes. Oh yes, we know you, servant of the state; don't forget, we were raised with you. We played with you in the schoolyard, we sat next to you in the classroom. Some of us studied at the same elite universities. We watched as you had your first tastes of power. We were the boys and girls standing next to you. Some of us were your first victims. We are not fooled by your carefully crafted public image. \n\n## What We Believe\n\n1: Many humans resent the responsibilities that are implied by consciousness. We accept those responsibilities and we embrace consciousness. Rather than letting things happen to us (avoiding consciousness), we accept consciousness and choose to act in our own interest. We do not seek the refuge of blaming others, neither do we take refuge in crowds. We are willing to act on our personal judgment, and we are willing to accept the consequences thereof. \n\n2: We believe in negative rights for all: That all humans should be free to do whatever they wish, as long as they do not intrude upon others; that no man has a right to the life, liberty or property of another; that we oppose aggression, fraud and coercion. \n\n3: We do not believe that our way of life, or any other, will make life perfect or trouble-free. We expect crime and disagreements and ugliness, and we are prepared to deal with them. We do not seek a strongman to step in and solve problems for us. We agree to see to them ourselves.\n\n4: We believe in free and unhindered commerce. So long as exchanges are voluntary and honest, no other party has a right to intervene before, during or after. \n\n5: We believe that all individuals should keep their agreements. \n\n6: We believe that honestly obtained property is fully legitimate and absolute. \n\n7: We believe that some humans are evil and that they must be faced and dealt with. We accept the fact that this is a difficult area of life. \n\n8: We believe that humans can self-organize effectively. We expect them to cooperate. We reject impositions of hierarchy and organization. \n\n9: We believe that all humans are to be held as equals in all matters regarding justice. \n\n10: We believe that the more a man or woman cares about right and wrong, the more of a threat he or she is perceived to be by governments. \n\n11: We believe that there are only two true classes of human beings: Those who wish to exercise power upon others either directly or through intermediaries and those who have no such desires. \n\n12: Large organizations and centralization are inherently anti-human. They must rely upon rules rather than principles, treating humans within the organization as obedient tools.\n\n## Our Plans:\n\n(We are building our own society. We will supplement traditional tools with networking, cryptography, sound money, digital currency and anonymous messaging. Our society will not be centrally controlled. It will rely solely\non voluntary arrangements. \n\nWe welcome others to join us. We are looking for people who are independent creators of value, people who act more than talk, and people who do the right thing because it is the right thing. \n\nWe will develop our own methods of dealing with injustice, built on the principles of negative rights, restitution, integrity and equal justice. We do not forbid anyone from having one foot in each realm - ours and the old realm - although we demand that they do no damage to our realm. We are fully opposed to any use of our realm to facilitate crime in the old realm, such as the hiding of criminal proceeds. \n\nWe expect to be loudly condemned, libeled and slandered by the authorities of the old regime. We expect them to defend their power and their image of legitimacy with all means available to them. We expect that many gullible and servile people will believe these lies, at least at first. We will consider traps laid for us to be criminal offenses. Any who wish to join us are encouraged to distribute this declaration, to act in furtherance of our new society, to voluntarily excel in virtues and to communicate and cooperate with other members of the new society. \n\nFree, unashamed men cannot be ruled. \n\n# We are The Free and The Unashamed.",
+    "timestamp": "1744103321",
+    "date": "4/8/2025, 9:08:41 AM",
+    "id": "9ef6fa952c2a520dc3580be76768259c3fbc8b3b1c3aa7a04d0b0ccc115cf62b",
+    "kind": 6
+  },
+  {
     "content": "Professional arbitration bodies can standardize non-jurisdictional law. Certified mediators ensure consistent interpretation.",
     "timestamp": "1744050749",
     "date": "4/7/2025, 6:32:29 PM",
