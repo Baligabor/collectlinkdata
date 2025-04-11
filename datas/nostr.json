@@ -1,5 +1,61 @@
 [
   {
+    "content": "He's not even coding, just vibing",
+    "timestamp": "1744311286",
+    "date": "4/10/2025, 6:54:46 PM",
+    "id": "0e2ce8b5332c7f0bf8aa358949a45ac82b5de71e06f53e3f705197ee1a9e342b",
+    "kind": 1
+  },
+  {
+    "content": "Cypherpunks vibe code.",
+    "timestamp": "1744311201",
+    "date": "4/10/2025, 6:53:21 PM",
+    "id": "fc4bd8ba46e7a58765dab811caa804766c73c3eb112cbd31e08a18a8ac79bc15",
+    "kind": 1
+  },
+  {
+    "content": "With decentralized p2p funding protocols nothing can stop your project 🚀",
+    "timestamp": "1744276744",
+    "date": "4/10/2025, 9:19:04 AM",
+    "id": "9df58b5c90985e9da217cf8d180f32d7eea0dc08e24627a410827f4c1c5df59e",
+    "kind": 6
+  },
+  {
+    "content": "If socialism is considered moral and capitalism immoral, then coercion becomes a virtue — and violence against the peaceful becomes justified.\n\nnostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt ",
+    "timestamp": "1744275721",
+    "date": "4/10/2025, 9:02:01 AM",
+    "id": "a815e4b3d397dd454205204685ccaaa1afc5980ff1ade3b8cf93f2b5f87ee1ca",
+    "kind": 6
+  },
+  {
+    "content": "Let's have a chat.",
+    "timestamp": "1744275108",
+    "date": "4/10/2025, 8:51:48 AM",
+    "id": "8333e5f9923bec95f06b7dedab4488c056bf0a50ba0d3e9e46b07f1ac20b396d",
+    "kind": 1
+  },
+  {
+    "content": "Next level indeed. Tutorial here: https://github.com/jodobear/sparcaroo ",
+    "timestamp": "1744274892",
+    "date": "4/10/2025, 8:48:12 AM",
+    "id": "e2268e1c7140f04f0fe4159cfe9494cda5301eef5ec992ec31c140530fdcfdb3",
+    "kind": 6
+  },
+  {
+    "content": "We just did a workshop on this today and I hope to release a video on it soon. \n\nIt's basically Roo code + DVM tool discovery over nostr + specialized agents (discovery via nostr too) = one-shot production-ready vibe-coded apps.\n\nPlus: agents have npubs and thus their own wallet and budget via NIP-60. \n\nMore details soon (tm). \nhttps://fountain.fm/episode/Da5pba5fG9WGO0KsPYm9",
+    "timestamp": "1744274443",
+    "date": "4/10/2025, 8:40:43 AM",
+    "id": "47bb56ae22fa0789e44ec5c82dd1d3eac2f5036d8ad31b4e6de9f0c6617dcb58",
+    "kind": 6
+  },
+  {
+    "content": "Modern democracy is Tinder for power addicts - swipe right on lesser evils.",
+    "timestamp": "1744274402",
+    "date": "4/10/2025, 8:40:02 AM",
+    "id": "b26d25abc696dac9a346317f7c36f7af25b57fe721bf7054ccf151ea97c2574e",
+    "kind": 1
+  },
+  {
     "content": "Are you even talking to your computer bro\nhttps://github.com/dergigi/vibeline",
     "timestamp": "1744235291",
     "date": "4/9/2025, 9:48:11 PM",
