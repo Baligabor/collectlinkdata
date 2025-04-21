@@ -1,5 +1,138 @@
 [
   {
+    "content": "Money makes us human.",
+    "timestamp": "1745180473",
+    "date": "4/20/2025, 8:21:13 PM",
+    "id": "dc85b39d7546ba1e10a8b44e09535c13a5833024193c42db2c55a80234226986",
+    "kind": 1
+  },
+  {
+    "content": "I want to put a Wasabi coordinator in each Wasabi client and allow users to decide whether they want to act as coordinators or not.\n\nCurrently, a WabiSabi coordinator only requires:\n\n   * The gettxout RPC call to verify that inputs being registered are unspent and mature\n   * A mining fee rate provider to determine how much each input/output should pay to the network\n\nThese requirements can be satisfied even by a pruned Bitcoin node and don't present any obstacles.\n\nIn an ideal world, each coordinator would announce itself (for example, as an onion service), and then clients could agree on which coordinator to connect to for the next CoinJoin round. However, in the real world, malicious actors could create hundreds or thousands of onion services to maximize their chances of being selected.\n\nIs there any way to solve this coordinator selection problem without creating a centralized directory of coordinators?\n\nnostr:npub1vadcfln4ugt2h9ruwsuwu5vu5am4xaka7pw6m7axy79aqyhp6u5q9knuu7 any suggestion to read?",
+    "timestamp": "1745161845",
+    "date": "4/20/2025, 3:10:45 PM",
+    "id": "b8bec9e3aa2b3f1dbbd67b542927780cb66ec87450fa40ed968f3d135f86b39b",
+    "kind": 6
+  },
+  {
+    "content": "Multishares backup (Shamir Secret Sharing) is a great way to encode your seed with the specified redundancy to distribute your secret.\n\nThis was in the Wasabi ToDo list since 2021. The crypto was implemented nine months ago and it seems we are going to finally have it in our next release! \n\nhttps://image.nostr.build/8ed3e5574c49ce2aca1c1761f3669d4fda67889e7998467d2386e452a1b71e54.jpg https://image.nostr.build/84e2032f7bc77f4a91bdfd38ab749ec4253b89c007170ad4a6e8bf63fb678b97.jpg https://image.nostr.build/267232bff7338b91692aa0787f1aba151f80c0dc0ca7c94eacba0ea5f43cc079.jpg https://image.nostr.build/a14504e1ca1e323300dbbd2a792032f1142177894a1b978c1ec490280d7c62de.jpg https://image.nostr.build/938d48da57961a19e185f237da8356a49afc5b1cba2196ff95f013f95f634762.jpg https://image.nostr.build/9033241e8fc884b9018a4a92c67ca42c81719d8bb232accf58a2235cda4e1683.jpg https://image.nostr.build/c5fb762471ab1e2085b54350116e844c591f2c917045bd8f0914ba18d70547cb.jpg",
+    "timestamp": "1745161826",
+    "date": "4/20/2025, 3:10:26 PM",
+    "id": "1560d38b6f5986587d7c1ac45993aaa1f3ea267aa44a7ef96af36ab3335e369e",
+    "kind": 6
+  },
+  {
+    "content": "I’m running a coinjoin coordinator that doesn’t ask any % fees, you just pay the mining fee. Any coinjoin dust collected will be used to donate to open source development via @OpenSats / @HRF / @BtcpayServer \nRead more on: coinjoin.nl\n\nhttps://image.nostr.build/3730748c5afbf3f6ac426e6f2709192c7d213de9e6e4be90fd769552c16c2c79.jpg",
+    "timestamp": "1745161585",
+    "date": "4/20/2025, 3:06:25 PM",
+    "id": "525eeca60df038b65af7c495d42ef2fbe96ce2c5e515e47e2e5c1c08fea2fd62",
+    "kind": 6
+  },
+  {
+    "content": "Both are extraordinary, but if you make me choose then its Man Economy and State with Power and Markets.\n\nThis book is a magnum opus that covers basically all of economics in a rigorously structured manner. The last part (Power and Markets) is quite similar to Ethics of Liberty, so radical that it was censored by the original publisher.\n\nI'd say both are required reading for the sophisticated bitcoiner.",
+    "timestamp": "1745155152",
+    "date": "4/20/2025, 1:19:12 PM",
+    "id": "686e14e9f796c3eb414ae7ba64540d06ddc5b1b4f33f121952f8f2c9d201452e",
+    "kind": 1
+  },
+  {
+    "content": "In the context of cryptographic signing (like in Nostr), **round-tripping** refers to the ability to serialize a data structure (e.g., JSON) into a string, then deserialize it back into an identical data structure **without any changes to formatting, key ordering, whitespace, or other non-semantic details**. \n\nThe problem arises because many JSON libraries/implementations handle serialization differently (e.g., adding/removing spaces, reordering keys, varying number representations). If a protocol like Nostr requires signing a JSON string, but doesn’t enforce **strict ECMA-262 serialization rules**, two implementations might produce *different string representations* of the *same logical data*, leading to **failed signature verifications**. \n\nFor example:\n1. Implementation A serializes `{\"a\":1,\"b\":2}` with spaces: `{ \"a\": 1, \"b\": 2 }`\n2. Implementation B serializes the same object with no spaces and reversed keys: `{\"b\":2,\"a\":1}`\n3. The resulting strings differ → hashes differ → signatures mismatch, even though the data is \"logically\" identical.\n\nThis is why the Nostr ecosystem has faced interoperability issues – its original spec naively assumed JSON implementations would naturally agree on serialization details, which they don’t. Crypto protocols *must* standardize serialization rigorously (as ECMA-262 does) to avoid these round-tripping pitfalls.",
+    "timestamp": "1745139698",
+    "date": "4/20/2025, 9:01:38 AM",
+    "id": "26343270ec801657956b4b9c89587bb333d6165be0377f56cf1992db044976c2",
+    "kind": 1
+  },
+  {
+    "content": "Ah nice, thanks!",
+    "timestamp": "1745135275",
+    "date": "4/20/2025, 7:47:55 AM",
+    "id": "2f7428b5428ee1141de04c64eda2524bf5796468b14ceb658e7fefe343421bc8",
+    "kind": 1
+  },
+  {
+    "content": "You can run a relay on your phone.\nnostr:nprofile1qqsts0n0s20fk0s087ydcd7zj20ajv2t90m680zr6f0x5gp6w0p8wkqpzdmhxue69uhhwmm59e6hg7r09ehkuef0tdhs62",
+    "timestamp": "1745134636",
+    "date": "4/20/2025, 7:37:16 AM",
+    "id": "cd3ec75abfa5a6a0151cde7e2fcd6bafe261c5ef0680896238a7a7f8992e4815",
+    "kind": 1
+  },
+  {
+    "content": "I made something… https://github.com/Djobleezy/Custom-Ocean.xyz-Dashboard",
+    "timestamp": "1745134525",
+    "date": "4/20/2025, 7:35:25 AM",
+    "id": "4a03b6faa97bdfd653b1ef35324b5cd9a6b2409bdf4ff03b4a7c8faba14e04e1",
+    "kind": 6
+  },
+  {
+    "content": "Now compare this to the original nostr description of nostr:nprofile1qqsrhuxx8l9ex335q7he0f09aej04zpazpl0ne2cgukyawd24mayt8gprfmhxue69uhkcmmrdd3x77pwve5kzar2v9nzucm0d5hszxnhwden5te0wpuhyctdd9jzuenfv96x5ctx9e3k7mf0qydhwumn8ghj7un9d3shjtnhv4ehgetjde38gcewvdhk6tc4rdlnm from November 9, 2020:\n\nhttps://github.com/nostr-protocol/nostr/commit/bdeb03aeaf2d44db954e0eb1356a3f585ee7c50d\n\nnostr:nevent1qqsqp3seup9kqz8xawavqd2jff6v627s63l4xwut9hjcphdnr5r3h5gpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgsq3ppke5pel7ysw3rgl5e8lt8ky7zwavm5jrs2zx9tnu2vn5nydnqrqsqqqqqpax6l5c",
+    "timestamp": "1745134237",
+    "date": "4/20/2025, 7:30:37 AM",
+    "id": "7a0dc19bbe1685ea1575a32a9869146e7510557f848cdf9830be4ba4d4b99de8",
+    "kind": 1
+  },
+  {
+    "content": "Now that we have nostr:nprofile1qqsq3ppke5pel7ysw3rgl5e8lt8ky7zwavm5jrs2zx9tnu2vn5nydnqpzdmhxue69uhhwmm59e6hg7r09ehkuef0s2xj5z & nostr:nprofile1qqsgfhhxuemwtwm8kjk5uppv7uxtmp5pz4wm2dv59lxx5pfnsk98ysqpzdmhxue69uhhwmm59e6hg7r09ehkuef03px725, would be great if Julian Assange can join the nostr party.",
+    "timestamp": "1745132128",
+    "date": "4/20/2025, 6:55:28 AM",
+    "id": "a5211559f11a19d271084e9996bb4da2253744936ad6727c10175fc4d09f7809",
+    "kind": 1
+  },
+  {
+    "content": "What you're describing is very similar to NIP90 data vending machines:\nhttps://nips.nostr.com/90\n\"This NIP defines the interaction between customers and Service Providers for performing on-demand computation.\nMoney in, data out.\"",
+    "timestamp": "1745131930",
+    "date": "4/20/2025, 6:52:10 AM",
+    "id": "17404e0071c460c1e7539f125234bc02032fe8c51ee00088b1f98dc978b6b681",
+    "kind": 1
+  },
+  {
+    "content": "As a decentralized protocol built on #Bitcoin and #Nostr, Angor stays true to the cypherpunk ethos.\n\nWe do not own your funds.\n\nYou have full custody.\n\nYou set up the wallet. \n\nYou control the project.\n\nEven if the Angor devs disapear, you can continue to use Angor.\n\nProtocols not platforms. This is the way.\n\n#Bitcoin #Nostr #Freeyourself",
+    "timestamp": "1745131639",
+    "date": "4/20/2025, 6:47:19 AM",
+    "id": "727c976e2d93953ca1098841800285c32021d33980e5ef2416c8169713fe3397",
+    "kind": 6
+  },
+  {
+    "content": "Try Alongside Night",
+    "timestamp": "1745131484",
+    "date": "4/20/2025, 6:44:44 AM",
+    "id": "2939ec733acffb0e52d1326b9df0b86710c977cd0490b0c890feffdda004c642",
+    "kind": 1
+  },
+  {
+    "content": "Thats great to see finally!",
+    "timestamp": "1745131018",
+    "date": "4/20/2025, 6:36:58 AM",
+    "id": "08d98e1451c29283f7ddd5fecdca9a4b7f62e151f9ea397ab497ddafbcc815c5",
+    "kind": 1
+  },
+  {
+    "content": "Cypherpunk future is now.\n\nSatocash is a Satochip Cashu applet running on a Java Card. This is an NFC card with brains. It can do coinselection, PIN protection, and can act like an offline Cashu hardware wallet. Things are going to get wild!\n\nhttps://youtu.be/bpQ0tlbI9Rw",
+    "timestamp": "1745131001",
+    "date": "4/20/2025, 6:36:41 AM",
+    "id": "229053ee49cd435000a6027aa94d6b6376a1b8c6c94449465727c9367817ad20",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqs2xugc5jyguqkj36rk0syv4tmnkjdtmtperttl7x9rqjy3ustdcvcppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qg6waehxw309aek2mnyd96zumn0wdnxcctjv5hxxmmd9uxa0uz8 is officially live on the Umbrel App Store!\n\nYou can now install your own instance of the site on your home server with the click of a button.\n\nBig thanks to a dev named Denny for his help getting our app merged! Also, make sure to check out his community app store on Umbrel to support him (where he also has nostr:nprofile1qqs2xugc5jyguqkj36rk0syv4tmnkjdtmtperttl7x9rqjy3ustdcvcppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qg6waehxw309aek2mnyd96zumn0wdnxcctjv5hxxmmd9uxa0uz8 listed, ofc 😉):\n\nhttps://github.com/dennysubke/dennys-umbrel-app-store\n\nhttps://image.nostr.build/cfe3006220f673b4d2583a81eab41680beb08fc7871e1133468869361fe2acb5.jpg\n\n#shopfreely #yourkeysyourshop #shopstr",
+    "timestamp": "1745130955",
+    "date": "4/20/2025, 6:35:55 AM",
+    "id": "ae11c4c79d5370bb95e84c9bbd4ed25a05385b7e80dd1f1c87f6aac0991108a0",
+    "kind": 6
+  },
+  {
+    "content": "Monopolies can't survive without government enforcement. Free markets naturally dismantle concentrated power. The real class war pits controllers against those seeking self-determination through production.",
+    "timestamp": "1745130197",
+    "date": "4/20/2025, 6:23:17 AM",
+    "id": "c1a2a1cc232fcba35e215ab89962832bfdc77e1bdc1a7004d1cd9560ecbd9159",
+    "kind": 1
+  },
+  {
+    "content": "Or rather, how?",
+    "timestamp": "1745130065",
+    "date": "4/20/2025, 6:21:05 AM",
+    "id": "21c4b54e413f0618907ff3818ed0f0f29cd7a4b0c46f1981b62731942430c909",
+    "kind": 1
+  },
+  {
     "content": "But... Why?",
     "timestamp": "1745092244",
     "date": "4/19/2025, 7:50:44 PM",
