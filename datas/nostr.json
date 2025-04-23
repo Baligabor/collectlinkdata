@@ -1,5 +1,33 @@
 [
   {
+    "content": "No tyrants without slaves.",
+    "timestamp": "1745347399",
+    "date": "4/22/2025, 6:43:19 PM",
+    "id": "8f962f228663ee78e0186b19eddc7d7f28387a806bdc2d07e2c5d78f49eb755a",
+    "kind": 1
+  },
+  {
+    "content": "Earlier today nostr:nprofile1qqsf2ds69dp2ympzhtpmdd46f3w2cnfkjphtpnaesf5xs8z95vqu2xqytd0r5 and nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqghwaehxw309anxjmr5v4ezumn0wd68ytnhd9hx2qpqzsu6h4pfsyt9atxv6prt64j645vlyv22jwkeh5y6mqlrxs47ex0slxtz3n spoke with Niklas Gögge about Newsletter #350:\n\n- Fuzz testing tool for Bitcoin nodes\n- Message signing\n- PSBTv2 explorer\n- MPC Library\n- Bitcoin Core 29.0\n- And more!\n\nCatch up:\nhttps://bitcoinops.org/en/podcast/2025/04/22/",
+    "timestamp": "1745345205",
+    "date": "4/22/2025, 6:06:45 PM",
+    "id": "a1f20c5e2504978f35a07cae64a569dda24f6775ee7de30865bb2da9f1729459",
+    "kind": 6
+  },
+  {
+    "content": "Don't conflate manmade with natural law.",
+    "timestamp": "1745310396",
+    "date": "4/22/2025, 8:26:36 AM",
+    "id": "76d2699ee0083d41ddf2ff23cf3ee24bcc889848c9b5dbe2b008a5921cce896c",
+    "kind": 1
+  },
+  {
+    "content": "Law exists to reduce conflict through self-ownership, property rights, and binding agreements. Clarity prevents disputes.",
+    "timestamp": "1745302522",
+    "date": "4/22/2025, 6:15:22 AM",
+    "id": "abc879abc6535ce6b2ab3869cd1efe51f7f25a0f583adf8461fd0a30a5c2fd5d",
+    "kind": 1
+  },
+  {
     "content": "The Doors are great",
     "timestamp": "1745262796",
     "date": "4/21/2025, 7:13:16 PM",
