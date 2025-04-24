@@ -1,5 +1,33 @@
 [
   {
+    "content": "Temporary Autonomous Zones (TAZs) are spaces where state control is temporarily eluded.",
+    "timestamp": "1745425632",
+    "date": "4/23/2025, 4:27:12 PM",
+    "id": "c47d1edffd74a14e933987841105b9fa9385b7eacfe4b681efcd040ccccab9e0",
+    "kind": 1
+  },
+  {
+    "content": "Tradecraft isn’t paranoia, it’s survival. Compartmentalize, anonymize, and deny plausible connections.",
+    "timestamp": "1745410400",
+    "date": "4/23/2025, 12:13:20 PM",
+    "id": "1527565af299d1f4add4567b323c77ce4f5208ec382b93e7247ccd8ddb595d08",
+    "kind": 1
+  },
+  {
+    "content": "When every interaction requires state approval, existence becomes a crime. Go rogue.",
+    "timestamp": "1745390153",
+    "date": "4/23/2025, 6:35:53 AM",
+    "id": "9f0f05d2b0db9e412838d2e76db5ab5761d51c09325082d37d69591cd6d3941d",
+    "kind": 1
+  },
+  {
+    "content": "New Ark Simple explainer & FAQ\n\nhttps://docs.arklabs.xyz/\n\nBitcoin's blockchain offers strong security guarantees at the tradeoff of limited transaction throughput, high fees, and settlement delays, restricting its practical use for various applications requiring greater scalability, lower costs, or faster settlement.\n\nArk addresses these limitations primarily through a novel batching technique, aggregating numerous individual Bitcoin transactions into a single onchain Bitcoin commitment—called a Batch Output. This significantly reduces transaction costs per user and greatly enhances scalability.\n\nThe protocol mirrors Bitcoin’s familiar UTXO structure using Virtual Transaction Outputs (VTXOs). These offchain abstractions preserve a familiar output ownership model while embedding many claims into a single Batch Output. VTXOs ensure that users retain unilateral control over their funds and enable efficient offchain coordination before final settlement on Bitcoin.\n\nLink for details! \n\n👾\n\n",
+    "timestamp": "1745390138",
+    "date": "4/23/2025, 6:35:38 AM",
+    "id": "1d4fe2529281d637d5c123240e6c896970ad36a4d1b5a0b1423adefd782125ce",
+    "kind": 6
+  },
+  {
     "content": "No tyrants without slaves.",
     "timestamp": "1745347399",
     "date": "4/22/2025, 6:43:19 PM",
