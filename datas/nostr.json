@@ -1,5 +1,117 @@
 [
   {
+    "content": "Healing begins when we exit the sick system.",
+    "timestamp": "1745603440",
+    "date": "4/25/2025, 5:50:40 PM",
+    "id": "81cfb837da4accd571b1b9e455b1015e24c6bfc9532cf0d5c5291ccc13df75b7",
+    "kind": 1
+  },
+  {
+    "content": "Happy Friday. New pod just dropped.\n\nAyn Rand would approve:\n\nhttps://fountain.fm/episode/TqZ3FgFAd4hxdNJSTT1w",
+    "timestamp": "1745603432",
+    "date": "4/25/2025, 5:50:32 PM",
+    "id": "a6db60a4d2205a0dc7ec5ae53f1fcafcc8fe6b820154817cab5836a765790f57",
+    "kind": 6
+  },
+  {
+    "content": "Something new for SEC-04 nostr:npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5 #SovEng\n\nhttps://blossom.nogood.studio/3a36344e37e6428bce912a5baf7b085a9b15c0652685536b2d92836d1394db72.jpg https://blossom.nogood.studio/c27d2ff5128911ebdbbbbcad6474b2197b6aa3d5b487e05dc3664c555641dcd6.jpg",
+    "timestamp": "1745600132",
+    "date": "4/25/2025, 4:55:32 PM",
+    "id": "b266d8c57c1a9d33481b7a70c286494f93c55dc22e60979cecbfd362cc217e27",
+    "kind": 6
+  },
+  {
+    "content": "Thats sexy",
+    "timestamp": "1745599995",
+    "date": "4/25/2025, 4:53:15 PM",
+    "id": "6c0103fd5c6441dc3d0d63a67cf2301fc9fcc320f8fce55f547ee250ff9b8cb1",
+    "kind": 1
+  },
+  {
+    "content": "Hypothetical diagram of how ecash issuance and redemption would work if cashu used anonymous credentials (KVAC).\n\nhttps://i.imgur.com/8h0x72b.png",
+    "timestamp": "1745599975",
+    "date": "4/25/2025, 4:52:55 PM",
+    "id": "a0ccef4758e8b868290b8c6f87295004555805685dc620f0299418753f410bc9",
+    "kind": 6
+  },
+  {
+    "content": "Bitcoin Optech newsletter #351 is here:\n\n- announces a new aggregate signature protocol\ncompatible with secp256k1\n- describes a standardized backup scheme for\nwallet descriptors\n- summarizes popular Q&A from Stack Exchange\n- Optech Newsletter #351 Recap\nhttps://bitcoinops.org/en/newsletters/2025/04/25/\n\nJonas Nick, Tim Ruffing, Yannick Seurin posted to the Bitcoin-Dev mailing list to announce a paper they’ve written about creating 64-byte aggregate signatures compatible with the cryptographic primitives already used by Bitcoin...\nhttps://bitcoinops.org/en/newsletters/2025/04/25/#interactive-aggregate-signatures-compatible-with-secp256k1\n\nSalvatore Ingala posted to Delving Bitcoin a summary of various tradeoffs related to backing up wallet descriptors and a proposed scheme that should be useful for many different types of wallets, including those using complex scripts...\nhttps://bitcoinops.org/en/newsletters/2025/04/25/#standardized-backup-for-wallet-descriptors\n\nSelected Q&A from Bitcoin Stack Exchange:\n- Practicality of half-aggregated schnorr signatures? \n- What’s the largest size OP_RETURN payload ever created?\n- Non-LN explanation of pay-to-anchor?\n- Up-to-date statistics about chain reorganizations?\n- Are Lightning channels always P2WSH? \n- Child-pays-for-parent as a defense against a double spend?\n- What values does CHECKTEMPLATEVERIFY hash?\n- Why can’t Lightning nodes opt to reveal channel balances for better routing efficiency? \n- Does post-quantum require hard fork or soft fork? \nhttps://bitcoinops.org/en/newsletters/2025/04/25/#selected-qa-from-bitcoin-stack-exchange\n\nBitcoin Optech will host an audio recap discussion of this newsletter on Riverside.fm Tuesday at 15:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.fm/studio/bitcoin-optech\n\n",
+    "timestamp": "1745599050",
+    "date": "4/25/2025, 4:37:30 PM",
+    "id": "4c011dc0224417fccc254323ca65281fb8fdfb750dfe2a35e31e1c30872c72b0",
+    "kind": 6
+  },
+  {
+    "content": "Hello, Nostr! Allow us to introduce ourselves. \n\nAt Lava, we’ve built the most secure way to borrow against your bitcoin. \n\nNo counterparties, no custodians, no bridges. Instead, we’ve built a fully on-chain lending protocol that leverages Discreet Log Contracts (DLCs), which are smart contracts that are native to Bitcoin. \n\nUsing Lava, you can take out a USD loan using your Bitcoin as collateral *without giving up self-custody*. It’s fast, secure, and we offer some of the best rates in the business. \n\nYou can check us out at http://lava.xyz to learn more! \n\nWe’re excited to be here on Nostr!\n\n#introductions",
+    "timestamp": "1745598381",
+    "date": "4/25/2025, 4:26:21 PM",
+    "id": "77ffbe326162739df2c287870755672001a2f53a6e7327e559a0e751be010fb9",
+    "kind": 6
+  },
+  {
+    "content": "Sovereign means not a slave.",
+    "timestamp": "1745594466",
+    "date": "4/25/2025, 3:21:06 PM",
+    "id": "d9940159846afa8e6229562317065770ed9bba8ed1283dc71ca2a933f20f2d51",
+    "kind": 1
+  },
+  {
+    "content": "be me: yesterday I found randomly a paper about 2 Circle STARK friendly hash functions working with Mersenne M31 (RPO-M31 and XHash-M31: Efficient Hash Functions for Circle STARKs by Tomer Ashur1 and Sundas Tariq) \n\nthen i was: ohhh wow, looks interesting. then: write a rust implementation \n\nthen start thinking: wait, maybe it could be a good candidate for a Circle STARK friendly AND Bitcoin Script friendly hash function \n\nthen: start doing analysis and cost estimate\n\nthen realise that they would NOT be practical to implement in Bitcoin Script... \n\nIt's a pity for this but still it's very interesting hash functions, and the fact that they natively work with M31 is super promising. \n\nMaybe it's worth building a Cairo and Solidity implementation and benchmark the costs. They might be more interesting to use than Poseidon for Circle STARKs M31.\n\nPaper: https://eprint.iacr.org/2024/1635.pdf \nRust repo: https://github.com/AbdelStark/rpo-xhash-m31\n\nhttps://m.primal.net/QchI.jpg",
+    "timestamp": "1745574244",
+    "date": "4/25/2025, 9:44:04 AM",
+    "id": "0953c28a158068092b5c005b44be8ef2cd087be2d7d29827f72eac8a55f4c14c",
+    "kind": 6
+  },
+  {
+    "content": "The legendary meetup returns!\n\nSupport the crowdfund and it will be a meatup too! #CypherpunkBBQ\nnostr:nevent1qqs2jx8vq9p0m339n78zzfev6pu7qt7danl4gypdeqnthzc9zjqhxxgpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgs0wzz3uacckly3qpq06m73xfskmuzhhxsh47vy3zpu0tw878hfzzgrqsqqqqqpg25phx",
+    "timestamp": "1745572933",
+    "date": "4/25/2025, 9:22:13 AM",
+    "id": "5f0eb52ad66d5b373c264274f3d918672342817d6e41ab53771195e78495fb01",
+    "kind": 1
+  },
+  {
+    "content": "A huge thank you to nostr:nprofile1qqsph3c2q9yt8uckmgelu0yf7glruudvfluesqn7cuftjpwdynm2gygpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3qamnwvaz7tmwdaehgu3wd3skueqpzpmhxue69uhkummnw3ezuamfdejsqzvnx6 for the work he is putting into kinostr.com 🍿📽️🤙\nhttps://image.nostr.build/98edf583997f1a9f70c2162a9f5c735a9ee0b684d23b54c313b2129cb1b489ea.jpg\nIt provides an attractive front end for all the movies nostr:nprofile1qqsfasrca7w2x8smmwuhzawau89sp0ulwgj7da3zenydxees9c3qf9cpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj783tk3s and myself have been posting to Nostr, making it a lot easier to browse what is available.\n\nYou can also post new films yourself! \nhttps://image.nostr.build/e8ee201f5e2c9b2ee44c94ad2d1c5d2c16197545799a4174e8b86e47d0a37153.jpg\nArchive.org has many films available.\n\nA quick how to:\n🔹Sign into kinostr.com with your Nostr account.\n🔹Search \"your_movie archive.org\" in your favorite search engine.\n🔹Once you find it, under the archive.org download options click \"show all\"\n🔹Copy the MP4 link for the movie and paste it into kinostr.com\n🔹Provide a cover image too, themoviedb.org is a great source with lots of fan sourced images.\n🔹Click \"Publish Film\" and it will post a note with your movie and add it to kinostr.com\n",
+    "timestamp": "1745567544",
+    "date": "4/25/2025, 7:52:24 AM",
+    "id": "47ec62e9907eaac27123f8dd33f5d5c9c70abc7563980fddd2ace1c3a7c8c63d",
+    "kind": 6
+  },
+  {
+    "content": "The stuff you can do with this simple math formula is WILD.\n\nnostr:nevent1qqsg4lr3p68t8fhct8afzgvdtg3ywk4mn0yaaml2rsgrtgv0f0zvagcpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgsdmup6e2z6mcpeue6z6kl08he49hcen5xnrc3tnpvw0mdgtjemh0srqsqqqqqpun6fla",
+    "timestamp": "1745563186",
+    "date": "4/25/2025, 6:39:46 AM",
+    "id": "808283aabc7ee8035d08bec53c36c27e07b3edceff4254d690d89ad14ce9de95",
+    "kind": 1
+  },
+  {
+    "content": "Arguably even more important...",
+    "timestamp": "1745562901",
+    "date": "4/25/2025, 6:35:01 AM",
+    "id": "7751df001b20a59d016adc5b681eb08ab9d04a4d6c28a9bb471799c072c41319",
+    "kind": 1
+  },
+  {
+    "content": "Just released nostr-static v0.1 🚀\n\nA static site generator for long-form Nostr content. Download events by IDs and generate beautiful HTML pages.\n\nFeatures:\n- Multiple relay support\n- Dark/light theme\n- GitHub Pages ready\n\nCheck it out: https://github.com/dhalsim/nostr-static\n\nDemo: https://blog.nostrize.me",
+    "timestamp": "1745562855",
+    "date": "4/25/2025, 6:34:15 AM",
+    "id": "d9561dc854faa4dbef87bfdba920f2bb107cef150d868c4f1a9f84f8c6046cbd",
+    "kind": 6
+  },
+  {
+    "content": "That's part of building!",
+    "timestamp": "1745562831",
+    "date": "4/25/2025, 6:33:51 AM",
+    "id": "a4fd5df17fc57ce8bbc1e0d604398b0dcbcb77bbb89aab5d525f5b43174e637c",
+    "kind": 1
+  },
+  {
+    "content": "Grow up.\nThink for yourself.\nStop following orders.",
+    "timestamp": "1745562813",
+    "date": "4/25/2025, 6:33:33 AM",
+    "id": "f81c0fab49f95c01c436a41c30d85a38d92ff6b41e62f8543f0f378b18011e15",
+    "kind": 1
+  },
+  {
     "content": "Self respect means to look at the self again.",
     "timestamp": "1745525355",
     "date": "4/24/2025, 8:09:15 PM",
@@ -11,6 +123,20 @@
     "timestamp": "1745512940",
     "date": "4/24/2025, 4:42:20 PM",
     "id": "2a9640d63359b2249cd2734a45540d46278b82691049923924e53ea7205d96ae",
+    "kind": 1
+  },
+  {
+    "content": "I think it was a temporary measure during the first one, which shows that the war never stopped.",
+    "timestamp": "1745498980",
+    "date": "4/24/2025, 12:49:40 PM",
+    "id": "191b9f3b4bbfff9aa85777d220f990f828acf1d0cfce5856d596f198cab3d95e",
+    "kind": 1
+  },
+  {
+    "content": "Citizenship was the original subscription service. Cancel auto-renewal on the social contract scam.",
+    "timestamp": "1745480353",
+    "date": "4/24/2025, 7:39:13 AM",
+    "id": "eda2eab33399e94692ceac6e5b09c5e7e8d4c8493c557fea2832859d5f815a62",
     "kind": 1
   },
   {
