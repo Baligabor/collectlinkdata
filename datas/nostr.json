@@ -1,5 +1,33 @@
 [
   {
+    "content": "nostr:nprofile1qqsg3mj8tuxhxvy5w0qt9altpgcrqttdfxg9glvsdfhkpa3plcxfudgpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctckum9s8",
+    "timestamp": "1746189520",
+    "date": "5/2/2025, 12:38:40 PM",
+    "id": "a89bc4f0af2f706a5a3df5d276715482250bfa24e1c32b2bcbfe3a682a42beb1",
+    "kind": 6
+  },
+  {
+    "content": "Solid rip, good arguments, keep it up!",
+    "timestamp": "1746189120",
+    "date": "5/2/2025, 12:32:00 PM",
+    "id": "123021d0f8aa1b2217f1b6df10f62c97f86a0d12f3bafdf7a27d4ad837e88c4c",
+    "kind": 1
+  },
+  {
+    "content": "Solid rant, Mechanic always makes a thoroughly argued case.\nnostr:nevent1qqszkj5964ay87cs66fpfnen80rs58gs4zmjw8ejqjxznlnyhr9wk4cpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgs8fl79rnpsz5x00xmvkvtd8g2u7ve2k2dr3lkfadyy4v24r4k3s4srqsqqqqqpmhl3gu",
+    "timestamp": "1746189072",
+    "date": "5/2/2025, 12:31:12 PM",
+    "id": "0be72fe39fdeacceddbe479c5e178195c8c5957ab893fdf97da20c61fe5c5c36",
+    "kind": 1
+  },
+  {
+    "content": "DahLIAS, constant size aggregated Schnorr signatures for secp256k1!\nhttps://eprint.iacr.org/2025/692.pdf",
+    "timestamp": "1746161442",
+    "date": "5/2/2025, 4:50:42 AM",
+    "id": "987e3aeff4ac0357244a4409d29a44302082045e43d53e5fb05aa2a3186dee0d",
+    "kind": 1
+  },
+  {
     "content": "Law expects prudent judgment, not omniscience. Reasonable foresight suffices for determining liability.",
     "timestamp": "1746129327",
     "date": "5/1/2025, 7:55:27 PM",
