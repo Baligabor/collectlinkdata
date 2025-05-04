@@ -1,5 +1,40 @@
 [
   {
+    "content": "Scarcity in monetary assets is often a myth, as production can increase with demand, unlike naturally scarce resources.",
+    "timestamp": "1746294216",
+    "date": "5/3/2025, 5:43:36 PM",
+    "id": "b5b5c189235c10f474588a47f2a33f39a2b88b259b4625d3cc547053671a0a52",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin Optech newsletter #352 is here:\n\n- links to comparisons between different cluster linearization techniques\n- briefly summarizes discussion about increasing or removing Bitcoin Core’s OP_RETURN size limit\n- Optech Newsletter #352 Recap\nhttps://bitcoinops.org/en/newsletters/2025/05/02/\n\nPieter Wuille posted to Delving Bitcoin about some of the fundamental tradeoffs between three different cluster linearization techniques, following up with benchmarks of implementations of each...\nhttps://bitcoinops.org/en/newsletters/2025/05/02/#comparison-of-cluster-linearization-techniques\n\nIn a thread on Bitcoin-Dev, several developers discussed changing or removing Bitcoin Core’s default limit for OP_RETURN data carrier outputs. A subsequent Bitcoin Core pull request saw additional discussion...\nhttps://bitcoinops.org/en/newsletters/2025/05/02/#increasing-or-removing-bitcoin-core-s-op-return-size-limit\n\nBitcoin Optech will host an audio recap discussion of this newsletter on Riverside.fm Tuesday at 16:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.fm/studio/bitcoin-optech\n",
+    "timestamp": "1746278615",
+    "date": "5/3/2025, 1:23:35 PM",
+    "id": "8b301c44ac94287d5a3e467efb5eb9887953c05eb3c66efdd27e00b3fcfc801e",
+    "kind": 6
+  },
+  {
+    "content": "Yesterday nostr:nprofile1qqsf2ds69dp2ympzhtpmdd46f3w2cnfkjphtpnaesf5xs8z95vqu2xqytd0r5 and nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqghwaehxw309anxjmr5v4ezumn0wd68ytnhd9hx2qpqzsu6h4pfsyt9atxv6prt64j645vlyv22jwkeh5y6mqlrxs47ex0slxtz3n had on Jonas Nick and Salvatore Ingala to cover Newsletter #351:\n\n- The DahLIAS Interactive aggregate signatures compatible with secp256k1\n- Standardized backup for wallet descriptors\n- Stack Exchange questions including: half-aggregated schnorr signatures, OP_RETURN, reorg statistics, and more\n\nCatch up:\nhttps://bitcoinops.org/en/podcast/2025/04/29/",
+    "timestamp": "1746278610",
+    "date": "5/3/2025, 1:23:30 PM",
+    "id": "b6a1ff8bc9f7d00f5bee75f5db1abd732b8335c4d66f2280571ea71d7a23a081",
+    "kind": 6
+  },
+  {
+    "content": "Open competition drives innovation and fairness. Interventions like price controls distort value signals, harming progress and survival.",
+    "timestamp": "1746274590",
+    "date": "5/3/2025, 12:16:30 PM",
+    "id": "635e4535b07325ab9f798e822cd198f06e4cb3db2b364856f91bb73f25eebbab",
+    "kind": 1
+  },
+  {
+    "content": "Legal precedents only matter if rooted in timeless principles. Blind tradition without reason breeds injustice.",
+    "timestamp": "1746245541",
+    "date": "5/3/2025, 4:12:21 AM",
+    "id": "0f798615adcc07342e485f83947aeb770d636a6a8710643df344eb918ed8ea4b",
+    "kind": 1
+  },
+  {
     "content": "nostr:nprofile1qqsg3mj8tuxhxvy5w0qt9altpgcrqttdfxg9glvsdfhkpa3plcxfudgpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctckum9s8",
     "timestamp": "1746189520",
     "date": "5/2/2025, 12:38:40 PM",
