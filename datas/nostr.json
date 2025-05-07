@@ -1,5 +1,159 @@
 [
   {
+    "content": "So what is this about?\nnostr:nevent1qqszq3vsh5w5ktuzkyda2f2gruwfsn9reuk0w32k76eer9hsgftpuegpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgsvche9nupkdqme3e99ypcahwtj8pczl7m0pjz67mf88jxahewq47crqsqqqqqp5uvddx\n#asknostr",
+    "timestamp": "1746559674",
+    "date": "5/6/2025, 7:27:54 PM",
+    "id": "79ce9da6b60eb70edf56dad3cedba1ec67722cd4952dfbc22cf2e6cdb288b87a",
+    "kind": 1
+  },
+  {
+    "content": "We need an Android OEM or someone working at one to provide us with early access to the Android 16 sources in order to have a smooth port this year. We need this before June. We requested it to help with this very difficult situation (see the linked thread) and still need it.\n\nhttps://grapheneos.social/@GrapheneOS/114359660453627718",
+    "timestamp": "1746559223",
+    "date": "5/6/2025, 7:20:23 PM",
+    "id": "6e73e4822d40d63293bd85ea7c828a5631dd664a21b230a22d0c3ec084c15500",
+    "kind": 6
+  },
+  {
+    "content": "Fountain 1.2 is live on iOS and Android 🚀\n\nThis massive update brings significant design and UX improvements across the app along with a new episode summaries features. Here's what's new:\n\n https://blossom.primal.net/f846ce562a973b422a277339577e5b300b13468924a7f77397ab542b132adb86.png \nLibrary Design Update \n\nWe've made it much easier to navigate between podcasts and music in your library with the addition of the new content-type filters. The Recently Played view allows you to quickly jump back into what you were listening to before and the design of the content cards have been refreshed too.\n \nhttps://blossom.primal.net/5d90d74d4144fd37e763e0385c4e12dfca78642da85c17dcd59c8a361da7c2a5.png \nContent Pages Design Update\n\nAll of the different content pages have undergone an extensive redesign, including shows, episodes, artists, albums, tracks, clips and playlists. We’ve replaced the tab layout with scrollable pages, improved the formatting of show notes and revamped features like chapters and transcripts.\n\nhttps://blossom.primal.net/7398820f785525e9359e5d71516c663b36127185bf26f248eb37306992e372f7.png \nEpisode Summaries\n\nEvery episode page now has a Summary button above the show notes. Simply pay 500 sats to unlock a summary, or upgrade to Fountain Premium for $2.99/month to enjoy unlimited summaries. Summaries and transcripts now come as a bundle, and they’re now faster, cheaper, and more accurate than ever before.\n\n https://blossom.primal.net/d18a665d9beb49227b18be23a7319296d9d2e664ebecdf7bc42e5fa9cce5cc54.png \nPlayback Improvements\n\nWe’ve completely rebuilt our audio engine from the ground up. Playback is now more robust and reliable — especially for music. Tracks now play instantly when tapped, and if you're playing an album, or playlist, you can now skip next and previous seamlessly. We've also made some design updates to the player for easier access show notes, comments, transcripts and chapters, and we added a smart resume feature for podcasts.\n\nWe would love to hear how you’re finding Fountain 1.2. Please submit your thoughts and feedback via the main menu in the app and we will take it on board as we continue to improve the app.\n\nRead more:\nhttps://blog.fountain.fm/p/1-2-1",
+    "timestamp": "1746558442",
+    "date": "5/6/2025, 7:07:22 PM",
+    "id": "08d160c8380e1c2848796e80cb8f492825beb8d4387e4c4348ee73ebc51460b1",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsw3znfr6vdnxrujezjrhlkqqjlvpcqx79ys7gcph9mkjjsy7zsgygpzdmhxue69uhhwmm59e6hg7r09ehkuef0dru9ep would be nice if its possible to rename files on SD cards inside coldcard.",
+    "timestamp": "1746547110",
+    "date": "5/6/2025, 3:58:30 PM",
+    "id": "4d1a4f185b61a1152af8b76c365f88b7c4ab81ca7b2907d4e4768061e2e1c3c9",
+    "kind": 1
+  },
+  {
+    "content": "Hey babe don't go to bed yet, a new nostr:nprofile1qqsxjvepw89pg6y44hlxse3mez0rvh80t7uh54rcp2axl65t40aj6sgpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctc9xsxm6 just dropped.  https://blossom.primal.net/85a9acdfc7e19254e63840d4774fb3a1c906619396b778eee6ed25f13d9f0a8b.png\n\nNew: A completely new UI! Material UI, responsive, works great on desktop and mobile.\n\nBugs: comment counts aren't accurate and no comments infinite loads.\n\nTags and mentions aren't rendered properly.\n\nZaps still aren't working. #soon\n\nHashtags, Search and Videos not implemented yet.",
+    "timestamp": "1746547061",
+    "date": "5/6/2025, 3:57:41 PM",
+    "id": "e17858e14e0acfe1de38b70c65d3c33c812c2ad1852947870aa67349eb71ac01",
+    "kind": 6
+  },
+  {
+    "content": "Can't wait to see the fruits of the trees were planting now.",
+    "timestamp": "1746547021",
+    "date": "5/6/2025, 3:57:01 PM",
+    "id": "f0f421c893d93fdd524dd214600aa7f16967ace94ee94823c42fb388a8dcd919",
+    "kind": 1
+  },
+  {
+    "content": "I just built a tool.\n\nVideo on-demand from encrypted chunks on multiple Blossom servers 🤯\n\nIf you have (or can install) nak, nodejs, ffmpeg  can you check it works for you?\n\nnak req --id ec1688e87843e8774d1813c371fe65af890be090bdb831f03ceefdd2144ad679 wss://relay.damus.io | npx --yes github:franzaps/n2m3u8 | ffmpeg -f hls -allowed_extensions ALL -protocol_whitelist file,http,https,tcp,tls,crypto,fd -i - -f mpegts - | mpv -\n\nThis:\n - Fetches a nostr event with hashes of video chunks\n - Input into my tool that finds the working chunks in Blossom servers and outputs a HLS playlist\n - Input to ffmpeg that decrypts and decodes the stream\n - Input to video player. (Replace mpv with vlc or other video player, can also save to a video file)\n\nVolume UP!\n\n#asknostr #blossom #devstr\n",
+    "timestamp": "1746545725",
+    "date": "5/6/2025, 3:35:25 PM",
+    "id": "7a2654b4a327242666d43f0fc42dbd87260f260e5f1e535f4f510a86e784f748",
+    "kind": 6
+  },
+  {
+    "content": "Based last line to finish the rant.",
+    "timestamp": "1746545374",
+    "date": "5/6/2025, 3:29:34 PM",
+    "id": "9dbe3e4de4afbb40c5a776e2fc93c3d47df75a41d59a93d04213bf41c43af5f9",
+    "kind": 1
+  },
+  {
+    "content": "The Second Realm is a decentralized, spontaneous, and dynamic system that values individual freedom and creativity.",
+    "timestamp": "1746544072",
+    "date": "5/6/2025, 3:07:52 PM",
+    "id": "f3079801d3fdc122b6b41096a3c82521f01ffa5fa549a9d1de814d42a95283a4",
+    "kind": 1
+  },
+  {
+    "content": "I'm at like 1000+ podcast appearances, but always happy to join again!",
+    "timestamp": "1746544027",
+    "date": "5/6/2025, 3:07:07 PM",
+    "id": "284b6a8316084569ba718b6be54280ed01df68e1c58388482e9fc333a817b313",
+    "kind": 1
+  },
+  {
+    "content": "OP_RETURN, Filters & Bitcoin’s Identity Crisis w/ nostr:nprofile1qqsrwseygwgtu5688flrkwudqnwws0mvj52tsx5e07emzg7qwthe77qv68ayf \n\nWe discuss:\n- The OP_RETURN Drama\n- Spam & Filters\n- What Is Bitcoin \n- Bitcoin Core\n\nWatch it here: https://youtu.be/gjYrzi7xYo8",
+    "timestamp": "1746538112",
+    "date": "5/6/2025, 1:28:32 PM",
+    "id": "face1599f7ebd2c3a7bb5e9f68f327e8afb57764ceab2751cbbe72bdc80e5827",
+    "kind": 6
+  },
+  {
+    "content": "New npub of konsensus.network\nnostr:nprofile1qqswxe03wpmtudv0pvewdw2wnl3mku7e94r0xzze2mpgs4ks9fcqk9spzfmhxue69uhhqatjwpkx2urpvuhx2ucpxdmhxue69uhkcmnzd968xtnzw33j6urp09ek2unkv4ezuet49ahx7um5wfex2mrp0yhkvatydaeks6twxqcsz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsmqgq00",
+    "timestamp": "1746537784",
+    "date": "5/6/2025, 1:23:04 PM",
+    "id": "63c588ecb6a98f14762b5e702f4715fdfd1b09915284b9df79440b3c67e75a4a",
+    "kind": 1
+  },
+  {
+    "content": "Mission accomplished",
+    "timestamp": "1746522909",
+    "date": "5/6/2025, 9:15:09 AM",
+    "id": "87cef3b33ec823871d4ef79724d340b681982a33ec51a93ff2329bacbaf08051",
+    "kind": 1
+  },
+  {
+    "content": "Wasabi can finally synchronize and operate without any central server.\n\nnostr:nevent1qqsp8cvfcz9788lmhad6ckvqg52r9z8fsl9dk3tcx3exjucv5qlc8vgpz4mhxue69uhkummnw3ezummcw3ezuer9wchsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0lykjs6\n\nnostr:nevent1qvzqqqqqqypzp83sa9qz8rxea04uvv5pwmw56yyczgffgshj5mpcwfluvma8a2g2qy88wumn8ghj7mn0wvhxcmmv9uqsuamnwvaz7tmwdaejumr0dshsqgqqqza8z3dxcak48dcaqyjad2fjv40lstv95h9lt0ms5j8fujve7gt7unx4",
+    "timestamp": "1746522840",
+    "date": "5/6/2025, 9:14:00 AM",
+    "id": "0771dc4d5bb1b396cf350fff4a8edd3a2e914a3b2e482ac3db93e5079b7bad11",
+    "kind": 6
+  },
+  {
+    "content": "🚨 New release 2.6.0 - Prometheus is here! \n \nWasabi Wallet v2.6.0 \"Prometheus\" marks a significant milestone in our survival strategy, delivering major improvements in resiliency by eliminating dependency on centralized infrastructure while making it harder to stop.\n\n💥 Support for Standard BIP 158 Block Filters\n💻 Full Node Integration Rework\n🔐 Create & Recover SLIP 39 Shares\n💪 Nostr Update Manager\n\nAnd more, check out the notes: https://github.com/WalletWasabi/WalletWasabi/releases/tag/v2.6.0",
+    "timestamp": "1746522832",
+    "date": "5/6/2025, 9:13:52 AM",
+    "id": "e6610b09cbc042ed54d0bfbf39d5b58fc10e7d4b4a936933a44a3c531bf7fe52",
+    "kind": 6
+  },
+  {
+    "content": "Vexl not having an option for users to rate offers is a feature, not a bug. A few.\n\nLearn why with nostr:nprofile1qqsywfmwk93lc49nwvunp26ul406j3585x2nsudgwwk5lthfr6997wqpp4mhxue69uhkummn9ekx7mqpz4mhxue69uhk2er9dchxummnw3ezumrpdejqpseed8 🧐\nhttps://m.primal.net/QTmY.mp4",
+    "timestamp": "1746521172",
+    "date": "5/6/2025, 8:46:12 AM",
+    "id": "fdf93e49f321f598d08050a06c29814bd353de72643ccaf5bf269546f3c7e1a5",
+    "kind": 6
+  },
+  {
+    "content": "5-star ratings means nothing when you're trading with strangers. Trust doesn’t come from stars, but from people.\n\nThat’s why Vexl works through your web of trust - built on real connections. Read more in this article:\n\nhttps://vexl.it/post/why-vexl-doesnt-rate-offers-or-users\nhttps://blossom.primal.net/57906fa6c1267f784da1c3145771f73d1d18da3c5b1a68e8f2ec9708ff9d268f.jpg",
+    "timestamp": "1746521167",
+    "date": "5/6/2025, 8:46:07 AM",
+    "id": "6f6aff63dc5bdd28b0ab494af6dc8b4b01ec7d27334a938c97ec3aa2b579f604",
+    "kind": 6
+  },
+  {
+    "content": "GM 🌞\n\nI'm looking for an experienced Dart/Flutter dev to help us build White Noise. 🧑‍💻\n\nhttps://ostrich.work/jobs/naddr1qvzqqqrkcgpzq9eemymaerqvwdc25f6ctyuvzx0zt3qld3zp5hf5cmfc2qlrzdh0qy88wumn8ghj7mn0wvhxcmmv9uqygum9de5k7u3dv3shyap0vek82ar5v4ez6er9wejkcmmsv4ez6en0wgkhw6rfw3jj6mn0d9ek2tpdvykkummnw3ez6mt9wdekzemfdenj6ctswqlw3e6l",
+    "timestamp": "1746520972",
+    "date": "5/6/2025, 8:42:52 AM",
+    "id": "51eb0a0e2fcfb8df0bdbe3f1d1f264a6d071610bb1384b0d8c07a758f7292911",
+    "kind": 6
+  },
+  {
+    "content": "Accessibility meets privacy: Voca lets you listen to any document offline. No data shared, no accounts needed. Because everyone deserves to read without barriers.",
+    "timestamp": "1746520835",
+    "date": "5/6/2025, 8:40:35 AM",
+    "id": "964833b8fe0651a611e841be196d6d3d88d92f0ddf2a3b441fef59e6c80c8f35",
+    "kind": 6
+  },
+  {
+    "content": "The mind blowing part here is not my unix tool, it is showing that nostr is a practical decentralized alternative to Usenet NZBs (torrents are a different thing)\n\n- Blossom servers do not need to store a whole large video file\n- Blossom servers do not need to stream an entire large file\n- Blossom operators have plausible deniability in terms of content as the segments are encrypted (and they may not have all) and they don't control the key\n\n- Video clients now have mutiple failovers if a segment is stored in multiple servers\n- There are bandwidth savings if the video is not watched entirely\n- Content creators can exchange the AES key against a zap\n\nYoutube, here we come.\n\nnostr:nevent1qqs95v5s99w5mzegk6tdf5flu0af999k0anjkucdcemf2d5hh9hk43qprpmhxue69uhkv6tvw3jhytnwdaehgu3wwa5kuef0qgs8y6s7ycwvv36xwn5zsh3e2xemkyumaxnh85dv7jwus6xmscdpcygrqsqqqqqpr4rtmd",
+    "timestamp": "1746518854",
+    "date": "5/6/2025, 8:07:34 AM",
+    "id": "840de246c6c258c485dd94cf8099d48664415f1f4e13becf7d6f8a2caed37f18",
+    "kind": 6
+  },
+  {
+    "content": "🚀 Damus Notedeck Beta Release 🚀\n\nToday we're launching the beta version of our multiplatform nostr browser! Think google chrome but for nostr apps. The beta is our big first step toward this vision.\n\nIncluded in the beta is the Dave, the nostr AI assistant (its grok for nostr). Dave is a new notedeck browser app that can search and summarize notes from the network. For a full breakdown of everything new, check out our beta launch video 👀\n\nhttps://cdn.jb55.com/hls/notedeck-beta-release/master.m3u8\n\nNew in Notedeck Beta:\n\n- Dave nostr ai assistant app\n- GIFs!\n- Fulltext note search\n- Add full screen images, add zoom & pan\n- Zaps! NWC/ Wallet ui\n- Introduce last note per pubkey feed (experimental)\n- Allow multiple media uploads per selection\n- Major Android improvements (still wip)\n- Added notedeck app sidebar\n- User Tagging\n- Note truncation\n- Local network note broadcast, broadcast notes to other notedeck notes while you're offline\n- Mute list support (reading)\n- Relay list support \n- Ctrl-enter to send notes\n- Added relay indexing (relay columns soon)\n- Click hashtags to open hashtag timeline\n\nIf you're a purple subscriber, make sure to *login* and download the beta here: https://damus.io/notedeck/install/ . if you're not logged in you will only see the Alpha release.\n\nIf you're not subscribed, you can get a subscription here: https://damus.io/purple/checkout/\n\nAlso make sure to check out the notedeck usability signal group to give feedback! https://signal.group/#CjQKINZJS0LBUTsTQbRW-nWUd6Dhkc6ojcBtyMrZcgThaRzEEhAstno8KLqs8E8J0qajLwir\n\nEnjoy!",
+    "timestamp": "1746518840",
+    "date": "5/6/2025, 8:07:20 AM",
+    "id": "f6921794850926c1afb7e3fdb2d74e9408b4875142a79a27574ed76d1de4f5ca",
+    "kind": 6
+  },
+  {
+    "content": "Choose locations for Autonomous Zones carefully, considering factors like access control and surveillance.",
+    "timestamp": "1746509200",
+    "date": "5/6/2025, 5:26:40 AM",
+    "id": "a68704ba38bd4f67cb63571af287370fe33988106075601990da50b5408bd1bf",
+    "kind": 1
+  },
+  {
     "content": "Checked all those boxes.",
     "timestamp": "1746473850",
     "date": "5/5/2025, 7:37:30 PM",
