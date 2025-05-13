@@ -1,5 +1,194 @@
 [
   {
+    "content": "In privacy dashboard > microphone usage, it shows jitsi at times where general microphone access was granted, but jitsi was fully closed and not running in the background.",
+    "timestamp": "1747078373",
+    "date": "5/12/2025, 7:32:53 PM",
+    "id": "bae24a5763ad7fa1a6a3a7e812c12a9b221a3fd6f4153031175a461c2c4f75ab",
+    "kind": 1
+  },
+  {
+    "content": "Yes, same happens when none are allows and only a few are ask every time.",
+    "timestamp": "1747078095",
+    "date": "5/12/2025, 7:28:15 PM",
+    "id": "4e5aa506169bd82af41f3f42dc8aa0b6339ef44b6d215876b34d9c6542bab391",
+    "kind": 1
+  },
+  {
+    "content": "Any supply of money will work for exchange, as long as its divisible, this isn't a realistic attack.",
+    "timestamp": "1747077378",
+    "date": "5/12/2025, 7:16:18 PM",
+    "id": "5b041e374016f355d6a0faf53decf77c5f910dfa5842282638477ca1df3f4824",
+    "kind": 1
+  },
+  {
+    "content": "Same happens when I close all apps, and stop all active apps.",
+    "timestamp": "1747075798",
+    "date": "5/12/2025, 6:49:58 PM",
+    "id": "b71de2972bc181a370e4c29e13a79c061af2c1acf2a66641b1f385e37391964c",
+    "kind": 1
+  },
+  {
+    "content": "So, who's gonna propose a hardfork to make opreturn and inscriptions invalid according to consensus rules?",
+    "timestamp": "1747075708",
+    "date": "5/12/2025, 6:48:28 PM",
+    "id": "d593d338e5132cda1a57a40eac960baac06715fff993843ace064a9bac343de4",
+    "kind": 1
+  },
+  {
+    "content": "ICYMI nostr:npub1hf5sgehj874r3y2hps9r36qap20cffauc7t895var2ajlsg32mcqa7dp8n  launched a new deep dive section about Ark for an intermediate grokking session. \n\nAnd for the balls' deep session, a litepaper https://docs.arklabs.xyz/ark.pdf 🔥\n\nYou'll also find integration docs for our (early) SDKs: notice how simple using Ark is! https://docs.arklabs.xyz/integrate/sdk",
+    "timestamp": "1747075227",
+    "date": "5/12/2025, 6:40:27 PM",
+    "id": "e747af62bfe147a91ea7b667bd08612c907948e3f08645c5fa402de6c6138429",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspzdmhxue69uhhwmm59e6hg7r09ehkuef0xzlnyc I see the green microphone in use icon pop up as soon as I grant global microphone access, even though there is no app actively using the microphone, and nothing in the history of microphone access.\n\nAny idea what's up here?\n\n#GrapheneOS",
+    "timestamp": "1747069429",
+    "date": "5/12/2025, 5:03:49 PM",
+    "id": "4c8de232a98d7e3ab96cf26c105ef4035c9e431e50487d2435193fb34e1d8a8f",
+    "kind": 1
+  },
+  {
+    "content": "Looks like he noticed a tall asian!",
+    "timestamp": "1747068204",
+    "date": "5/12/2025, 4:43:24 PM",
+    "id": "192cfa448c675e1655836a5681322922d80ae27cf8bb081f5d8d0dd3e798e10a",
+    "kind": 1
+  },
+  {
+    "content": "If miners censor individual transactions for a long time, they still produce valid blocks. I don't think block validity is relayed to censorship.",
+    "timestamp": "1747068131",
+    "date": "5/12/2025, 4:42:11 PM",
+    "id": "fb9db3626776d324c51d27be854a6589364feecfe56d9decf2d91d0bf1048d04",
+    "kind": 1
+  },
+  {
+    "content": "Proactive action is not proactive aggression.",
+    "timestamp": "1747067984",
+    "date": "5/12/2025, 4:39:44 PM",
+    "id": "a45d568db6b2673d25adae88afdb84860146c043dc11d929f97c1d41fa50d3e5",
+    "kind": 1
+  },
+  {
+    "content": "Are transaction with an invalid signature censored then?\n\nThat's a savage picture btw, didn't know fee difference is this extreme.",
+    "timestamp": "1747065408",
+    "date": "5/12/2025, 3:56:48 PM",
+    "id": "a7f20856e476cf04a76efca9f1cd64f7c3968193ed0db7afbff6794820056ec1",
+    "kind": 1
+  },
+  {
+    "content": "The Second Realm is not a utopian dream, it's a realistic goal that requires effort, courage, and dedication to build and maintain.",
+    "timestamp": "1747065256",
+    "date": "5/12/2025, 3:54:16 PM",
+    "id": "652ac416af5ae914af41f2ed56a48ac63a0a3e845cc266189c2958ca3dbdb4b3",
+    "kind": 1
+  },
+  {
+    "content": "Security starts with keeping the peace, being prepared, and taking preemptive action to prevent conflicts and protect against threats.",
+    "timestamp": "1747046078",
+    "date": "5/12/2025, 10:34:38 AM",
+    "id": "90feb2f7d44e4036dd3625e544f67c71b00dd218909a548bb798710b620a349b",
+    "kind": 1
+  },
+  {
+    "content": "https://image.nostr.build/86336abf49aaa2f7297c273225cb8d178f10f7298408172459800810ccd088f8.jpg  \n\nLooking for someone with SOCIAL MEDIA experience for a cool new project.\n\nYou'll be doing the usual - post, respond, handle DMs, do campaigns, reachouts, evaluate them etc.\n\nYou should be fluent in English and ideally some other languages too.\n\nIt's a privacy & security focused project oriented towards a wide audience and jurisdictions hence why not just nostr, but also the usual fb, ig, yt, li, x... \n\nThe project uses cryptography, bitcoin and nostr under the hood, delivers hardware, software and services. It's secret mission is to bring more users to nostr, but the primary goal is to help people be more confident, sovereign and secure.\n\nIf this is something for you, message me with your CV or work references.",
+    "timestamp": "1747039907",
+    "date": "5/12/2025, 8:51:47 AM",
+    "id": "9b7a545f0135e5ac925f2684cb7d393dac3e39fcbfa30f90ded1afb179ea7e6d",
+    "kind": 6
+  },
+  {
+    "content": "Yet another solid rant by nostr:nprofile1qqs8fl79rnpsz5x00xmvkvtd8g2u7ve2k2dr3lkfadyy4v24r4k3s4spzdmhxue69uhhwmm59e6hg7r09ehkuef0s9jd25.\nSpam must be dealt with, not encouraged.\n\nhttps://www.youtube.com/watch?v=MdWIYsqIooQ",
+    "timestamp": "1747032671",
+    "date": "5/12/2025, 6:51:11 AM",
+    "id": "69407dbf5e71aeec69863a5149f3a3197f22b82d44d23fb9290c557009468bd9",
+    "kind": 1
+  },
+  {
+    "content": "Two weeks, of course.",
+    "timestamp": "1747031913",
+    "date": "5/12/2025, 6:38:33 AM",
+    "id": "626c25f985d2eb7f010871d607ccdbc3fae83be418f625309aa586a838f76e88",
+    "kind": 1
+  },
+  {
+    "content": "If you know about a TAZ, then it's probably not a great TAZ, they thrive in the shadows.",
+    "timestamp": "1747031902",
+    "date": "5/12/2025, 6:38:22 AM",
+    "id": "dac085d1ab9d66260f31768d19674269545a7b3cd2ef530ea48e759b427b1d03",
+    "kind": 1
+  },
+  {
+    "content": "Yup.",
+    "timestamp": "1747029383",
+    "date": "5/12/2025, 5:56:23 AM",
+    "id": "b0e76a8a5eed1a365b50f0414e763b02fbe58e6f5d13c1e6910bc7c316d197df",
+    "kind": 1
+  },
+  {
+    "content": "No, you are a successful speculative entrepreneur who expedited hyperbitcoinization, a great service to mankind.",
+    "timestamp": "1747029369",
+    "date": "5/12/2025, 5:56:09 AM",
+    "id": "ce4109b1d6f9d172130248294b99f2dc17ff9ea92c6b3c6aa3f5660879589f3b",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsdvz766q6x3a0cepd3kyxmjalrzzj6474nxagdltdnwjytq2lu34cpzdmhxue69uhhwmm59e6hg7r09ehkuef0g03csf your escrow might be needed here.",
+    "timestamp": "1747029294",
+    "date": "5/12/2025, 5:54:54 AM",
+    "id": "8be081badbf602d2976b66b09b4373653e88b06d774019ae290ae13f97f585c5",
+    "kind": 1
+  },
+  {
+    "content": "https://catallax.network/\nPatrons broadcast paid gigs\nFree Agents work jobs anonymously\nArbiters hold funds in escrow and judge outcomes.",
+    "timestamp": "1747029244",
+    "date": "5/12/2025, 5:54:04 AM",
+    "id": "b652c7a1e6c842ec3fa7d9506043872157005005251572620b3d1feff049b4b2",
+    "kind": 1
+  },
+  {
+    "content": "This is great!",
+    "timestamp": "1747029216",
+    "date": "5/12/2025, 5:53:36 AM",
+    "id": "bfacdcd175b6f92ca612798d606cffced7c8b87d13996e3d61bc072985e367dd",
+    "kind": 1
+  },
+  {
+    "content": "Samson is describing https://catallax.network towards the end here. \n- devs as nyms (key in catallax and Samson's vision)\n- foundation/arbiter overseeing\n- fundable with bounties\n\nHe's talking about raising money to build this - it's easier to finish than he thinks. I'm almost done!\n\n@Knut_Svanholm_∞/21M nostr:npub1fk8h6g8zhftw8c7pga2zjd84p2z949up5lc3qdchm9v4m0q7mwws7jcwld  get in touch if you guys are serious about propelling this and would like to start from a nostr base.\n\nhttps://fountain.fm/episode/QvLjq2BSeRhvK9WnNz6h\n\nnostr:nevent1qvzqqqpxquqzqqy40gtl8lmrjm2nvjzmn2jmhn3nqesyevscsawgtntkqhfkhpkknfunw6",
+    "timestamp": "1747029202",
+    "date": "5/12/2025, 5:53:22 AM",
+    "id": "8ef1b7002732c25f698138fdb46b727629b4631ba456f78bd0a721414c8dc5e1",
+    "kind": 6
+  },
+  {
+    "content": "Awesome, glad you like it!",
+    "timestamp": "1747029135",
+    "date": "5/12/2025, 5:52:15 AM",
+    "id": "983086b250413dddcb45035970b5eac5c497b5d844d7cd5e13b3dc42dc44c364",
+    "kind": 1
+  },
+  {
+    "content": "Yeah that's wild.",
+    "timestamp": "1747029113",
+    "date": "5/12/2025, 5:51:53 AM",
+    "id": "59d9878faa8d390e850a039c529afec78519318814315ec991bd5d6f4391155d",
+    "kind": 1
+  },
+  {
+    "content": "So many reasons, one is that you give the government an option to keep an invention secret.",
+    "timestamp": "1747029076",
+    "date": "5/12/2025, 5:51:16 AM",
+    "id": "fe7fd54df3b85dab01ca7bc4829732572aa2a12bed2c6f750129f8e25fbf6c53",
+    "kind": 1
+  },
+  {
+    "content": "The choice of location is crucial for temporary autonomous zones, with a focus on not inviting aggressors and controlling access.",
+    "timestamp": "1747029009",
+    "date": "5/12/2025, 5:50:09 AM",
+    "id": "1e70ad487f4596032ea6667ad4d738d07374a0aac0ed7649bcfc3e3dfc8031a9",
+    "kind": 1
+  },
+  {
     "content": "Patents are the greatest threat to human flourishing.",
     "timestamp": "1746981244",
     "date": "5/11/2025, 4:34:04 PM",
