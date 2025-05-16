@@ -1,5 +1,131 @@
 [
   {
+    "content": "We are aware of a critical issue with NBXplorer being unable to process specially crafted transaction in the Bitcoin blockchain block 896727. \n\nOur team has already deployed a fix. To resolve the issue with your BTCPay, update your NBXplorer to version 2.5.26.\n\nhttps://blossom.primal.net/cf69d2b55feb6b084ae0427957449a415dfc6167559d3f16f8ce1bf4e998b3be.png \n\nIf you're on the 2.x branch of BTCPay Server using btcpayserver-docker, simply click Update button in Server administration (or run http://btcpay-update.sh) and the issue will be resolved.\n\nIf you're on a pre-2.0 version and aren't ready to move to 2.x yet, you can switch to the 1.13.x branch and use it to bump the NBXplorer dependency. https://github.com/btcpayserver/btcpayserver-docker/tree/1.13.x\n\nThanks to everyone who reported the issue and allowed us to quickly deploy a fix.\n\nFor more details, please visit GitHub and review nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpqzfytz6ktce3av2svlfpl0e79e44tnskxmvlpkcmc7q0xct3qa49sx0v5ym PR: https://github.com/MetacoSA/NBitcoin/pull/1269\n",
+    "timestamp": "1747332848",
+    "date": "5/15/2025, 6:14:08 PM",
+    "id": "f957f0b2bb72de1256d4af6e95ea7411f8296b41e42bb3df4b47d2f83f58584d",
+    "kind": 6
+  },
+  {
+    "content": "Did you try Roo code with the nostr addons?\nhttps://github.com/jodobear/sparcaroo",
+    "timestamp": "1747332448",
+    "date": "5/15/2025, 6:07:28 PM",
+    "id": "0618941f26bb3c973f0602e8c4597f13265e64399fd1ec5ce8469be0fe21ffd6",
+    "kind": 1
+  },
+  {
+    "content": "Earlier this week nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3wvf5hgcm0d9hx2u3wwdhkx6tpdshsqgy4xcdzks4zds3t4sakk6aych9vf5mfqm4se7ucy6rgr3z6xqw9rqdwmzvs and nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqghwaehxw309anxjmr5v4ezumn0wd68ytnhd9hx2qpqzsu6h4pfsyt9atxv6prt64j645vlyv22jwkeh5y6mqlrxs47ex0slxtz3n  discussed Newsletter #353 with Ruben Somsen, Salvatore Ingala, and Stéphan Vuylsteke:\n\n- BIP30 consensus failure vulnerability\n- Avoiding BIP32 path reuse\n- Bitcoin Core’s multiprocess project\n- And more…\n\nCatch up:\nhttps://bitcoinops.org/en/podcast/2025/05/13/",
+    "timestamp": "1747332407",
+    "date": "5/15/2025, 6:06:47 PM",
+    "id": "22cecf9919326acf36556e0063a27da31ca767b3d2ab342484595cda2c5aa5b7",
+    "kind": 6
+  },
+  {
+    "content": "Bolt cards with polititions on it - yay ",
+    "timestamp": "1747331672",
+    "date": "5/15/2025, 5:54:32 PM",
+    "id": "f89d6ae9620249e619b9db0414f81d0d9463d2681d319dd746a7930beee23a47",
+    "kind": 1
+  },
+  {
+    "content": "Followed because no bank account, well done!",
+    "timestamp": "1747331610",
+    "date": "5/15/2025, 5:53:30 PM",
+    "id": "05e6fed76982aa4c98bb91d1430d24cbf5364fe37d011c5bbd4db553f80028b7",
+    "kind": 1
+  },
+  {
+    "content": "Ditch optometry licence ✅ \nGtfo 🇨🇦 ✅ \nMove to 🇸🇻 ✅ \nGet 🇸🇻 residency ✅ \nNo bank accounts ✅ \nDIY nostr:nprofile1qqs9df4h2deu3aae83fmet5xmrlm4w5l9gdnsy3q2n7dklem7ezmwfcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz3rhwvaz7tekd3jks6rev3ehyargv9nk66tnxe6h2dn5w43kuerk0fmnwcm4vfc8z6mgweu8j7fhdfhkjmmrxs6k66mnwg6x2cty9ehku6t0dchs44rmat server /node ✅ \nDIY nostr:nprofile1qqsyv47lazt9h6ycp2fsw270khje5egjgsrdkrupjg27u796g7f5k0spz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshsghuzg2 ✅ \nDegoogled ✅ \nRunning Nostr ✅ \nRun self custody AlbyGo on own server ✅ \nJoin 🥎 team with locals ✅ \nRun Graphene 📱 with fake ID ✅ \nSwitch to Knots ✅ \nSetup solo miner on Datum ✅ \nLearn Spanish ….tiny ✅ \nI am more proud of myself for these things than any other accomplishments by far. All this was done in 1.5 years. Before this , I had only ever used iPhones and had near zero technical knowledge. I still have no technical knowledge but I managed to set all these things up on my own by following instructions online. To this day, I still don’t even know how to make a spreadsheet or use Word. I’m mid 50s so no spring 🐔 \nIf I can do it, anyone can. A lot of it was feeling intimidated. If anyone needs help, let me know and I can point you in the right direction.\n\nI even wiped out an old MacBook Air and installed Linux Mint but now I realize I have no idea how to do anything on Linux. I just need to learn how to run sparrow on it. \nAlso on the list is to try to figure out Liliana wallet. \n\n\n\n\n\n\nhttps://blossom.primal.net/c60fc54d01f9d415f53231edc3448e3abe7f68ab35a89447c7de2f045ec9717f.jpg\nhttps://blossom.primal.net/6d7c5cf5bd11b57ef39c546e0edf936ac8552bd3324f64a0456a2067394f9efb.jpg\nhttps://blossom.primal.net/891ae2d88b0e3d12da676bfa0859ba3d4ac119526986962c23c75bf8ebee7729.jpg",
+    "timestamp": "1747331594",
+    "date": "5/15/2025, 5:53:14 PM",
+    "id": "266e29f19e376085785dd4135183da369224d51bc84cf0629283cbc5c5679e63",
+    "kind": 6
+  },
+  {
+    "content": "That's awesome, thanks!",
+    "timestamp": "1747331466",
+    "date": "5/15/2025, 5:51:06 PM",
+    "id": "ab7784485f0c0ed2768e2ebf3d2f8b0557c863a49183cf94789b1e27c692ee2a",
+    "kind": 1
+  },
+  {
+    "content": "New project just released: Compass 🧭\n\nFor a long time I've wondered how bad things would be if nostr:nprofile1qyd8wumn8ghj7urewfsk66ty9enxjct5dfskvtnrdakj7qgdwaehxw309anrw73wd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uqzp75cf0tahv5z7plpdeaws7ex52nmnwgtwfr2g3m37r844evqrr6j46j6hr's wss://purplepag.es relay went down, since it's the only dedicated kind 10002 indexer I'm aware of, and is heavily relied on for bootstrapping user relay selections, which is a key part of keeping nostr decentralized.\n\nSo I stood up another one at wss://indexer.coracle.social. Regular users don't need to do anything, but I encourage client developers to add this to your list of relays you check for NIP 65 kind 10002 relay selections.\n\nI've also open-sourced the project at https://github.com/coracle-social/compass so anyone who wants to can run their own. \n\nThe project also supports mirroring other indexers via `strfry router`, but I have left that as an opt-in feature. Unless you expect significant load on your indexer,  mirroring would only increase the number of unnecessary connections made to other indexers, so please be considerate when setting up mirrors.",
+    "timestamp": "1747331421",
+    "date": "5/15/2025, 5:50:21 PM",
+    "id": "6d78a66783e97fb02be4ed523af29629da76f56d182fe49d869c210100588fd2",
+    "kind": 6
+  },
+  {
+    "content": "as others have suggested use an agent based ide as cursor/windsurf/vcode\n\ncursor out of the box gives you decent performance, if you wanna go deep vcode+roo is a deep rabbit hole specially if you dig into advanced setups like the SEC playbook https://github.com/jodobear/sparcaroo ",
+    "timestamp": "1747330962",
+    "date": "5/15/2025, 5:42:42 PM",
+    "id": "5fe41098c5176e7826889cd5b69eb7316d0fbc9f0efef71b9ba33b2a7d3d0d38",
+    "kind": 6
+  },
+  {
+    "content": "So coinbase leaks sensitive client data, who could have known?!",
+    "timestamp": "1747326836",
+    "date": "5/15/2025, 4:33:56 PM",
+    "id": "7a845845c16ff258e264ecb9e8e1d0535bbbf319f800cc00772a53c2aa9bf240",
+    "kind": 1
+  },
+  {
+    "content": "I still wonder why Tether doesn't issue ecash...",
+    "timestamp": "1747311746",
+    "date": "5/15/2025, 12:22:26 PM",
+    "id": "79297755ddb49af91a1f56ddb80a2a9e7aca3381efc76efa41119e7f21876060",
+    "kind": 1
+  },
+  {
+    "content": "Enjoy the rabbit hole of micro plastics and poison plants.\nAnimal products for the win!",
+    "timestamp": "1747309565",
+    "date": "5/15/2025, 11:46:05 AM",
+    "id": "4ac2b5c392e825ed95d5c5612b88501f40efc0aca22d54c9188a7766ab702e38",
+    "kind": 1
+  },
+  {
+    "content": "Satoshi wasn't an alien, he was human, and that makes me proud to be one too.",
+    "timestamp": "1747303024",
+    "date": "5/15/2025, 9:57:04 AM",
+    "id": "a4530c930ff45b21bd7bcf90289f6de587a523fcf2e81289cf1e1e6ed0cb38a5",
+    "kind": 1
+  },
+  {
+    "content": "Hey Nostr,\n\nI’ve spent 15 years in advertising, marketing, and sales — helping big brands grow. But I’ve recently made a decision: I want to use my skills to help Bitcoin grow instead.\n\nI’m looking to join a Bitcoin-principled company with a real mission. Ideally one focused on onboarding the next wave of normies — something I know how to do well.\n\nBeen reaching out on BitcoinJobs.com, but no traction yet. Anyone have:\n\nLeads?\nAdvice?\nConnections / Intros?\nA company I should be talking to?\n\nI’m even considering flying to the Bitcoin conference in Vegas just to meet people and network. Worth it?\n\nAppreciate any help from the community 🙏\nDMs open\n\n_________________________\n\n#asknostr #help #bitcoinjob #careerchange #networking\nnostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpqex7mdykw786qxvmtuls208uyxmn0hse95rfwsarvfde5yg6wy7jqjrm2qp nostr:nprofile1qqsw4096vtjqyyjyfuzys8pqkxtpacdgtm7ljl2dftyfsjpfqqcp2fq20jrgx nostr:nprofile1qyx8wumn8ghj7cnjvghxjmcpz4mhxue69uhk2er9dchxummnw3ezumrpdejqqgp4kg7dqtfdwhj4em3clhhzd0yz78g460y4szqqkp9smghdkaghaglmys9t \n",
+    "timestamp": "1747302942",
+    "date": "5/15/2025, 9:55:42 AM",
+    "id": "4c27cbe31d63a40a900676025486d7c3fe85029703bdb9d218b63656e0612d9e",
+    "kind": 6
+  },
+  {
+    "content": "This is a reimplementation with the new arti rust client.",
+    "timestamp": "1747302843",
+    "date": "5/15/2025, 9:54:03 AM",
+    "id": "0e60733c0a1c1e7e7bb7f89a1094f2a292a5655e3b3425e5d50e29fa31f2d5d7",
+    "kind": 1
+  },
+  {
+    "content": "Zapped you one, try it.\nLike any good drug deal, the first fix is free.",
+    "timestamp": "1747290365",
+    "date": "5/15/2025, 6:26:05 AM",
+    "id": "1737dbaed5e4f2b95861a36934602509a5182c71e58524c2defeb74277b7f670",
+    "kind": 1
+  },
+  {
+    "content": "Smells like a business opportunity to me...",
+    "timestamp": "1747290269",
+    "date": "5/15/2025, 6:24:29 AM",
+    "id": "9c1d0d71606b71ea479c4256904f355d334d739149e8f4b6e7604b41ac3e923a",
+    "kind": 1
+  },
+  {
+    "content": "Introducing oniux:\n\nA small command-line utility providing Tor network isolation for third-party applications using Linux namespaces. Built on Arti, and onionmasq, oniux drop-ships any Linux program into its own network namespace to route it through Tor and strips away the potential for data leaks. If your work, activism, or research demands rock-solid traffic isolation, oniux delivers it.\n\nhttps://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/",
+    "timestamp": "1747290242",
+    "date": "5/15/2025, 6:24:02 AM",
+    "id": "a9e48d36034d6ba79a7cbc52cdb2d80c4f0e4128264af970d7c43c41b071470c",
+    "kind": 1
+  },
+  {
     "content": "Here's a nine hour lecture that reminds you what you should do.\nhttps://www.youtube.com/watch?v=ChgCh2Gui5M",
     "timestamp": "1747245379",
     "date": "5/14/2025, 5:56:19 PM",
