@@ -1,5 +1,180 @@
 [
   {
+    "content": "I thought I invented ground meat jerkey...\nIt's nice, right?!",
+    "timestamp": "1747423242",
+    "date": "5/16/2025, 7:20:42 PM",
+    "id": "0cec6975d6dc43160be76ce957478aaeb55ff3630980e1d07fc7eb773bdad048",
+    "kind": 1
+  },
+  {
+    "content": "Best new nostr clients?",
+    "timestamp": "1747422968",
+    "date": "5/16/2025, 7:16:08 PM",
+    "id": "bb53650b857fc713010e9daf582e63366ba32aa959af0f5c78888337a7ff043e",
+    "kind": 1
+  },
+  {
+    "content": "Wrote them a mail, let's see!",
+    "timestamp": "1747422405",
+    "date": "5/16/2025, 7:06:45 PM",
+    "id": "ff47a2b5fe028e6d726f77e076eafb0d2d8013eb73310329686dd48ce7a4a318",
+    "kind": 1
+  },
+  {
+    "content": "My zaps don't get kyced. Primal is not the only nostr client, you can choose another. Checkout npub.cash",
+    "timestamp": "1747417444",
+    "date": "5/16/2025, 5:44:04 PM",
+    "id": "78b979fe668563f0b15b11af30da2fb3dc0b56933d6d5fa22cd0970669807168",
+    "kind": 1
+  },
+  {
+    "content": "Wrote him a mail, let's see...",
+    "timestamp": "1747417379",
+    "date": "5/16/2025, 5:42:59 PM",
+    "id": "183fa9e1efc7fadbe340ffb7c5209be8021c7f09bf0c4b6025511c3f4320928f",
+    "kind": 1
+  },
+  {
+    "content": "LFG!",
+    "timestamp": "1747417119",
+    "date": "5/16/2025, 5:38:39 PM",
+    "id": "baae686f5e2b099212d468537359b553cd278ecf79d037b87c49843f9dce90cf",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, this is how it should be.",
+    "timestamp": "1747416798",
+    "date": "5/16/2025, 5:33:18 PM",
+    "id": "c40a4071a0c2673689c6e0c4ce83b50468fffee1a6b7437a5f65054320c36e62",
+    "kind": 1
+  },
+  {
+    "content": "Yeah how do we plant a nostrich there?",
+    "timestamp": "1747416777",
+    "date": "5/16/2025, 5:32:57 PM",
+    "id": "661dd93bb728bbaeda07dbfad3e35fc5e1e6ff555400becc6462a8c918690391",
+    "kind": 1
+  },
+  {
+    "content": "Sounds like a show nostr:nprofile1qqs2d0qm73kmvjynznwdknv9uxvcd6fe9f4ctu5ye88egdmtxpvr8dcpzdmhxue69uhhwmm59e6hg7r09ehkuef0gk9nm7 should visit.",
+    "timestamp": "1747416759",
+    "date": "5/16/2025, 5:32:39 PM",
+    "id": "dd002da5cb29c6eba27a0795c0f5002df5c9eabfe8e7cf09e534cc8c5cba353c",
+    "kind": 1
+  },
+  {
+    "content": "Many ways to design this, one example is a soft notification after the first post, a full screen notification after 10 posts, block app usage until confirmed backup after 100 posts.",
+    "timestamp": "1747416736",
+    "date": "5/16/2025, 5:32:16 PM",
+    "id": "868efb26ad3afe2716471f954ad5ba8a3fb536d65e2d959a0c01a4842c218dde",
+    "kind": 1
+  },
+  {
+    "content": "What's a podcast that needs a purple pill?",
+    "timestamp": "1747416029",
+    "date": "5/16/2025, 5:20:29 PM",
+    "id": "7f8293368ed12ea04f7d87c2249387eac4dece77766313ddaedbe94d27ec514d",
+    "kind": 1
+  },
+  {
+    "content": "Every time I encounter a signup screen demanding an email, phone number, username, or password, I’m reminded of how much friction still exists in onboarding experiences. Cumbersome requirements lead users to abandon apps or services before they even begin.\n\nThis is where Nostr shines: by quietly generating a secure keypair in the background, it eliminates barriers entirely. Users gain instant, effortless access to the service’s value, no clicks, no delays, just seamless utility from the first interaction.",
+    "timestamp": "1747415647",
+    "date": "5/16/2025, 5:14:07 PM",
+    "id": "255b04dc5ccc7007354e0d14a2233874bb8d379900010010eff25b7691006c88",
+    "kind": 1
+  },
+  {
+    "content": "No, one key to encrypt/decrypt for all your follows.\nThere are distributed key generation functions for this that each receiver runs independently.",
+    "timestamp": "1747413934",
+    "date": "5/16/2025, 4:45:34 PM",
+    "id": "54feaa9a579a75f5bf9c2502ef5608836abcad77a486228e83b2ddb0bc2f3862",
+    "kind": 1
+  },
+  {
+    "content": "Matrix encryption is not optimal, but yes its similar.\n\nIndeed, this has forward secrecy and new follows don't see old posts.",
+    "timestamp": "1747405169",
+    "date": "5/16/2025, 2:19:29 PM",
+    "id": "98adfef2ab5df62ede650358c3d19056ad86284bbf0b3ca397d317c76f0aa210",
+    "kind": 1
+  },
+  {
+    "content": "This way if you kick out one person, not everyone has to rotate keys, but only those along the path of the tree. Scales logN",
+    "timestamp": "1747404572",
+    "date": "5/16/2025, 2:09:32 PM",
+    "id": "56f7808a92f29fb4215cb63e282693cadd9eedc746b3a4f03a1689bfe8acd014",
+    "kind": 1
+  },
+  {
+    "content": "Exactly! And with Merkle trees this becomes super efficient.",
+    "timestamp": "1747404422",
+    "date": "5/16/2025, 2:07:02 PM",
+    "id": "886d24b5c76d4303147f6a4cac5c655806e19b329c4b219b68c46aa3ec115dd2",
+    "kind": 1
+  },
+  {
+    "content": "So cool, you can build awesome stuff with this.",
+    "timestamp": "1747404388",
+    "date": "5/16/2025, 2:06:28 PM",
+    "id": "b11d7f8bba90eb39bc9ccf77b0f337e68616a5e3a1f90ac335ce686d87fca4fe",
+    "kind": 1
+  },
+  {
+    "content": "Imagine if it is only one! 🤯",
+    "timestamp": "1747404005",
+    "date": "5/16/2025, 2:00:05 PM",
+    "id": "0fcba8a28991d5581f5e7f93e018cc00bcf43140217caf285663d60be8da907f",
+    "kind": 1
+  },
+  {
+    "content": "Imagine your nostr posts are encrypted to only the people you follow.",
+    "timestamp": "1747403839",
+    "date": "5/16/2025, 1:57:19 PM",
+    "id": "941cfa28c00cd03c72fc6ce6253117615750fd8461df5f70503187f008a2e2f2",
+    "kind": 1
+  },
+  {
+    "content": "https://image.nostr.build/662249b38ea58010d63af079dcb8056d4eec718856d54312f8faa069e207c99b.jpg\n\nDo we need more NIP maintainers?\nAfter more BIP maintainers were added, things cleaned up rather fast.",
+    "timestamp": "1747401745",
+    "date": "5/16/2025, 1:22:25 PM",
+    "id": "27d5ee8b40bfbf7de11cb1538ffdab16170fb6cce102b7feea5544aeccb63a1d",
+    "kind": 1
+  },
+  {
+    "content": "What's a NIP for reviews / reputation?",
+    "timestamp": "1747383888",
+    "date": "5/16/2025, 8:24:48 AM",
+    "id": "8ff2b56d41c7a3619a6a0a5620e87852b2db93d97ecdf591bd3988dc5e6efa13",
+    "kind": 1
+  },
+  {
+    "content": "I have been using this e-cash based LLM provider since two days now and I'm not switching back to API keys that are issued by a counterparty.\n\nSteps:\n1. An e-cash wallet that runs on your local machine provides an API key that you can use in cursor/roo code. \n2. Your wallet receives the LLM requests, removes the API key and puts ecash in the request instead. \n3. The LLM aggregator redeems the e-cash, processes the request and returns the change along with the response from the LLM. \n\nSpending money has never been this much fun!\n\ndocker compose up -d --build\n\nLLM aggregator that supports e-cash: https://ecash.otrta.io\n\nnostr:nevent1qqspt2vp5z5827ncjv43a2wt8shjrph4z4zwlv2vlduz9ku2dmlkl4cpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygpzyndp04mthpllgcg7au3evtdqfu254xa7vsf4tl9kgj8rt8fzpgpsgqqqqqqsuvgt4f",
+    "timestamp": "1747382682",
+    "date": "5/16/2025, 8:04:42 AM",
+    "id": "812f52463d4604725f91f8ef04ff38b504184157482dee98716b845fe7a67475",
+    "kind": 6
+  },
+  {
+    "content": "Project for a friend 😁\nExcited to announce the ECASH OpenAI API client! There's still a lot to be done,  contributions are welcome 🙏\n\nhttps://github.com/9qeklajc/ecash-402-client\n\nhttps://cdn.nostrcheck.me/2224da17d76bb87ff4611eef23962da04f154a9bbe641355fcb6448e359d220a/f8538e7cef2095be7335bfcde91411320daf1555ac1fed559fc3c6f8be0e9d96.mp4",
+    "timestamp": "1747382681",
+    "date": "5/16/2025, 8:04:41 AM",
+    "id": "8ee6ec2c540954247c6a7f07c24b6803a801444b4eaac2c15b8c3969023531f2",
+    "kind": 6
+  },
+  {
+    "content": "Its nostr:nprofile1qqsp0c5gn7aqzqsaqj9p8lgt5yy26vwrsvnzj4rqcg0xn3pl4ra729gpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshsz9thwden5te0wfjkccte9eskuem0wghxjme0fls0tc project, trying to make nostr hyper scalable.",
+    "timestamp": "1747381777",
+    "date": "5/16/2025, 7:49:37 AM",
+    "id": "88847929fbe641f4369733493ecc32951db08fc057ee689e6d923da6c07ffdd7",
+    "kind": 1
+  },
+  {
+    "content": "Temporary Autonomous Zones are crucial for creating physical spaces for free individuals to interact and conduct business outside state control.",
+    "timestamp": "1747381718",
+    "date": "5/16/2025, 7:48:38 AM",
+    "id": "ef042be0d1c5d1ad189358c944ea7f53aac5e7832766c0fc159e81a51430b997",
+    "kind": 1
+  },
+  {
     "content": "We are aware of a critical issue with NBXplorer being unable to process specially crafted transaction in the Bitcoin blockchain block 896727. \n\nOur team has already deployed a fix. To resolve the issue with your BTCPay, update your NBXplorer to version 2.5.26.\n\nhttps://blossom.primal.net/cf69d2b55feb6b084ae0427957449a415dfc6167559d3f16f8ce1bf4e998b3be.png \n\nIf you're on the 2.x branch of BTCPay Server using btcpayserver-docker, simply click Update button in Server administration (or run http://btcpay-update.sh) and the issue will be resolved.\n\nIf you're on a pre-2.0 version and aren't ready to move to 2.x yet, you can switch to the 1.13.x branch and use it to bump the NBXplorer dependency. https://github.com/btcpayserver/btcpayserver-docker/tree/1.13.x\n\nThanks to everyone who reported the issue and allowed us to quickly deploy a fix.\n\nFor more details, please visit GitHub and review nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpqzfytz6ktce3av2svlfpl0e79e44tnskxmvlpkcmc7q0xct3qa49sx0v5ym PR: https://github.com/MetacoSA/NBitcoin/pull/1269\n",
     "timestamp": "1747332848",
     "date": "5/15/2025, 6:14:08 PM",
