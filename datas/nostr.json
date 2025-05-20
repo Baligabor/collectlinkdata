@@ -1,5 +1,96 @@
 [
   {
+    "content": "Why not a blossom video?",
+    "timestamp": "1747679830",
+    "date": "5/19/2025, 6:37:10 PM",
+    "id": "0af3b933ea26c854f54de24b15680c98cc905bf0f94bf016a38466614a47fabd",
+    "kind": 1
+  },
+  {
+    "content": "Nostria: How to invest using Angor:\n\nhttps://youtu.be/AsPuEoy8fWc",
+    "timestamp": "1747679813",
+    "date": "5/19/2025, 6:36:53 PM",
+    "id": "1162a8388325c5573d64bb452debeb6f935e9d83488f5115524e5ca37b9364ae",
+    "kind": 6
+  },
+  {
+    "content": "The Earth is big and the speed of light is limited. Did you know that it takes about ~232ms for data to move between Amsterdam (Europe) and Tokyo (Japan)?\n\nFrom Cape Town (Africa) to Tokyo (Japan) it's a massive ~378ms.\n\nAt Nostria, we believe that everyone should have a great experience on Nostr, no matter where you are physically located.\n\nThis is why we are building an infrastructure for global scale at Nostria, having discovery relays, user relays and media servers closer to everyone.\n\nIn the future we are additionally planning a special premium feature that will allow popular content creators to have user relays and media servers in each region. If you are a popular content creator and you want your followers to have the best experience, this will be a good option for you.",
+    "timestamp": "1747679747",
+    "date": "5/19/2025, 6:35:47 PM",
+    "id": "4c7ac5cb7dca75593100d5af87d58a74a1439f23c171b1b83eb720fe2bf1940b",
+    "kind": 6
+  },
+  {
+    "content": "Just generally curious on how the process works...\nI like how nostr:nprofile1qqs0tanfke8cj7mzq6j0l5mkrqtvpgxthj9p09hjmqczccte04tkdsqpzdmhxue69uhhwmm59e6hg7r09ehkuef074ean5 is posting his progress updates, I learned a lot about masonry this way.",
+    "timestamp": "1747656396",
+    "date": "5/19/2025, 12:06:36 PM",
+    "id": "fb505f21a044c600502219580454a1fbdc5d809e5e1dae387aa88f174fa0ff79",
+    "kind": 1
+  },
+  {
+    "content": "Any Bolivian Bitcoiner here?",
+    "timestamp": "1747656323",
+    "date": "5/19/2025, 12:05:23 PM",
+    "id": "422e513a48e1813885ddebfa4059d1e02548112f2320cfbc13a07abd26db084f",
+    "kind": 1
+  },
+  {
+    "content": "Haha, maybe others would have fixed it for you ",
+    "timestamp": "1747653571",
+    "date": "5/19/2025, 11:19:31 AM",
+    "id": "7d4ced455b4771e00dbf74712dfde6f0678a26fe0e2f33358878392036cd57ca",
+    "kind": 1
+  },
+  {
+    "content": "Nice!\nJust curious, why wasn't it FOSS before?",
+    "timestamp": "1747653258",
+    "date": "5/19/2025, 11:14:18 AM",
+    "id": "162d2589f76091ebbd5f1859beced8d0d24d5d3dd8b7c4e7f34b36f4afc735fa",
+    "kind": 1
+  },
+  {
+    "content": "Who is nostr:nprofile1qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uqsuamnwvaz7tmwdaejumr0dshsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0qyg8wumn8ghj7mn0wd68ytnddakj7qguwaehxw309a382cmtv46zucm0wfskxmr99eek7cmfv9kz7qpqwrzguj625auyeysfuuxzf7ywhzlwfz9gm3fml2lul72gwqxw8n9sxemc6l for? Why is it important in a #bitcoin denominated world? nostr:nprofile1qy2hwumn8ghj7un9d3shjtnpdenk7u3wd9hj7qgmwaehxw309ahx7um5wghx7unpdenk2urfd3kzuer9wchszxthwden5te0wfjkccte9eekummjwsh8xmmrd9skctcpzemhxue69uhhyetvv9unytnpdenk7u3wd9hj7qg3waehxw309ahx7um5wgh8w6twv5hszymhwden5te0wp6hyurvv4cxzeewv4ej7qghwaehxw309aex2mrp0yhxummnw3ezucnpdejz7qg7waehxw309ahx7um5wgkhqatz9emk2mrvdaexgetj9ehx2ap0qqs0kcde8kryuncwhfmxhwz4dukuqf3w36v9qyhznw3g2zxa2gr8mxqqrfyrg explains...\n\nhttps://npub1wrzguj625auyeysfuuxzf7ywhzlwfz9gm3fml2lul72gwqxw8n9swtcm02.blossom.band/c9e301c2af7284de732febc3cfdf99031ffa81071501958c5ddf28f0d9828435.mp4",
+    "timestamp": "1747653204",
+    "date": "5/19/2025, 11:13:24 AM",
+    "id": "9caaab5f48fcce88006208833f54e67aba9e7125bae59c55ecd947c50f3e4385",
+    "kind": 6
+  },
+  {
+    "content": "🔥 Nutshell 0.17.0 released – Blind Authentication, Multinut Payments, Wallet Improvements, and much more!\n\n# Improved Multinut Payments\nPlease upgrade your mint! It's important that we can improve the multi-nut mint network – if you want to support it, use LND or CLN as your backend. Once a few mints have upgrade, we're going to roll out wallet updates that can make use of this. \n\nIt's going to be so insane, I promise. I've been paying things with it for a while.\n\n## Blind Authentication\nYou don't need to run a mint for the entire world anymore. Nutshell now integrates with an OAuth 2.0 identity service of your choice. You can run your own (Keycloak docker included) or use another service. Ideal for mints that should serve specific communities. Wallet updates are pending, we're going to roll this out bit by bit. \n\nMore details:\nhttps://github.com/cashubtc/nutshell/releases/tag/0.17.0",
+    "timestamp": "1747652824",
+    "date": "5/19/2025, 11:07:04 AM",
+    "id": "4a359bbcd3609af7df7ffcd15dbfc2881c84d3a5013b86a909f326ab662028f2",
+    "kind": 6
+  },
+  {
+    "content": "A blind signature server might be helpful for this. Operator verifies the identity of the whiselblower, but cannot link this identity to the message he's signing, the audience subscribes to the operators npub for frequent news drops.",
+    "timestamp": "1747652199",
+    "date": "5/19/2025, 10:56:39 AM",
+    "id": "15e5021d76fb05cb1b2ba6cd645431f19ec1219dda4aa602d2ab49f073d18b9f",
+    "kind": 1
+  },
+  {
+    "content": "Can you do a step by step guide to cleaning and assembling stained glass?",
+    "timestamp": "1747643549",
+    "date": "5/19/2025, 8:32:29 AM",
+    "id": "eee91057f417a0d18ecbceeb7ebb13bf31c09334f6eab9299f65c71401a4a8e3",
+    "kind": 1
+  },
+  {
+    "content": "Why posting on NOSTR? Just like the idea of posting in our Realm. Hopefully showing some stuff that interests some of us . We are Bitcoiners . Yes . But for me it’s a mean to achieve goals and a future way of life. But Stained Glass & Craftsmanship are WHY I am a Bitcoiner . Not dogmatic. Never . \n\nHere are some prior restaurations  not always done in « dans Les normes de l’Art « that I have now to take care of . https://image.nostr.build/b85c1505218c3dbfad31d87c956661bed95adf085b654e30adbe4f024cacd16f.jpg https://image.nostr.build/4c26affbbf83a39c2e0a97e621c14f83465c3d15d543108b7065db39fbc17529.jpg https://image.nostr.build/856b6ec8dabd0c3d5c14fb42498c6d490584dbca2af71c151aada79662c83503.jpg https://image.nostr.build/93cc1eb082079ae738f3ab726d52dbf77691ca8c65f8b190d7c7d4b67b0d6018.jpg https://image.nostr.build/a553a55eea9cebacc6dc51d1da7f6c764cbebe877b90d2ffe418baf435a47820.jpg https://image.nostr.build/d2a61b1ac9ef6fffae010e2c386244a659580eccc5774bd1e4bb7de2632267ed.jpg https://image.nostr.build/2593ae6820def12861b330991039c666d2d7a97018f386ac5b0b982cc4cb4bf7.jpg https://image.nostr.build/001cf90212e615d92a8871231e05512791e4531bae7caa3965b46c5567becd3e.jpg https://image.nostr.build/2695469ed8ed3c16c84212d8c319b55a85cd3b647d0fc1ff26c910963339111c.jpg ",
+    "timestamp": "1747643508",
+    "date": "5/19/2025, 8:31:48 AM",
+    "id": "e9dbf12731a7aab9579793d38460cd44d8257c7f4844b31004051ca1263e9761",
+    "kind": 6
+  },
+  {
+    "content": "Everything you sign can and will be used against you.",
+    "timestamp": "1747633324",
+    "date": "5/19/2025, 5:42:04 AM",
+    "id": "f1178dafeaf961805c917bca18831ace75091d6f7a7670006c48b58c52a2764a",
+    "kind": 1
+  },
+  {
     "content": "Is it a vote if the minority still gets what they want?",
     "timestamp": "1747593486",
     "date": "5/18/2025, 6:38:06 PM",
