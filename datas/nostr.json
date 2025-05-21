@@ -1,5 +1,89 @@
 [
   {
+    "content": "Yeah he sounded very impressed, that's why I'm asking!",
+    "timestamp": "1747761144",
+    "date": "5/20/2025, 5:12:24 PM",
+    "id": "2cbf8217257e174689dcf0e786604f8575139973d08ed79c5ac56b2c4f4ee252",
+    "kind": 1
+  },
+  {
+    "content": "Qubes daily driver for the win!",
+    "timestamp": "1747760963",
+    "date": "5/20/2025, 5:09:23 PM",
+    "id": "e82ebc8cf965da01427e2bd5f197ee241f736edb37def3a9322da3c54bf10f3e",
+    "kind": 1
+  },
+  {
+    "content": "So did he make it to the nostr yet?",
+    "timestamp": "1747755386",
+    "date": "5/20/2025, 3:36:26 PM",
+    "id": "dafa6216cece67f67ca10fa7108bed74794fd56347016fe9e91aab571fad6b1c",
+    "kind": 1
+  },
+  {
+    "content": "In case of an attack, defense usually involves slowing them down and limiting the impact through deniability and escape. Only against some adversaries is an active defense beneficial.",
+    "timestamp": "1747752621",
+    "date": "5/20/2025, 2:50:21 PM",
+    "id": "f2b07d97d75f1a7bb0b7a69c3d3a664334fb4f21e2a620bacd56bf5d88c3663c",
+    "kind": 1
+  },
+  {
+    "content": "The difference is that even a minority can enforce it's decision, while voting is a tyranny of the majority.",
+    "timestamp": "1747750528",
+    "date": "5/20/2025, 2:15:28 PM",
+    "id": "afb2d45ff0648048eaf5f6cbca715d691148df48286ee072404b5676876479d7",
+    "kind": 1
+  },
+  {
+    "content": "Love it, thanks!",
+    "timestamp": "1747750483",
+    "date": "5/20/2025, 2:14:43 PM",
+    "id": "6146063f2006b403455d81cafe06f7a1c553d858c64588b006e41d0679d01a7c",
+    "kind": 1
+  },
+  {
+    "content": "Another repo drop from me: rss2podcast\n\nNot everyone has time to read, but reading is essential. This tool  enables you to listen to what you want to read instead. It has two modes  - you can convert your own blog to a podcast, or you can create a  personal podcasts from articles from all around the web.\n\nThis powers the audio version of my blogs: https://juraj.bednar.io/en/jurajs-blog-podcast-edition/\n\nThis also powers the website https://loaditfor.me/ which allows you to convert the articles on the internet that you want to read.\n\nThere is a lot of work I put into this, I hope someone finds it useful. Returning value (for example as sats) appreciated if you find it useful.\n\nThis is actually the last piece, markdown2audio and a better StyleTTS2 inference engine has been already released before.\n\nLook at how I generate it, it's quite interesting, it's not just raw reading of the article, I convert it into a form that is better for voice narration using LLMs, I verify outputs with speech to text, etc. \n\nhttps://github.com/jooray/rss2podcast\n\nEnjoy!\n\nhttps://blossom.primal.net/91dca3a903aebc16d4402c74ae017f930e16edccb5f9c3c626368f3e2c25a038.png ",
+    "timestamp": "1747750407",
+    "date": "5/20/2025, 2:13:27 PM",
+    "id": "d5eaca8f391e84215c1e98556262f9d5ece9e927e16517028349484ee4c23660",
+    "kind": 6
+  },
+  {
+    "content": "Looking forward for art that screams Bitcoin without the B logo.",
+    "timestamp": "1747722367",
+    "date": "5/20/2025, 6:26:07 AM",
+    "id": "4ea8556dd2ee4eb0b273c0ae9a2258fa2ef85e5d0e258242bed5dd2378c6c161",
+    "kind": 1
+  },
+  {
+    "content": "Yes, I'm talking about the concept, not the company.",
+    "timestamp": "1747722191",
+    "date": "5/20/2025, 6:23:11 AM",
+    "id": "a12586576d3ffa157162cfc608729fb95fb1cd09450537ecc0895922418976f9",
+    "kind": 1
+  },
+  {
+    "content": "I think just picture progress with some text explanation would be tremendously interesting, doesn't have to be all in one post, just a gradual progress report of your daily work. ",
+    "timestamp": "1747721102",
+    "date": "5/20/2025, 6:05:02 AM",
+    "id": "b4a9e848e9b8e9291bae75669d1caa27d52271db0ea2ea9f361a1144afd5357f",
+    "kind": 1
+  },
+  {
+    "content": "You enforce yourself, if your node sees an invalid transaction according to your rules, you simply delete it. The feedback is that you fork of the network of nodes who judge this transaction to be valid.",
+    "timestamp": "1747720922",
+    "date": "5/20/2025, 6:02:02 AM",
+    "id": "f05fec91e707887789c6263614fa6e463cf45c86c4e470803f09899c4edfba0a",
+    "kind": 1
+  },
+  {
+    "content": "Geo-caching offers solutions for physical trades, allowing goods to travel without parties meeting, and bonded escrows make fraud uneconomical.",
+    "timestamp": "1747720842",
+    "date": "5/20/2025, 6:00:42 AM",
+    "id": "77fda8bf0638d9e57311a52ce500907269f064cc61e90494cff2a81ae124d6a0",
+    "kind": 1
+  },
+  {
     "content": "Why not a blossom video?",
     "timestamp": "1747679830",
     "date": "5/19/2025, 6:37:10 PM",
