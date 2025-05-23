@@ -1,5 +1,26 @@
 [
   {
+    "content": "Yesterday nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3wvf5hgcm0d9hx2u3wwdhkx6tpdshsqgy4xcdzks4zds3t4sakk6aych9vf5mfqm4se7ucy6rgr3z6xqw9rqdwmzvs  nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqghwaehxw309anxjmr5v4ezumn0wd68ytnhd9hx2qpqzsu6h4pfsyt9atxv6prt64j645vlyv22jwkeh5y6mqlrxs47ex0slxtz3n spoke with Eugene Siegel, Chris Stewart, Bram Cohen, and Robin Linus:\n\n- A disclosed Bitcoin Core vulnerability\n- 64 bit arithmetic draft BIP\n- A new approach to recursive covenants\n- BitVM benefits from CTV and CSFS\n- And more\n\nCatch up:\nhttps://bitcoinops.org/en/podcast/2025/05/20/",
+    "timestamp": "1747914319",
+    "date": "5/22/2025, 11:45:19 AM",
+    "id": "1c4bf616681fc6cb05681467240da77ec325a774beeef1a370c5cd1c504836d9",
+    "kind": 6
+  },
+  {
+    "content": "You're coming to the cypherpunk meetup, right?\nnostr:nevent1qqst4ga3dq64n7grpqqg25gx6jnu77q4zuxlkm6v4d24n0xweq0fdmspzdmhxue69uhhwmm59e6hg7r09ehkuef0qgs0wzz3uacckly3qpq06m73xfskmuzhhxsh47vy3zpu0tw878hfzzgrqsqqqqqpur2m89",
+    "timestamp": "1747914260",
+    "date": "5/22/2025, 11:44:20 AM",
+    "id": "41f57e425ccc75ed3c6b10a8de1b091fbe8060af9bca6704b68856672836decb",
+    "kind": 1
+  },
+  {
+    "content": "Which new nostriches are worth a follow?",
+    "timestamp": "1747896208",
+    "date": "5/22/2025, 6:43:28 AM",
+    "id": "17ca7ae206fc46c66e3b093d2c48ef0046cb5bf1f7ae2b743c7d51c64359ef7d",
+    "kind": 1
+  },
+  {
     "content": "We need more work for bitcoiners.",
     "timestamp": "1747858251",
     "date": "5/21/2025, 8:10:51 PM",
