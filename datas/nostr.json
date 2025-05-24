@@ -1,5 +1,26 @@
 [
   {
+    "content": "you know its gonna be a banger episode when it starts with \"i'm a big fan of child labor\" ",
+    "timestamp": "1747984617",
+    "date": "5/23/2025, 7:16:57 AM",
+    "id": "8dc7160e6f166dfe4ecaadc273b09a59d98fdee5bb437c905a2cf7a632b93950",
+    "kind": 6
+  },
+  {
+    "content": "Thanks for the invite, I enjoyed our dialog.",
+    "timestamp": "1747983947",
+    "date": "5/23/2025, 7:05:47 AM",
+    "id": "2c88f38006e0ff2288534f6b5a7e62b51338812632734145c7a23893175bfac3",
+    "kind": 1
+  },
+  {
+    "content": "This is a fun concept for a Bitcoin podcast, check it out!\n\nnostr:nevent1qqsyh9nfnqa7kx52sauumh6en5f20hajl0w4xk0yzjwgwhalcc7q5ygpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgs2wjt8muxltregw024q0wac88kqqddjkxp4petswsapy0jue6cpesrqsqqqqqp4rvvly",
+    "timestamp": "1747983933",
+    "date": "5/23/2025, 7:05:33 AM",
+    "id": "5c4dd945499f132fdb0653b85c06b42b2c53375ca6f7349f2f88823549679fcf",
+    "kind": 1
+  },
+  {
     "content": "Yesterday nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3wvf5hgcm0d9hx2u3wwdhkx6tpdshsqgy4xcdzks4zds3t4sakk6aych9vf5mfqm4se7ucy6rgr3z6xqw9rqdwmzvs  nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqghwaehxw309anxjmr5v4ezumn0wd68ytnhd9hx2qpqzsu6h4pfsyt9atxv6prt64j645vlyv22jwkeh5y6mqlrxs47ex0slxtz3n spoke with Eugene Siegel, Chris Stewart, Bram Cohen, and Robin Linus:\n\n- A disclosed Bitcoin Core vulnerability\n- 64 bit arithmetic draft BIP\n- A new approach to recursive covenants\n- BitVM benefits from CTV and CSFS\n- And more\n\nCatch up:\nhttps://bitcoinops.org/en/podcast/2025/05/20/",
     "timestamp": "1747914319",
     "date": "5/22/2025, 11:45:19 AM",
