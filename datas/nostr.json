@@ -1,5 +1,54 @@
 [
   {
+    "content": "Thanks for optimizing for nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43q4gnztg, I appretiate that a lot.",
+    "timestamp": "1748126681",
+    "date": "5/24/2025, 10:44:41 PM",
+    "id": "454cff24d55aef9893fc3ec57b6acf969fa79031a48c7d09caf122e24dbe21ba",
+    "kind": 1
+  },
+  {
+    "content": "ZEUS v0.11.0-alpha5 with atomic swaps and Cashu support is now available for testing.\n\nIn this build:\n\n- feat: Swaps\n- redesign: new decluttered Contact view\n- performance: improved behavior on Graphene and non-stock Android OSes\n- Numerous UX enhancements and bug fixes\n\nNotes:\n\n- Cashu wallets are tied to Embedded LND wallets. Enable under Settings > Ecash\n- Other wallet types can still sweep funds from Cashu tokens\n- ZEUS Pay now supports Cashu address types. You can switch between Zaplocker, Cashu, and NWC mode but can only use one at a time.\n- Atomic swaps are not featured in this build. Stay tuned!\n\nAll feedback is appreciated. Thank you!\n\nFull release notes: https://github.com/ZeusLN/zeus/releases/tag/v0.11.0-alpha5\n\nhttps://image.nostr.build/2d3a8f83913fd01bbf5e1b1f46a4cb621a48a7e0c842eab79f5d9629a9130080.png",
+    "timestamp": "1748126647",
+    "date": "5/24/2025, 10:44:07 PM",
+    "id": "7daabce3e88119f65355c4efb1cc9d3ec9ea058d78402cabdea96a5c130d7022",
+    "kind": 6
+  },
+  {
+    "content": "Must listen, crazy good book so far!\nThanks for bringing this to my attention nostr:nprofile1qqstnem9g6aqv3tw6vqaneftcj06frns56lj9q470gdww228vysz8hqpzdmhxue69uhhwmm59e6hg7r09ehkuef0nj0rty!\n\nBitcoin Audible: Read_882 - The Great Taking [P1]\n\nEpisode webpage: https://bitcoin-audible.castos.com/episodes/read-882-the-great-taking-p1\n\nMedia file: https://episodes.castos.com/6626b866f2af87-36468692/2044514/c1e-59qw5c1g95zcnk2qp-8drpdww0i60-x1dsbv.mp3",
+    "timestamp": "1748126624",
+    "date": "5/24/2025, 10:43:44 PM",
+    "id": "8052893033ea4ccc690edfe73c7edf44a7e5d6794a20a5d45834cbcafda79b29",
+    "kind": 1
+  },
+  {
+    "content": "The state’s monetary monopoly fuels inequality. Inflation transfers wealth from savers to banks, deepening class divides through engineered economic cycles.",
+    "timestamp": "1748126058",
+    "date": "5/24/2025, 10:34:18 PM",
+    "id": "d30b37b79cd78255f538cdd44823aa254f977848eb67970f2e5ecb975efc1eda",
+    "kind": 1
+  },
+  {
+    "content": "Occupational licensing laws protect monopolies. The state criminalizes competition in fields like medicine and law, raising costs for consumers.",
+    "timestamp": "1748106740",
+    "date": "5/24/2025, 5:12:20 PM",
+    "id": "56622d77f9a847c81f9fd3b11425a30962d06dc95a7d7bf6d01e3ee2dd0e3295",
+    "kind": 1
+  },
+  {
+    "content": "Nitrokey is selling a pixel 9 with nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43q4gnztg, and an optional service to physically remove sensors, microphone, and cameras!\nhttps://shop.nitrokey.com/shop/nitrophone-5-pro-712",
+    "timestamp": "1748073032",
+    "date": "5/24/2025, 7:50:32 AM",
+    "id": "d5c8022df59ba98b2fb2903cf49641c2faa0f3a2796014b2627252b0fdc2cc1f",
+    "kind": 1
+  },
+  {
+    "content": "Embracing liberty means creating pockets of freedom in the here and now, despite the state's presence, and building a better world brick by brick.",
+    "timestamp": "1748070515",
+    "date": "5/24/2025, 7:08:35 AM",
+    "id": "ab3ba728e87e70d37290a0c81abc185f5b919363632614fce2e8610cc45acef7",
+    "kind": 1
+  },
+  {
     "content": "you know its gonna be a banger episode when it starts with \"i'm a big fan of child labor\" ",
     "timestamp": "1747984617",
     "date": "5/23/2025, 7:16:57 AM",
