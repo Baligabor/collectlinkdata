@@ -1,5 +1,47 @@
 [
   {
+    "content": "One of the reasons that Chaumian eCash did not catch on was because of patents. Guess which protocol spread far & wide because it didn't have the threat of patent litigations? Bitcoin.\n \nhttps://npub1hvqhft3p5m9vrg9fez62cm4lmftvu5tqtsc4kxpyju9uya0hywdq3ny4jq.blossom.band/c649d8f54614b7fcebd66bf8bf9ec8cd286143e4987e2feb2b90453653245afe.png\n\nJoin nostr:nprofile1qyfhwumn8ghj7am0wsh82arcduhx7mn99uqjqamnwvaz7tmwdaehgu3wv45kuatwv3a8wctw0f5kwtnnwpskxef0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qgwwaehxw309ahx7uewd3hkctcqyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cmwd6za to chat more about torching patents and fueling freedom at nostr:nprofile1qqs9a6hqlezphzpvf2j5xsqy6kxyffkadfqr5qd2lr98ad7e9wn9k4cnmyv4e \n\n🎟️ RSVP: https://events.cyphermunkhouse.com/bloomfest\n\n#Bitcoin #Nostr #Community #Meetups #PlebChain #London\nPowered by nostr:nprofile1qyw8wumn8ghj7cn4vd4k2apwvdhhyctrd3jjuum0vd5kzmp0qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qpqwrzguj625auyeysfuuxzf7ywhzlwfz9gm3fml2lul72gwqxw8n9swcxtpc",
+    "timestamp": "1748387553",
+    "date": "5/27/2025, 11:12:33 PM",
+    "id": "966c80f70f4e373d2cb30a304339848929d02fc10246abdc5ba4e83ccbf52b7f",
+    "kind": 6
+  },
+  {
+    "content": "Amazing, glad that you are reading it, can't wait for hearing what you think about the story.",
+    "timestamp": "1748387534",
+    "date": "5/27/2025, 11:12:14 PM",
+    "id": "e330defb0bb61adc91d95d3126b685acbda2cf9bb339b957bebef947ef964af2",
+    "kind": 1
+  },
+  {
+    "content": "3 Chapters in… thanks nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qyfhwumn8ghj7am0wsh82arcduhx7mn99u84tyay \n\nYou made my mindless Vegas drive thought provoking. \n\nhttps://fountain.fm/show/kYQUyHKX6BQU7VmPzPCI",
+    "timestamp": "1748387500",
+    "date": "5/27/2025, 11:11:40 PM",
+    "id": "905417e7aec23563cb851e72e80899e296efc9f827eb7cc389a1cb892302e4ed",
+    "kind": 6
+  },
+  {
+    "content": "Historical wars were state-building exercises. From Rome to modern empires, conquest unified territories under coercive rulers, not popular demand.",
+    "timestamp": "1748387236",
+    "date": "5/27/2025, 11:07:16 PM",
+    "id": "d27f8901160b7b5bce23962edc578480aed704ccb6e7eb735e844de92d764700",
+    "kind": 1
+  },
+  {
+    "content": "I seem to have found a good tradeoff in terms of querying for app updates, while remaining somewhat interoperable and not polluting events with tags just for querying.\n\nThere will be two supported querying modes: naive and smart.\n\nNaive mode sends one REQ per installed app, with a since of its latest release timestamp. If a user has 62 apps, it's 62 requests (every few minutes, probably). That's a ton of requests but the upside is simplicity, and these should return zero events most of the time. As suggested by nostr:nprofile1qqsrhuxx8l9ex335q7he0f09aej04zpazpl0ne2cgukyawd24mayt8g2lcy6q \n\nI'm obviously not satisfied with that approach but it works on any nostr relay.\n\nSmart mode will send a REQ with a salted compact Bloom filter and the salt itself in the search field. This method efficiently *and* privately identifies outdated releases: the relay at best learns which apps need to be updated, but not the whole set of installed apps. It can also send a few extra app IDs as noise (on top of the potential false positives the Bloom filter produces).\n\nHuge news for privacy. Which other app store gives you this ability?\n\nI have a small prototype running and it appears to be feasible. It should be implemented on Zapstore relays and signal this capability via NIP-11.\n\nThe Zapstore client will attempt to use it, but otherwise gracefully degrade to the naive brute-force method.\n\nAdditionally this unlocks one of the design questions I had in the new NIP I'm writing for Software Applications. I'm updating it with my experience over this last year, and preparing to support MacOS and Linux, both desktop and CLI, besides Android.",
+    "timestamp": "1748387224",
+    "date": "5/27/2025, 11:07:04 PM",
+    "id": "3044b0caee7fd88961fb4f948d28bb532e92515eb355f2ce0138072fb53fe89c",
+    "kind": 6
+  },
+  {
+    "content": "Central banks enable fiscal recklessness. By printing money, states fund unsustainable deficits, burdening future generations with debt.",
+    "timestamp": "1748326008",
+    "date": "5/27/2025, 6:06:48 AM",
+    "id": "c4b66b9a9f76b0f25dcbd243194546f4498d1df24198f9e62a0810e65a675e3e",
+    "kind": 1
+  },
+  {
     "content": "the nostr wallet experience is pure magic. if you know what's happening in the background it kind of breaks your brain. if you have no idea, it just works.\n\necash zaps are instant. they always succeed. the wallet is hyper portable. log in to a completely different nostr client and your money appears.\n\necash + nostr is going to set the bar for what payments on the web can be https://nostr.download/fcdc410e99b3d294f93bde3071a5206ffc89690b4d456b2548e73cde547de82a.mp4",
     "timestamp": "1748276987",
     "date": "5/26/2025, 4:29:47 PM",
