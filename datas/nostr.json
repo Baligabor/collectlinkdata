@@ -1,5 +1,96 @@
 [
   {
+    "content": "Taxation is institutionalized theft. The state enforces compliance through coercion, disguising it as civic duty while funding its expansive control.",
+    "timestamp": "1748981800",
+    "date": "6/3/2025, 8:16:40 PM",
+    "id": "f1c80afa0beaabf1a544f23adb5b5ace0901acb39149abb02d44191fa4746dc5",
+    "kind": 1
+  },
+  {
+    "content": "Zapstore development status:\n\nFinishing the new relay and media server infrastructure (thanks to nostr:nprofile1qqst6jhruelzn9jdf9qhyfsac3fetjyld0fwwary9cmxzfchrhacragpz4mhxue69uhk5etvd3ukv6tndqhxcctwvshszrnhwden5te0dehhxtnvdakz7qghwaehxw309a5kuer90qhxs7njvscngwfwvdhk6uv5t08) including separate relays for Github-proxy and dev signed.\n\nAuto-indexing: The Github (and similar services) relay will allow suggestions so you no longer need to ask for apps to be added - you just do it.\n\nSame for developer whitelisting, the process for gaining write access will be streamlined.\n\nAn all new pure-Dart APK parser library will be integrated in zapstore-cli and gearing up for releasing 0.2.0 final.\n\n(This same library will be used in the Zapstore app, so developers will also be able to publish from there - and sign with Amber - the fifth supported signing method for developers).\n\nzapstore-cli is being fine tuned to power the intense indexing job as well. It's faster than ever.\n\nThe new models Dart library, with its Purplebase implementation I'm wrapping up, is the cornerstone of the revamped Zapstore app - social features will be a breeze to implement, so expect those too.\n\nAlso: Relay selection (with it, you can remove non-dev signed apps easily), Blossom server and DVM provider selection. Unattended updates coming as well.\n\nAll while migrating to the revised/updated Software Applications NIP spec and new relays/Blossom server with no downtime.\n\nAll this will be coming together in the next 1-2 months.\n\nNext up: A Zapstore community (via nostr:nprofile1qqs2js6wu9j76qdjs6lvlsnhrmchqhf4xlg9rvu89zyf3nqq6hygt0spz9mhxue69uhkummnw3ezuamfdejj7qghwaehxw309aex2mrp0yhxummnw3ezucnpdejz7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uygje4n work with communi-keys), and client-side abstraction to support Linux and MacOS desktop apps. All suggest-able and auto-indexed too, same for CLI apps to use as package manager. Relay and zapstore-cli/indexer support already almost done.\n\nLFG",
+    "timestamp": "1748973725",
+    "date": "6/3/2025, 6:02:05 PM",
+    "id": "aeca2a2552ee987449682aae723361fde12adc89f125d3cb00ec6b89c590f63e",
+    "kind": 6
+  },
+  {
+    "content": "Tough to say, it started early, maybe with my first job, reading Rothbard was another pivotal moment, and ultimately full time working on freedom tech.",
+    "timestamp": "1748965035",
+    "date": "6/3/2025, 3:37:15 PM",
+    "id": "9b4ec42f3995de8a67d4b1acee838f2c5cd5297b0d804371015e18fb0d51431b",
+    "kind": 1
+  },
+  {
+    "content": "If it's an actual problem, free people will solve it.",
+    "timestamp": "1748964919",
+    "date": "6/3/2025, 3:35:19 PM",
+    "id": "e42b5ecc712886f882b3defcc478ea2e0f562de35327a2a37c256290508cd787",
+    "kind": 1
+  },
+  {
+    "content": "https://i.nostr.build/SYQ2rOtm5hd6TaUw.jpg\n\nnostr:note18z44nc2uldd0hpgm3faf9lfdkudtchjxxxkn3g2t5t45hcm6z30q4xzkfn",
+    "timestamp": "1748964871",
+    "date": "6/3/2025, 3:34:31 PM",
+    "id": "3527310f316afcf32b53d1d5f59a25bc5c8898cf2ad1cd7158feda4a05491790",
+    "kind": 6
+  },
+  {
+    "content": "Was a solid event, thanks for organizing!",
+    "timestamp": "1748964824",
+    "date": "6/3/2025, 3:33:44 PM",
+    "id": "6c9fba5be895666b33d9e1afe5c36e6b030ea600b3e91e96a7901122fd6dbcd9",
+    "kind": 1
+  },
+  {
+    "content": "Propaganda sustains the state. By rebranding coercion as public service, it masks exploitation under narratives of patriotism and necessity. ",
+    "timestamp": "1748959909",
+    "date": "6/3/2025, 2:11:49 PM",
+    "id": "cd4a4dfc52ab65ded2bc12c622536e0a6654403ef5de8d560b280a0fc5dcad7f",
+    "kind": 1
+  },
+  {
+    "content": "https://files.iris.to/09f6c67f89c38504dcadd936b56dd83831419e2eba76cabde81392eb556e1b15.png\n\nIris subscriptions live. You get relay and file hosting (blossom), but most of all you get to support open source Nostr development.",
+    "timestamp": "1748954663",
+    "date": "6/3/2025, 12:44:23 PM",
+    "id": "c33a96fe4e03b7b89ffc9af55eea07c09fc040f51944720d9e612d64c52afffb",
+    "kind": 6
+  },
+  {
+    "content": "📣📣 A bit last minute but... we're starting a monthly MLS on nostr dev call this evening at 1600 UTC.  📣📣\n\nhttp://meet.angor.io/mls-nostr\n\nWe'll be highlighting projects, new releases of libraries, and high level updates on the underlying MLS protocol spec. For this one I'm happy to do an AMA style section to answer questions anyone might have.\n\nIt'll be the first Tuesday of each month at the same time going forward. ",
+    "timestamp": "1748951611",
+    "date": "6/3/2025, 11:53:31 AM",
+    "id": "a69688e7481dcd9a3147d2d2db7808a30149364408e9ce99be226ae92b3e7569",
+    "kind": 6
+  },
+  {
+    "content": "Legal systems legitimize state theft. Courts enforce taxation and regulations, criminalizing voluntary exchanges that bypass its control.",
+    "timestamp": "1748949482",
+    "date": "6/3/2025, 11:18:02 AM",
+    "id": "b5ffd35b553fc2def5203378fce000a1fd197213a82af0f68388f9a51911ca1b",
+    "kind": 1
+  },
+  {
+    "content": "War isn’t a failure of the state, it’s a tool. Expansion through violence consolidates power, proving peace undermines its raison d’être.",
+    "timestamp": "1748944234",
+    "date": "6/3/2025, 9:50:34 AM",
+    "id": "8507a72a088b878ce81d3cbb6283be22e0c71501baffa8feb754a7c632f3b555",
+    "kind": 1
+  },
+  {
+    "content": "Why does using hard money (#Bitcoin) change the investing landscape?\n\nhttps://npub1wrzguj625auyeysfuuxzf7ywhzlwfz9gm3fml2lul72gwqxw8n9swtcm02.blossom.band/f17ee6eeb85dda39650eafec63feafc6db850636ac83db150849c2508ef5fa11.jpg\n\n🔸Value Preservation of the Capital\n🔸Planning & Building a Robust, Low-Time Preference Venture\n🔸Decentralized Trust with More Accountability\n🔸Global Accessibility and Frictionless Transactions",
+    "timestamp": "1748944191",
+    "date": "6/3/2025, 9:49:51 AM",
+    "id": "1df4daf3cab771d2339bd1b1f503de2f45052850aca301748d893e2fa053d473",
+    "kind": 6
+  },
+  {
+    "content": "Every territorial monopoly emerged from violence, sustained by suppressing dissent and alternatives.",
+    "timestamp": "1748937397",
+    "date": "6/3/2025, 7:56:37 AM",
+    "id": "b35db7d8722943d7930e52fdcd706f97810a2fc75816db913d68e6ece65231e5",
+    "kind": 1
+  },
+  {
     "content": "Decentralization threatens the state’s core. Bitcoin challenge its ability to fund coercion via inflation and monopolized money. ",
     "timestamp": "1748894027",
     "date": "6/2/2025, 7:53:47 PM",
