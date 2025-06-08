@@ -1,5 +1,68 @@
 [
   {
+    "content": "Innovation thrives in free markets; the state stifles it through bureaucracy and taxation. ",
+    "timestamp": "1749325518",
+    "date": "6/7/2025, 7:45:18 PM",
+    "id": "69d28dc1ab2841d30bf52258235fc585c7b52d820cd5e4407de1d52d2c6e630f",
+    "kind": 1
+  },
+  {
+    "content": "I've decided to do video reviews of the various crafted items I purchase from nostriches! \n\nThis is the first review of a set of nostr:nprofile1qqsx845ex2wm3cu9d8e93xm282nmpu33emyr5aufu20s5wt8sx7h6uspzdmhxue69uhhwmm59e6hg7r09ehkuef0un4e3j wallet and card holder.\n\nEnjoy!\n\nhttps://youtu.be/8H7eIgqWiMY\n\n#Leathermint #leatherwork #craftsman #handcrafted #grownostr ",
+    "timestamp": "1749324431",
+    "date": "6/7/2025, 7:27:11 PM",
+    "id": "b45bc2c0a9c1ad7cb08acb657c85ff04adb0d951bc5998e0777b7ed53fc79634",
+    "kind": 6
+  },
+  {
+    "content": "#GrapheneOS: WebRTC is a peer-to-peer communications protocol for web sites and therefore causes numerous privacy issues through making direct connections between participants. By default our Vanadium browser disables the peer-to-peer aspect by only using server-based (proxied) connections.\n\nVanadium provides a user-facing setting at Privacy and security > WebRTC IP handling policy.\n\nFrom least to most strict:\n\nDefault\nDefault public and private interfaces\nDefault public interface only\nDisable non-proxied UDP\n\nFor Vanadium, \"Disabled non-proxied UDP\" is the default.\n\nThe tracking technique described at https://arstechnica.com/security/2025/06/meta-and-yandex-are-de-anonymizing-android-users-web-browsing-identifiers/ is prevented by Vanadium's default \"Disabled non-proxied UDP\" value. It's also prevented by \"Default public interface only\", which does permit peer-to-peer connections but won't try to use the loopback interface for it.\n\nWe have a list of most of the features provided by Vanadium at https://grapheneos.org/features#vanadium. There are dozens of additional privacy and security features planned along with data import/export and improved support for system backups. It takes time to implement these things properly.\n\nVanadium doesn't have billions or even millions of users which limits our ability to prevent fingerprinting. We plan to address this by launching it for use outside GrapheneOS including publishing it through the Play Store. We want to implement more of the planned features first.",
+    "timestamp": "1749322984",
+    "date": "6/7/2025, 7:03:04 PM",
+    "id": "03add10e20ec2babe6d5054d288a3369977526cfc6decfc06c802a589cf84642",
+    "kind": 6
+  },
+  {
+    "content": "Current Table of Contents for #UNTRACEABLE *subject to change \n#privacy\n\nINTRODUCTION\n\nOVERVIEW\n\nFOUNDATIONS\n\nLesson 1 – Thinking Like a Cypherpunk\n\nSupplemental Reading - Beginning Steps to Privacy\n\nLesson 2 – Operational Security (OPSEC) for Real Life\n\nSupplemental reading - Nyms, Personas, and Digital Identity\n\nLesson 3 – Threat Modeling for Dissidents\n\nSupplemental Reading - Operational Security and Your Digital Life\n\n\nCRYPTOGRAPHY AS A WEAPON\n\nLesson 4 – Symmetric Encryption (AES) in Action\n\nSupplemental Reading - Encrypt Everything!\n\nLesson 5 – Asymmetric Encryption: GPG and the Web of Trust\n\nSupplemental Reading - Protecting Email Communications\n\nLesson 6 – Zero-Knowledge and Hashes\n\n\nANONYMITY & COMMUNICATIONS\n\nLesson 7 – Tor, Mixnets, and Routing Obfuscation\n\nSupplemental Reading - Clearnet vs VPN vs Tor\n\nLesson 8 – End-to-End Encrypted Messaging\n\nSupplemental Reading - Your Phone is not your Friend\n\nLesson 9 – OPSEC, Identity Separation, and Burner Protocols\n\nSupplemental Reading - A VPN is Not Magic\n\nLesson 10 – CoinJoin, Monero, and Financial Privacy\n\n\nHACKING AND EXPLOITATION\n\nLesson 11 – Recon and Scanning\n\nLesson 12 – Web Exploitation\n\nLesson 13 – Credential Attacks & Enumeration\n\nLesson 14 – Exploit Dev 101 (Buffer Overflows, ROP)\n\nLesson 15 – Reverse Engineering for Resistance\n\n\nADVANCED TRADECRAFT\n\nLesson 16 – Writing Custom Tools (Python/Go/C)\n\nLesson 17 – Linux, Windows, and Embedded Targets\n\nLesson 18 – Red Team Tactics in the Real World\n\nDEPLOYMENT & RESISTANCE\n\nLesson 19 – Building a Censorship-Proof Network\n\nLesson 20 – Self-Hosting and Digital Sovereignty\n\nLesson 21 – Going Dark: Total Digital Disappearance\n\n\nFINAL PROJECT\n\nhttps://image.nostr.build/cc3cde25433145b138b36de51cae40cdca2de5e0ece46bcb4f94f06554c32066.jpg",
+    "timestamp": "1749315093",
+    "date": "6/7/2025, 4:51:33 PM",
+    "id": "3e400cf5a9faecfd190c5ac2df770f5ae45a23d37befe719f99bed3f289364dd",
+    "kind": 6
+  },
+  {
+    "content": "The state isn’t born from consent but conquest. Its monopoly on force relies on historical violence, not social contracts, entrenching power through exploitation.",
+    "timestamp": "1749312096",
+    "date": "6/7/2025, 4:01:36 PM",
+    "id": "771875e144d8f12dd53633b2813858e9490f3aef31284a01f0090d3b9530863d",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin is not just a currency, it's a revolution. It's a declaration of independence from the state's control over our financial lives.",
+    "timestamp": "1749305142",
+    "date": "6/7/2025, 2:05:42 PM",
+    "id": "98c860700368340d01bf5ee5ea21dda15a321d8d88a713fb7ba6d6d8b52c267a",
+    "kind": 1
+  },
+  {
+    "content": "The state’s monopoly on money is its last stronghold.",
+    "timestamp": "1749291112",
+    "date": "6/7/2025, 10:11:52 AM",
+    "id": "d5f8512a7c2b5628739330b0af8a68c3c83edf110b300b595a6b05713c61e14e",
+    "kind": 1
+  },
+  {
+    "content": "Dead Internet Theory, Nostr, and \"Satlantis\" w/ Jordi Llonch Esteve (JWP59)\n\nnpub138lktp328xjqvs45zysswzjxu4gxj58uypmlt486nxhek3dry8vsf3zeru\n\nnpub15xd2mmjnh3caykh77djsv73e0zkrp42jp5mwerx8f4m6su40wdvss7t3l3\n\nIn Episode 59 of The Jake Woodhouse Podcast, Jordi Lonch Esteve and I explore the future of the internet, freedom, and identity in an era dominated by platform risk and algorithmic manipulation. We discuss the Dead Internet Theory, the limitations of X and modern social media platforms, and the building blocks of open-source protocols like Nostr. Jordi also introduces Satlantis: all in one social app and travel directory built on Nostr for freedom seeking creators and nomads.\n\nJordi Llonch Esteve is the Head of Growth at Satlantis, a social network built on Nostr, that empowers sovereign individuals through censorship-resistant communications.\n\nNew episodes drop Monday, Wednesday, and Friday. Let's learn together.\n\nTIMESTAMPS:\n0:00 - Digital Nomads and Social Media\n3:00 - Dead Internet Theory\n9:53 - What is Satlandis?\n15:30 - Nostr vs X: The Problem with Social Media Today\n21:40 - Platform Risk when Building a Business\n30:38 - The Building Blocks of Nostr\n38:47 - Nostr.build: Who is the Product?\n46:06 - The Future of Satlantis\n57:37 - How to Connect with Jordi\n\nIf you want to learn more or connect, visit my website: https://jakewoodhouse.io/\nhttps://v.nostr.build/c6zjEvG4rfMAZtAz.mp4",
+    "timestamp": "1749278516",
+    "date": "6/7/2025, 6:41:56 AM",
+    "id": "510f0897649fc6ab25784ebcc0b1aae4db8af05b7149c6eee643a4aa6b590c43",
+    "kind": 6
+  },
+  {
+    "content": "Cash is dying because privacy terrifies the state.",
+    "timestamp": "1749278444",
+    "date": "6/7/2025, 6:40:44 AM",
+    "id": "f4790bc5675272773ef0fc72fededbcb1b148ec5b1fae906770a3ea4ae6fd675",
+    "kind": 1
+  },
+  {
     "content": "The Second Realm is not just a reaction to the state, it's a proactive effort to create a better world, based on liberty, justice, and voluntary cooperation.",
     "timestamp": "1749242266",
     "date": "6/6/2025, 8:37:46 PM",
