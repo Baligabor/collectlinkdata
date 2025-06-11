@@ -1,5 +1,61 @@
 [
   {
+    "content": "Wow, didn't know there's an OODA conference.",
+    "timestamp": "1749582038",
+    "date": "6/10/2025, 7:00:38 PM",
+    "id": "8dede0a0101031d0b44f9d97594be04457aa149bff5538f7eb2c6fa4e00da7c0",
+    "kind": 1
+  },
+  {
+    "content": "Fiat currency is a scam. It's a system designed to enrich the few at the expense of the many. It's time to reject it and build something better.",
+    "timestamp": "1749581971",
+    "date": "6/10/2025, 6:59:31 PM",
+    "id": "e83f30198d0190c1831e7288fb625057a1c6950463ea87acfbad451bf7b37c8e",
+    "kind": 1
+  },
+  {
+    "content": "The gold standard is a relic of the past, abandoned by governments seeking more control over the economy and the value of money, but at what cost?",
+    "timestamp": "1749573358",
+    "date": "6/10/2025, 4:35:58 PM",
+    "id": "a48d2d53a6c477929298fe793a06814a6e20f068074da760846db22b0e06832c",
+    "kind": 1
+  },
+  {
+    "content": "Central banks have flooded the market with newly printed money, diluting its value and sparking inflation, a silent tax on citizens' savings.",
+    "timestamp": "1749564296",
+    "date": "6/10/2025, 2:04:56 PM",
+    "id": "8ffe6859676664cb687d08ae67be4080a1faef2325667b75f4a857b2323aa4fc",
+    "kind": 1
+  },
+  {
+    "content": "ZEUS v0.11.0 is now available.\n\nv0.11.0 highlights:\n\n- Experimental Cashu ecash wallet\n- Swaps: LN -> on-chain, and vice versa\n- Import and export wallet configs\n- UTXO labeling\n- Activity: filter for keysends\n- CLN: support for generating Taproot addresses\n- CLN: view closed channels\n\nBlog post: https://blog.zeusln.com/new-release-zeus-v0-11-0/\n\nFull release notes: https://github.com/ZeusLN/zeus/releases/tag/v0.11.0\n\nAndroid\n\nUniversal APK https://zeusln.com/zeus-v0.11.0-universal.apk\narm64-v8a APK https://zeusln.com/zeus-v0.11.0-arm64-v8a.apk\nManifest https://zeusln.com/manifest-v0.11.0.txt\nManifest Signature https://zeusln.com/manifest-v0.11.0.txt.sig\n\nF-Droid https://zeusln.com/download\nGoogle Play https://play.google.com/store/apps/details?id=app.zeusln.zeus\n\niOS\n\nIPA https://zeusln.com/zeus-v0.11.0.ipa\nApple App Store https://apps.apple.com/us/app/zeus-wallet/id1456038895\n\nhttps://image.nostr.build/8d8cd0633036f8445f64c0a553d22feccfe0d948e3be72f36da07885bb44550a.png",
+    "timestamp": "1749564179",
+    "date": "6/10/2025, 2:02:59 PM",
+    "id": "fc2d0ab0e3aa7f7e2652999eb32933b4e27c158409657b4301711f07bbdad0df",
+    "kind": 6
+  },
+  {
+    "content": "Mining centralization is one of the biggest risks facing bitcoin. You can help solve it.\n\nSpiral is offering a unique grant opportunity for a Senior Engineer to significantly advance Stratum V2. We’re looking for a highly skilled individual with a proven track record in Rust development, specifically within mining infrastructure and distributed systems. The ideal person will excel at building scalable, application-layer APIs, servers, and proxies for real-world deployments. You’ll be at the forefront of creating open-source building blocks for the mining ecosystem.",
+    "timestamp": "1749564129",
+    "date": "6/10/2025, 2:02:09 PM",
+    "id": "685b19f019a3383733415a945caa25a4d2668a11bef3c092e9b407cc8188765f",
+    "kind": 6
+  },
+  {
+    "content": "https://image.nostr.build/885c9757d44be386f7a08803b3b4783f8a70f47e192b83568dcced15d805bce6.jpg\n\nI'd like to invite you all to my short 15 minute talk about a new security project I'm building on #nostr titled: IF UNARMED, CARRY A GLOK\n\n18 June at 14:15\n@ Stockholm stage on dev/hack/day in Prague",
+    "timestamp": "1749564115",
+    "date": "6/10/2025, 2:01:55 PM",
+    "id": "967650be13ae72ee24016068fc0c817a754da885d320f6d4398a1b109de6901d",
+    "kind": 6
+  },
+  {
+    "content": "The rise of fiat currency has given governments unprecedented power to shape and manipulate the economy.",
+    "timestamp": "1749535812",
+    "date": "6/10/2025, 6:10:12 AM",
+    "id": "9bb4a1d0b5479b63d2e4dadaa30c0583d1c3a3667e0e402b88cd6046dd8786d4",
+    "kind": 1
+  },
+  {
     "content": "Scarcity is the key to understanding property rights; tangible goods are scarce and subject to conflict, but ideas are not, making them unsuitable for property rights.",
     "timestamp": "1749501275",
     "date": "6/9/2025, 8:34:35 PM",
