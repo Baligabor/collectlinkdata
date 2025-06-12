@@ -1,5 +1,124 @@
 [
   {
+    "content": "Very much looking forward to a hardware you design!",
+    "timestamp": "1749658637",
+    "date": "6/11/2025, 4:17:17 PM",
+    "id": "e9d1420bb5d2ae24a77be9e7ae82974a5529ef72ac7eea223e6c7fc1783e62e8",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qy2hwumn8ghj7un9d3shjtnddaehgu3wwp6kyqpqklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qq7hjgu We need our own hardware for multiple reasons. Being able to leverage it to get early access isn't one of the reasons we're talking about it here. It wouldn't give us early access direction, although being partnered with an OEM with early access could likely be used to get it ourselves. The main reason we need our own hardware is so we have a 2nd hardware platform meeting our requirements instead of only having a single option.",
+    "timestamp": "1749658619",
+    "date": "6/11/2025, 4:16:59 PM",
+    "id": "703202a8b3f0da7384ae37f0d6dddb6f297b9a884b6ec9a84c5dcf1fb187e748",
+    "kind": 6
+  },
+  {
+    "content": "Building the Second Realm requires a deep understanding of the state's mechanisms of control and the development of effective counter-strategies.",
+    "timestamp": "1749658405",
+    "date": "6/11/2025, 4:13:25 PM",
+    "id": "f8d0af24b3139a468e5aa73ce8f936222c112e73f45faf7953346132db0d4d70",
+    "kind": 1
+  },
+  {
+    "content": "I now know that all the mechanisms work for:\n\n1. Login with sticker\n2. Pay with sticker\n3. Pay to sticker\n\nThe final piece will be\n\n4. Prove by sticker\n\nThe final one will take some analysis on deciding which credential to present as proof, but I am 100% on the technical mechanisms to do this.\n\nSo there you have it folks, a fully functional offline wallet that you can carry on your person (secretly), especially if you are worried about your physical security (phone/cash being ripped off)\n\n#nostr #safebox\n\nhttps://image.nostr.build/9f4b1bf029a9cba26526f3808ff0eb68aa66cdfdb6118a10be86a81c9ed9cfee.jpg",
+    "timestamp": "1749646346",
+    "date": "6/11/2025, 12:52:26 PM",
+    "id": "0ca6a883d2f2ce6d5d5fc4573b90b33ea01bee606a5305e1274490ae7b04f53d",
+    "kind": 6
+  },
+  {
+    "content": "One proxy merchant gets you a long way!",
+    "timestamp": "1749646300",
+    "date": "6/11/2025, 12:51:40 PM",
+    "id": "8f8aa002b48ce67139892329d9f9050498a3564f74db66f41505d335bea3f911",
+    "kind": 1
+  },
+  {
+    "content": "You can just do 50 things.",
+    "timestamp": "1749646271",
+    "date": "6/11/2025, 12:51:11 PM",
+    "id": "020b4e9e3c6d2d86d78a2638501cfc119f47416556f6dbd8d7bd66686ece342d",
+    "kind": 1
+  },
+  {
+    "content": "Cypherpunk future is now.",
+    "timestamp": "1749643852",
+    "date": "6/11/2025, 12:10:52 PM",
+    "id": "eba7d440c0fe2f441e31b240ccf678b4d6a5a75d8dbd64252369ebd6b7bb5c40",
+    "kind": 1
+  },
+  {
+    "content": "Pay by sticker…\n#nostr #safebox\n\nhttps://video.nostr.build/9c34eca57abb96a761d1f4f7e2c6f815c0311c53169366ecc5cabd04c644f73e.mp4",
+    "timestamp": "1749643827",
+    "date": "6/11/2025, 12:10:27 PM",
+    "id": "b5df53e3e3e3f1576173c2819cf0a5cf6c68fb5f6907eebb5ebd977087e32ac4",
+    "kind": 6
+  },
+  {
+    "content": "That's awesome, thanks!\ntl;dr: Just add a custom profile field in the \"Edit profile\" screen in mastodon, using a lightning bolt emoji (⚡) as the label, and your Bitcoin Lightning address as the content. ",
+    "timestamp": "1749641859",
+    "date": "6/11/2025, 11:37:39 AM",
+    "id": "30f7a8296809704238534e7a9869e61e1785928e2eb34d9a61fcadc6674fcc67",
+    "kind": 1
+  },
+  {
+    "content": "https://soapbox.pub/blog/mostr-zaps",
+    "timestamp": "1749641821",
+    "date": "6/11/2025, 11:37:01 AM",
+    "id": "20b083c2e0dec1f2b5b59d1877f1674ddbdb09826fe89161e73c02d9c2a31d5a",
+    "kind": 6
+  },
+  {
+    "content": "Totally understandable.\n\nOne consideration is to use npub.cash for a custodial but private receiving node, then frequently sweep it to your existing onchain wallet.\n\nKeycast is a remote signing server for teams, alternatively use amber on a spare phone.\nhttps://github.com/erskingardner/keycast",
+    "timestamp": "1749626778",
+    "date": "6/11/2025, 7:26:18 AM",
+    "id": "689081945aa9974e025f3f65e3692db2762cb8007c1363f361b0c759801fdbb6",
+    "kind": 1
+  },
+  {
+    "content": "Danke für das Gespräch, ist immer gut über Cryptoeconomics zu sprechen!",
+    "timestamp": "1749625627",
+    "date": "6/11/2025, 7:07:07 AM",
+    "id": "6d0816dd4652ba0d96c47e8cb2cf8103245aeb15088e4bf29595abf64b03b873",
+    "kind": 1
+  },
+  {
+    "content": "GM\n\nBitcoin im Wandel: Cryptoeconomics und die Geldkandidaten der Zukunft (mit nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz72agcaj) \n\nIm ersten Teil besprechen Max und Manu das Buch Cryptoeconomics. Im zweiten Teil ab ca. Minute 44 geht es dann um folgende Geldkandidaten:\n\n#Bitcoin\n#Tether\n#Monero\n#Digitaler Euro\n\nWer macht das Rennen die nächsten Jahre und welche Probleme ergeben sich? \n\nViele spannende Fragen, viel Spaß beim Hören\n\nhttps://fountain.fm/episode/h4xfVQbIDriWhVF0K2LJ",
+    "timestamp": "1749625591",
+    "date": "6/11/2025, 7:06:31 AM",
+    "id": "85373e25cf28ed38408c8fa0c170321196474f733463fe38019d0f7c557c6c09",
+    "kind": 6
+  },
+  {
+    "content": "There must be another way to get early access without building custom hardware?! This is insane...",
+    "timestamp": "1749623820",
+    "date": "6/11/2025, 6:37:00 AM",
+    "id": "3ac6fd2a05a620c5e5511f380cad7f0b7eae9463c8f5ef2ebbfbdf29afbb9bf3",
+    "kind": 1
+  },
+  {
+    "content": "In May, we began preparing to port to Android 16 despite our most active senior developer responsible for leading OS development being unavailable (https://grapheneos.social/@GrapheneOS/114359660453627718). Android 16 launched today and porting is going to be significantly more difficult than we were expecting.",
+    "timestamp": "1749623764",
+    "date": "6/11/2025, 6:36:04 AM",
+    "id": "1f81e7e5e4ed36d131416f1739759b21439ad9f14253a4af875d3e6a034fd506",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsqgc0uhmxycvm5gwvn944c7yfxnnxm0nyh8tt62zhrvtd3xkj8fhgprdmhxue69uhkwmr9v9ek7mnpw3hhytnyv4mz7un9d3shjqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgewaehxw309aex2mrp0yh8xmn0wf6zuum0vd5kzmp033tada made the bridge.\nI guess most of the engagement of the Graphene account is actually coming from nostr. \n\nThere's no need for you to post on nostr too, that gets handled automagically by the existing bridge.\n\nWhat is missing however is a lightning address for easy donations on each post. nostr:nprofile1qqsqgc0uhmxycvm5gwvn944c7yfxnnxm0nyh8tt62zhrvtd3xkj8fhgprdmhxue69uhkwmr9v9ek7mnpw3hhytnyv4mz7un9d3shjqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgewaehxw309aex2mrp0yh8xmn0wf6zuum0vd5kzmp033tada is there a way to do this for a bridged account?",
+    "timestamp": "1749623746",
+    "date": "6/11/2025, 6:35:46 AM",
+    "id": "2085bea74b14dc5b8c696e9d27c5512b1f8bbee2cfc6983c598768db9fb762c1",
+    "kind": 1
+  },
+  {
+    "content": "A successful defense starts with preparedness and preemptive action, including setting up defensive installations and limiting hostile intelligence gathering. The choice of location for temporary autonomous zones is crucial, with factors such as not inviting aggressors and controlling access being key.",
+    "timestamp": "1749623440",
+    "date": "6/11/2025, 6:30:40 AM",
+    "id": "bdbb576b02f529d2e96acfd5f1efcab5d7290f1a9a8c7b94c34590831629526e",
+    "kind": 1
+  },
+  {
     "content": "Wow, didn't know there's an OODA conference.",
     "timestamp": "1749582038",
     "date": "6/10/2025, 7:00:38 PM",
