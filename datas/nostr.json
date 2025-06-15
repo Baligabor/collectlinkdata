@@ -1,5 +1,110 @@
 [
   {
+    "content": "Wars are not fought for \"national survival\" but for state aggrandizement.",
+    "timestamp": "1749931559",
+    "date": "6/14/2025, 8:05:59 PM",
+    "id": "014c9dfdc75b1c6fee1750361b7924c455a1a45359aff6dbfd611de3775151ec",
+    "kind": 1
+  },
+  {
+    "content": "#humblebrag",
+    "timestamp": "1749921899",
+    "date": "6/14/2025, 5:24:59 PM",
+    "id": "ff01d8e9c45240c8a73778ab898826b659db0c90d02be36168398ae957864315",
+    "kind": 1
+  },
+  {
+    "content": "We are seeing strong demand from clients for native android apps, especially on Graphene OS, and so we are looking for a yet another developer to join the team!\n\nIf you have an interest in a remote role, building out Freedom Tech, working on open source projects, integrating Nostr, and being paid in Bitcoin - let's chat\n\nhttps://bitcoinerjobs.com/job/1751940-android-developer-nostr-dev-team",
+    "timestamp": "1749921807",
+    "date": "6/14/2025, 5:23:27 PM",
+    "id": "be055d3a0a74bef4ed302f7da130ba9c37c507bb6d2860de36c51d0e25df7dad",
+    "kind": 6
+  },
+  {
+    "content": "A week or so ago, nostr:nprofile1qqsqgc0uhmxycvm5gwvn944c7yfxnnxm0nyh8tt62zhrvtd3xkj8fhgprdmhxue69uhkwmr9v9ek7mnpw3hhytnyv4mz7un9d3shjqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgewaehxw309aex2mrp0yh8xmn0wf6zuum0vd5kzmp033tada presented me with a challenge: how we can request user input using MCP servers, so that a chat client like Goose or any other could dynamically request that information from the user to proceed with the tool call and its result. This would be something like 'Question MCP', which allows the agent to prompt questions back to the user. This is a novel feature that few clients implement, as there was no clear way to do this without a custom client, which is undesirable due to vendor lock-in. The solution lies in a protocol-specific feature\n\nhttps://video.nostr.build/f2ed015d3c9e80a8705196528b69189d251f4818c2ab4951aeadaaae7002d2cd.webm\n\nRooCode and Cline have this feature, but it is specific to their clients. It works by providing some built-in tools to the LLMs, along with prompt engineering in the system prompts that instruct the LLMs to eventually request input from the user. While this works, it is not an ideal solution because it is client-specific. To replicate the same behavior in a different client, you would need some sort of 'Feedback MCP' with tools like ask_user, ask_user_confirmation, etc. and you would need to tweak system prompts to make it work, which is not desirable neithe.\n\nThe solution lies in a protocol-specific feature from MCP, a standardized way for servers to request additional information from users through the client during interactions. Fortunately, this is something that has already been thought about and proposed in different pull requests in the MCP spec repo. This feature is called 'Elicitation', and it is currently a draft in the MCP protocol spec. It was introduced as a draft just a few days before Alex and I started our conversation about this, making it a bleeding-edge feature with no current support and only a pull request in the MCP TypeScript SDK that has not been merged yet.\n\nThe challenge was clear now: implement Elicitation in an MCP server and a client that handles it to demonstrate how it works. I did it, and as a result, I created a mcp-chat TUI program, which, to my knowledge, is the only chat MCP client implementing this feature. If you are interested in understanding how I made it, feel free to ask; I'll happily respond and comment on the challenges and obstacles I encountered and how I resolved them.\n\nHowever, I want to reflect more on the Elicitation feature and what it allows. This is very interesting: MCP servers can require information when executing tools, without the client needing to do anything other than handle it in their own ui. This opens up a plethora of possibilities for dynamic tools requiring data from their users. For example, tools that handle uncertainty, like a 'Book a Table' tool, where if the tool cannot find a suitable table, it can ask the user what to do, whether to take any available table or cancel the process. This has various implications: it makes the process more intuitive, robust, dynamic, and, importantly, more private.\n\nSince the LLM doesn't need to be aware of the details that the user inputs, in the previous example, the 'Book a Table' tool could request through Elicitation details like the user's name, email, phone, or any other required information to complete the process. This is a direct communication between the user and the MCP server. Once the Elicitation is complete, the tool returns the result, feeding it back to the LLM, omitting the personal details and simply saying, 'The table was successfully booked for 1 PM at The Awesome Restaurant.' Then, the LLM and the user can continue their chat if desired. At no point does the LLM need to know the details of the user to book the table, as those details are something between the user and the MCP server. The LLM is only present when the user requests in natural language to call the 'Book a Table' tool and when the 'Book a Table' tool returns its result.\n\nThis is very cool. I could keep talking about this, but I'll stop here, as this is not supposed to be a long-form content piece. But if you are interested in any of this stuff, feel free to AMA!\n\nI'm going to drop some related links:\nMCP-chat: https://github.com/gzuuus/mcp-chat\nElicitation spec: https://modelcontextprotocol.io/specification/draft/client/elicitation\nIntroduce Elicitation capability PR: https://github.com/modelcontextprotocol/typescript-sdk/pull/520\n\n#mcp #llm #ai",
+    "timestamp": "1749921783",
+    "date": "6/14/2025, 5:23:03 PM",
+    "id": "18f62879500a9a14c04cd31acd671c359d884fa6775596108573e39de2793ef4",
+    "kind": 6
+  },
+  {
+    "content": "Best speaker on the lineup!",
+    "timestamp": "1749917776",
+    "date": "6/14/2025, 4:16:16 PM",
+    "id": "80346159ce0a0b8b4277c903bf1f3d24fff1e14988839dc273cd9aed537f91fd",
+    "kind": 1
+  },
+  {
+    "content": "The man, the myth, the legend!!\n\nCome hang out with the author of A Lodging of Wayfaring Men!\n\nnostr:nevent1qqs833yn5nsgxz2pq2jvayxu8ky7yrtt23tvqzax30h7r423f6xcl0gpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgsd0f68dvf98gvs9am9dp0lu0f4r7xzu2k89rm9tt448axf5tu6wlgrqsqqqqqpdauy3c",
+    "timestamp": "1749917753",
+    "date": "6/14/2025, 4:15:53 PM",
+    "id": "98aa044afba2e1f8e54a5504db0fe037033feceb897977f76a4ddc72a3b9f70e",
+    "kind": 1
+  },
+  {
+    "content": "Standing armies and conscription serve the state’s appetite for power, not the public’s interest in peace or self-defense.",
+    "timestamp": "1749917570",
+    "date": "6/14/2025, 4:12:50 PM",
+    "id": "41016bc8c98f00fb7e0467c0b39472c34f48750fff169899b7321108ca1cd260",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmwdaehgu3wv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhur83xg2 Wenn du Lust hast es zu lesen, sehr gerne! Hier der Link: https://gitlab.com/siehst-du-die-gewalt/buch-siehst-du-die-gewalt/-/tree/08eeb239957f32d9732c2974e8ea980053b15e41/ Würde mich natürlich sehr freuen!",
+    "timestamp": "1749915411",
+    "date": "6/14/2025, 3:36:51 PM",
+    "id": "977d06b12e5348727e53f03252ce0e1ce37525cbd00c43b4e81c06b37a2d3a9a",
+    "kind": 6
+  },
+  {
+    "content": "We heard you, and we changed our pricing! https://sats.host\n\nReal anon hosting, no email, no kyc, no phone number, nothing!\n\nJust sats! \n\nAnd sats back to you too ;)\n\nBut privacy is not free! Help us make the best anon hosting service.\nhttps://blossom.primal.net/f9ee796a65870db243b123d2348b5d635edcd96f137e51742583834265e2947d.png",
+    "timestamp": "1749915041",
+    "date": "6/14/2025, 3:30:41 PM",
+    "id": "2def985065bc3d420ec135df0c263daaead3d06eb053b9f98e3548d48c8d7a25",
+    "kind": 6
+  },
+  {
+    "content": "There is an urgency of abolishing injustice.",
+    "timestamp": "1749902586",
+    "date": "6/14/2025, 12:03:06 PM",
+    "id": "7b04bc857cd291bdc7b8343278a605e5df071a3bde93a7e25c35879880ad600b",
+    "kind": 1
+  },
+  {
+    "content": "GM 🌞\n\nWe're looking for one more super senior flutter dev, please forward to anyone you know who fits that description.\n\nhttps://bitcoinerjobs.com/job/1723830-senior-dartflutter-developer-for-white-noise",
+    "timestamp": "1749899591",
+    "date": "6/14/2025, 11:13:11 AM",
+    "id": "798f67e5b25b0c72765ed842239d40b189a3dd49488602ce2ed8343521047b43",
+    "kind": 6
+  },
+  {
+    "content": "Something as important as these services must not be put exclusively in the hands of an incompetent state.",
+    "timestamp": "1749886795",
+    "date": "6/14/2025, 7:39:55 AM",
+    "id": "04ca521f735fc791c679985286a838bc8d64b5f5a83e5c7637644ee723a9d354",
+    "kind": 1
+  },
+  {
+    "content": "Didn't know of that quote, thanks!",
+    "timestamp": "1749886752",
+    "date": "6/14/2025, 7:39:12 AM",
+    "id": "4e23a85d057c070714209a9dd9bdb523465dedfd408c77dfe4575239a1b52b3f",
+    "kind": 1
+  },
+  {
+    "content": "\"I am fascinated by Tim May's crypto-anarchy. Unlike the communities traditionally associated with the word \"anarchy\", in a crypto-anarchy the government is not temporarily destroyed but permanently forbidden and permanently unnecessary. It's a community where the threat of violence is impotent because violence is impossible, and violence is impossible because its participants cannot be linked to their true names or physical locations.\"\n\n- Wei Dai",
+    "timestamp": "1749886740",
+    "date": "6/14/2025, 7:39:00 AM",
+    "id": "7d3357582ada6b380a010b9bca56ad974a2df345b768b4d7b2cf31ca23b9757c",
+    "kind": 6
+  },
+  {
+    "content": "The state’s \"services\" are monopolies enforced by violence. From law enforcement to currency, competition would drive efficiency and accountability, yet the state suppresses alternatives to maintain control.",
+    "timestamp": "1749884107",
+    "date": "6/14/2025, 6:55:07 AM",
+    "id": "0c6e2305bbab4290b4fb39a7fc583e56b8e256cdf6bb63e33f3e40ef45f8da71",
+    "kind": 1
+  },
+  {
     "content": "The state’s monopoly on violence is its most dangerous feature. Unlike private criminals, governments institutionalize coercion through laws and agencies, shielding themselves from accountability. This systematized aggression, disguised as \"sovereignty\", is the antithesis of voluntary social order.",
     "timestamp": "1749846057",
     "date": "6/13/2025, 8:20:57 PM",
