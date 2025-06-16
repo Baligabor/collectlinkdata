@@ -1,5 +1,110 @@
 [
   {
+    "content": "If conscription is slavery and war is mass murder, then supporting these while opposing private theft is hypocrisy. All aggression, regardless of actor, must be condemned.",
+    "timestamp": "1750014825",
+    "date": "6/15/2025, 7:13:45 PM",
+    "id": "41fdc458910f85cf467a21ac6346a7ef34693c86203fe5ddc7f01d8420043053",
+    "kind": 1
+  },
+  {
+    "content": "Really bullish on vora.io a lot of thought went into the architecture of this vault.\n\nnostr:nevent1qqsr3gpwvmcqkmh7jtdhgy0hf3s9jgsfn6m7qytjkrucyqmg3lk735qpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgsd0svn8yy3c6y2qgrws85pwsewhnxpnc04ahpwwu76kvckcjmrutcrqsqqqqqpufc45q",
+    "timestamp": "1750004523",
+    "date": "6/15/2025, 4:22:03 PM",
+    "id": "e23c4e8a5676adc7a128b010028e4baa094f52ad94efe9444aeb8686b52f18a4",
+    "kind": 1
+  },
+  {
+    "content": "It's not \"work\" when you're building freedom tech.",
+    "timestamp": "1750003818",
+    "date": "6/15/2025, 4:10:18 PM",
+    "id": "abdce2136e67f016fa4bbb0026bbe634878605045168beab43d13ca51515c2bb",
+    "kind": 1
+  },
+  {
+    "content": "Timeslot double spend with the nostr:nprofile1qqs0wzz3uacckly3qpq06m73xfskmuzhhxsh47vy3zpu0tw878hfzzgpzdmhxue69uhhwmm59e6hg7r09ehkuef09k0uul 😪",
+    "timestamp": "1750003106",
+    "date": "6/15/2025, 3:58:26 PM",
+    "id": "e85a804bcbdb9fa37230cd47ceac2319f8587143bbc4af7769ec3a743e2d6329",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, and only a one time transfer.\nBut it seems any verifier has to download the 5TB, such a high verification cost is a shame...",
+    "timestamp": "1750002979",
+    "date": "6/15/2025, 3:56:19 PM",
+    "id": "93feda1a8f2a4c175981d6b7810194884103055dbc74be2b235f689ed4c3e1b2",
+    "kind": 1
+  },
+  {
+    "content": "BitVM 3 is published!\nAnd following the OG cypherpunk tradition of crazy short groundbreaking research, it's only three pages long.\n\nhttps://bitvm.org/bitvm3.pdf\n\nBitVM3 is a protocol for verifying SNARK proofs on Bitcoin that improves efficiency by moving most computation off-chain. It builds on earlier BitVM designs but reduces the data required for on-chain transactions by over 1000 times.  \n\nThe protocol uses garbled circuits based on RSA cryptography. During setup, the garbler generates wire labels for each circuit component using modular arithmetic. These labels are tied to secret exponents that allow the circuit to reveal a fraud proof only if an invalid SNARK claim is made. Adaptor elements adjust labels when a single output connects to multiple inputs, resolving conflicts from prior schemes that failed with complex circuits.  \n\nKey improvements include smaller transaction sizes. Submitting a SNARK proof (assertTx) now requires ~56 kB instead of 2-4 MB. Disproving an invalid claim (disproveTx) takes just 200 bytes compared to 2-4 MB previously. This makes disputes vastly cheaper on-chain.  \n\nThe trade-off is a massive one-time off-chain data transfer of ~5 TB for a SNARK verifier circuit with 5 billion gates. This data encodes the garbled circuit and adaptors needed to handle fan-out connections. Setup takes about 1.8 days at 250 Mbps upload speed but is a single upfront cost.  \n\nVerification works by checking the circuit structure in plaintext. The garbler proves they reblinded labels correctly using zero-knowledge methods, which involves ~2400 exponentiation operations. Reblinding allows the evaluator to compute adjusted labels non-interactively through exponent manipulation.  \n\nBitVM3 demonstrates how Bitcoin can securely settle complex computations despite its limited scripting language. While it enables trust-minimized bridges for layer-2 systems like rollups, the protocol's main challenge is reducing the 5 TB off-chain data burden for broader adoption. Future work will focus on optimizing this requirement.",
+    "timestamp": "1750002880",
+    "date": "6/15/2025, 3:54:40 PM",
+    "id": "ac3008ecc4b2e07fb9ee19a378d33ec4e07bf9ddb2c149227eb3cb9cdbcf5c0b",
+    "kind": 1
+  },
+  {
+    "content": "\"Multi-terrabyte\" wow...",
+    "timestamp": "1750002061",
+    "date": "6/15/2025, 3:41:01 PM",
+    "id": "c024700a9eb46c125a4ce0a791b663d6e2d04c26a482d28500aa5297dd5f0288",
+    "kind": 1
+  },
+  {
+    "content": "BitVM is quietly evolving: \n\nThe new design, BitVM3, drastically reduces onchain costs in the case of a challenge (by ~1000x). \n\nIn earlier versions, while challenging was permissionless, the high costs meant only a few well-capitalized entities could realistically participate in the process. \nBitVM3 may change that, opening the door to a broader set of challengers. \n\nThe tradeoff: garbled circuits introduce a multi-terabyte offchain setup. \nReducing this overhead is an active research area and likely to see improvements.\n\nhttps://bitvm.org/bitvm3.pdf",
+    "timestamp": "1750002050",
+    "date": "6/15/2025, 3:40:50 PM",
+    "id": "683ddc6fe03d6e0a7455c26e0895d60408a56dbd66e1c761cd785520e963c442",
+    "kind": 6
+  },
+  {
+    "content": "This is your chance to work with one of the best PMs in the space!\n\nnostr:nevent1qqs8nk30jphwznaw04vevdvatw582nusqfv0rw68u4evgvzrnjnjg8qpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgspwh6k34mlkr9hgq8smhv2a5tn3ntew5etx980q5apv6w5mwn5xwsrqsqqqqqp56sm0m",
+    "timestamp": "1750002001",
+    "date": "6/15/2025, 3:40:01 PM",
+    "id": "e63b205bf73112ae6843e646cb382858aa794ae63c4e643c57343ba3cf1cc53e",
+    "kind": 1
+  },
+  {
+    "content": "GM!\n\nThe Bitaxe Touch is officially live! 👇\n\nhttps://www.solosatoshi.com/product/bitaxe-touch/\nhttps://blossom.primal.net/845d9c09168dfcc32cc25df9304fea33e146e645441d7b651e5c9e3e10a43a01.jpg",
+    "timestamp": "1750001738",
+    "date": "6/15/2025, 3:35:38 PM",
+    "id": "b370ff7a4518c99708111c49e643cf3740f519bc34e7855fef8c62684ecdb1ec",
+    "kind": 6
+  },
+  {
+    "content": "Peaceful societies emerge not from statecraft but from individual freedom. When people control their own labor and property, cooperation replaces coercion as the path to prosperity and security.",
+    "timestamp": "1749999697",
+    "date": "6/15/2025, 3:01:37 PM",
+    "id": "04d709fc21eedbcc3633c8a64c49ba36022ff24884868cb5eec19260769eda03",
+    "kind": 1
+  },
+  {
+    "content": "‼️BREAKING ‼️\n\nKnots hits 12%\nnostr:nprofile1qyjhwumn8ghj7cn40faxymm594ex2mrp0yhxyatvd35hx6rzda6kuare9e3k7mgprfmhxue69uhkummnw3ezuum4v3hkxctjd3hhxtnrdaksqgxfax7upvpuyx7nx7sjmn6mgc75nld0azz25y4mj5xpst57fklfhqy6fmt5 1200 https://blossom.primal.net/03b27ea07d503f33784375d36a4abce2efc64fe366fda802c16dc7909819d1b7.jpg ",
+    "timestamp": "1749970980",
+    "date": "6/15/2025, 7:03:00 AM",
+    "id": "5d8d6674b1091244e9f07fa9c891c1ed7ae7f467339d66cb53a176a706997b3f",
+    "kind": 6
+  },
+  {
+    "content": "If they can't print or steal money, how are they going to pay for soldiers and weapons?",
+    "timestamp": "1749970817",
+    "date": "6/15/2025, 7:00:17 AM",
+    "id": "53eef93408a115f737b420324c362a6bd0bc97da885b777eb2c97b21157a6761",
+    "kind": 1
+  },
+  {
+    "content": "Alright alright alright. 😆 First post! I’m Riker. I make movies and music. From Colorado, living in California. Currently on tour in the U.S. playing bass for The Driver Era. \n\nI found Primal from nostr:nprofile1qqs27annlvyatx8tvvnje4lxc8gkzsp3eh7qsnzxpaw4fxlrxhw8vvqpz4mhxue69uhk2er9dchxummnw3ezumrpdejqzrthwden5te0dehhxtnvdakqs8dqfv and nostr:nprofile1qqsgqke57uygxl0m8elstq26c4mq2erz3dvdtgxwswwvhdh0xcs04scprpmhxue69uhhqun9d45h2mfwwpexjmtpdshxuet5qyfhwumn8ghj7ur4wfcxcetsv9njuetn9u8pffhn saw them on the other social media. \n\nBesides my love for movies and performing music, I’m very passionate about skydiving, ice hockey, and health. Enjoying the journey of life and doing my best to become the best possible version of myself. \n\n#introductions\nhttps://blossom.primal.net/83ec2b394a681948a13747f187f8c6efa4e25edaaa862b832167d0d2fef44543.jpg\nhttps://blossom.primal.net/613ed33236c45afcd4da060d3207e810df35e880ff651d7107198fcd98b96482.jpg",
+    "timestamp": "1749970766",
+    "date": "6/15/2025, 6:59:26 AM",
+    "id": "5ddba2c3a712b5376b0bea057d9147ab9ace093452cc8d56d8593af8b6715860",
+    "kind": 6
+  },
+  {
+    "content": "Nationalism conflates rulers with the ruled. By framing wars as struggles of the \"people\" rather than the state’s elite, governments manipulate loyalty to justify aggression, sacrifice, and exploitation.",
+    "timestamp": "1749967065",
+    "date": "6/15/2025, 5:57:45 AM",
+    "id": "e209716e525c59303840ab40c6f14dbc0b56a3e0e4e52febdfa6ee2c6150177d",
+    "kind": 1
+  },
+  {
     "content": "Wars are not fought for \"national survival\" but for state aggrandizement.",
     "timestamp": "1749931559",
     "date": "6/14/2025, 8:05:59 PM",
