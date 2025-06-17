@@ -1,5 +1,68 @@
 [
   {
+    "content": "nostr:nprofile1qqs94rjcrut2qyhzf54xgq2j44tzqkxtqe0pmu5wjp7ph75zc9gv3wspzdmhxue69uhhwmm59e6hg7r09ehkuef0qe380g will come to the nostr:nprofile1qqs0wzz3uacckly3qpq06m73xfskmuzhhxsh47vy3zpu0tw878hfzzgpzdmhxue69uhhwmm59e6hg7r09ehkuef09k0uul.\nWill you?\nhttps://pay.cypherpunk.today/apps/2XpjQGab73AHiuHq1KNEEyFFKSZx/crowdfund",
+    "timestamp": "1750099658",
+    "date": "6/16/2025, 6:47:38 PM",
+    "id": "cecd203ff0b257422fd6d25338bdbd58876bcaf41b68011f869021edfa3ea586",
+    "kind": 1
+  },
+  {
+    "content": "No More Inflation\nnostr:nprofile1qqsrmj0j4da3n7zqmp2ku8h2x62wqwlzdn3svgn9vcdeffegcrkyaxcpzdmhxue69uhhwmm59e6hg7r09ehkuef0gzf2c2\nhttps://www.youtube.com/watch?v=JYEOK9XxKyg",
+    "timestamp": "1750090399",
+    "date": "6/16/2025, 4:13:19 PM",
+    "id": "c68faeeb5e07f4fc23c9b07aedcbf8f919f66539ad886f56283bede4b9003399",
+    "kind": 1
+  },
+  {
+    "content": "Land ownership is not a privilege but a right derived from labor.",
+    "timestamp": "1750084415",
+    "date": "6/16/2025, 2:33:35 PM",
+    "id": "1b0de5cb1af326e1b618c49e79b7f52503d412a2f69f1a531c55a08c90fe6ea4",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nevent1qqsdhs3rz2u70dtdasuhdawg0psm0hys9fflsp5rjzehwk3mzcdfczcpz3mhxw309ucnydewxqhrqt338g6rsd3e9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqqqqyeve3j6",
+    "timestamp": "1750084391",
+    "date": "6/16/2025, 2:33:11 PM",
+    "id": "fd50fe83fe8b90e1b15fe5882b44d68afb68efa95546c7b6d579ef1973a3e9b9",
+    "kind": 1
+  },
+  {
+    "content": "Aggression is the initiation of violence.\nDefense is the secondary application of violence to stop aggression.",
+    "timestamp": "1750084381",
+    "date": "6/16/2025, 2:33:01 PM",
+    "id": "dbc22312b9e7b56dec3976f5c87861b7dc902a53f8068390b3775a3b161a9c0b",
+    "kind": 1
+  },
+  {
+    "content": "The state’s growth is fueled by crises it either creates or exaggerates. Each emergency becomes an excuse to expand power.",
+    "timestamp": "1750072863",
+    "date": "6/16/2025, 11:21:03 AM",
+    "id": "7f9141990c9e4c6cf851fcb8210a32b98fcd7ece32e05d35b049532a503de998",
+    "kind": 1
+  },
+  {
+    "content": "This report has the latest stats https://blog.river.com/bitcoin-adoption-2025/",
+    "timestamp": "1750066956",
+    "date": "6/16/2025, 9:42:36 AM",
+    "id": "0bdd13a8a87c067ca32580241464020c4455c1a9e0caf13399b392632632fe39",
+    "kind": 6
+  },
+  {
+    "content": "\nWasabi dev here.\n\nWasabi development has been focused on guaranteeing the survival of the wallet almost exclusively since zkSNACKs abandoned the project. This means changing an originally centralized, trusted, client-server architecture to a standalone, trustless piece of software with decentralized services run by volunteers. In other words, the goal is to completely redesign Wasabi's architecture to eliminate central points of failure and protect Wasabi users and volunteers.\n\nHowever, users need a reason to upgrade their Wasabi clients other than a \"better architected\" wallet; they would upgrade only if Wasabi has something new and better to offer them than their current version. That's THE reason why Wasabi releases include support for receiving Taproot, Silent Payments, manual coin selection to spend, SLIP39, support for new hardware wallets and others alike—things that are not a priority at all but allow the development to move release after release, removing dependencies from centralized services and achieve eventually the biggest goal.\n\nSmall and almost insignificant changes like allowing users to choose the provider for the fee rate and USD/BTC exchange rates, removing the concept of coordination fee, separating the coordinator as an independent service that can be run by anyone and allowing users to configure a coordinator and set its parameters, optimizing the coordinator and backend to run on small computers or cheap VPS instead of requiring monstrously big and expensive hardware, allowing the coordinator to run simply with an aggressively-pruned Bitcoin node, removing the client dependency on tens of centralized APIs—these kinds of changes are the ones that really matter for Wasabi's future.\n\nWasabi innovates by making the wallet more resilient while adding nice features. But resiliency is THE feature anyway, so in the next version we are going to release Shamir Secret Sharing backups but also a mechanism to allow Wasabi to detect new releases, download them and verify them without having to trust on GitHub's goodwill (because we don't trust GitHub or any other centralized big tech service provider—yes, yes, we use Nostr for that). The next version will be the first in which Wasabi will be able to synchronize without having to connect to any central server, just connecting to an RPC node with compact filters. The next version removes the concept of backend; instead, there is only an indexer, a server component that provides Wasabi compact filters and/or standard BIP158 filters. This is a super cheap piece of software that can take standard BIP158 filters from your node, cache them, and provide them to clients in a way that Wasabi clients understand. The next version gets filters from RPC, blocks from RPC, fee rates from RPC, and broadcasts transactions using RPC, which allows users to use Wasabi without needing to use anything from anywhere or anyone.\n\nThere are tons of things that have been redone, redesigned, or changed completely just to facilitate the way to the final goal. It's hard to enumerate them all: a complete redesign of the Tor integrations, a complete change in the technology of serialization, a complete redesign of the Bitcoin node integration, a redesign of the Wasabi configuration (WIP), include the backend and the coordinator in the linux release—all while removing more than 25,000 lines of code.\n\nVery few can compete against Wasabi in this regard because Wasabi is an idea, an ideologically-driven commitment of volunteers doing what they think must be done and risking what nobody else wants to risk in order to do good.\n\nUpdate: here you have what guides the development:\n\n* https://github.com/orgs/WalletWasabi/discussions/13661\n* https://github.com/orgs/WalletWasabi/discussions/13796",
+    "timestamp": "1750059969",
+    "date": "6/16/2025, 7:46:09 AM",
+    "id": "3e53c9e4685e314d3872f1e5a5d976bb1d13c15b9172bf1f2998d700254bbb09",
+    "kind": 6
+  },
+  {
+    "content": "The state’s economic interventions: tariffs, subsidies, regulations, are forms of plunder. They distort markets to benefit elites at the expense of consumers, masking exploitation as \"industrial policy\" or \"security.\"",
+    "timestamp": "1750051825",
+    "date": "6/16/2025, 5:30:25 AM",
+    "id": "02b2397e6dcb3425532b443281778595f2279d81ecd76c15867ee1ae9012929a",
+    "kind": 1
+  },
+  {
     "content": "If conscription is slavery and war is mass murder, then supporting these while opposing private theft is hypocrisy. All aggression, regardless of actor, must be condemned.",
     "timestamp": "1750014825",
     "date": "6/15/2025, 7:13:45 PM",
