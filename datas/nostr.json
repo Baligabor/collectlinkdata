@@ -1,5 +1,117 @@
 [
   {
+    "content": "The state’s legitimacy hinges on mystification. It recasts its crimes, war, conscription, confiscation, as virtues like \"national service\" or \"fiscal responsibility,\" using language to obscure the reality of aggression and exploitation.",
+    "timestamp": "1750193461",
+    "date": "6/17/2025, 8:51:01 PM",
+    "id": "b03293a12600faa674940076948f8290550ab31a9cb6d18d23da9f450a9af3b9",
+    "kind": 1
+  },
+  {
+    "content": "Tomorrow I will drag nostr:nprofile1qqszdnz0e2lu0gwww4aup0av4m0gcg30n30shsvrs8lcukdfjhl564qppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7pmfjwp on stage at #DevHackDay nostr:nprofile1qqsd0f68dvf98gvs9am9dp0lu0f4r7xzu2k89rm9tt448axf5tu6wlgpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcdgv90x and have her explain new kind numbers for #nostr, elaborate diagrams and other fun stuff.\n\n14:15 - 14:30  Stockholm room\n\nhttps://image.nostr.build/c94bf2a5243712c7d0e270f164550bfbdb07ded50825db463f8efd412a6afb2e.jpg",
+    "timestamp": "1750181901",
+    "date": "6/17/2025, 5:38:21 PM",
+    "id": "45ffc8745cd18ade7bf67cb9ad764c7b1307049570df96c51c7561d8f986ad8b",
+    "kind": 6
+  },
+  {
+    "content": "If you are building freedom tech, then you are under active attack, you might not have noticed it yet, but you are.",
+    "timestamp": "1750181702",
+    "date": "6/17/2025, 5:35:02 PM",
+    "id": "a72ad467db4be5b3e5db40bf4736790d266fddb4eea750b707d81e4e6382468d",
+    "kind": 1
+  },
+  {
+    "content": "Peace is not a byproduct of state diplomacy but a result of free-market interdependence. Trade, not treaties, reduces conflict, as economic cooperation benefits individuals far more than imperial competition.",
+    "timestamp": "1750179206",
+    "date": "6/17/2025, 4:53:26 PM",
+    "id": "45123cfcabb79f7d6f427ee6626bb0101cee6f9e4aa097439ce5cf2461e86c13",
+    "kind": 1
+  },
+  {
+    "content": "Are we gonna purple pill him finally at the event...?",
+    "timestamp": "1750161771",
+    "date": "6/17/2025, 12:02:51 PM",
+    "id": "f10b1f8e79e6d42c077f9d59bb3f42cd70af1dcfe98416c943ed50564adf09fa",
+    "kind": 1
+  },
+  {
+    "content": "The last years we opened the event with a letter by Paul, this year is a massive upgrade to get his words in person!\n\nnostr:nevent1qqs946e5497h3ct7uyujayxuu5x8p4fhzkfdfm2ulka4mmqs5axt8pcpzdmhxue69uhhwmm59e6hg7r09ehkuef0qgs0wzz3uacckly3qpq06m73xfskmuzhhxsh47vy3zpu0tw878hfzzgrqsqqqqqp0yddez",
+    "timestamp": "1750161746",
+    "date": "6/17/2025, 12:02:26 PM",
+    "id": "a996fd9ea09bb2f2872791c5acbf0cf093693cf345ae6ff3b195ad660995f7b2",
+    "kind": 1
+  },
+  {
+    "content": "If you have a suggested zap amount in your app, 10x it.",
+    "timestamp": "1750160861",
+    "date": "6/17/2025, 11:47:41 AM",
+    "id": "2214a7c862a8bbe649c0321cc0fb1a76ade8f6b01d8ce2b87cf595646dcd8fee",
+    "kind": 1
+  },
+  {
+    "content": "Yes!\nThat's a great topic, glad your picking up on the insane performance of libbitcoin.",
+    "timestamp": "1750157938",
+    "date": "6/17/2025, 10:58:58 AM",
+    "id": "5c0e29745faf8f304a61648e8d47510e2204936595fd631f5f66cc67704ac651",
+    "kind": 1
+  },
+  {
+    "content": "Eric Voskuil joined Bitcoin engineers to discuss architectural and performance differences between libbitcoin and Bitcoin Core:\n\n- libbitcoin’s history/latest updates\n- libbitcoin architecture\n- Initial block download (IBD) performance\n- IBD workflow\n- SwiftSync\n- Q&A\n\nWatch the 90 minute discussion:\n\nhttps://brink.dev/blog/2025/06/17/eng-call-eric-voskuil-utxo-model/",
+    "timestamp": "1750157916",
+    "date": "6/17/2025, 10:58:36 AM",
+    "id": "a60d19efdb3f31835fe5e9517aeabb284cd6f66be77ebd13f99c059ee30e9fe4",
+    "kind": 6
+  },
+  {
+    "content": "So when's the release of nostr:nprofile1qqs092skvjkhrk6tg745qvp5q9xe5anaval33ampak3ux2ehtfxtfxqpzdmhxue69uhhwmm59e6hg7r09ehkuef0eymqzn ?",
+    "timestamp": "1750153488",
+    "date": "6/17/2025, 9:44:48 AM",
+    "id": "5341304bd91542464aef5838f86aa565cfe32bbb1643edde2f58c698de2fa4ca",
+    "kind": 1
+  },
+  {
+    "content": "My talk \"going to the digital hills\" will take us through the ancient 2000 year old strategy of being ungovernable with cool cypherpunk tech. At Cypherpunk meetup.\n\nI will talk about Reticulum mesh networking, but also how it relates to cypherpunk tech and cryptoanarchy strategy. And I promise I won't talk long.\n\nCypherpunk meetup in Prague before BTCPrague as an official side event. And we have many more things than me speaking prepared for you.\n\nTickets and more info here:\n\nhttps://pay.cypherpunk.today/apps/2XpjQGab73AHiuHq1KNEEyFFKSZx/crowdfund\n\nhttps://blossom.primal.net/5914a7c76cd611094250a39c5c284123ff716db478da87767830c7cb9154808a.jpg\nhttps://blossom.primal.net/a3bf42727ca640bb33d9829973d3e48f7d053d83c25add4119ccd38032989d77.jpg",
+    "timestamp": "1750153024",
+    "date": "6/17/2025, 9:37:04 AM",
+    "id": "83f58adba3b711dc65c3fb7f0e78de928f8550bf656fd929b3bfca81cf844557",
+    "kind": 6
+  },
+  {
+    "content": "I recommend to all to read these:\n1. https://livingintheprivate.blogspot.com/p/the-courts.html \n2. https://livingintheprivate.blogspot.com/p/the-law-vs-statutes.html\n3. https://livingintheprivate.blogspot.com/p/administrative-courts.html\n4. https://livingintheprivate.blogspot.com/p/jurisdiction-is-key.html\n5. https://livingintheprivate.blogspot.com/p/declining-to-appear.html\n6. https://livingintheprivate.blogspot.com/p/strategies-for-court.html",
+    "timestamp": "1750144932",
+    "date": "6/17/2025, 7:22:12 AM",
+    "id": "b1c51f4dc966fde83625f53e281424798e8bb05ac6a018680be2512741f54db5",
+    "kind": 6
+  },
+  {
+    "content": "Just blast it to 100+ relays and you're good.",
+    "timestamp": "1750141585",
+    "date": "6/17/2025, 6:26:25 AM",
+    "id": "304c03a06e89c8e9d8197b85a0ce5ef27c00de37955ba5b537319fdb2025e967",
+    "kind": 1
+  },
+  {
+    "content": "Is a descriptor needed here?\n\nPotentially it could be encrypted to a shared secret key from the group of friends and stored on nostr",
+    "timestamp": "1750141382",
+    "date": "6/17/2025, 6:23:02 AM",
+    "id": "67cc942ef34ec2d4b8f4ff1757ba9ac069709884b0d8ba203cd193de4bc95608",
+    "kind": 1
+  },
+  {
+    "content": "Would this work?\n\nBitcoin social recovery: Add a Tapscript path with MuSig/FROST of friends npub. User only needs to rememver friends' npubs, they're not involved in the setup. If main key is lost, create recovery tx signed by npubs. Friends sign when notified, granting access.",
+    "timestamp": "1750141200",
+    "date": "6/17/2025, 6:20:00 AM",
+    "id": "30ec1d26a32869bd0aa33ddd6bb835c39ad678d8069a57a65e47276a989b5738",
+    "kind": 1
+  },
+  {
+    "content": "Legal systems under the state are inherently biased. Judges and courts, funded by taxation and controlled by politicians, cannot impartially adjudicate when the state itself is the primary violator of rights.",
+    "timestamp": "1750137705",
+    "date": "6/17/2025, 5:21:45 AM",
+    "id": "c3923279d7bdd336ce9409fdb8b5338c699bb5ad148b9a50b528a5cec4927d71",
+    "kind": 1
+  },
+  {
     "content": "nostr:nprofile1qqs94rjcrut2qyhzf54xgq2j44tzqkxtqe0pmu5wjp7ph75zc9gv3wspzdmhxue69uhhwmm59e6hg7r09ehkuef0qe380g will come to the nostr:nprofile1qqs0wzz3uacckly3qpq06m73xfskmuzhhxsh47vy3zpu0tw878hfzzgpzdmhxue69uhhwmm59e6hg7r09ehkuef09k0uul.\nWill you?\nhttps://pay.cypherpunk.today/apps/2XpjQGab73AHiuHq1KNEEyFFKSZx/crowdfund",
     "timestamp": "1750099658",
     "date": "6/16/2025, 6:47:38 PM",
