@@ -1,5 +1,82 @@
 [
   {
+    "content": "Wen apk sir?",
+    "timestamp": "1750877700",
+    "date": "6/25/2025, 6:55:00 PM",
+    "id": "a36159ff1bc1c895d70e4f983125e06aa83f1bb8566ef2eb4eaf9d52e7910930",
+    "kind": 1
+  },
+  {
+    "content": "I bugged them a bit about it, so far no success, we need more purple pills in the comments.",
+    "timestamp": "1750876760",
+    "date": "6/25/2025, 6:39:20 PM",
+    "id": "4016030722441c490635ba27bc1fb392586f0fb68cc41d52f936f4b46d4cccfc",
+    "kind": 1
+  },
+  {
+    "content": "🔊 After weeks of silence, Voca v0.2.0 drops HUGE updates!\n\n✅ PDFs load **blazing-fast** – even 500+ page docs play instantly.\n🌐 Share any website with Voca, and it’ll start reading aloud *right away*.\n🔖 New bookmark system tracks active reading positions across files (no more losing your spot!).\n\n🚀 Download now on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0\n\nFuture updates will refine the UI for a sleeker experience.",
+    "timestamp": "1750872933",
+    "date": "6/25/2025, 5:35:33 PM",
+    "id": "f09bb80f5dc0eb36b510fdcd5a4b6e297e30ad04933556bbd3814aa962ad6fdf",
+    "kind": 6
+  },
+  {
+    "content": "ladies and gents, welcome to the soft launch of NOSTR.EU  \n\nhttps://nostr.eu - a njump instance with translations to all(soon) european languages to help bring nostr closer to people who don't speak english. \n\ntranslations are all AI based so locals are very welcome to send in the fixes (PRs most welcome - https://github.com/nostr-net/njump).\n\nLanguages are still being added (bullying over zaps works). ",
+    "timestamp": "1750872918",
+    "date": "6/25/2025, 5:35:18 PM",
+    "id": "36044d9cfc5b85570642cd49f62695f466c1d1c8ca48b9ef9b71fd169b256217",
+    "kind": 6
+  },
+  {
+    "content": "With price.",
+    "timestamp": "1750872633",
+    "date": "6/25/2025, 5:30:33 PM",
+    "id": "f2d6618756aa1267ca917a17017202e1acebc1f2f75eb1117d8be70e68dc2d09",
+    "kind": 1
+  },
+  {
+    "content": "Publicly conforming to what we privately disagree with makes us complicit in tyranny.\nhttps://www.youtube.com/watch?v=GEQjYEW5rcs",
+    "timestamp": "1750870719",
+    "date": "6/25/2025, 4:58:39 PM",
+    "id": "87f6399d6c6549393332602228b29a378d0c73f84f2afddcdf86bff5b95af5ff",
+    "kind": 1
+  },
+  {
+    "content": "Historical examples show private roads outperform public ones. Turnpike companies in 18th-century England and 19th-century America built efficient networks without state funding.",
+    "timestamp": "1750869821",
+    "date": "6/25/2025, 4:43:41 PM",
+    "id": "3e5027f016ec3bbf9ef14313e077e32d014d14c8e1e5f20448f8485b0963309c",
+    "kind": 1
+  },
+  {
+    "content": "Government interventions in labor markets create artificial unemployment. Minimum wage laws exclude low-skilled workers, disproportionately harming minorities and the poor.",
+    "timestamp": "1750848643",
+    "date": "6/25/2025, 10:50:43 AM",
+    "id": "fa67c60024ad820d72ff90c20f019daf72d10a2e310a9f409ca3a75d87552f3d",
+    "kind": 1
+  },
+  {
+    "content": "Whirlpool uses WebSocket for communication, which means that the client is connected to the server and all communication --except the output registration-- is done using the same connection. The communication consists of messages sent by the client to the server and notifications sent by the server to the client. \n\nhttps://nosto.re/d4830e7ebb63b84edbb2c25b2dad43df6170d57faa0b1c155c2a2b6d229afdda.png\n\nThe server knows which WebSockets were used to register/confirm which inputs, and it is the server that notifies the client when to register the output. So, a malicious coordinator can notify the client in WebSocket A to register the output, wait for it, and then do the same for the client in WebSocket B, and so on.\n  \nEven if WebSockets were not used and a short pooling mechanism were used to get the status of the mix process, the server still provides a **mixId** identifier that the client has no way to verify and the coordinator could provide a different one for each client.\n\nThe latter problem is not critical because it is very easy to verify and by sure many users, tools and robots will be checking that everybody receives the same mixId. However, the former requires a protocol change.\n\nnostr:nevent1qqsqqq9sewqh4t8y785azzy8hxk028hm6ygg4cj7kekwhh8pdru7f3gprpmhxue69uhkv6tvw3jhytnwdaehgu3wwa5kuef0qy88wumn8ghj7mn0wvhxcmmv9uq3uamnwvaz7tmwdaehgu3dwp6kytnhv4kxcmmjv3jhytnwv46z7s3nzlh  \n",
+    "timestamp": "1750833126",
+    "date": "6/25/2025, 6:32:06 AM",
+    "id": "8d7af1bb618620890f240429d58534e16937dfd7eef33222d1ba41f7c3db1818",
+    "kind": 6
+  },
+  {
+    "content": "mises.org/begin",
+    "timestamp": "1750832785",
+    "date": "6/25/2025, 6:26:25 AM",
+    "id": "0d915d8b853d14eb72b02fe8d4189af772ec8fee93e012f66d543b3f23486d37",
+    "kind": 1
+  },
+  {
+    "content": "Public health campaigns often blame victims. Anti-smoking or nutrition programs target poor choices but ignore how state policies create unhealthy environments.",
+    "timestamp": "1750830721",
+    "date": "6/25/2025, 5:52:01 AM",
+    "id": "c5ff360a64832b76bc7f25ae0b43515d3eb16ef55a07a69350acb9814d15ea1e",
+    "kind": 1
+  },
+  {
     "content": "These are best barefoots I found so far, still looking for great ones with leather soles...\nwildling.shoes/en",
     "timestamp": "1750796651",
     "date": "6/24/2025, 8:24:11 PM",
