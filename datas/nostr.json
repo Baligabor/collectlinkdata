@@ -1,5 +1,131 @@
 [
   {
+    "content": "Merged: NUT-24 X-Cashu 402 for HTTP web monetization. The spec defines how services communicate payment conditions to clients. The payment is an ecash token in the request itself.\n\nThe fastest and simplest way to pay for protected content on the internet. \n\nThank you for your contribution nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3zamnwvaz7tmwdaehgu3wd3skuep0qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgdzn4a9 and everyone who reviewed the spec.\n\nhttps://github.com/cashubtc/nuts/blob/main/24.md",
+    "timestamp": "1750951960",
+    "date": "6/26/2025, 3:32:40 PM",
+    "id": "7fe5c0356bd876973255db12337d20b6607b4650e582c1b253b839cfc81619e5",
+    "kind": 6
+  },
+  {
+    "content": "This is awesome!",
+    "timestamp": "1750951854",
+    "date": "6/26/2025, 3:30:54 PM",
+    "id": "35aced982655b7436d959f3428aeeee2bc6d9cd38a5d9b3bbd8a6f79f6bdd77e",
+    "kind": 1
+  },
+  {
+    "content": "Running Bitcoin ZK Knots, baby!\n\nWe've successfully run a POC verifying a STARK proof of Bitcoin's mainnet block #1 inside a modified Bitcoin Knots client.\n\nThe proof validates critical consensus rules:\n\n- Timestamp\n- Chain difficulty\n- Block difficulty\n- Proof of Work\n\nHere’s the technical flow:\n\n- A Cairo program defines the block header consensus rules & generates the execution trace: https://github.com/starkware-bitcoin/raito/blob/1cca29f0435ef74b34c8cca29f76393c7079b898/packages/assumevalid/src/lib.cairo#L49\n- The STWO prover generates the STARK proof from the trace: https://github.com/starkware-libs/stwo-cairo\n- A modified ProcessNewBlockHeaders function in Bitcoin Knots performs the proof verification: https://github.com/starkware-bitcoin/bitcoin/blob/c2505b4c9a3a420634de651220f76285e0b7ee64/src/validation.cpp#L4690\n\nThe main purpose of this POC was to test the integration of our Rust-based proving stack into the C++ codebase.\n\nThe ultimate vision? To improve Initial Block Download (IBD) dramatically by allowing the entire chain's validity to be verified with a single recursive proof.\n\n\nOnce Raito is fully equipped with recursive proving and strong performance, we'll be back to implement a full, real-world IBD with ZK verification enabled. Stay tuned!\nFollow our StarkWare Bitcoin Github for updates: https://github.com/starkware-bitcoin/\nhttps://blossom.primal.net/3656c71afab40e3e83775852f8ed7e8e08a79d6024f7c77c5ea5bb698f611801.jpg\nhttps://blossom.primal.net/2e2354ac26e7e9d047ebb256522b9ece0fb6fa9f8781156641a5fa4d22cd49be.jpg\nhttps://blossom.primal.net/dae66e7677756043a10dd3cedd1a0753070669ab27af1b7abc47a82dc5eb1e9c.jpg",
+    "timestamp": "1750951848",
+    "date": "6/26/2025, 3:30:48 PM",
+    "id": "129ea9f742629ca7c7964a8f127d5862e4acdf3b5ba17e6489af64f443184df9",
+    "kind": 6
+  },
+  {
+    "content": "We are already living in a financial dystopia, it's just not evenly distributed yet.",
+    "timestamp": "1750951703",
+    "date": "6/26/2025, 3:28:23 PM",
+    "id": "e0c4a283526078b3e76b592786982d7d6f36dcaa198391d8496c1386745d9cbf",
+    "kind": 6
+  },
+  {
+    "content": "Proxy merchants are the way.\n\nnostr:nevent1qqs88j9mfgp7avrgt2dkju6hm0hrxpf25dt8hz4z45dy68p8stf3apqpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzsm98u9kzcp35zkpc62shck8335gqtq5yt4w26xwl0pp2a72qavvpsgqqqqqqsusrn4y",
+    "timestamp": "1750951513",
+    "date": "6/26/2025, 3:25:13 PM",
+    "id": "eb0751796ab58a3b62a4a598db76530539bf306419bdc54e15185704b9a6b82b",
+    "kind": 1
+  },
+  {
+    "content": "Oh wow!\nWith preferential peering, or just random?",
+    "timestamp": "1750951130",
+    "date": "6/26/2025, 3:18:50 PM",
+    "id": "ee7ad70d05e58dc1f48efbccfdb23965c7a2213f0a2d301eab613eadf237cc10",
+    "kind": 1
+  },
+  {
+    "content": "I spoke with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmwdaehgu3wv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhur83xg2 at nostr:nprofile1qqsd0f68dvf98gvs9am9dp0lu0f4r7xzu2k89rm9tt448axf5tu6wlgphpy4c \n — he hasn’t had a bank account in 6 years.\n\nWe talked about state indoctrination, obedience by design, and why Bitcoin is a path to personal sovereignty.\n\nHe also shared practical tips on privacy and running your own tools.\n\n🧠 Brilliant mind, 🙌 kind spirit — and incredibly grounded.\n\nThanks for the inspiring conversation, Max!\n\nhttps://youtu.be/lr89FhJsqFI\n\n#Bitcoin #Freedom #Sovereignty #Privacy #Cypherpunk #BTCPrague",
+    "timestamp": "1750944853",
+    "date": "6/26/2025, 1:34:13 PM",
+    "id": "ff03425b9ed4fa4845c4cc3384b3042e6710c12321688755d88e46819e5a1fab",
+    "kind": 6
+  },
+  {
+    "content": "Great explanation of BitVM v3\n\nnostr:nevent1qqsg7g0300emddfgqc2rfedyks488rgytv43keyujqscjjgk87kzqkcpz3mhxue69uhhwmm59ehx7um5wghxuet59upzp0dedtf34340zg78dq792a67ugfcmg8c7qg78x2d2638yu8xjft4qvzqqqqqqyv7ta4d",
+    "timestamp": "1750930360",
+    "date": "6/26/2025, 9:32:40 AM",
+    "id": "114429e4c5373d3bb7c961a9c4a1da1ef9353ee5a44244e81a13ff12d5c72914",
+    "kind": 1
+  },
+  {
+    "content": "Especially route calculation is much faster in organic map.",
+    "timestamp": "1750929105",
+    "date": "6/26/2025, 9:11:45 AM",
+    "id": "6f0bc7bfa39739bec51a85293a45bbc6fb8957ec10629cd05d48666f94d4b4d8",
+    "kind": 1
+  },
+  {
+    "content": "Ever wanted to see BTC-accepting merchants inside of Organic Maps?\n\nFollow these simple instructions:\n\nhttps://gitea.btcmap.org/teambtcmap/btcmap-general/wiki/Showing-BTC-merchants-in-OrganicMaps",
+    "timestamp": "1750929070",
+    "date": "6/26/2025, 9:11:10 AM",
+    "id": "24dffceaadbc78dc4dede609ae363d8f6f221f96fdbf074f9f876109ded9f789",
+    "kind": 6
+  },
+  {
+    "content": "Awesome, thanks!",
+    "timestamp": "1750929006",
+    "date": "6/26/2025, 9:10:06 AM",
+    "id": "51db9a034783b3017a0d1cfa1ed57ed6437fcf158d29bf59f70e810225d85bea",
+    "kind": 1
+  },
+  {
+    "content": "GrapheneOS can be built on emulator builds and they are used during development. The emulator is a dev environment and doesn't get updates or every security feature.\n\nThe build instructions for them are here:\n\nhttps://grapheneos.org/build#build-targets\nhttps://grapheneos.org/build#emulator",
+    "timestamp": "1750929001",
+    "date": "6/26/2025, 9:10:01 AM",
+    "id": "4d5701cff2513604d27ab2d8e7a7346e5d5b1c846269c50371eba59308355cae",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsuc57w0 is there a nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43q4gnztg simulator for testing apps in the development process?",
+    "timestamp": "1750925801",
+    "date": "6/26/2025, 8:16:41 AM",
+    "id": "07c485a5134cf77345ea325e3ed0a3c47af23c6ae23114f575c5de78b4d8ca7e",
+    "kind": 1
+  },
+  {
+    "content": "LIVE: BFM154 w/ nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq35amnwvaz7tmwdaehgu3wvdjhycmpw3ex7anp9ekk2tcqyzgpkzlt7q4t0gu7fkk58mulpnak78qm5cem37l8d3qskksz049xkg835vh⚡️\n\n“There's no such thing as economics. Only human action.”\n\nWe discuss:\n🔸Fiat economics = pure gaslighting\n🔸Bitcoin's connection with Austrian theory\n🔸The “intrinsic value” myth\n🔸Why savings build civilization\n🔸The spiritual cost of bad money\n\nhttps://www.youtube.com/watch?v=SRr3YFJ54FA",
+    "timestamp": "1750925019",
+    "date": "6/26/2025, 8:03:39 AM",
+    "id": "36844ea6a229031774de3d249ac77be8aaa1244bf94258e12b5f15b77a9e6799",
+    "kind": 6
+  },
+  {
+    "content": "I'm getting ready.\n\nOne feature will be the creation of groups. Eg. You can have a Hood Watch group set up with your neighbors. Just do one meeting, install #Glok, create a group, invite others to watch your back and do the same for them.\n\nWhen someone's following you, hit the BIG RED BUTTON amd any neighbor can answer to your alert.\n\nTogether we are stronger than any criminals.\n\n\nnostr:nevent1qqsy3p4l3249jug58n5herx5rcvkujr3wyjfrpzf9y8wwkvvpdyrysspz4mhxue69uhkummnw3ezummcw3ezuer9wchsygpxe38u40785888277qh7k2ah5vyghechctcxpcrluwtx5etl6d2spsgqqqqqqsqc608j",
+    "timestamp": "1750925003",
+    "date": "6/26/2025, 8:03:23 AM",
+    "id": "cffb547861f85947865c6552cc6cac7d12a1aa12d32c1a08fa93ffd40c82842d",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsvfa085adgecmg84ffelcxx6zrn3ffu5jrc6cjtwng0zge3ptv43cpz9mhxue69uhkummnw3ezuamfdejj7qgcwaehxw309anxjmr5v4ezumn0wd68ytnhd9hx2tcwmah2e wrote a nostr:nprofile1qqsra2ey033mkdwl5w8q0jss9ak69zafh82xsuvhwsaauw3trkq2amgpz9mhxue69uhkummnw3ezuamfdejj7synlt0 wiki article on how to get all bitcoin accepting merchants into your local open street map client like organic map!\nhttps://gitea.btcmap.org/teambtcmap/btcmap-general/wiki/Showing-BTC-merchants-in-OrganicMaps",
+    "timestamp": "1750924856",
+    "date": "6/26/2025, 8:00:56 AM",
+    "id": "4d62b103b694636aaebf4e66426b656212a0e8d049c8e2abc3b26fa7162b6446",
+    "kind": 1
+  },
+  {
+    "content": "Here is an interesting chart that nostr:nprofile1qqsyx708d0a8d2qt3ku75avjz8vshvlx0v3q97ygpnz0tllzqegxrtgpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtc56uyz3 brought up in one of his PoE lectures that shows the use of \"minimum wage\" and \"unemployment\" in literature (ngram viewer):\n https://blossom.westernbtc.com/b22ced83885e451122b6770083bcb0294e23df9d7b8de9ae65781364fbefbfe9.jpeg\n\nUnemployment was hardly mentioned until minimum wage!\n\nSource: https://books.google.com/ngrams/graph?content=unemployment%2Cminimum+wage&year_start=1800&year_end=2022&corpus=en&smoothing=3&case_insensitive=false",
+    "timestamp": "1750918542",
+    "date": "6/26/2025, 6:15:42 AM",
+    "id": "eebbe0986a8bcccc4c881ef5321877a8a61fd017becb86b9aa5a9b4fbe9b3d82",
+    "kind": 6
+  },
+  {
+    "content": "Stagflation results from central bank meddling. Artificially low interest rates and credit expansion distort investment, leading to simultaneous unemployment and price rises.",
+    "timestamp": "1750918508",
+    "date": "6/26/2025, 6:15:08 AM",
+    "id": "c218292d3fe0fb858b23714c38a2d883b2a6beac8ed5ce11c8b03de9c489567c",
+    "kind": 1
+  },
+  {
     "content": "Wen apk sir?",
     "timestamp": "1750877700",
     "date": "6/25/2025, 6:55:00 PM",
