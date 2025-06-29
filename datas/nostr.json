@@ -1,5 +1,82 @@
 [
   {
+    "content": "MLS just got a lot more scalable!\n\nhttps://www.ietf.org/archive/id/draft-kiefer-mls-partial-00.html\n\nPartial clients don't store the entire MLS tree, dramatically reducing bandwidth and compute requirements, while removing the ability to verify all incoming messages and adding or removing members to the group.",
+    "timestamp": "1751137937",
+    "date": "6/28/2025, 7:12:17 PM",
+    "id": "5569df6637f9651c92b93496034dcc313917a2421fae9187eeef862c5c64c257",
+    "kind": 1
+  },
+  {
+    "content": "Go through your installed apps and delete one you're not using.",
+    "timestamp": "1751137193",
+    "date": "6/28/2025, 6:59:53 PM",
+    "id": "934cc0dc17a8a8011ecbc59b6e9285cf7499191a4e54c1bb8ab3aae81ef6f719",
+    "kind": 1
+  },
+  {
+    "content": "Checkout nostr:nprofile1qqs8p3ywfd92w7zvjgy7wrpylz8t30hy3z5dc5al4070l9y8qr8rejcpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctc0reyhh",
+    "timestamp": "1751136122",
+    "date": "6/28/2025, 6:42:02 PM",
+    "id": "c8bf1bc8fb3009dc5ee9f678c4f948e75c69a29c89ad7f7cd387fbe84aff9845",
+    "kind": 1
+  },
+  {
+    "content": "You still pay them some part in fiat? 🤔",
+    "timestamp": "1751136107",
+    "date": "6/28/2025, 6:41:47 PM",
+    "id": "a702ac23bcb62547bb12a7caeb939eb579545426609a53a440530aec1588923b",
+    "kind": 1
+  },
+  {
+    "content": "Minibits is now available to install on iOS devices from new alternative appstore freedomstore.io - for all EU-based users.\n\nIt was a great pleasure to make it happen together with nostr:nprofile1qqsd54k9fd0xwjwkttgr3svkg7reftu5una95nhacg95nxq7fmzkdscpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcdmwcdp foundation excellent team!",
+    "timestamp": "1751135459",
+    "date": "6/28/2025, 6:30:59 PM",
+    "id": "5eaa3149c110fc133764df4be1ae5e71010119e5769a5309f7d0cc13e4bafa65",
+    "kind": 6
+  },
+  {
+    "content": "MLS is agnostic to the identity and message delivery protocol, so it should work just fine with keet.\n\nI don't know what encryption scheme keet uses at the moment.",
+    "timestamp": "1751134739",
+    "date": "6/28/2025, 6:18:59 PM",
+    "id": "d31da753f78aa73a7f4772d489c15571989015d078fceff4e563afeb138ac2a4",
+    "kind": 1
+  },
+  {
+    "content": "Sounds radical!",
+    "timestamp": "1751134606",
+    "date": "6/28/2025, 6:16:46 PM",
+    "id": "b6dc09a5b98a92ea52d184b298aa9f916c8497cec956994a105618b8c1ee9350",
+    "kind": 1
+  },
+  {
+    "content": "Services like day care are stifled by regulation. Licensing requirements and zoning laws prevent market solutions, forcing reliance on bureaucratic inefficiencies instead of private innovation.",
+    "timestamp": "1751127135",
+    "date": "6/28/2025, 4:12:15 PM",
+    "id": "229df0a8dbaa1f05bad3b6960b6411053d6198856bed2caff70493590041f506",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs80n2hqvjppgqh2c5t2dtl5e2mr7kw4d90u468xwaaenke8r0frgspzdmhxue69uhhwmm59e6hg7r09ehkuef0jka5xt\nnostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43q4gnztg\nKeepass\nQubesOS\nNextcloud\nOrganic Map\nPipePipe\nRiMusic",
+    "timestamp": "1751127050",
+    "date": "6/28/2025, 4:10:50 PM",
+    "id": "e7fc0012c87c721ca61e1531b7cfa42562122f0ec888126e626af0fe1b9cdde8",
+    "kind": 1
+  },
+  {
+    "content": "The entrepreneur is the central decision maker of his business.",
+    "timestamp": "1751093341",
+    "date": "6/28/2025, 6:49:01 AM",
+    "id": "69352a6a99e58f11528d879f8683272210d7dc997a9061e73ea17892061cc922",
+    "kind": 1
+  },
+  {
+    "content": "Public works drain the economy. Infrastructure projects funded by taxes divert capital from productive private uses to political boondoggles.",
+    "timestamp": "1751089222",
+    "date": "6/28/2025, 5:40:22 AM",
+    "id": "6a150083913611906cee394b00f42c498a50744a9ccb21dcb52076c84d21feaa",
+    "kind": 1
+  },
+  {
     "content": "Libertarian legal theory prioritizes procedural consistency over outcomes. Even if the evidence is factually true, its acquisition through coercion invalidates its use in a justice process. To accept such evidence would imply that aggression can be a legitimate tool for uncovering truth, opening a dangerous precedent where anyone could trespass or violate rights \"for the greater good.\"",
     "timestamp": "1751057463",
     "date": "6/27/2025, 8:51:03 PM",
