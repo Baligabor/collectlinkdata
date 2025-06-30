@@ -1,5 +1,33 @@
 [
   {
+    "content": "It's all a matter of price.",
+    "timestamp": "1751207438",
+    "date": "6/29/2025, 2:30:38 PM",
+    "id": "a1a2c40c972715654885c50667af5deae37f0f427216bed7ed2016027e8bba4b",
+    "kind": 1
+  },
+  {
+    "content": "Education’s “public good” myth hides its failures. State-run schools impose one-size-fits-all curricula, ignoring diverse needs and fostering conflict.",
+    "timestamp": "1751207405",
+    "date": "6/29/2025, 2:30:05 PM",
+    "id": "d688016ce22a6cf7e0d656b225f0d6ae911bd1a2d5c05aff9144feac33e1dfa5",
+    "kind": 1
+  },
+  {
+    "content": "We're getting close to having all basic needs covered with the Nostr merchants.",
+    "timestamp": "1751177611",
+    "date": "6/29/2025, 6:13:31 AM",
+    "id": "46c5ff634e7be6700eaf9f638ea84e80a7355264eb8574b43c5ad700c3179272",
+    "kind": 1
+  },
+  {
+    "content": "Postal service inefficiencies stem from monopoly. Private companies could deliver mail cheaper and faster, but state control blocks competition and innovation.",
+    "timestamp": "1751176833",
+    "date": "6/29/2025, 6:00:33 AM",
+    "id": "0b4a8905681b1139aadd5bc38d711f89125e1c05422a142286440c20fc39875d",
+    "kind": 1
+  },
+  {
     "content": "MLS just got a lot more scalable!\n\nhttps://www.ietf.org/archive/id/draft-kiefer-mls-partial-00.html\n\nPartial clients don't store the entire MLS tree, dramatically reducing bandwidth and compute requirements, while removing the ability to verify all incoming messages and adding or removing members to the group.",
     "timestamp": "1751137937",
     "date": "6/28/2025, 7:12:17 PM",
