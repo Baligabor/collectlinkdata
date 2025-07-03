@@ -1,5 +1,117 @@
 [
   {
+    "content": "The future favors those who choose wisely.",
+    "timestamp": "1751489166",
+    "date": "7/2/2025, 8:46:06 PM",
+    "id": "406b7890e049abb9f93aa98001d18db76a4988a8aa3c6de0eddf7a1296df6d9a",
+    "kind": 1
+  },
+  {
+    "content": "This doesn't work nicely, as it runs into rate limiting.\nnostr:nprofile1qqsw9n8heusyq0el9f99tveg7r0rhcu9tznatuekxt764m78ymqu36cpr3mhxue69uhhyetvv9ujucnfw33k76twwpshy6ewvdhk6tcpzdmhxue69uhhwmm59e6hg7r09ehkuef0qy2hwumn8ghj7un9d3shjtn4w3ux7tn0dejj7ne6u4e I think a good solution would be to allow an upload of a jsonl database.",
+    "timestamp": "1751480736",
+    "date": "7/2/2025, 6:25:36 PM",
+    "id": "91be9f8826cf181b87f29ca93be9c0c59d4f233e8ebb99fcd7399f8ef448841d",
+    "kind": 1
+  },
+  {
+    "content": "Anonymous networks are exit doors. \nThey let you leave broken systems behind.",
+    "timestamp": "1751480561",
+    "date": "7/2/2025, 6:22:41 PM",
+    "id": "a1fa361f90cb6a99f8c7b84932024726a04cddba5e5a4babceefd3cbdbf47fa4",
+    "kind": 1
+  },
+  {
+    "content": "nak to the rescue!\n\n`cat events.jsonl | nak event <relay url>`",
+    "timestamp": "1751470192",
+    "date": "7/2/2025, 3:29:52 PM",
+    "id": "95f75551f5a0ee12f28c3e093118fb1cb9db9b9ab35ebc8256f0d5a31291a0cd",
+    "kind": 1
+  },
+  {
+    "content": "Cryptography doesn’t just secure data, it secures dignity.",
+    "timestamp": "1751468949",
+    "date": "7/2/2025, 3:09:09 PM",
+    "id": "7bba2a2e601138fe6b0bbb721498a7c280da8fffbe173be9c1701882a02729a3",
+    "kind": 1
+  },
+  {
+    "content": "Citrine already has a \"Download your events\" feature, it would be a cool addition to have a \"upload your events\" feature that puts your events on selected relays.",
+    "timestamp": "1751467686",
+    "date": "7/2/2025, 2:48:06 PM",
+    "id": "5a61584e488ffe94428a21318fb0544462bacf06fc5c633b8a8ac694a3adaa0f",
+    "kind": 1
+  },
+  {
+    "content": "Is there a way to do it with a client like nostrudel?",
+    "timestamp": "1751466565",
+    "date": "7/2/2025, 2:29:25 PM",
+    "id": "ea947bc9b04b5bf2eaf045129726d6514145f81547e1deb6b4b55191c0380230",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsw9n8heusyq0el9f99tveg7r0rhcu9tznatuekxt764m78ymqu36cpr3mhxue69uhhyetvv9ujucnfw33k76twwpshy6ewvdhk6tcpzdmhxue69uhhwmm59e6hg7r09ehkuef0qy2hwumn8ghj7un9d3shjtn4w3ux7tn0dejj7ne6u4e nostr:nprofile1qqs827g8dkd07zjvlhh60csytujgd3l9mz7x807xk3fewge7rwlukxgpz9mhxue69uhkummnw3ezumrpdejz772u5wm how to get events from nostr:nprofile1qqsts0n0s20fk0s087ydcd7zj20ajv2t90m680zr6f0x5gp6w0p8wkqpzdmhxue69uhhwmm59e6hg7r09ehkuef0tdhs62 into haven?",
+    "timestamp": "1751458633",
+    "date": "7/2/2025, 12:17:13 PM",
+    "id": "ee8bbbb9cf224dc5d6684736f29cfc7798c3d10b6cd4d03c17c032c3c41acd8d",
+    "kind": 1
+  },
+  {
+    "content": "\"Do not pray for an easy life, pray for the strength to endure a difficult one.\" \nhttps://haven.sovereignengineering.io/57f7d24079a876e0ecfd668fd784b8c1c7d8eca2ec7c7423a142124784f51bb4.jpg",
+    "timestamp": "1751451763",
+    "date": "7/2/2025, 10:22:43 AM",
+    "id": "ac02f6a51f6b17fc9e4533a658874b6bd7ec5379f0be2037fccfeddfd2c5bdeb",
+    "kind": 6
+  },
+  {
+    "content": "The state will call it a weapon, a threat, a tool of criminals. But cryptography is simply the equalizer, the lever that shifts power from rulers to the ruled.",
+    "timestamp": "1751449186",
+    "date": "7/2/2025, 9:39:46 AM",
+    "id": "5b4008f2d1d27f5f5dca6d690ccd17f3906ad7b9d14ed9201379425682a47857",
+    "kind": 1
+  },
+  {
+    "content": "FOSS is here for you when you're ready to make the switch.",
+    "timestamp": "1751446616",
+    "date": "7/2/2025, 8:56:56 AM",
+    "id": "d59b763b16406b3984e2431ec729a12614f73672f235462fe35df4de801874d8",
+    "kind": 1
+  },
+  {
+    "content": "Gehe in die community von der Software die du nützt, und Frage was nützliches du machen kannst, oft zum Beispiel Dokumentation schreiben und support machen.",
+    "timestamp": "1751444478",
+    "date": "7/2/2025, 8:21:18 AM",
+    "id": "650449d6eeb88db78b483242eb6b43fa7a3d26010cc84e2f2f5848521b4c968f",
+    "kind": 1
+  },
+  {
+    "content": "Looks like there's interesting times ahead for Chainalysis again. \n\nFull story at the end of this post, which is well worth the read if you're interested in blockchain surveillance or, you know, justice or whatever.\n\nAlexey Pertsev, the Tornado Cash developer convicted last year for money laundering in the Netherlands, has requested access to a Chainalysis Government license as well as insights into how Chainalysis clustering and labeling works to confirm evidence presented at his trial last year.\n\nAccording to the defense, addresses Pertsev has been provided with by the prosecution do not add up to what the Government claims when tracing funds manually on Etherscan. \n\nThis is due to the prosecution’s use of Chainalysis software which clusters addresses together, a defense expert witness stated – a claim the prosecution denies.\n\nSo far, the evidence of illicit funds flowing through Tornado Cash presented by the prosecution used to convict Pertsev last year does not appear to go beyond the citing of media reports. \n\nTo prepare for Pertsev’s appeal, the defense wants to know what funds flowed where and when, noting that so far it has only been presented with spreadsheets that lack critical information, such as transaction hashes.\n\n“The defense argues that it's not enough for the government to simply point to some media articles to prove that these crimes actually happened,” says nostr:nprofile1qyxhwumn8ghj7mn0wvhxcmmvqyv8wumn8ghj7mn0wd68ytnnwpex7an0daehgtnwdsqzpp59a0hkv5ecm45nrckvmu7pnk0sukssvly33u3wwzquy4v037hcsgt75r, who attended the hearing this morning.\n\nThe court will decide on Oct 2 whether it will grant the defense’s requests.\n\nZap if u like this (and bc I am poor). ty ⚡ \n\nFull story: https://www.therage.co/pertsev-defense-challenges-chainalysis/",
+    "timestamp": "1751439167",
+    "date": "7/2/2025, 6:52:47 AM",
+    "id": "75367fa9041b8e1d24e312eab9243b77435c17388d65d83b13a3626321b9081d",
+    "kind": 6
+  },
+  {
+    "content": "BITCREDIT INTRO CALL 📢  \n🗓️ July 2nd | 1600 UTC \n\nJoin us to unpack the future of Bitcoin in the Real Economy!\n\nCommodity traders, producers, merchants, economists, devs, innovators: \n\nSet your reminder, and bring your questions!\n\nAGENDA: \n\n1. Intro to Bitcredit: Why a credit money layer is indispensable for business adoption and the future of Bitcoin.\n\n2. Technical deep dive: eBill app, eCash wallet, Wildcat mints progress. Building on Bitcoin, Nostr, Cashu.\n\n3. Live Q&A: Ask anything about protocol design or the expected business adoption path.\n\nhttps://twitter.com/i/spaces/1YpKkBNXYRNxj",
+    "timestamp": "1751439083",
+    "date": "7/2/2025, 6:51:23 AM",
+    "id": "f91963fa81111e64dbbf741bb8e35741229e6dc4e202d5124eb58990e24ea3c9",
+    "kind": 6
+  },
+  {
+    "content": "Union privileges harm non-members. Government-backed monopolies in labor markets exclude marginalized workers, reducing their employment opportunities.",
+    "timestamp": "1751438972",
+    "date": "7/2/2025, 6:49:32 AM",
+    "id": "e7ac25d1507b98f7c2c38ee9ae8fca557fae963398091012438edb75fb767cd6",
+    "kind": 1
+  },
+  {
+    "content": "Münzgasse #53 Tatort Bitcoin: Cypherpunk vs. Kripo (mit nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt und Mavi)\n\nWeltpremiere: So etwas gab es noch nie!\n\nIn dieser Münzgasse erwartet euch ein spannendes Duell der Perspektiven: Cypherpunk Max trifft auf Ermittler Mavi von der Kriminalpolizei.\n\nhttps://fountain.fm/episode/QZIOdB0x7kb16IKdwP5x\n\n\n\nhttps://m.primal.net/RDin.jpg",
+    "timestamp": "1751438918",
+    "date": "7/2/2025, 6:48:38 AM",
+    "id": "579b71b41d325c1962cb741af749564d756402022a61beee2bc6f471b527ecb2",
+    "kind": 6
+  },
+  {
     "content": "Legal systems thrive without state control. Ancient Ireland operated for centuries with decentralized, customary law enforced by private sureties and brehon judges.",
     "timestamp": "1751397277",
     "date": "7/1/2025, 7:14:37 PM",
