@@ -1,5 +1,96 @@
 [
   {
+    "content": "Yeah, love it, thanks!",
+    "timestamp": "1751572576",
+    "date": "7/3/2025, 7:56:16 PM",
+    "id": "b2cc5dd5c05ad80907a05a6ed34de5e4c5b1212d75bdf1d4951975c4dcce348b",
+    "kind": 1
+  },
+  {
+    "content": "Privacy and OSS Update 🔥\n\nWe have been hard at work unlocking the power of the DC-1 for the community, here are some updates you may appreciate:\n\n✅ Bootloader unlock tools & guides — full freedom to tinker and install what you want\n✅ Released kernel sources — now you can build, tweak & optimize with ease\n✅ TWRP support jumped forward — recovery development is well underway\n\nAnd we’re not stopping there — here’s what’s coming soon:\n\n🚀 Stable TWRP images  — no more piecing things together; ready-to-flash builds inbound\n🚀 Hardened ROMs — robust, privacy-first builds engineered for power users\n🚀 Full Linux support on the DC‑1 — Android or Linux, your choice\n\nWhether you're flash-happy or building your own distro, Daylight is crafting the tools to support the community's DIY spirit.\n\nStay tuned for more updates!\n\nDrop a comment on what features you would like to see next 🤝\n\nJoin our hacker wiki for deeper conversations on this project:\nhttps://www.daylighthacker.wiki/\n\nS/O to Danger Labs for collaborating on this project with us! ",
+    "timestamp": "1751572565",
+    "date": "7/3/2025, 7:56:05 PM",
+    "id": "0897b90b30a7c896c0c462dbe08d9e887b0e2587fce6e170ddc10e4ffe827258",
+    "kind": 6
+  },
+  {
+    "content": "Nice!\n\nDoes this get us closer to running nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43q4gnztg?",
+    "timestamp": "1751572553",
+    "date": "7/3/2025, 7:55:53 PM",
+    "id": "55594340599541c74fb121c00c820043a5bf41fb9a9c60c414f3a4a4091851c1",
+    "kind": 1
+  },
+  {
+    "content": "Learn about privacy this weekend!\n\n8m 40s: Bitcoin’s privacy\n\n1h 37m 14s: Monero’s privacy\n\n2h 27m 50s: Zcash’s privacy \n\n3h 35m 12s: Firo’s privacy\n\n3h 52m 6s: Litecoin MWEB & Mimble Wimble\n\n4h 7m 3s: Zano, Beam, Salvium\n\n4h 24m 28s: Final Scores\n\nhttps://www.youtube.com/live/MyYoPZUONRE?si=qlRVl_TNQXhb4sBx",
+    "timestamp": "1751567278",
+    "date": "7/3/2025, 6:27:58 PM",
+    "id": "2581ce2a1d79129d10d6be4faf990a2b5f3e5378dc8edc44ad7752938d2050e4",
+    "kind": 6
+  },
+  {
+    "content": "**Bitcoin mining air-conditioner proof of concept!**\nhttps://v.nostr.build/Dzl2wLzEWCEKvApl.mp4\nhttps://i.nostr.build/Iun0YwUcuoyiVW1x.jpg\nhttps://i.nostr.build/nFB36y216pWzx2vC.jpg\nA S19 KPro running at 1400w on 110v power blows hot air past a radiator coated with wet zeolite clay inside an empty s19 enclosure. The moisture in the wet clay aggressively evaporates as the hot dry air blows past it creating a cooling effect. The cooled water from the radiator is pumped to a second radiator which absorbs heat and humidity from the air creating a cooler ambient air temperature. This is just the initial setup to see if the concept even remotely works. It's clear from a few sort tests that it is working so I'll continue to iterate on the design. \n#bitcoin #bitcoinmining #plebminer #homesteading #permaculture #permies #meshtadel #homemining #doublespendenergy #hash2heat #mine4heat #mining ",
+    "timestamp": "1751561984",
+    "date": "7/3/2025, 4:59:44 PM",
+    "id": "88f972bc6c90919c32d6291b39f7c0d5e50d033d36adf021206c8fef6da9d16d",
+    "kind": 6
+  },
+  {
+    "content": "Things a nostrich never says...",
+    "timestamp": "1751561916",
+    "date": "7/3/2025, 4:58:36 PM",
+    "id": "60e6666fbe0cf7229ae70619369c39ab493f83bf4e03d41b080b3b943a21d91a",
+    "kind": 1
+  },
+  {
+    "content": "So what exactly is in the sensors category?",
+    "timestamp": "1751561862",
+    "date": "7/3/2025, 4:57:42 PM",
+    "id": "55f20128956e62018ab65b31ccbeb97893056d1b955dc0d58918e62934ef38b3",
+    "kind": 1
+  },
+  {
+    "content": "Check out the Primal Studio launch at nostr:nprofile1qqsd0f68dvf98gvs9am9dp0lu0f4r7xzu2k89rm9tt448axf5tu6wlgphpy4c: \n\nhttps://blossom.primal.net/dd959e46d99fc1516000412f7c1cd08f81026b5431f8737e96d18f1a3679d815.mp4 \n\nhttps://studio.primal.net",
+    "timestamp": "1751556563",
+    "date": "7/3/2025, 3:29:23 PM",
+    "id": "e37fe271cbbefea4078fe48705d084408feb86f79e4cff398bc03a7d719b6ed3",
+    "kind": 6
+  },
+  {
+    "content": "Thanks for making it FOSS!",
+    "timestamp": "1751556560",
+    "date": "7/3/2025, 3:29:20 PM",
+    "id": "f34116aae13e60726134ca8fec869292700216158c6cb5cfb7dd489bc9f7f462",
+    "kind": 1
+  },
+  {
+    "content": "Private courts and arbitration resolve disputes more effectively. Voluntary systems, like medieval merchant law, relied on reputation and economic pressure rather than coercion.",
+    "timestamp": "1751552697",
+    "date": "7/3/2025, 2:24:57 PM",
+    "id": "b7135bd71e15b1033987a7f2dbdeccbe2b0afc14c211d383326f14318a33ca14",
+    "kind": 1
+  },
+  {
+    "content": "Oldschool.  https://blossom.primal.net/9ce9eccad422639a48090affba029eb4b947687a463f4624ff6a3f8991091391.png ",
+    "timestamp": "1751542624",
+    "date": "7/3/2025, 11:37:04 AM",
+    "id": "864d652e9f3d9f8ad7d1d3cadea58e4262609db9da47c31dfc574a09f432432c",
+    "kind": 6
+  },
+  {
+    "content": "https://satsconverter.io\nv0.5.0\n\n- [x] Add drag and drop sorting on the fiat currencies.\n- [x] Allow math operations in currency fields.\n- [x] Date field to check historical prices.\n- [x] Save \"written down\" number and European long scale on url parameters.\n- [x] Save all state in the url to keep cookie free.\n- [x] Fix issues with donation flow\n\n https://blossom.primal.net/23c37655199c5cdad1bd713c7d8778e2deac4282acc7a57cfc1aa1371f243ad6.png ",
+    "timestamp": "1751537683",
+    "date": "7/3/2025, 10:14:43 AM",
+    "id": "1cc92c56becfcb0f4b948ed2a3470f749c0c7fba53ca0b4ab2919fb78074c74e",
+    "kind": 6
+  },
+  {
+    "content": "The state’s claim to regulate encryption is a claim to regulate thought. They’ll fail, not because of resistance, but because their tools are blunt and their logic is outdated. The future is sharp, precise, and distributed.",
+    "timestamp": "1751527568",
+    "date": "7/3/2025, 7:26:08 AM",
+    "id": "0e1976f51b92f6fea3e057d2ed54e1ebf22579f61f471c4122bfa8db38628eab",
+    "kind": 1
+  },
+  {
     "content": "The future favors those who choose wisely.",
     "timestamp": "1751489166",
     "date": "7/2/2025, 8:46:06 PM",
