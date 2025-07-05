@@ -1,5 +1,89 @@
 [
   {
+    "content": "#GrapheneOS based on Android 16 is now available in our Beta channel. There are 2 main known issues which will be fixed in the next release: lockscreen date and media info are not properly displayed due to an upstream AOSP bug and Pixel Thermometer doesn't appear in our App Store.\n\nLast month, we provided the 2025-06-01 Android/Pixel security patch level early in the month before the stock OS release as preparation and then backported Android 16 firmware and kernel/userspace driver patches to provide the 2025-06-05 Android and then Pixel patch levels.\n\nOur 2025062700 release raised the overall patch level to 2025-07-01 since we got early access to it with a verifiable signature and know we already provide the patches. We usually do an early Android Security Bulletin release before the stock OS but it was done for July in June.\n\nAndroid Security Bulletins are backports of High/Critical severity patches to older Android. Starting this month, the initial release of Android 16 is one of those older releases. It's split into AOSP userspace patches (YYYY-MM-01) and driver/firmware/Linux patches (YYYY-MM-05)\n\nYYYY-MM-05 patch level has a device-specific portion with more driver/firmware patches. For Pixels, it's the Pixel Update Bulletin. Most Pixel Update Bulletin patches aren't specific to Pixels but the Android Security Bulletin doesn't cover Samsung cellular, Broadcom Wi-Fi, etc.",
+    "timestamp": "1751663492",
+    "date": "7/4/2025, 9:11:32 PM",
+    "id": "44333592b17e9eef32514c6812cfa92f343fe675539e757a7be0a6edda90f29b",
+    "kind": 6
+  },
+  {
+    "content": "Bitcoin is down 20% since its all time high of 40 ounces.",
+    "timestamp": "1751648691",
+    "date": "7/4/2025, 5:04:51 PM",
+    "id": "6b42cd1fd01a60232f23663c88545766ac24ce87ddc599d4e8afcf8555c3ae2f",
+    "kind": 1
+  },
+  {
+    "content": "Was a good rip, they clearly should look more into Bitcoin privacy projects, good that you sent them the wabisabi paper.",
+    "timestamp": "1751648543",
+    "date": "7/4/2025, 5:02:23 PM",
+    "id": "664f97fd106e179258e28ee9663691bf53521de9bea5f0629f7587c15de2d8c4",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin Optech newsletter #361 is here:\n\n- describes a proposal to separate the network connections and peer management used for onion message relay from those used for HTLC relay in LN\n- CTV+CSFS advantages for PTLCs\n- Vault output script descriptor\n- Continued discussion about CTV+CSFS advantages for BitVM\n- Open letter about CTV and CSFS\n- OP_CAT enables Winternitz signatures\n- Commit/reveal function for post-quantum recovery\n- OP_TXHASH variant with support for transaction sponsorship\n- Optech Newsletter #361 Recap Podcast\nhttps://bitcoinops.org/en/newsletters/2025/07/04/\n\nOlaluwa Osuntokun posted to Delving Bitcoin about allowing nodes to use separate connections for relaying onion messages than they use for relaying HTLCs...\nhttps://bitcoinops.org/en/newsletters/2025/07/04/#separating-onion-message-relay-from-htlc-relay\n\nDevelopers continued a previous discussion about the benefits of OP_CHECKTEMPLATEVERIFY (CTV), OP_CHECKSIGFROMSTACK (CSFS), or both together for various deployed and imagined protocols...\nhttps://bitcoinops.org/en/newsletters/2025/07/04/#ctv-csfs-advantages-for-ptlcs\n\nSjors Provoost posted to Delving Bitcoin to discuss how the recovery information for a wallet using vaults could be specified using an output script descriptor...\nhttps://bitcoinops.org/en/newsletters/2025/07/04/#vault-output-script-descriptor\n\nDevelopers continued the previous discussion about how the availability of OP_CHECKTEMPLATEVERIFY (CTV) and OP_CHECKSIGFROMSTACK (CSFS) opcodes could “reduce [BitVM] transaction sizes by approximately 10x” and allow non-interactive peg-ins...\nhttps://bitcoinops.org/en/newsletters/2025/07/04/#continued-discussion-about-ctv-csfs-advantages-for-bitvm\n\nJames O’Beirne posted an open letter to the Bitcoin-Dev mailing signed by 66 individuals (as of this writing), many of them contributors to Bitcoin-related projects...\nhttps://bitcoinops.org/en/newsletters/2025/07/04/#open-letter-about-ctv-and-csfs\n\nDeveloper Conduition posted to the Bitcoin-Dev mailing list a prototype implementation that uses the proposed OP_CAT opcode and other Script instructions to allow quantum-resistant signatures using the Winternitz protocol to be verified by consensus logic...\nhttps://bitcoinops.org/en/newsletters/2025/07/04/#op-cat-enables-winternitz-signatures\n\nTadge Dryja posted to the Bitcoin-Dev mailing list a method for allowing individuals to spend UTXOs using quantum-vulnerable signature algorithms even if fast quantum computers would otherwise allow redirecting (stealing) the output of any attempted spend...\nhttps://bitcoinops.org/en/newsletters/2025/07/04/#commit-reveal-function-for-post-quantum-recovery\n\nSteven Roose posted to Delving Bitcoin about a variation on OP_TXHASH called TXSIGHASH that extends 64-byte schnorr signatures with additional bytes to indicate what fields in the transaction (or related transactions) the signature commits to...\nhttps://bitcoinops.org/en/newsletters/2025/07/04/#op-txhash-variant-with-support-for-transaction-sponsorship\n\nBitcoin Optech will host an audio recap discussion of this newsletter on Riverside.fm Tuesday at 16:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.fm/studio/bitcoin-optech",
+    "timestamp": "1751648401",
+    "date": "7/4/2025, 5:00:01 PM",
+    "id": "9a3d439b41f2fc387c8d2aa619f08557891efaaa14f327ec5e36bdd285d664cf",
+    "kind": 6
+  },
+  {
+    "content": "When identities dissolve into data, trust shifts from paper credentials to verifiable actions and cryptographic assurances. Governments will panic, but their panic won’t stop the inevitable.",
+    "timestamp": "1751641951",
+    "date": "7/4/2025, 3:12:31 PM",
+    "id": "78d7caf94ca8bbf48b1aab3f721679086f39f353fd8285786ff3b17aa96ccdb1",
+    "kind": 1
+  },
+  {
+    "content": "Seems he's a solo miner, legend.\nhttps://mempool.space/tx/1ef07d735725ff6e7536033a43195952d4a1c96b451876b257899900c03dbe01?mode=details#vout=0",
+    "timestamp": "1751641777",
+    "date": "7/4/2025, 3:09:37 PM",
+    "id": "d478ddfabe2108ef93ba0d2552c47fa3dd66c51e1703e15d75ccae46d6da33c7",
+    "kind": 1
+  },
+  {
+    "content": "Cryptography isn’t just a tool; it’s the foundation of a society where secrets are personal choices, not state mandates.",
+    "timestamp": "1751631023",
+    "date": "7/4/2025, 12:10:23 PM",
+    "id": "6a4d8b1e3297687837ae1279cf99d48e17e5ed96768871502eea76ec781aa90b",
+    "kind": 1
+  },
+  {
+    "content": "You know of https://freedomstore.io/ right?",
+    "timestamp": "1751613183",
+    "date": "7/4/2025, 7:13:03 AM",
+    "id": "a6bc9ba5e7532705981915675e0a56f31f3e7e34adaf2e60f30a44d34ac80f67",
+    "kind": 1
+  },
+  {
+    "content": "With https://freedomstore.io/ you can sideload apps to your cuckphone.",
+    "timestamp": "1751613172",
+    "date": "7/4/2025, 7:12:52 AM",
+    "id": "90e162ab2ea74601626fc15e7ada68223bc758bdcd05370dbf1f54c7dc3814e0",
+    "kind": 1
+  },
+  {
+    "content": "Privacy is the power to choose what parts of yourself meet the world.",
+    "timestamp": "1751610397",
+    "date": "7/4/2025, 6:26:37 AM",
+    "id": "81945772f69b1486d96d8c5399925e1ba72c77b7847a6b6328c00d019bb5a484",
+    "kind": 1
+  },
+  {
+    "content": "A short list of useful hardening features that make a serious difference for Graphene:\n\nZero-on-free with detection of write-after-free via checking that memory is still zeroed before handing it out again. https://github.com/GrapheneOS/hardened_malloc\n\nTurn USB-C to power only (no data) when screen is locked.\n\nAuto reboot after X hours.\n\nTurn off WiFi/Bluetooth after X minutes after disconnect.\n\nHardened kernal.\n\nStrong commitment to fast updates of drivers, kernal and OS to security patch level.\n\nDynamic code loading blocked.\n\nMore here: https://grapheneos.org/features\n\n",
+    "timestamp": "1751610370",
+    "date": "7/4/2025, 6:26:10 AM",
+    "id": "ddc068f414b19223a025304d3908c1cac9df545a5f72e17cd784626db394b6bc",
+    "kind": 1
+  },
+  {
+    "content": "That's great to hear, well done and good luck!",
+    "timestamp": "1751609985",
+    "date": "7/4/2025, 6:19:45 AM",
+    "id": "e2003cbb8f996b70c81332f6bff90fbbea923a7aa2f97f28cf322d09e854b85a",
+    "kind": 1
+  },
+  {
     "content": "Yeah, love it, thanks!",
     "timestamp": "1751572576",
     "date": "7/3/2025, 7:56:16 PM",
