@@ -1,5 +1,75 @@
 [
   {
+    "content": "Someone must choose you.\nAll you need is an npub.",
+    "timestamp": "1751729648",
+    "date": "7/5/2025, 3:34:08 PM",
+    "id": "05b5fe8bdeb600eb01b276e631da59cf6b510c1eec65dfc141db69bebca9de21",
+    "kind": 1
+  },
+  {
+    "content": "Crypto systems don’t need to be perfect to prevail. They only need to be better than the alternatives.",
+    "timestamp": "1751729604",
+    "date": "7/5/2025, 3:33:24 PM",
+    "id": "74d3bbfa86a0822a415ddb0f200fa3c62728af06635f03004a7e6efdcb49de28",
+    "kind": 1
+  },
+  {
+    "content": "Things are finally working...",
+    "timestamp": "1751714615",
+    "date": "7/5/2025, 11:23:35 AM",
+    "id": "aac800d00183728cd0defc6da8d8a4590194d82086a0ee087eb8b5ac65e702f0",
+    "kind": 1
+  },
+  {
+    "content": "Cryptography isn’t a luxury for the paranoid.\nIt’s a necessity for the free.",
+    "timestamp": "1751712219",
+    "date": "7/5/2025, 10:43:39 AM",
+    "id": "634feefd212bca349f4460ef50dba03f440fb2083959acedd11179869852dedf",
+    "kind": 1
+  },
+  {
+    "content": "a market for gammas",
+    "timestamp": "1751707678",
+    "date": "7/5/2025, 9:27:58 AM",
+    "id": "a8c35e2d30276849e0a58b56939158a42da3ffb17bad9acd62c36b4f00783ed5",
+    "kind": 1
+  },
+  {
+    "content": "Markets spec reference officially merged! The beginning of an exciting future for de-commerce ;)\nhttps://github.com/nostr-protocol/nips/pull/1784/",
+    "timestamp": "1751707645",
+    "date": "7/5/2025, 9:27:25 AM",
+    "id": "932e665d21902ef51bac280e0aea5086e5ca96414b451fbfbc27e1721ab64868",
+    "kind": 6
+  },
+  {
+    "content": "We are a collective of developers working on the main marketplaces on Nostr, including nostr:npub15dc33fyg3cpd9r58vlqge2hh8dy6hkkrjxkhluv2xpyfreqkmsesesyv6e, nostr:npub1nkmta4dmsa7pj25762qxa6yqxvrhzn7ug0gz5frp9g7p3jdscnhsu049fn, nostr:npub1market6g3zl4mxwx5ugw56hfg0f7dy7jnnw8t380788mvdyrnwuqgep7hd, and nostr:npub1nkfqwlz7xkhhdaa3ekz88qqqk7a0ks7jpv9zdsv0u206swxjw9rq0g2svu. We've been working on enhancing the interoperability of our projects, and we're now presenting the specification we've developed. It is primarily based on NIP-99, which is very broad in its use cases and has become the most widely adopted NIP for implementing marketplaces. However, NIP-99 lacked conventions necessary for a standard e-commerce experience. Our ultimate goal is to benefit users by providing a more coherent experience across Nostr-based marketplaces.\n\nhttps://github.com/nostr-protocol/nips/pull/1784",
+    "timestamp": "1751707624",
+    "date": "7/5/2025, 9:27:04 AM",
+    "id": "4c838c5a21aa6f7beb001e432bdd1a106fb91b81302dd39b0b23a3beae978e2e",
+    "kind": 6
+  },
+  {
+    "content": "Cool, thanks for the info.",
+    "timestamp": "1751707348",
+    "date": "7/5/2025, 9:22:28 AM",
+    "id": "0e4722a0d0f6ba731466903c29d23a8efbfc41e0c74b240c092188a09b34acde",
+    "kind": 1
+  },
+  {
+    "content": "Awesome!\n\nI thought Android 16 comes with customization of the tiles above the notification drawer...",
+    "timestamp": "1751699355",
+    "date": "7/5/2025, 7:09:15 AM",
+    "id": "af2c526e0eb67c7c7d2e117cad737fcade99f2862808ba4aad5c2812dbe5db99",
+    "kind": 1
+  },
+  {
+    "content": "Digital trust isn’t about knowing who you’re dealing with, it’s about knowing they can’t cheat without consequences. Smart contracts, zero-knowledge proofs, and cryptographic signatures make betrayal detectable and costly.",
+    "timestamp": "1751699299",
+    "date": "7/5/2025, 7:08:19 AM",
+    "id": "d2c3b09304e0cf68edbc0e587542b1927d9a90cd716e5460a8eb92ea5ca71817",
+    "kind": 1
+  },
+  {
     "content": "#GrapheneOS based on Android 16 is now available in our Beta channel. There are 2 main known issues which will be fixed in the next release: lockscreen date and media info are not properly displayed due to an upstream AOSP bug and Pixel Thermometer doesn't appear in our App Store.\n\nLast month, we provided the 2025-06-01 Android/Pixel security patch level early in the month before the stock OS release as preparation and then backported Android 16 firmware and kernel/userspace driver patches to provide the 2025-06-05 Android and then Pixel patch levels.\n\nOur 2025062700 release raised the overall patch level to 2025-07-01 since we got early access to it with a verifiable signature and know we already provide the patches. We usually do an early Android Security Bulletin release before the stock OS but it was done for July in June.\n\nAndroid Security Bulletins are backports of High/Critical severity patches to older Android. Starting this month, the initial release of Android 16 is one of those older releases. It's split into AOSP userspace patches (YYYY-MM-01) and driver/firmware/Linux patches (YYYY-MM-05)\n\nYYYY-MM-05 patch level has a device-specific portion with more driver/firmware patches. For Pixels, it's the Pixel Update Bulletin. Most Pixel Update Bulletin patches aren't specific to Pixels but the Android Security Bulletin doesn't cover Samsung cellular, Broadcom Wi-Fi, etc.",
     "timestamp": "1751663492",
     "date": "7/4/2025, 9:11:32 PM",
