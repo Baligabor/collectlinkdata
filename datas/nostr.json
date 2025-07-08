@@ -1,5 +1,96 @@
 [
   {
+    "content": "Yeah, 2016 level is a big improvement for them 😅",
+    "timestamp": "1751918839",
+    "date": "7/7/2025, 8:07:19 PM",
+    "id": "989df88ab79864e254e76e113c13c5a2b6919c8f9703ba6e8cc789825a169f43",
+    "kind": 1
+  },
+  {
+    "content": "Hope to make that obsolete soon...",
+    "timestamp": "1751918581",
+    "date": "7/7/2025, 8:03:01 PM",
+    "id": "919e9b315fe2772fb6fabccfae1e5ddcf92e4836abe192505e408356e3c4dbb7",
+    "kind": 1
+  },
+  {
+    "content": "Complaining about Bitcoin fungibility without mentioning coinjoin or lightning is so 2016...",
+    "timestamp": "1751918532",
+    "date": "7/7/2025, 8:02:12 PM",
+    "id": "6f264ff66b31932d9685d0f9b93e814a2c593587c05922ab0485b9932bef43a5",
+    "kind": 1
+  },
+  {
+    "content": "And the funny thing, saving money is actually the complete opposite of an investment. Turns out, all you gotta do to get a return is to not give your capital to today's entrepreneurs.",
+    "timestamp": "1751917237",
+    "date": "7/7/2025, 7:40:37 PM",
+    "id": "233fd280aa070cb43063ad0a95fa7e59acf3080398ac373e6c1ab561f742e890",
+    "kind": 1
+  },
+  {
+    "content": "That was a good day.",
+    "timestamp": "1751910763",
+    "date": "7/7/2025, 5:52:43 PM",
+    "id": "5cde1c1192515c89b43f114f95b78c5e493cb9f1ec7f5610b075bd7946df77f3",
+    "kind": 1
+  },
+  {
+    "content": "#noStrudel now supports NIP-17 messages. It took a bit of work for me to implement them In the way that I prefer but now any other client that is built using applesauce can support them in the same way :)\n\nnostr:naddr1qvzqqqr4gupzqfngzhsvjggdlgeycm96x4emzjlwf8dyyzdfg4hefp89zpkdgz99qyf8wumn8ghj7mn0wd68yat99e3k7mf0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qqsdeh4xarjw4jx2mpdxqkngdfdxqtn2yvk",
+    "timestamp": "1751910344",
+    "date": "7/7/2025, 5:45:44 PM",
+    "id": "dbbfdae08f8384bf863d395eb7fc560954b9e8b8a6eb74eb69e8d42ae45e817b",
+    "kind": 6
+  },
+  {
+    "content": "So is nostr:nprofile1qqsv0mdxvznteqns2v8g9d98wy4vm63wx8wq54hcmj244sqfalvhepsprdmhxue69uhhyetvv9ujucnfw33k76twwpshy6ewvdhk6qg4waehxw309amk7apwdehhxarj9ecxzun50yqjxamnwvaz7tmjv4kxz7fwwd5xzamw09jkzem9wghxxmmd9ac8y6tkv96x287mctc",
+    "timestamp": "1751907474",
+    "date": "7/7/2025, 4:57:54 PM",
+    "id": "215e874df7fc65dcfb1a5294031f2cf396e18274d5670825c78c0cc9d303f810",
+    "kind": 1
+  },
+  {
+    "content": "Surveillance economies fear anonymity because it breaks their model. Data collection relies on passive compliance; cryptography demands active consent. The age of silent compliance ends where encryption begins.",
+    "timestamp": "1751905762",
+    "date": "7/7/2025, 4:29:22 PM",
+    "id": "5f5e172449fdacd2635777968d35ffa631e54ca7fba9213d0bf684c6caf4980c",
+    "kind": 1
+  },
+  {
+    "content": "BirNotstr",
+    "timestamp": "1751898435",
+    "date": "7/7/2025, 2:27:15 PM",
+    "id": "4a64259923fe6747b3ab6bb2ff7745820c4802796fd53af58b4905952cb22e7a",
+    "kind": 1
+  },
+  {
+    "content": "Super stoked to release #Plebs v1.3.4 that now has optional settings that are saved to Nostr, so your settings will sync to multiples instances of Plebs app. Some other new features using the gear icon include: \n\n- Support for WOT relays\n- Support for NostrMedia.com blossom server\n- Support for custom blossom servers\n\nhttps://plebs.app",
+    "timestamp": "1751898331",
+    "date": "7/7/2025, 2:25:31 PM",
+    "id": "3d9b5295c017a93105d2fb144203a8e277d5fbaed881fe993af50ee87584ae94",
+    "kind": 6
+  },
+  {
+    "content": "The state’s fear of anonymity is a fear of irrelevance. They built their power on visibility. We’re building ours on choice. Their maps show borders; ours show possibilities.",
+    "timestamp": "1751897950",
+    "date": "7/7/2025, 2:19:10 PM",
+    "id": "5b728b21296ffb091aa499c7d0e45082c2544bf148268f43c2b5de460ae5345f",
+    "kind": 1
+  },
+  {
+    "content": "Social networks were meant to unite us. To connect people, ideas, movements. And for a while, they did. But somewhere along the way, something broke. The same platforms that once promised freedom chose a different path: control, manipulation, and data centralization. What started as tools for connection became instruments of control. The platforms we once trusted (social networks, messaging apps, cloud services) turned into chokepoints. Centralized. Fragile. Easy to pressure. Built not for freedom, but for compliance. Every node of control is a point of censorship. Every server, a source of surveillance. When speech depends on permission, it’s no longer speech. It’s submission.\n\nA Way Out.\nEncryption is not just technology, it’s a political act. A gesture of resistance. Over the years, new social networks and messaging platforms emerged, promising freedom. Many failed because they relied on intermediaries: corporations, servers, gatekeepers. CEOs and companies are points of control. They can be pressured, censored, compromised. True freedom demands a system where middle-men are minimized, our trust is rooted in mathmatics, and privacy is cryptographically guaranteed, not a policy written by lawyers.\n\nA New Hope.\nOpen Source projects like Linux and Bitcoin have proven that open, distributed networks of people can build systems the world can count on. Systems based on rules, not rulers. Systems that can resist attack. Nostr builds in this same spirit, creating a network where speech can't be silenced, no matter where you're from or who you are.\n\nBuilt on Nostr's open network, White Noise emerges from a deeply held belief: you have the right to speak freely. We're building the world's most secure messenger, one that protects your conversations and your communities and leaves no metadata behind in the process. We run no servers, we collect no data, we have no rulers.\n\nWhite Noise Is:\n- Encrypted by default: Strong, modern end-to-end encryption (E2EE) is standard, not hidden in a settings menu. Our team has no access to any keys at all.\n- Private by design: Your identity (or identities) are yours. White Noise doesn't need your phone number, email, or any data about you.\n- Decentralized: Built on Nostr's global network relays. Data always remains portable and uncaptured; no single entity owns or controls your data or the network.\n- Resilient against coercion: Open-source governance ensures no one can unilaterally alter terms of service and zero data retention means we can't be forced to give up private data.\n\nWe Believe in Building\n1. A world where Privacy is a Right, not a privilege for the technically elite.\n2. Tools that prioritize usability, without compromising privacy.\n3. Open protocols, over closed platforms.\n4. Trust through transparency.\n\nMake some noise. Protect out silence. \n\n(Stay tuned)",
+    "timestamp": "1751887509",
+    "date": "7/7/2025, 11:25:09 AM",
+    "id": "76407931b83e72349d6466f5e1c102876a3f65e865cbcab29991d33d44624498",
+    "kind": 6
+  },
+  {
+    "content": "Anonymous networks are the ultimate opt-out. They let people abandon systems that demand submission and enter systems that demand skill, creativity, and mutual respect.",
+    "timestamp": "1751869498",
+    "date": "7/7/2025, 6:24:58 AM",
+    "id": "753d0e7e3857f4cc1d4e0fac16e7cccb6dcc21fe5c6e88217b83e8e91b8da9d3",
+    "kind": 1
+  },
+  {
     "content": "There's clearly not enough nostr podcasts.",
     "timestamp": "1751828558",
     "date": "7/6/2025, 7:02:38 PM",
