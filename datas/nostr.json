@@ -1,5 +1,68 @@
 [
   {
+    "content": "They're good for some apps that don't require deep native support.",
+    "timestamp": "1751994869",
+    "date": "7/8/2025, 5:14:29 PM",
+    "id": "71fb5c2942da81582f3d59d47104398f1d6c8465f4c39adc43e732af64da8381",
+    "kind": 1
+  },
+  {
+    "content": "Appstores cannot be obsolete fast enough.",
+    "timestamp": "1751992382",
+    "date": "7/8/2025, 4:33:02 PM",
+    "id": "8a9451e403b595fcac5d1d226443f7d578f9ab644eed7926ce8ca351b81216be",
+    "kind": 1
+  },
+  {
+    "content": "Cryptography doesn’t just protect secrets; it protects agency. When you control who sees your data, you control who controls your life.",
+    "timestamp": "1751988783",
+    "date": "7/8/2025, 3:33:03 PM",
+    "id": "8855adbbe2626b3dab4a2582cddbbcb71965876707272b0ec205e21ad878571c",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs827g8dkd07zjvlhh60csytujgd3l9mz7x807xk3fewge7rwlukxgpz9mhxue69uhkummnw3ezumrpdejz772u5wm would be great if nostr:nprofile1qqswacu3amp428kj8wtpqf77yd2upukcn2ft4aycmxm5scmh359e0sspz9mhxue69uhkummnw3ezuamfdejj7sq0zex has more than one relay by default, nsec.app doesn't seem to be the most reliable, and bunkers just fail silent without an obvious error.",
+    "timestamp": "1751976230",
+    "date": "7/8/2025, 12:03:50 PM",
+    "id": "80d82d80578d623c6bceaea7139e37261841c0ac3f0c2453e4c820fc60b87a02",
+    "kind": 1
+  },
+  {
+    "content": "You're basically talking about the feature set of MLS.\nCheckout nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsvd43n5",
+    "timestamp": "1751973827",
+    "date": "7/8/2025, 11:23:47 AM",
+    "id": "feccf3666ef88a491c72003159c5f9e33b03e5caf6c4a22126b496ebf4927841",
+    "kind": 1
+  },
+  {
+    "content": "lol",
+    "timestamp": "1751963997",
+    "date": "7/8/2025, 8:39:57 AM",
+    "id": "05c47bff44ed23d6b59924eaa49aa7adf4d870bebb884820ebf36f9b9d140f9a",
+    "kind": 1
+  },
+  {
+    "content": "PDFs draining your focus? Let Voca narrate them while you walk, stretch, or close your eyes. Fully offline. No accounts. Built by privacy nerds. Help building voca by zapping the devs!",
+    "timestamp": "1751963951",
+    "date": "7/8/2025, 8:39:11 AM",
+    "id": "4fd3360541bff5dffb36a93204c2e197c9e3678e1c5f9b22fe48be60b659a72d",
+    "kind": 6
+  },
+  {
+    "content": "New podcast dropped with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmwdaehgu3wv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhur83xg2  - Economics and Biomedicine\n\n https://youtu.be/lRklttdyRiY",
+    "timestamp": "1751959395",
+    "date": "7/8/2025, 7:23:15 AM",
+    "id": "ecf9f9f93e1deb68da59e5e062c643be647143e43cc0298277b879c930f36476",
+    "kind": 6
+  },
+  {
+    "content": "Anonymity isn’t the end of trust, it’s the beginning of verifiable trust. When you can’t rely on names, you rely on cryptographic guarantees. The weak cling to surveillance; the strong build alternatives.",
+    "timestamp": "1751959376",
+    "date": "7/8/2025, 7:22:56 AM",
+    "id": "30282f16a98d2649ba5ad390cf0f94061fe88b3b955e25b822b75f5bddf22952",
+    "kind": 1
+  },
+  {
     "content": "Yeah, 2016 level is a big improvement for them 😅",
     "timestamp": "1751918839",
     "date": "7/7/2025, 8:07:19 PM",
