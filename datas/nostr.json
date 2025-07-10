@@ -1,5 +1,96 @@
 [
   {
+    "content": "When everyone can hide, power shifts to those who create rather than those who command.",
+    "timestamp": "1752096269",
+    "date": "7/9/2025, 9:24:29 PM",
+    "id": "8d6ae0cbd90c286190f4d9542418ae915e431511154ce9d5e536119066b59c34",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsvd43n5 is on Zapstore!\n\nnostr:nevent1qqsd6pq2qddk7ua3cqtmlzgnrpf7yld7rnaw9te6y8jc8hjcr27cfeqppemhxue69uhkummn9ekx7mp0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqqqpjwcmlz",
+    "timestamp": "1752092506",
+    "date": "7/9/2025, 8:21:46 PM",
+    "id": "9026e19b2816743e76cba7ca71e8b391999bc7e966df24b194a59026d30826e4",
+    "kind": 6
+  },
+  {
+    "content": "This is the standard to rule them all!\nAnd there's already progress to make many clients compatible with nostr MLS.",
+    "timestamp": "1752092374",
+    "date": "7/9/2025, 8:19:34 PM",
+    "id": "61264b33093739821a6924c45fdae874eac955c9ac667c07df34c45ee3242e26",
+    "kind": 1
+  },
+  {
+    "content": "Long overdue.\nnostr:nevent1qqszf3qf7vzzc0eu4rl64vrc8296nm0j9mud22qrklwjum5rscs8xlcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygr46umux3eywypfc3y8dves6g5y9z9yyaumtydza4x658rvqlh67upsgqqqqqqszrcx57",
+    "timestamp": "1752092325",
+    "date": "7/9/2025, 8:18:45 PM",
+    "id": "5fa1c302ece731a808edf046ab52cad1a734853db9bb15588c7869423be33458",
+    "kind": 1
+  },
+  {
+    "content": "It took a while, but now it's finallt working!\nExpect major improvements very soon.\nThis is just the beginning of secure messaging on nostr.",
+    "timestamp": "1752092312",
+    "date": "7/9/2025, 8:18:32 PM",
+    "id": "a6582287758a62b078be41395f31ec5843e65080c994815ef0a2312b9b8c8d71",
+    "kind": 1
+  },
+  {
+    "content": "🚀 WHITE NOISE IS OUT! 🚀\n\nThis has been a labor of love (and sweat, and a few tears) for nearly a year and I'm thrilled that we finally have the app out there!\n\nThank you to so many of you for your support! 🙏\n\nWe have arrived at the starting line. We're going to make Nostr the most free, secure, and private way to communicate in the world.\n\nhttps://whitenoise.chat/download",
+    "timestamp": "1752092236",
+    "date": "7/9/2025, 8:17:16 PM",
+    "id": "21cbc46998c3403db90c4ad7d856081c3603293dbebde612f3a2b989787bd28a",
+    "kind": 6
+  },
+  {
+    "content": "Here's the white noise support contact:\nnostr:nprofile1qqspzdsqdkt9hrlmp6xsapp82rtg5mxsvzfe2lc5hnhmg7aj9rcvcdgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhs8la56j",
+    "timestamp": "1752092163",
+    "date": "7/9/2025, 8:16:03 PM",
+    "id": "30ccf452115aea05f87350a28bba895003d05773214554f0abc2fd20d19fc6e2",
+    "kind": 1
+  },
+  {
+    "content": "Soon!",
+    "timestamp": "1752091611",
+    "date": "7/9/2025, 8:06:51 PM",
+    "id": "d3391fa559a455976704937046f769ff23522c2a53392e196041916f56d81be1",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzdmhxue69uhhqatjwpkx2urpvuhx2ue0jgealw is alive\nFinally, nostr DMs are fixed\n\nhttps://github.com/parres-hq/whitenoise_flutter/releases/tag/v0.1.0",
+    "timestamp": "1752088044",
+    "date": "7/9/2025, 7:07:24 PM",
+    "id": "c78e4538e220b184787276afcf0d15b37864d9f2e17a19e0d88d2a33d5074bf2",
+    "kind": 1
+  },
+  {
+    "content": "We don't need everyone, just those who want it.",
+    "timestamp": "1752081547",
+    "date": "7/9/2025, 5:19:07 PM",
+    "id": "9b97706dff7d2513f1f7b8bc3cf8be6f3fa90eeb9b3645b9a7ae5be5914e9b33",
+    "kind": 1
+  },
+  {
+    "content": "build build build build build build build",
+    "timestamp": "1752081452",
+    "date": "7/9/2025, 5:17:32 PM",
+    "id": "3a94e2d86ff2122d204e24fce52f1bc80b6cf4981e279eac76cdb0d05c7156b5",
+    "kind": 1
+  },
+  {
+    "content": "The networks we build today are the fortresses of tomorrow’s freedom.",
+    "timestamp": "1752071370",
+    "date": "7/9/2025, 2:29:30 PM",
+    "id": "92727e2775c29f0b08339cacd112efc120656f8b8ba753ae7f5e222a1ba1c4d0",
+    "kind": 1
+  },
+  {
+    "content": "The internet’s early idealism wasn’t naive, it was premature. Now, with tools to protect privacy and enable trust without third parties, the dream of a self-governed digital society is no longer theoretical. It’s operational.",
+    "timestamp": "1752063096",
+    "date": "7/9/2025, 12:11:36 PM",
+    "id": "acad93da9c6928bc9123bd9ebda8d1ca3965026b04840723d6a69ec1ca987e9a",
+    "kind": 1
+  },
+  {
     "content": "They're good for some apps that don't require deep native support.",
     "timestamp": "1751994869",
     "date": "7/8/2025, 5:14:29 PM",
