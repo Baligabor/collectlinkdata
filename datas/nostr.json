@@ -1,5 +1,68 @@
 [
   {
+    "content": "New website. Same values. https://haven.sovereignengineering.io/41ebed96626866a9b584d227508ef2ef17435eb8e9a356fc9309dae1d8087132.png\nhttps://sovereignengineering.io",
+    "timestamp": "1752176466",
+    "date": "7/10/2025, 7:41:06 PM",
+    "id": "57ad4cef2a68d27ee3f0746cc11369ef3f022fdd26dbbde7b8ab8b92d290a38d",
+    "kind": 6
+  },
+  {
+    "content": "CD166: JEFF GARDNER AND MAX HILLEBRAND - WHITE NOISE PRIVATE CHAT\n\n- nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec \n- nostr:nprofile1qqspwwwexlwgcrrnwz4zwkze8rq3ncjug8mvgsd96dxx6wzs8ccndmcpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3samnwvaz7tmswfjk66t4d5h8qunfd4skctnwv46qnc9tm4 \n- nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhkummnw3ezuct60fsk6mewdejhgtcpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcecu9tp \n\n\nhttps://cdn.satellite.earth/a5530157a93d67ddb372fb7ad7461b7687e0a3e5b32ba7caca0dac4934bf2e93.mp4",
+    "timestamp": "1752175815",
+    "date": "7/10/2025, 7:30:15 PM",
+    "id": "16aeadd53e8b37a644e35730947b60cbb864ffd5bb55101a6b14ca27f294f2e6",
+    "kind": 6
+  },
+  {
+    "content": "Sanket Kanjalkar, Jonas Nick, Tadge Dryja, Steven Roose, and Brandon Black joined Optech this week to discuss:\n\n- A new onion message network\n- CTV+CSFS and benefits to PTLCs and BitVM\n- Vault descriptors\n- The CTV and CSFS open letter\n- Winternitz signatures using OP_CAT\n- Commit/reveal function for post-quantum recovery\n- OP_TXHASH variant with support for transaction sponsorship\n- And more\n\nhttps://bitcoinops.org/en/podcast/2025/07/08/",
+    "timestamp": "1752159937",
+    "date": "7/10/2025, 3:05:37 PM",
+    "id": "6c5c5849d7a6c10ded226c7f7d4537014107ea3fdb8c6c20da25c88acbeddc90",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsth7fr42fyvpjl3rzqclvm7cwves8l8l8lqedgevhlfnamvgyg78spz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3camnwvaz7tmwdaehgu3wvf5hgcm0d9hx2u3wwdhkx6tpdssexaht how to best chat with your devs?",
+    "timestamp": "1752157435",
+    "date": "7/10/2025, 2:23:55 PM",
+    "id": "596b84810bc62a6529a83252497e728b832128c9290084aec90f3023887da782",
+    "kind": 1
+  },
+  {
+    "content": "Anonymous markets don’t require moral decay, they require accountability. When identity is optional, the only thing that matters is whether you honor your word. Trust becomes a skill, not a privilege.",
+    "timestamp": "1752156805",
+    "date": "7/10/2025, 2:13:25 PM",
+    "id": "49b8ae6a57f649ff500ef7a4bf31fc55570ef1f10572e0d1b33427eeac7db77d",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin Magazine just wrote about us. If you care about anonymous, encrypted messaging, read this 👇\n\nhttps://bitcoinmagazine.com/news/white-noise-anonymous-nostr-dms-and-encrypted-group-chat",
+    "timestamp": "1752139913",
+    "date": "7/10/2025, 9:31:53 AM",
+    "id": "f267f31db64f312c4534b9bc3f46511aa55e6784f67fc706ce2c47721e620319",
+    "kind": 6
+  },
+  {
+    "content": "Signal isn’t scalable. Telegram isn’t private. At nostr:npub179ud6qjecennnypk4ntphmvdrmtvaqlkgd6x7jsrmjr25hfttlmqpkt45f we present White Noise: the first messenger to fix Nostr’s private chat flaws, scalable E2EE with MLS, no phone numbers, no backend, fully decentralized.\n\n📖 Full article:\n\nhttps://atlas21.com/white-noise-is-born-the-private-messaging-app-based-on-nostr/",
+    "timestamp": "1752139905",
+    "date": "7/10/2025, 9:31:45 AM",
+    "id": "2270cb7bc66b1e2e659fd8a483756a6b825938eb02d0800ad93aeca5c3bd5121",
+    "kind": 6
+  },
+  {
+    "content": "Each group can define its own set of relays.\n\nHopefully your phone has a secure passphrase to encrypt the disk.",
+    "timestamp": "1752125266",
+    "date": "7/10/2025, 5:27:46 AM",
+    "id": "aadda2460765ccb5c5aa95273c7a95acae1254ab5b710b670bd3c07f0bf3de08",
+    "kind": 1
+  },
+  {
+    "content": "Coercion dies where anonymity thrives.",
+    "timestamp": "1752122280",
+    "date": "7/10/2025, 4:38:00 AM",
+    "id": "86b2e204f2f5d2c35a68310397e458369667eeb38be8a09f8b4666e476c39ea3",
+    "kind": 1
+  },
+  {
     "content": "When everyone can hide, power shifts to those who create rather than those who command.",
     "timestamp": "1752096269",
     "date": "7/9/2025, 9:24:29 PM",
