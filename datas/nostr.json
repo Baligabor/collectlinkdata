@@ -1,5 +1,40 @@
 [
   {
+    "content": "Proton uses Cloudflare\n\nThe VPN traffic, which sees your real home IP (and packet size and timing), flows through Cloudflare to Proton.\n\nThis is an undeniable conflict of interest, because the websites you're hiding from are also on Cloudflare.\n\nhttps://simplifiedprivacy.com/posts/vpns-and/proton-cloudflare/images/proton-cloudflare-conflict-of-interest.png\n\nIn this epic meme slide show \"article\" with humor, we quickly present the critical facts you need to know,\nhttps://simplifiedprivacy.com/proton-vpn-and-mail-use-cloudflare/outright-negligent-harm.html\n\nIf you care about freedom tech, please share my words.  Because \"giving a shit\" is the only way things will ever change.",
+    "timestamp": "1752344044",
+    "date": "7/12/2025, 6:14:04 PM",
+    "id": "a1e1e766577e0efb9c4f74a47e50a669282dfa92bde508f910497d8f00867f45",
+    "kind": 6
+  },
+  {
+    "content": "Opening a nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec group chat comment if you wanna be added to FAFO ",
+    "timestamp": "1752343947",
+    "date": "7/12/2025, 6:12:27 PM",
+    "id": "f5f1cc2092cd60bda693521af1b3bd264109c4c5f40a377034cb90001d70498c",
+    "kind": 6
+  },
+  {
+    "content": "Imagine: Your phone reads **anything** to you while hiking, commuting, or cooking, no cell signal needed. Voca makes it real. No subscriptions, no ads, no spyware.",
+    "timestamp": "1752343754",
+    "date": "7/12/2025, 6:09:14 PM",
+    "id": "47058427d2fea0c1fbf91c45023cff55d56f54f185f1cb93b7a48e15b89e27c8",
+    "kind": 6
+  },
+  {
+    "content": "Revealing too much invites control. Privacy isn’t silence, it’s the refusal to let others script your story. Cryptographic tools let us speak without surrendering the right to be heard by only those we choose.",
+    "timestamp": "1752311898",
+    "date": "7/12/2025, 9:18:18 AM",
+    "id": "c15bc5a7ab79ac9a870a35331487901708b92ba9f68168f6cbc511510ee43bd9",
+    "kind": 1
+  },
+  {
+    "content": "It’s happening. White Noise is now live on TestFlight (iOS) 📲\n\nApple users, are you ready to try truly private, decentralized messaging? 🚀 \n\nhttps://www.whitenoise.chat/download ",
+    "timestamp": "1752302795",
+    "date": "7/12/2025, 6:46:35 AM",
+    "id": "a38e3114867906c1d1fe4c2302660a9f4b607df98ee34de3135cf4f1832b4090",
+    "kind": 6
+  },
+  {
     "content": "🌴 Freedom Tech Weekend 15 ☀️\n\nWe dive into White Noise — a Signal-style messenger that doesn’t have servers, using open protocols for decentralized, secure communication.\n\nWatch as we create a new user and message on air. Try it yourself this weekend. 📺🎧👇  \n\nhttps://blossom.primal.net/5cac394dcb2f7cb231607ce3e8085b53e2929c8b1208912a0c3f4962faa881ff.png ",
     "timestamp": "1752257817",
     "date": "7/11/2025, 6:16:57 PM",
