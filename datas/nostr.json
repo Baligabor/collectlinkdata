@@ -1,5 +1,33 @@
 [
   {
+    "content": "No, terminal",
+    "timestamp": "1753299559",
+    "date": "7/23/2025, 7:39:19 PM",
+    "id": "fb9cae00dbc58c70ee0a9c462a6eb100c57ac003f9a556fb4315d5e936cb4471",
+    "kind": 1
+  },
+  {
+    "content": "getstacks.dev is totally mind blowing!",
+    "timestamp": "1753294309",
+    "date": "7/23/2025, 6:11:49 PM",
+    "id": "940834237b0251fb965ceb09233e2ee93c033da5eb66e382d32cf7225c0c2087",
+    "kind": 1
+  },
+  {
+    "content": "The state’s monopoly on force leads to abuse. Without competition, police and military prioritize power over protection, harming the very citizens they’re meant to serve.",
+    "timestamp": "1753254074",
+    "date": "7/23/2025, 7:01:14 AM",
+    "id": "9d3b1c1ab0a091df4e45cb6fc413a2b6d683611646d29e272e6e37df69b21104",
+    "kind": 1
+  },
+  {
+    "content": "#purplestack alpha is out!\n\nFor the audacious and intrepid, git clone the repo or call stacks \nnostr:naddr1qvzqqqrhl5pzqun2rcnpe3j8ge6ws2z789gm8wcnn056wu734n6fmjrgmwrp58q3qq9hqatjwpkx2um5v93kkujvqf4\n\nIt is based on the purplebase Dart library, Riverpod, GoRouter, Material 3, and others including Amber Signer.\n\nIt features a long context file that I have been refining over a few weeks while building Derekstr and Zapstore.\n\nAs well as built-in components like a note parser and an engagement widget for displaying likes, comments, zaps, etc.\n\nThere will be bugs, guaranteed, but if you want to try it out let me know what you think.\n\nnostr:nevent1qvzqqqqqqypzq0mhp4ja8fmy48zuk5p6uy37vtk8tx9dqdwcxm32sy8nsaa8gkeyqy88wumn8ghj7mn0wvhxcmmv9uq35amnwvaz7tms09exzmtfvshxv6tpw34xze3wvdhk6tcpramhxue69uhkummnw3ez6un9d3shjtnyv4ex26mjdaehxtndv5hsqgxtmzhed88evynzp4745rn3lwj5yn3lfy3swemwcfy8cykk537895quvhj5",
+    "timestamp": "1753253996",
+    "date": "7/23/2025, 6:59:56 AM",
+    "id": "1288ae3e64c2da923d06fe1a44deb3747227533f43250e4b6577be0268c02956",
+    "kind": 6
+  },
+  {
     "content": "Quantum miners are more likely to find a valid block, the longer they compute.\nThat's not the case for traditional asics.",
     "timestamp": "1753207724",
     "date": "7/22/2025, 6:08:44 PM",
