@@ -1,5 +1,40 @@
 [
   {
+    "content": "Anyone up for building a an android app that vibes android apps with purplestack?",
+    "timestamp": "1753382690",
+    "date": "7/24/2025, 6:44:50 PM",
+    "id": "5d7f6f45592166b7e870b0f169c212e0c4a82ea3d337df8cb4f8c767ab80bf32",
+    "kind": 1
+  },
+  {
+    "content": "Fact about Chaumian ecash: the mint can't revert transactions—it doesn't execute or even record them.\n\nOnce ecash has moved from one user to another, it's done.\n\nEven the holy bitcoin blockchain reorgs every now and then. But nobody can revert a fully centralized ecash mint.",
+    "timestamp": "1753353826",
+    "date": "7/24/2025, 10:43:46 AM",
+    "id": "2ac099d63aeab7abc910bea33c1a2b62a3334a742deb6b004b62b32d6f97fce0",
+    "kind": 6
+  },
+  {
+    "content": "Watch as Cryptography Lead at Blockstream Research Jonas Nick joins Brink to break down DahLIAS, aggregate signatures, secp256k1 compatibility, CISA, and more.\n\nhttps://youtu.be/T2UEYJlMzmA?si=xNdreSaJgHRhLTEC",
+    "timestamp": "1753353789",
+    "date": "7/24/2025, 10:43:09 AM",
+    "id": "f7bbe5d01090278e5729fc41906d25819c8d2582178dc7815b0157bd08869a44",
+    "kind": 6
+  },
+  {
+    "content": "I think you're greatly underestimating Bitcoin's current and near future privacy guarantees.",
+    "timestamp": "1753353752",
+    "date": "7/24/2025, 10:42:32 AM",
+    "id": "073d4b317838a0bf5276fcc594e391c7244df3dcd25ccbc4764e51dc0b99ca7b",
+    "kind": 1
+  },
+  {
+    "content": "Public transportation fails because of monopolies. Government-run systems lack the incentive to innovate, leading to decay and inadequate service for users.",
+    "timestamp": "1753345069",
+    "date": "7/24/2025, 8:17:49 AM",
+    "id": "b0e46d9b042cd25a5954d69c9d3b5d7a391634df612236dfb7aabf996db93a9b",
+    "kind": 1
+  },
+  {
     "content": "No, terminal",
     "timestamp": "1753299559",
     "date": "7/23/2025, 7:39:19 PM",
