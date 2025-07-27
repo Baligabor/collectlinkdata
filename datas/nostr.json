@@ -1,5 +1,40 @@
 [
   {
+    "content": "Great that you finalized this, I hope it brings us many more builders, thanks!",
+    "timestamp": "1753519531",
+    "date": "7/26/2025, 8:45:31 AM",
+    "id": "56cc9619009305001fc15393f0769e8c3b7c3423cb8fbed81d5a20401253f983",
+    "kind": 1
+  },
+  {
+    "content": "Remember how I was writing a book? Well, I gave up on it. But then I wrote a different one:\n\nhttps://building-nostr.coracle.social/\n\nThis book is both practical and philosophical. It ellides a lot of the details you can otherwise get by reading Nostr NIPs, focusing instead on all the things I've learned over three years working on nostr.\n\nIt includes a number of contrarian opinions which may be partially or completely wrong. Feel free to disagree, or even tell me where I'm wrong. I'll be releasing updates to the book as I have time and inclination to repent of my mistakes and omissions.\n\nThe book is free, with epub and pdf versions available for your reading pleasure. If you like the book, you can send me bitcoin via nostr or at https://geyser.fund/project/buildingnostr, and if people like it enough I may publish a version that you can touch with your fingers.",
+    "timestamp": "1753519401",
+    "date": "7/26/2025, 8:43:21 AM",
+    "id": "9a6b43794bc09becae765a308d89c85604fbb145ecae88f7c0cefb35cecf5df1",
+    "kind": 6
+  },
+  {
+    "content": "Nostr’s protocol is lightweight. It avoids bloat, focusing on identity, distribution, and censorship resistance.",
+    "timestamp": "1753509599",
+    "date": "7/26/2025, 5:59:59 AM",
+    "id": "7485f191016b0eae6d1e26ccb317d38292bf604aeaeb5c3451e6c122937a47c7",
+    "kind": 1
+  },
+  {
+    "content": "Coinjoin, Lightning, zkRollups, sidechains, shieldedCSV",
+    "timestamp": "1753509548",
+    "date": "7/26/2025, 5:59:08 AM",
+    "id": "05f77edae60558ab1ff418553ff01a007f74f7a93046d522b21f6e33b334c64e",
+    "kind": 1
+  },
+  {
+    "content": "Message Layer Security, a new standard for encrypting group messages ",
+    "timestamp": "1753509481",
+    "date": "7/26/2025, 5:58:01 AM",
+    "id": "9e0e82a6ea361d24efd62dd87936313c1ce474cbdb2eb9b390eff1c1b07c5517",
+    "kind": 1
+  },
+  {
     "content": "Group messaging at scale usually sacrifices security. A MLS ensures encryption stays efficient, even for thousands of participants.",
     "timestamp": "1753452415",
     "date": "7/25/2025, 2:06:55 PM",
