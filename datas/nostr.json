@@ -1,5 +1,54 @@
 [
   {
+    "content": "nostr:nprofile1qqs2qzx779ted7af5rt04vzw3l2hpzfgtk0a2pw6t2plaz4d2734vngpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7hycrvd is working on this for a long time now, great progress.\nhttps://github.com/DanConwayDev/gitworkshop",
+    "timestamp": "1754067437",
+    "date": "8/1/2025, 4:57:17 PM",
+    "id": "6738e107cd890767131169792e597f1d6933c956e9f0fe4021558267d7d6c328",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, surprisingly good.",
+    "timestamp": "1754066972",
+    "date": "8/1/2025, 4:49:32 PM",
+    "id": "bc047c54ffb962703b2af717e415d90661bf80e346a78261f0f7679bafc56502",
+    "kind": 1
+  },
+  {
+    "content": "Wow. \nhttps://blossom.primal.net/94d1d96a82abe77cad8995f76cdb0eab0e863bd979a3f955c26f41b27504311d.jpg\nnostr:nevent1qqsgw0jeafhl9au6h8w64hr8c7ykwmtvjwzcr2a8g3pd2tjj938ll8qpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgffjewu",
+    "timestamp": "1754066944",
+    "date": "8/1/2025, 4:49:04 PM",
+    "id": "fc02dd4b20b94e39c9abfc78f32a12652e9566b9514fb65171feca387f0f918c",
+    "kind": 6
+  },
+  {
+    "content": "We heard people were looking for good reliable calendar solutions on nostr.\n\nIntroducing https://calendar.formstr.app \n\nIt only works for public NIP-52 calendars for now. But the plan is to be a fully functioning calendar replacement on nostr, just like we did for forms.\n\nSpecial Kudos to nostr:nprofile1qqs2ytd7283uwxdd3vkdc0j0lsshdusrw0esy7m858wxcm5hd77ddkqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq37amnwvaz7tmwdaehgu3wv45kuatwv3a8wctw0f5kwtnnwpskxegpr9mhxue69uhkummnw3ezucm9wf3kzarjdamxztndv5erdfpv the primary dev on this, let's fix the stupid internet one usecase at a time! ",
+    "timestamp": "1754050055",
+    "date": "8/1/2025, 12:07:35 PM",
+    "id": "29a8245dd0adc2701cc1607bfd5ebb65aa59a668b800f4464f76b5188257ac05",
+    "kind": 6
+  },
+  {
+    "content": "BTCPay Server 2.2.0 is out!\n\n🧾Improved Reporting & accounting\n🔨Bitcoin Wallet improvements\n🔌New plugin builder\n⚡LSP Support MegalithicBTC nostr:nprofile1qqsrf5h4ya83jk8u6t9jgc76h6kalz3plp9vusjpm2ygqgalqhxgp9gpr3mhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmqpz4mhxue69uhhyetvv9ujumt0wd68ytnsw43qzxrhwden5te0wfjkccte9eekummjwsh8xmmrd9skc34yxrm 1sats_ln\n🇳🇬Mavapay plugin get paid NGU via bank, receive BTC\n🧪Miniscript Support\n🔐 Security, performance, bug fixes and more\n\nhttps://youtu.be/bBkwVfELgjI\n\nRead all about 2.2.0 on our blog: https://blog.btcpayserver.org/btcpay-server-2-2-0/\n\n💚Huge thanks to our incredible supporters and contributors! We couldn’t build this FOSS tech without you: nostr:nprofile1qqsgq37lnqdf0h2pkj842jkqp6gt6c353ln98pxg3mefqvkh22zhzscppemhxue69uhkummn9ekx7mp0mcwd98 nostr:nprofile1qqs8suecw4luyht9ekff89x4uacneapk8r5dyk0gmn6uwwurf6u9ruspzpmhxue69uhkumewwd68ytnrwghszxthwden5te0wfjkccte9eekummjwsh8xmmrd9skctcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhs2juazd nostr:nprofile1qqsyh7t8gsvwjc06jg5u3rvvevlukrx5u6z5fguyhymezxaa04tcmpsxtvqsz nostr:nprofile1qqs0rxy6jmt44guxkny8z4pkym9mxckqxfytygxuntjn6l80hj409sgpzfmhxue69uhky6t5wd6xzcmt9eshquqpzfmhxue69uhhqatjwpkx2urpvuhx2ucpzamhxue69uhkxcfwdaexzmn8v4cxjmrv9ejx2asult5ph LunaNode nostr:nprofile1qqstu8vf099ljt09m4jvres0dgk8ps2q4wkfjvjp3lhrp3wxxllfg7gpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq3qamnwvaz7tmw9ehkkvpwdaexwtcpzamhxue69uhhyetvv9ujuvrcvd5xzapwvdhk6tcn9w35w CoinCards ivpnnet nostr:nprofile1qqsgy8mlrfewaqefsmnwvl2jwl634fenh7ylnv8sasa5asmjzwddetspzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpzdmhxue69uhhqatjwpkx2urpvuhx2ue0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7fy50pn",
+    "timestamp": "1754049957",
+    "date": "8/1/2025, 12:05:57 PM",
+    "id": "acdeb44f7be987128caf98fffef8aaf11d4603d81b825d3c32a41f87f94f6b20",
+    "kind": 6
+  },
+  {
+    "content": "In 2017, Blockstream set out to develop a smart contract language that outperforms Bitcoin Script and EVM, offering more expressiveness with stronger safety assurances. Eight years later, we believe we've done it.\n\nIntroducing Simplicity.\n\nhttp://blog.blockstream.com/simplicity-launches-on-liquid-mainnet/\n\n https://blossom.primal.net/74f377f912e5e746113c30436ac6ea0f9b6820bc886e1abe99a2f7c043aa492f.png \n\n---\n\nSimplicity isn't like Solidity, or most modern programming languages, which are Turing-complete. Instead, the language was designed to express any finite function while avoiding the risks associated with unbounded loops and global state.\n\nhttps://simplicity-lang.org\n\n https://blossom.primal.net/21bbbf85c54a5b4cbddc7553a29467ce7f7eb8cdbc1c4fb24b34cfa3469e280e.png \n\n---\n\nSimplicity provides developers with high confidence in their applications, allowing them to know all potential outcomes and fee costs before execution.\n\nThe recent Bybit hack illustrates the risks of including features like recursion and global state.\n\nhttps://blog.blockstream.com/the-risks-of-expressive-smart-contracts-lessons-from-the-latest-ethereum-hack/\n\n https://blossom.primal.net/21791e16181251d4a7b8133eedce6a7abbe540dc8f19bb30935880051348b19a.jpg \n\n---\n\nWith Simplicity's arrival, we have for the first time a clean foundation for serious financial applications, without the complexity and patchwork of risks that defined the last era of DeFi.\n\n---\n\nWant to build covenants, vaults and delegation schemes? Now you can on the nostr:nprofile1qqsfjzteswm5cuyqpvvz40r0vszx4dcyql5u40xkeats5w9d48hht4guz0cnd. Want to create derivatives, pooled wallets or tokenless DEXs? That's possible too.\n\nhttps://liquid.net\n\n---\n\nSimplicity on Liquid is just the beginning. With community feedback, real-world usage, and more tooling, docs, wallet support, and example contracts, our next major goal is to activate on a Bitcoin test network.\n\nGet started today.\n\nhttps://simplicity-lang.org/\n\n https://blossom.primal.net/2be1f5f6c7a98455373f1f7088b7e606c2e495e838f386fdad5e1b98ca8a4773.png ",
+    "timestamp": "1754049920",
+    "date": "8/1/2025, 12:05:20 PM",
+    "id": "48a819dccd013548314da0838ff42268b3ed5a89a4f9056fc6c724f958a34c3a",
+    "kind": 6
+  },
+  {
+    "content": "We’d like to introduce ourselves to this community! \nWe are Acme Acres located in North Idaho. We raise Grass fed/Grass finished BEEF 🥩 that is hormone, antibiotic, vaccines, pesticide free out on pasture where nature intended them to be. We also have pasture raised PORK 🐷 , LAMB 🐑 and CHICKEN 🐓 as well. We are farm to table, and offer free delivery and of course payments of bitcoin, silver and gold are accepted! Check us out at www.acmeacres.us or \nGive us a shout, call or text  208-714-0478\nhttps://blossom.primal.net/b8964d0bd4f6d162656259386e39994f7a1251a4905595b9c77fe6034d67b363.jpg",
+    "timestamp": "1754049577",
+    "date": "8/1/2025, 11:59:37 AM",
+    "id": "403c6982f5db136248ef84f397d18faf2147f316d5e5d43291769cc705f99fcf",
+    "kind": 6
+  },
+  {
     "content": "Make some noise about it!\nTell us what can be made better.\nHelp new users understand it.",
     "timestamp": "1753947030",
     "date": "7/31/2025, 7:30:30 AM",
