@@ -1,5 +1,26 @@
 [
   {
+    "content": "We're thrilled to announce the launch of the new ContextVM website, live at https://contextvm.org ! 🚀\nThis marks a significant step in our mission to create a sovereign, resilient, and open marketplace for computational tools and services.\n\nThe new site makes it easy to discover, connect to, and use ContextVM servers. Key features include:\n\n- Discover Public Servers: Explore publicly available ContextVM servers shared by the community.\n- Connect to Private Servers: Seamlessly connect to and use your own private servers from anywhere.\n\nCurrently there are two public servers running: DuckDuckGo search to perform searches and fetch websites, and NostrBook MCP with documentation about nostr, nips, kinds and more. You can test them now, they are open to everyone\n\nCheck out a short demo of the site: https://video.nostr.build/4a0f4498cadb8e165d96118ece0714d6c03f2b135d340871cc89567a5cf93195.webm\n\nRead more about the launch on our blog post: https://www.contextvm.org/blog/releasing-new-site\n\nThe site includes a Blog, About page, FAQ, and dedicated documentation at docs.contextvm.org. The entire website is open source, built with Svelte 5 and the applesauce Nostr library. We welcome contributions from the community.\n\nWe're also looking for talented designers to help shape the future of the ContextVM interface. If you have experience in UI/UX design and believe in a more open, permissionless internet, we'd love to hear from you.\n\nGet involved:\n\n* Explore the new website at https://contextvm.org\n* Contribute to the project on GitHub at https://github.com/contextvm\n* Join the conversation in our Signal group: https://signal.group/#CjQKIOgvfFJf8ZFZ1SsMx7teFqNF73sZ9Elaj_v5i6RSjDHmEhAB3wO1Rg-0gLNdusnb3wLR\n\nFor any questions or help, please don't hesitate to get in contact.",
+    "timestamp": "1755106742",
+    "date": "8/13/2025, 5:39:02 PM",
+    "id": "a3d5e67b02f691825428d0a07f09ef97b334f1f94482d54ecd39417686d18238",
+    "kind": 6
+  },
+  {
+    "content": "The illustrated edition coming soon!\nnostr:nevent1qqsqydymsgvc3uv0xv33yhszkn0y5345u2e8ef3gx8ym0adsfflwgsspz3mhxue69uhhwmm59ehx7um5wghxuet59upzq2lfs0fj4xx4f4glcrzudyul0q4687y2vm2yu749em86jkf63rjgqvzqqqqqqyx2r0nz",
+    "timestamp": "1755067360",
+    "date": "8/13/2025, 6:42:40 AM",
+    "id": "d0ddf8d9ea5d64143fdc1b82f8bea75934bd5e57f04086e7450f5b1e582decbe",
+    "kind": 1
+  },
+  {
+    "content": "For those wondering about my thoughts on nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpqexv22uulqnmlluszc4yk92jhs2e5ajcs6mu3t00a6avzjcalj9csna6fpr 's latest article about MLS. tl;dr - I think it's pretty balanced and describes something that we (and the MLS folks) have known from the start. If you have a centralized identity/authentication service telling you who is who, you are trusting them with a pretty important part of the system.\n\nAs he points out, NIP-EE (the spec about how to use MLS on Nostr) and, by extension, White Noise doesn't have the authentication service problem because Nostr is our AS. We use pubkeys for identity in groups and you're trusting the key package events signed by those keys when you're adding someone to a group. ✅\n\nIn general, this is an issue for other MLS implementations though. The authentication service is a \"trusted\" third party, with all the trappings.\n\nAFAICT, the \"participation privacy\" question is about relays being able to see what groups you're in via the group ID values you're requesting events for.\n\nThere are two points to make here. First, relays can see what group IDs a given IP address is requesting events for. I believe that we have mitigated this pretty well since we're using random (and rotating) identifier(s) for each group (yes, by design, a single group have more than one visible ID value at a time). Obviously, this is also mitigated by using a VPN or Tor to make requests to relays. We don't yet but White Noise will eventually break up these requests into lots of different reqs/subscriptions (probably done over Tor or something similar) to help here.\n\nOne thing that he didn't mention but is worth talking about; relays see events with a given \"h\" tag (the group ID I talked about above). Practically, this means that watching a given group ID value gives relays some idea of the relative amount of activity for a given group. Critically though, they can't see the number or identities of it's members, since all those messages are published via ephemeral keys. It's just a relative amount of activity (at least until the group rotates it's group ID). \n\nHappy to answer more questions from folks on the article or on MLS. \n\nnostr:nevent1qvzqqqqqqypzqpxfzhdwlm3cx9l6wdzyft8w8y9gy607tqgtyfq7tekaxs7lhmxfqyvhwumn8ghj7urjv4kkjatd9ec8y6tdv9kzumn9wshsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszxnhwden5te0wdjkuerfwshxummnvekxzun99e3k7mf0qqsyyg7y3vx65xm4l6n4wns3wjj08htwswvt7r4du2e73tk9099gqzq82dzp2\n",
+    "timestamp": "1755067277",
+    "date": "8/13/2025, 6:41:17 AM",
+    "id": "cb2eb9cd15740531759e6625c9e1f4c8f18452afe3a48f6d73907ccd24b6632a",
+    "kind": 6
+  },
+  {
     "content": "Major domain upgrade.",
     "timestamp": "1754979172",
     "date": "8/12/2025, 6:12:52 AM",
