@@ -1,5 +1,40 @@
 [
   {
+    "content": "Amber release as soon as it's in rust-nostr.",
+    "timestamp": "1755457893",
+    "date": "8/17/2025, 7:11:33 PM",
+    "id": "955fb10ae0d1ae7d9ef6de11327158f1d6ccd56882e04075c51441b721ae6e6f",
+    "kind": 1
+  },
+  {
+    "content": "There's a major redactor of the relay and delivery logic, hopefully next release we'll have new problems.",
+    "timestamp": "1755457868",
+    "date": "8/17/2025, 7:11:08 PM",
+    "id": "c51f97641fa9394c5083c8dcf0de1f003ebad1e21a31ad8e66a1ac9c503c77d9",
+    "kind": 1
+  },
+  {
+    "content": "Thank you nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpypmhxue69uhkummnw3ezuetfde6kuer6wasku7nfvuh8xurpvdjj7qglwaehxw309aex2mrp0yh8gmmhv9exgumvd93x2un50yhxxmmd9uqsuamnwvaz7tmwdaejumr0dshsy7xvzx for explaining how simple, yet so powerful Nostr can be for fixing the trust layer needed in MLS.",
+    "timestamp": "1755457816",
+    "date": "8/17/2025, 7:10:16 PM",
+    "id": "690da7c79693f626cab520bd1a1e6da2bdffb14ce371000ffc43d0844dbd4183",
+    "kind": 6
+  },
+  {
+    "content": "\"The cypherpunks aren't bullish enough\".\n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmwdaehgu3wv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhur83xg2 on the pod this week...\n\nhttps://fountain.fm/episode/aB170b3sqAG5nod6HXrc\n\n",
+    "timestamp": "1755457778",
+    "date": "8/17/2025, 7:09:38 PM",
+    "id": "ed0643673c6d8a3d127e462eca677f537f995f2a96747ccbb2c35a231006a18b",
+    "kind": 6
+  },
+  {
+    "content": "\"To realize that freedom is correct, the state is evil... that's a scary thing because it literally subverts hundreds, thousands of years of propaganda\".\n\nWe've got Max Hillebrand on the pod this week...\n\nLISTEN: https://fountain.fm/episode/aB170b3sqAG5nod6HXrc",
+    "timestamp": "1755457756",
+    "date": "8/17/2025, 7:09:16 PM",
+    "id": "2b74c823e946635e8e8644982f064a4047e1a2b1c376cb177a2d1747fb3340e9",
+    "kind": 6
+  },
+  {
     "content": "We're thrilled to announce the launch of the new ContextVM website, live at https://contextvm.org ! 🚀\nThis marks a significant step in our mission to create a sovereign, resilient, and open marketplace for computational tools and services.\n\nThe new site makes it easy to discover, connect to, and use ContextVM servers. Key features include:\n\n- Discover Public Servers: Explore publicly available ContextVM servers shared by the community.\n- Connect to Private Servers: Seamlessly connect to and use your own private servers from anywhere.\n\nCurrently there are two public servers running: DuckDuckGo search to perform searches and fetch websites, and NostrBook MCP with documentation about nostr, nips, kinds and more. You can test them now, they are open to everyone\n\nCheck out a short demo of the site: https://video.nostr.build/4a0f4498cadb8e165d96118ece0714d6c03f2b135d340871cc89567a5cf93195.webm\n\nRead more about the launch on our blog post: https://www.contextvm.org/blog/releasing-new-site\n\nThe site includes a Blog, About page, FAQ, and dedicated documentation at docs.contextvm.org. The entire website is open source, built with Svelte 5 and the applesauce Nostr library. We welcome contributions from the community.\n\nWe're also looking for talented designers to help shape the future of the ContextVM interface. If you have experience in UI/UX design and believe in a more open, permissionless internet, we'd love to hear from you.\n\nGet involved:\n\n* Explore the new website at https://contextvm.org\n* Contribute to the project on GitHub at https://github.com/contextvm\n* Join the conversation in our Signal group: https://signal.group/#CjQKIOgvfFJf8ZFZ1SsMx7teFqNF73sZ9Elaj_v5i6RSjDHmEhAB3wO1Rg-0gLNdusnb3wLR\n\nFor any questions or help, please don't hesitate to get in contact.",
     "timestamp": "1755106742",
     "date": "8/13/2025, 5:39:02 PM",
