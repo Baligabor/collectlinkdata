@@ -1,5 +1,47 @@
 [
   {
+    "content": "Good morning, I just merged nostr:nprofile1qyv8wumn8ghj7enfd36x2u3wdehhxarj9emkjmn99uq36amnwvaz7tmfdejx27r9wghxxmmjv93kcefwwdhkx6tpdshszxrhwden5te0dehhxarj9e5xzumgvfskueewdekz7qgkwaehxw309aex2mrp0yhx5etxvenjuenedyhszythwden5te0dehhxarj9emkjmn99uqzq9eemymaerqvwdc25f6ctyuvzx0zt3qld3zp5hf5cmfc2qlrzdh0a59xxk's NIP-EE, nostr-mls is \"official\" (for some meaningless definition of the word)\n\nhttps://github.com/nostr-protocol/nips/pull/1427",
+    "timestamp": "1756316950",
+    "date": "8/27/2025, 5:49:10 PM",
+    "id": "336955b50957246512a11e01e6dfe7f218f5835eeb033c6cce5adeaaa194c538",
+    "kind": 6
+  },
+  {
+    "content": "How to update to a new haven release?",
+    "timestamp": "1756316632",
+    "date": "8/27/2025, 5:43:52 PM",
+    "id": "a4cf13cf87e7d4926f3d5abbca68ac4065d6bad0215dcf13a47b91a26c4bf325",
+    "kind": 1
+  },
+  {
+    "content": "A good Nostr search\nhttps://nosey.vercel.app/",
+    "timestamp": "1756298525",
+    "date": "8/27/2025, 12:42:05 PM",
+    "id": "236c171c6b46ae13b20508a70ae654793bcf7926902dd1e8ecabfcdd9cf68223",
+    "kind": 6
+  },
+  {
+    "content": "Nostria will never display how many is \"following\" another account. This is a metric that acts as appeal to authority, instead of looking at actual content, words, meanings and how they affect us, improve us and help us.\n\nAnyone can buy bots to boost their \"following\" or \"likes\". What we must build is software that makes this issue completely mute. Nostr as a protocol, does allow us to build this.\n\nWe should all follow other content creators for their content.\n\nNostria has a local \"algorithm\" that decides what you will see, and it is based upon your usage of Nostria. When you interact with someone, it increases the likelihood that you'll be seeing their content again. This happens on your device, not controlled by a secret and hidden centralized algorithm. Our locally run \"algorithm\", is not there to keep you engaged as much as possible, but help you experience content from the creators that matters to you.\n\nWe want your money, nothing else. We want to deliver premium services that make you willing to part with your money.\n\nFollow us for more, we are getting very close to our initial release of Nostria! 💜",
+    "timestamp": "1756298382",
+    "date": "8/27/2025, 12:39:42 PM",
+    "id": "185c150ae34cb790e4afa60d6231581b3befa591c5cde68cd62eb7ada59139f2",
+    "kind": 6
+  },
+  {
+    "content": "Which city should we host our next Counter-Kidnapping Training session, where you and your friends & family can learn invaluable self-defense skills from top experts?\n\nFill out the form below, and let us know why we should add YOUR city to our schedule! 👇\n\nhttps://glok.me/training/request/",
+    "timestamp": "1756298369",
+    "date": "8/27/2025, 12:39:29 PM",
+    "id": "d965f5511596b2dc439ae3c696833b283830e16635b1710cde9835f7f844aaf4",
+    "kind": 6
+  },
+  {
+    "content": "YBS #129: \"Bitcoin Cypherpunk REVEALS All Freedom Tools you NEED in 2025\" w/ nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmwdaehgu3wv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhur83xg2  is LIVE! \n\nThis is the final 8th episodes of this years BTC Prague Series, and this was the most unique podcast set up, recording an episode inbetween sauna sessions.\n\n📺  YouTube: https://www.youtube.com/watch?v=btSpr91B0Uk",
+    "timestamp": "1756283232",
+    "date": "8/27/2025, 8:27:12 AM",
+    "id": "74f481cca6d7b5b8517f1ecdcfc55358d8626b89e4c708155c3f189a60f75237",
+    "kind": 6
+  },
+  {
     "content": "Now that outbox is (mostly) out of the way, here are the next major tasks we have ahead of us:  \n\n- New text parser/renderer \n- Add Pokey, kill our push notification server\n- Add local DB for long term storage\n- Add support for NostrNests with join\n- Add support for bitchat, MLS and pollerama\n- Add full NWC wallet \n- Add support for Nostr Cashu wallets\n- Add post scheduling \n- Add Contact Cards with private follows\n- Add Follow List management\n- Add Algo relay support\n- Add local WoT support\n- Rebuild the profile screen\n- Rebuild the thread screen\n- Migrate Quartz to Multiplatform KMP with a separate project per NIP\n \nDid I miss anything? ",
     "timestamp": "1756141004",
     "date": "8/25/2025, 4:56:44 PM",
