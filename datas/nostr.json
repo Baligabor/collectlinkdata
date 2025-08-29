@@ -1,5 +1,33 @@
 [
   {
+    "content": "Bitcoin will dwarf the internet's economic impact.\n\nThe internet moves information. Bitcoin moves value (info with 1,000× weight).\n\nToday we're shipping the UX to make that real: Miniscript + E2EE group wallets.\n\nThese tools combined will make programmable Bitcoin for everyone.\n\nhttps://blossom.primal.net/4cb897919731f1fe7ad90cef80fb1964524eeef9e77d6d7b032c9f03cac8bf38.png\nBitcoin has always supported spending rules (multisig, time delays), but they were complex and risky to implement.\n\nMiniscript structures these rules like Lego blocks, making advanced custody safe, simple, and verifiable. \n\nWe didn't just add a few pre-baked scripts.\n\nNunchuk now supports *generalized* Miniscript. You can create any policy supported under standard Bitcoin rules.\n\nUse our friendly templates, or craft custom spending rules if you're advanced.\n\nhttps://blossom.primal.net/d44e020faf66d7bd9a884ca4e21b2c8c3cbe60d31d73afd908e2d35c16bacb38.png \nComplex policies involving multiple parties require coordination. Doing this over insecure channels (email, messengers) is a major security risk.\n\nNunchuk solves this. Our E2EE Group Wallets now support Miniscript out of the box.\n\nThe entire setup is encrypted, with built-in chat for secure coordination.\n\nhttps://blossom.primal.net/6d23c265366999d99cb37a8d7053545c697024207f629766836da5c1af0d6f88.png \nThis combination lets you build wallets that adapt to real life needs, such as:\n🧊 Timelocked inheritance plan\n🏛️ Business treasuries with layered approvals & fallbacks\n🤝 Non-custodial escrow for OTC trades\n👻 Private multi-party wallets that look like single-sig on-chain\n\nhttps://blossom.primal.net/81544cae4356a9c0c6c0eabb0bb1e77ce5e2610b9077b25daa703bb66a5c93cd.png \nYou have options.\n\nPrefer simple and widely compatible? Use Native SegWit.\n\nWant advanced privacy and efficiency?\n• Taproot hides unused spending branches.\n• MuSig2 aggregates multiple signers into one signature (key path or script path).\nThe choice is yours.\n\nWe support major hardware vendors today:\nNative SegWit Miniscript: COLDCARD, Tapsigner, Blockstream Jade, Ledger, Specter DIY\nTaproot Miniscript: COLDCARD, Ledger, Specter DIY\nMuSig2: Software keys only (for now).\nMore coming as vendors ship support.\n\nZooming out: These tools (verifiable policies, secure collaboration, advanced scripting) are the primitives of a new financial system.\n\nFair, open, and anchored to sound money.\n\nDownload the Nunchuk app and give it a try. \n\n🤖 Android: https://play.google.com/store/apps/details?id=io.nunchuk.android&hl=en\n🍎 iOS: https://apps.apple.com/us/app/nunchuk-bitcoin-wallet/id1563190073\n💻 Desktop: https://github.com/nunchuk-io/nunchuk-desktop/releases\n\nAndroid APK: https://github.com/nunchuk-io/nunchuk-android/releases \n\n📘 Read the full announcement and see the use cases in detail here: https://nunchuk.io/blog/miniscript-programmable-bitcoin\n\n🔧 For builders and the curious: Dive deep into how it all works with our technical guide. \nhttps://nunchuk.io/blog/miniscript101\n\nWhat will you build with generalized Miniscript? Tell us below. ⬇️\n ",
+    "timestamp": "1756405672",
+    "date": "8/28/2025, 6:27:52 PM",
+    "id": "5131a9a8d24297cbbf17c25fc756a2f547c089a2cd71df7c844fcd10621bf687",
+    "kind": 6
+  },
+  {
+    "content": "The emperor is on it.\nhttps://www.youtube.com/watch?v=0or74CxtuA4",
+    "timestamp": "1756381674",
+    "date": "8/28/2025, 11:47:54 AM",
+    "id": "3c47a03827ad5a29b38bd62fdef22bf1c04fa128bbad20504479cf899794f79a",
+    "kind": 1
+  },
+  {
+    "content": "Is it even released if its not on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcsrhspy? 🤔",
+    "timestamp": "1756365069",
+    "date": "8/28/2025, 7:11:09 AM",
+    "id": "7acfd596d8e74f62b49ec62042a4b1063adc41798d5e8846cb485a51dfb197ab",
+    "kind": 1
+  },
+  {
+    "content": "It's launch day!!! Damus is now available on all platforms with Android ready to download! Thanks to everyone who has contributed, tested, and waited patiently for this release. We can't wait to hear what you think! https://damus.io/android/\n\nhttps://damus.io/damus-android/android_video/master.m3u8",
+    "timestamp": "1756365007",
+    "date": "8/28/2025, 7:10:07 AM",
+    "id": "1428db625515db121ad9b7634ef8b257605c1e11ff4e526ca47d51ddd12a6b53",
+    "kind": 6
+  },
+  {
     "content": "Good morning, I just merged nostr:nprofile1qyv8wumn8ghj7enfd36x2u3wdehhxarj9emkjmn99uq36amnwvaz7tmfdejx27r9wghxxmmjv93kcefwwdhkx6tpdshszxrhwden5te0dehhxarj9e5xzumgvfskueewdekz7qgkwaehxw309aex2mrp0yhx5etxvenjuenedyhszythwden5te0dehhxarj9emkjmn99uqzq9eemymaerqvwdc25f6ctyuvzx0zt3qld3zp5hf5cmfc2qlrzdh0a59xxk's NIP-EE, nostr-mls is \"official\" (for some meaningless definition of the word)\n\nhttps://github.com/nostr-protocol/nips/pull/1427",
     "timestamp": "1756316950",
     "date": "8/27/2025, 5:49:10 PM",
