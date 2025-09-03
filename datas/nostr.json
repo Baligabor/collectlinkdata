@@ -1,5 +1,19 @@
 [
   {
+    "content": "Join us for the next Nostr MLS community call, today 1600 UTC, at meet.fulmo.org/nostrmls\n\nWe'll speak about the now merged NIP-EE, the latest progress with White Noise, and answer any questions regarding implementing MLS into your own Nostr client. ",
+    "timestamp": "1756814883",
+    "date": "9/2/2025, 12:08:03 PM",
+    "id": "6fa2418806482cb0585c5854271fc5d7fcbf45ffb5c3ed32647fd775e022ca71",
+    "kind": 6
+  },
+  {
+    "content": "FREE MILK by finding your farmer at milk.market 🥛🐮🐐\n\nhttps://blossom.primal.net/01d9114302a5171e9db0b57db8788a850f32861c5c6f2573bf54eadba3d33372.mp4\n\n#milkmonday #freemilk #dairyfarm #rawmilkrevolution #rawmilk #milkmarket #cowlover #milk #milky #smallfarm #localfarm #localfood #milkman #rawislaw",
+    "timestamp": "1756810339",
+    "date": "9/2/2025, 10:52:19 AM",
+    "id": "76d5b7a50ad78abeda2be78837be5cab63ddeb12bd9e274de669d5e62cee2b81",
+    "kind": 6
+  },
+  {
     "content": "🚨 New release 2.7.0 is here! 🚨\n\nv2.7.0 is a stabilization update that boosts reliability while bringing a fresh look & smoother performance.\n\n🟠 Enhanced Node Integration\n🎨 Refreshed UI\n⚙️ 1 Config/Network\n🤯 Smarter Coordinators\n🛠️ Many Bug Fixes\n\n👉https://github.com/WalletWasabi/WalletWasabi/releases/tag/v2.7.0\n\n🟠 Enhanced Bitcoin Node Integration\n\nBitcoin node connectivity is now more seamless. RPC endpoint handling has been refined for smoother setup, with support for onion-service RPC interfaces.\n\nAdditionally, Wasabi no longer bundles bitcoind binaries, while block downloading has been simplified and made more dependable.\n\n🎨 Refreshed UI with Icons & Animations\n\nThe interface has been given a polished update. Subtle animations and a balanced color scheme breathe new life into Wasabi’s design, making it both cleaner and less aggressive.\n\n⚙️ Dedicated Config Files Per Network\n\nEach network  Mainnet, Testnet4, and Regtest — now has its own independent configuration file. Switching to test networks is easier and your preferences are always preserved.\n\n🤯 Stronger & Smarter Coordinators\n\nCoordinators are automatically published as onion services right out of the box: no manual Tor setup needed. Coordinators can now also run on pruned nodes in blocksonly mode.\n\nPlus, fallback fee rate providers were implemented (mempool.space and blockstream.info), ensuring accurate fee estimates, even if your node can’t provide them.\n\n🛠️ Refinements & Fixes\n\n- Full-RBF by default: All transactions are treated as replaceable.\n- Resilient HTTP communication: Smarter retry handling makes connections sturdier.\n- Seed recovery fixes: Annoying typing issues are resolved.\n- Sharper fee estimations: Precise decimal calculations with no rounding loss.\n- NBitcoin updated to 8.0.14: Latest Bitcoin protocol improvements included.\n- Clearer terminology: “Backend” is now called “Indexer.”\n- Lean codebase: Legacy components like TurboSync and BlockNotifier removed.\n- Safer Coinjoin handling: Excluded Coins can only be changed when Coinjoin is paused.\n- Donation Button removed from Main Screen: The button is gone, but donations are still possible via the search bar.\n- Conflux by default: Better Tor configuration for improved connectivity.\n",
     "timestamp": "1756743464",
     "date": "9/1/2025, 4:17:44 PM",
