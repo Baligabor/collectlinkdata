@@ -1,5 +1,33 @@
 [
   {
+    "content": "Nostr architecture solves so much by removing the requirement of a trusted server.\n\nWhite Noise uses Message Layer Security, an IETF standard with numerous audits and security proofs. The nostr-mls wrapper has been peer reviewed but not yet audited. I think the cryptography is sound.\n\nBest thing is that it's an open standard and there will be countless implementations that do one thing really well. Looking forward to that variety.",
+    "timestamp": "1756896648",
+    "date": "9/3/2025, 10:50:48 AM",
+    "id": "6ca4d875608889bf851fa4f2c25508129e4afc0263d03764e12487338c7e509c",
+    "kind": 1
+  },
+  {
+    "content": "In a couple releases, nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp should be stable enough for you to try it, removes the reliance on the server admin to define identities, and duplicates message delivery across many relays. You shouldn't even notice when a relay is down.",
+    "timestamp": "1756883084",
+    "date": "9/3/2025, 7:04:44 AM",
+    "id": "f8282c836a47b46264e3fa05f483814f54f5d72cb31c16c6d03b6ce42c2f5ab1",
+    "kind": 1
+  },
+  {
+    "content": "Wait... I'm a sheep?",
+    "timestamp": "1756882738",
+    "date": "9/3/2025, 6:58:58 AM",
+    "id": "6deec12f71057c58db5cef3b72185a3fce14144826cdaeff6abd8429c05ddb9a",
+    "kind": 1
+  },
+  {
+    "content": "⚡ LATEST PROJECT LISTING - Cruzada21 nostr:npub1lf9fja3zalzrxe3y60hv7eaf348a7zz6spmt6nd2s8ttmms6ms5sa73gcz :\n\nhttps://youtu.be/gPNAle2hElw\n\nTheir mission:\nTo strengthen regional adoption (Latin America) through practical, community-driven actions, empowering communities, onboard new merchants and lead individuals towards self-sovereignty.\n\nLearn more and support their initiative here: https://hub.angor.io/project/angor1q65fuwpyvek3fxk5p757zyknjd9k9sava3fd98j\n\nnostr:npub19tv378w29hx4ljy7wgydreg9nu96czrs6clu8wkzr3af8z86rr7sujx4xe",
+    "timestamp": "1756879476",
+    "date": "9/3/2025, 6:04:36 AM",
+    "id": "7138565734c784047e69318a81a153eaa0ac51b25da1a524bd9aa571de14dce1",
+    "kind": 6
+  },
+  {
     "content": "Join us for the next Nostr MLS community call, today 1600 UTC, at meet.fulmo.org/nostrmls\n\nWe'll speak about the now merged NIP-EE, the latest progress with White Noise, and answer any questions regarding implementing MLS into your own Nostr client. ",
     "timestamp": "1756814883",
     "date": "9/2/2025, 12:08:03 PM",
