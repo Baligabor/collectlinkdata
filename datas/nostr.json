@@ -1,5 +1,47 @@
 [
   {
+    "content": "Using graphene OS desktop mode to check your gmail, lolol",
+    "timestamp": "1756995173",
+    "date": "9/4/2025, 2:12:53 PM",
+    "id": "76696a5cc6aed9ee34f26a6739e29562d78df0432a3822aeedb462b0a83a7841",
+    "kind": 1
+  },
+  {
+    "content": "The Mises Institute Alabama has the entire personal library of Rothbard. I was browsing it for hours, and the highlights were his handwritten notes inside Das Kapital, both hilarious and insightful.",
+    "timestamp": "1756994669",
+    "date": "9/4/2025, 2:04:29 PM",
+    "id": "d90dc8f50e7d939a81aaf94911048f4d9497d833b313ee8f013b0be85cd0d763",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsr70lh4keezkwy9s92zm2ncpyrh7l6647ly257n6fkfgcxws0t9ncprpmhxue69uhhqunfd46hxtnwdaehgu339e3k7mf06gc7ur available in Argentina\nhttps://www.youtube.com/watch?v=TOrhKlwprOY",
+    "timestamp": "1756994147",
+    "date": "9/4/2025, 1:55:47 PM",
+    "id": "27ce33302903a8eaac32dbb27e51f961bb2c74e54b768f2cbd61c55a9f4a9118",
+    "kind": 1
+  },
+  {
+    "content": "Thanks, but I already watched all on this channel...\n\nIn fact I made a fork of the show called Read Rothbard Use Bitcoin back in the days.\nhttps://www.youtube.com/watch?v=7X0NYf_YfPo",
+    "timestamp": "1756988788",
+    "date": "9/4/2025, 12:26:28 PM",
+    "id": "0f1841186a619419acb59ade61dc2ce120ef898190d9b69f880fd0424dc26b37",
+    "kind": 1
+  },
+  {
+    "content": "Very nice! I didnt know this video, and there aren't many recordings of him, would be great to have an archive with all of them...",
+    "timestamp": "1756982592",
+    "date": "9/4/2025, 10:43:12 AM",
+    "id": "01b67d50d8aa71e880fbad346be415f441c1dd42bbed6f43aac48caf6766d20a",
+    "kind": 1
+  },
+  {
+    "content": " Murray Rothbard on the European Union, circa 1989. Spoiler alert; he was on the money. Literally.\n\nhttps://blossom.primal.net/8589351ef17ca8d7dfffac715c6b9d89592a400aaa335272e511cffd9cd3a159.mp4 ",
+    "timestamp": "1756982430",
+    "date": "9/4/2025, 10:40:30 AM",
+    "id": "285d5431adc038041fbd3d22cd1611ac9571f732bdeb34bc493507af4d797d93",
+    "kind": 6
+  },
+  {
     "content": "Nostr architecture solves so much by removing the requirement of a trusted server.\n\nWhite Noise uses Message Layer Security, an IETF standard with numerous audits and security proofs. The nostr-mls wrapper has been peer reviewed but not yet audited. I think the cryptography is sound.\n\nBest thing is that it's an open standard and there will be countless implementations that do one thing really well. Looking forward to that variety.",
     "timestamp": "1756896648",
     "date": "9/3/2025, 10:50:48 AM",
