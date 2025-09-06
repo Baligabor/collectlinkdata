@@ -1,5 +1,33 @@
 [
   {
+    "content": "There already are some systems apps for which you cannot turn off sensor permissions.",
+    "timestamp": "1757067147",
+    "date": "9/5/2025, 10:12:27 AM",
+    "id": "a937e30ae6b1f4cd22a48f4d0897dfc7ef4bc68e86688e809d9c2e323398be91",
+    "kind": 1
+  },
+  {
+    "content": "I got the crash notification on.\n\nThanks for the link!",
+    "timestamp": "1757067111",
+    "date": "9/5/2025, 10:11:51 AM",
+    "id": "e052920d4fa86fc765269303c2b484700e45e9b2e2a85385915cb2d2952ff7ea",
+    "kind": 1
+  },
+  {
+    "content": "I turned all off, so far no crashes.",
+    "timestamp": "1757066778",
+    "date": "9/5/2025, 10:06:18 AM",
+    "id": "ce9b06bf7f6a8534321d26d3a5df9bc41c3ff9606b04666a53bbf3a76fdd2559",
+    "kind": 1
+  },
+  {
+    "content": "What happens when all Sensor permissions are not allowed even for system apps in nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpzemhxue69uhhyetvv9ujumt0wd68ytnsw43z7tpaud2?\nnostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcnv0md0",
+    "timestamp": "1757061338",
+    "date": "9/5/2025, 8:35:38 AM",
+    "id": "55e35aa665c18600cad05a63ae71263279e1ee8d1415fe7223aa2be6900b0042",
+    "kind": 1
+  },
+  {
     "content": "Using graphene OS desktop mode to check your gmail, lolol",
     "timestamp": "1756995173",
     "date": "9/4/2025, 2:12:53 PM",
