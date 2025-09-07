@@ -1,5 +1,12 @@
 [
   {
+    "content": "Private spaces and User profiles are a key feature to logically separate apps, data and pseudonyms in #GrapheneOS. Here is how a Nostr user could use it:\n\nhttps://image.nostr.build/b6dbd22aa6fcc70ef0336588296c580e7211a3add1c2ad73f203f73ea8f1611b.png\n\nPrivate spaces are an isolated space available from within the current user that you can opt to share data between.\n\nUser profiles are logically separated users where nothing is shared between them and have different environments, home screens. Wallpapers, specific settings.\n\n- All profiles have their own separate unique VPN configuration.\n\n- Each profile or private space can have their own unique credentials, encrypting them separately.\n\n- Apps can't communicate with apps in other user profiles or private spaces.\n\n- Apps are updated globally on all profiles when updated on one of them for security.\n\n- You can install apps from the Owner user to other profiles, or from the currently used user to their private space.\n\nIf you haven't used a Private Space yet, it likely replaces your use case for a user profile. ",
+    "timestamp": "1757152181",
+    "date": "9/6/2025, 9:49:41 AM",
+    "id": "f1b4dc9914d7278a71deed9273dc1dfa941ae7dd249d3ab47a63a2d83e1d5cb5",
+    "kind": 6
+  },
+  {
     "content": "There already are some systems apps for which you cannot turn off sensor permissions.",
     "timestamp": "1757067147",
     "date": "9/5/2025, 10:12:27 AM",
