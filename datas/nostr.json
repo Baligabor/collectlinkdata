@@ -1,5 +1,26 @@
 [
   {
+    "content": "The Tor Project's upcoming VPN Android app has been moved to beta. Here is how it looks on #GrapheneOS:\n\nThis version uses Arti, Tor's Rust implementation, it is more modern and secure. Each app will get their own Tor circuit and exit IP. Unlike Orbot which is an on-device Tor proxy with a VPN feature, it appears app is designed to be a VPN first and foremost.\n\nhttps://image.nostr.build/769542c0fe9050368278a01cd4daa28a6d5b232ea8a2251ce460f160dac596e9.jpg https://image.nostr.build/b7c81d1e5395f0c8125afc627c1df9ed8b757c5293df185503b9f97a484ee4aa.jpg https://image.nostr.build/b9f7b0ea28ed2915675d9e9b9df4ef1b6cb3e6f7f6309a3796d2dbb84fdd8c7a.jpg https://image.nostr.build/b548e3355c9f66225c09b7f25fe464de1cca7b24a9a1a9629c93891740b050a4.jpg",
+    "timestamp": "1757420570",
+    "date": "9/9/2025, 12:22:50 PM",
+    "id": "c24bc6bba4497ad772cafc06e6f3db9146745cfa7f35a7d77768f6b4bc82cb46",
+    "kind": 6
+  },
+  {
+    "content": "Awesome progress, thanks!",
+    "timestamp": "1757403357",
+    "date": "9/9/2025, 7:35:57 AM",
+    "id": "a2ff77f9e95ab51a1fe261fc4d6fdecd705acfceb3da316f01ea3e78f6bb1f41",
+    "kind": 1
+  },
+  {
+    "content": "NEW WORLD RECORD.  \n\nWE CAN PROVE THE WHOLE BITCOIN BLOCK HEADER CHAIN IN 6.5 HOURS.  \n\nFOR $13.5. \n\nYES, WE HAVE PROVEN 16 YEARS OF BLOCKCHAIN HISTORY OF A $2 TRILLION ASSET FOR LESS THAN A BIG MAC COMBO MENU.\n\nSTWO, FASTEST PROVER IN THE WORLD, BACKBONE OF STARKNET.\n\n\nhttps://blossom.primal.net/675f25bd8a9a380a9e2abf75c5c928db75c9045334944d3553c70f75b9068c1a.jpg",
+    "timestamp": "1757403263",
+    "date": "9/9/2025, 7:34:23 AM",
+    "id": "6c2fdc3692204c999b76c6175e6ddf2a1aeca7f6e9856b9637b2bbd8d643a108",
+    "kind": 6
+  },
+  {
     "content": "Private spaces and User profiles are a key feature to logically separate apps, data and pseudonyms in #GrapheneOS. Here is how a Nostr user could use it:\n\nhttps://image.nostr.build/b6dbd22aa6fcc70ef0336588296c580e7211a3add1c2ad73f203f73ea8f1611b.png\n\nPrivate spaces are an isolated space available from within the current user that you can opt to share data between.\n\nUser profiles are logically separated users where nothing is shared between them and have different environments, home screens. Wallpapers, specific settings.\n\n- All profiles have their own separate unique VPN configuration.\n\n- Each profile or private space can have their own unique credentials, encrypting them separately.\n\n- Apps can't communicate with apps in other user profiles or private spaces.\n\n- Apps are updated globally on all profiles when updated on one of them for security.\n\n- You can install apps from the Owner user to other profiles, or from the currently used user to their private space.\n\nIf you haven't used a Private Space yet, it likely replaces your use case for a user profile. ",
     "timestamp": "1757152181",
     "date": "9/6/2025, 9:49:41 AM",
