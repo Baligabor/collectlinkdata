@@ -1,5 +1,12 @@
 [
   {
+    "content": "nostr:nprofile1qqs2jplfeem0ta4m0k7hnkv3t3hvezh4rp7ka4ed703dkvylff5fe6spzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcp6gamy speaking with nostr:nprofile1qqsyvyjl47u724y643483g7ktwc86ku30ngew7xsgwwrlyxdmararwcpz9mhxue69uhkummnw3ezuamfdejj7qgwwaehxw309ahx7uewd3hkctcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsu72eqt on the Free Cities Podcast about the power of encrypted messages on Nostr.\n\nFree Cities Podcast: 147 - Jeff G: Privacy and the Architecture of Freedom\n https://feeds.fountain.fm/0Mh804AKI3yaq86kDWTp/items/Ovjio7js1gnOBJBAhTde/files/AUDIO---DEFAULT---cc7209e5-d1b5-485d-8694-1d4b916ef7d2.mp3\n\nEpisode webpage: https://free-cities.org/",
+    "timestamp": "1757655840",
+    "date": "9/12/2025, 5:44:00 AM",
+    "id": "32d7b8733214efed8ce5deef4b7a0aec24823e026a66fe7a2882e5ae34691cb0",
+    "kind": 6
+  },
+  {
     "content": "The Tor Project's upcoming VPN Android app has been moved to beta. Here is how it looks on #GrapheneOS:\n\nThis version uses Arti, Tor's Rust implementation, it is more modern and secure. Each app will get their own Tor circuit and exit IP. Unlike Orbot which is an on-device Tor proxy with a VPN feature, it appears app is designed to be a VPN first and foremost.\n\nhttps://image.nostr.build/769542c0fe9050368278a01cd4daa28a6d5b232ea8a2251ce460f160dac596e9.jpg https://image.nostr.build/b7c81d1e5395f0c8125afc627c1df9ed8b757c5293df185503b9f97a484ee4aa.jpg https://image.nostr.build/b9f7b0ea28ed2915675d9e9b9df4ef1b6cb3e6f7f6309a3796d2dbb84fdd8c7a.jpg https://image.nostr.build/b548e3355c9f66225c09b7f25fe464de1cca7b24a9a1a9629c93891740b050a4.jpg",
     "timestamp": "1757420570",
     "date": "9/9/2025, 12:22:50 PM",
