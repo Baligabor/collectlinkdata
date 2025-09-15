@@ -1,5 +1,26 @@
 [
   {
+    "content": "\"Provable Cryptography for Bitcoin: An Introduction\" by Jonas Nick - a comprehensive workbook that teaches formal security definitions and proofs through hands-on exercises. Link to GitHub below.\n https://blossom.primal.net/6374ac4d0a496f912c7761cb387f83922e7b3855dbbf95f572a0a3d242c32649.png \n https://blossom.primal.net/6ea3538f3867cc3530e5738d62842fc33f31b9b1a6a1cb9920fe0ae4e9b33b79.png \n\nhttps://github.com/cryptography-camp/workbook",
+    "timestamp": "1757895670",
+    "date": "9/15/2025, 12:21:10 AM",
+    "id": "5b5a031496e262f4c6f7f19d79745be7759eeddecb3650ee88606399cf658680",
+    "kind": 6
+  },
+  {
+    "content": "We are proud to announce that Wasabi Wallet v2.7.0 is our first release fully distributed through Nostr. \n\nInstead of relying on GitHub or DNS, clients now receive update notifications directly from notes published by Wasabi’s Nostr public key. This ensures that even in the event of infrastructure outages or black swan scenarios, we can deliver emergency fixes seamlessly.\n\nFor users, the update process remains unchanged: smooth, secure, and reliable.\nFor the project, this marks an important step toward resilience: guaranteeing that users will always be able to securely access their funds with Wasabi, without sacrificing privacy by restoring seeds on less private wallets.\n\nOf course, we also want to thank relay operators for making it possible to implement features like this.",
+    "timestamp": "1757894117",
+    "date": "9/14/2025, 11:55:17 PM",
+    "id": "5e7c7baa432b849e7d2f30bbccb4a3e38c64066166b38f49b8fdb1037fa307e5",
+    "kind": 6
+  },
+  {
+    "content": "One of the underrated (and under developed) features of zapstore is that regular users can sign and recommend the application of another developer. This way even anonymous devs can get some reach if they lobby known npubs to endorse them. \"At least we're all in the same boat if its malware.\"",
+    "timestamp": "1757846692",
+    "date": "9/14/2025, 10:44:52 AM",
+    "id": "601f918b745fefc86f12a79b3c27918189ceef4e7865673ca36f0aebff290590",
+    "kind": 1
+  },
+  {
     "content": "nostr:nprofile1qqs2jplfeem0ta4m0k7hnkv3t3hvezh4rp7ka4ed703dkvylff5fe6spzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcp6gamy speaking with nostr:nprofile1qqsyvyjl47u724y643483g7ktwc86ku30ngew7xsgwwrlyxdmararwcpz9mhxue69uhkummnw3ezuamfdejj7qgwwaehxw309ahx7uewd3hkctcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsu72eqt on the Free Cities Podcast about the power of encrypted messages on Nostr.\n\nFree Cities Podcast: 147 - Jeff G: Privacy and the Architecture of Freedom\n https://feeds.fountain.fm/0Mh804AKI3yaq86kDWTp/items/Ovjio7js1gnOBJBAhTde/files/AUDIO---DEFAULT---cc7209e5-d1b5-485d-8694-1d4b916ef7d2.mp3\n\nEpisode webpage: https://free-cities.org/",
     "timestamp": "1757655840",
     "date": "9/12/2025, 5:44:00 AM",
