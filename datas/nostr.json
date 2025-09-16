@@ -1,5 +1,33 @@
 [
   {
+    "content": "Working on it, two weeks...",
+    "timestamp": "1757983483",
+    "date": "9/16/2025, 12:44:43 AM",
+    "id": "c53f4c4b4ac351eaa61cc8b252941c95f485de13c24400e9a2963ee3ba574c15",
+    "kind": 1
+  },
+  {
+    "content": "Checkout https://tryquiet.org/, p2p messaging with local Tor onion addresses.",
+    "timestamp": "1757927822",
+    "date": "9/15/2025, 9:17:02 AM",
+    "id": "4466500026cf014d3ce2210cf567d49780e68ea318fb48e9fccbf28f3dce6c93",
+    "kind": 1
+  },
+  {
+    "content": "Tereré is the perfect sauna drink.",
+    "timestamp": "1757927479",
+    "date": "9/15/2025, 9:11:19 AM",
+    "id": "e8916e8bf21eeb550f34723d1cbecd1fe8c0c8b101de8da3cfed88bc98b8772b",
+    "kind": 1
+  },
+  {
+    "content": "New Zapstore web!\n\nEvery app now has its own page (available at https://zapstore.dev/apps) and deep links are working in Zapstore 1.0 so sharing apps will become much easier.\n\nStill unfinished but overall improved copywriting and aesthetic of the site.",
+    "timestamp": "1757927288",
+    "date": "9/15/2025, 9:08:08 AM",
+    "id": "1d86b89e408e9fa52982e0b9e48b155d0b258a4706d921a7d2a260c4ff587f12",
+    "kind": 6
+  },
+  {
     "content": "\"Provable Cryptography for Bitcoin: An Introduction\" by Jonas Nick - a comprehensive workbook that teaches formal security definitions and proofs through hands-on exercises. Link to GitHub below.\n https://blossom.primal.net/6374ac4d0a496f912c7761cb387f83922e7b3855dbbf95f572a0a3d242c32649.png \n https://blossom.primal.net/6ea3538f3867cc3530e5738d62842fc33f31b9b1a6a1cb9920fe0ae4e9b33b79.png \n\nhttps://github.com/cryptography-camp/workbook",
     "timestamp": "1757895670",
     "date": "9/15/2025, 12:21:10 AM",
