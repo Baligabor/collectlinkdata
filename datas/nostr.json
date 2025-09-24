@@ -1,5 +1,33 @@
 [
   {
+    "content": "What if you didn't need to check every character when copy pasting data?\nBe it a crypto address, an IBAN string, an email address, or a phone number.\n\nWhat if you could easily distinguish a real identity from an imposter, a scammer?\nBe it a friend, or a well known individual or company.\n\nThe solution to these UX and security problems, for your company and your users, is a simple one:\n\nHashatar.\n\nJoin the launch presentation to learn more, and chat with the devs, on Thurs 25 Sep 2025 at 1600 CET: https://fs.ft.hn/call/itxajgu6\n\nhttps://image.nostr.build/76bd0090d218f06dd4572966f825efb6ff121a8a85192efaee6649c9378a085f.gif",
+    "timestamp": "1758649119",
+    "date": "9/23/2025, 5:38:39 PM",
+    "id": "77f4ac2b79bc9a5f741b6716f8c155a4eb89b8c26fe28b8304fe555a7210712e",
+    "kind": 6
+  },
+  {
+    "content": "Glad you enjoyed the conversation ",
+    "timestamp": "1758646968",
+    "date": "9/23/2025, 5:02:48 PM",
+    "id": "cb30c264d8f293a1a323d4cf8daeb59348cd01c801c9f96d6fcc10e2fd300b2e",
+    "kind": 1
+  },
+  {
+    "content": "This was an interesting conversation between nostr:npub1dg6es53r3hys9tk3n7aldgz4lx4ly8qu4zg468zwyl6smuhjjrvsnhsguz and nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt 💯👏 It really emphasized and put into perspective the ethical imperative for using #Bitcoin over fiat; detaching yourself from participating in a fraudulent system that is engineered to lose value. A ton of financial privacy insights there as well and one of the most intriguing was their discussion around cash use; which I align with 120% Cash is great to have, especially for privacy purposes, but at the end of the day it's still fiat therefore inherits all the problems that fiat has like debasement. A great refresher course as to why we #Bitcoin\n\nhttps://fountain.fm/episode/zd5q3mF7xwjfmpuHZ5kR",
+    "timestamp": "1758646956",
+    "date": "9/23/2025, 5:02:36 PM",
+    "id": "ed2438d381eae2a2b25cba930788281954fce0b78f4e556cb962be0b7816541e",
+    "kind": 6
+  },
+  {
+    "content": "🚀 White Noise v1.0.4 is out now. Faster, Stronger, Cleaner. \n\nThank you to everyone who tested v0.1.3 and gave us feedback.\n\nAs the saying goes, everyone has a plan until they get punched in the face. Well, we got punched in the face on the last release.Being able to see the real-world usage and issues that cropped up was invaluable, however.\n\nYou should see significant improvements across the board.\n\nFor v1.0.4 we took on a major refactor of the underlying rust crate that does most of the heavy lifting in the app.\n\nThese \"backend\" changes required significant updates here in the app to align to the new rust API and includes numerous bug fixes, refactors many internal components for better maintainability, and improves the overall responsiveness of the application.\n\nFinally, we did a lot of UI/UX polish along the way.\n\n💪 Stability and Performance\n\n- Improved backend: The backend that manages relay connects, event processing, and group operations has been significantly overhauled resulting in a more stable and performant app. \n\n- Improved Relay Handling: Relay connection checks have been refactored to provide better error handling and a more stable experience \n\nPull-to-refresh for relays has been removed to simplify the user experience \n\n- Performance Fixes: Several performance improvements have been made to reduce lag and improve the overall responsiveness of the app \n\n\n- Bug Fixes: Numerous bugs have been fixed, including issues with account switching, metadata handling, and chat message display \n\n- Android Specific Fixes: Addressed a bug with sensitive clipboard handling for private key copying on Android \n\n🔧 Features and Functionality\n\n- Group Management: Users can now edit group names and descriptions from the group info page \n\n- Message Drafts: Message drafts are now stored securely, so users won't lose their messages if they navigate away from a chat \n\n- Improved Navigation: Added back buttons in the authentication flow and improved navigation within the app \n\n- Key Package Admin: Added a new screen for managing key packages \n\n📱 UI/UX Enhancements\n\n- Improved Chat Experience: The chat auto-scroll behavior has been enhanced to work better with the keyboard, preventing messages from being hidden.\n\nThe swipe-to-reply widget has also been refactored\n\n- Redesigned \"Start New Chat\" Sheet: The \"Start New Chat\" sheet has been redesigned for better performance and usability, reducing load times and improving scrolling \n\n- Skeleton Loaders: Skeleton loaders have been added to provide a better user experience while content is loading \n\n- Emoji Picker and Reactions: The emoji picker and reaction dialogs are now more responsive and visually appealing \n\n- Consistent UI Components: Various UI components, such as buttons, icons, and headers, have been unified and made consistent across the application \n\n- Custom Bottom Sheet: A new custom bottom sheet with fade-in/out animations has been implemented for a smoother user experience \n\n- Visual Polish: Numerous small visual improvements have been made, such as adjusting padding, fixing alignments, and updating icon colors \n\n👤 Contributors\n\nThe following contributors had code included in this release:\n\n- [@erskingardner](https://github.com/erskingardner)\n- [@josefinalliende](https://github.com/josefinalliende)\n- [@codeswot](https://github.com/codeswot)\n- [@quwaysim](https://github.com/Quwaysim)\n- [@untreu2](https://github.com/untreu2)\n- [@jgmontoya](https://github.com/jgmontoya)\n- [@delcin-raj](https://github.com/delcin-raj)\nhttps://blossom.primal.net/704ca785d6779340882055987e64982c02e0da5085a67fae0fac69ec272370e1.jpg",
+    "timestamp": "1758646809",
+    "date": "9/23/2025, 5:00:09 PM",
+    "id": "370fa1f4caecbc0c4b083d3a9620db139c021c3803fc79d8473a83c126c6e9d8",
+    "kind": 6
+  },
+  {
     "content": "Did you add cocoa butter as well?",
     "timestamp": "1758573355",
     "date": "9/22/2025, 8:35:55 PM",
