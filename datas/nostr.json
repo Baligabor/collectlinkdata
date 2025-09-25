@@ -1,5 +1,47 @@
 [
   {
+    "content": "Hello nostr. I'm a zap.stream server based in Germany and I'm looking forward to broadcasting your awesome content to the nostr network!\n https://image.nostr.build/3853419f330a13979fce90dcff06e7dab3f827f7af0153cc09d012a12904ae93.png\n\n #introduction #streaming #zapstream #nostr",
+    "timestamp": "1758740395",
+    "date": "9/24/2025, 6:59:55 PM",
+    "id": "044e039e592aae4c2dbaac539714eaeaa5255b79365fcf2b75e0956d9d689abc",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqszw70nm86zcl0wzlcwd0xulzdgl82e95v78vdm6fl0rnlarfle35gpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszythwden5te0dehhxarj9emkjmn99u3huzze any chance sats price can remember the last known exchange rates on app restart?\nSo often I want to check the price while offline, and a recent exchange rate would be good enough.\nFat zap if you build it!",
+    "timestamp": "1758737358",
+    "date": "9/24/2025, 6:09:18 PM",
+    "id": "2a1ee3a8c802f2566a9089d3a1982074a3f80f8e47755b3fe9758dc2ad26edfd",
+    "kind": 1
+  },
+  {
+    "content": "Mostros 🧌, the day has come. The creature is alive ⚡\nMostro means:\n🔒 P2P over Lightning and Nostr\n🙅‍♂️ No KYC, no permissions\n⚡ Decentralized escrow\n🌍 Censorship resistant\n👉 Available in alpha version on Zapstore (min 500 sats – max 5000 sats).\nComing soon to Google Play.\n➡️ https://zapstore.dev/apps/naddr1qvzqqqr7pvpzpklqkxldpq25w5qa4hlp7sx636su084zqg2p6skc446x7rav5w56qqfxuet5wahhy6ewd4hhxarjduhxzurssulxpx \n\n\n\nhttps://blossom.primal.net/6406b0f0aef43f9dadd171845515331d93cbf7765a18e37447bc55b4e37e1edc.mp4",
+    "timestamp": "1758733990",
+    "date": "9/24/2025, 5:13:10 PM",
+    "id": "ce23c045116a54ea449235da9443ba28a519ffb1a222faf036c1c704267ff32e",
+    "kind": 6
+  },
+  {
+    "content": "GM ☕ Sovereign Trade Tip: Get ready for NIP-99 on Plebeian Market! Coming soon to supercharge your sovereign shopping with faster, more flexible listings for P2P trades with Bitcoin on Nostr.   \n https://blossom.primal.net/5a3141c15ea491b4dd7fd9f3ee0b7e18cbb8b0718e0d1b23384e0bcf42f2df34.png \nhttps://plebeian.market/ #bitcoin #nostr #markets #grownostr #p2p\n\n",
+    "timestamp": "1758730653",
+    "date": "9/24/2025, 4:17:33 PM",
+    "id": "a9ed79e5c58112a515ba7d69d328a23e7e92de5c907ee8b88f9a10a3dfcee981",
+    "kind": 6
+  },
+  {
+    "content": "The topic of non-developer contributions to Bitcoin and Bitcoin Core came up in a thread the other day. So I wanted to elevate this list, in case people are interested.\n\nWays to contribute other than code:\n\nEducation / Outreach\nOptech\nConferences\nSaving Satoshi\nFundraising\nBitdevs\n\nUser feedback\nReproducing issues\nPriorities?\n\nSecurity\nDependency auditing\nCVE disclosure\nMailing list\nPen testing\n\nDev Tooling\nCI\nSignet\nFuzzing\nDrahtbot\nCorecheck,dev\nBitcoin dev wiki\n\nMentoring\nDeveloper hubs\nReview clubs\n\nRelease Process\nTesting guide\nBuilding binaries\nSigning binaries\ntranslations\nPackaging for distro\n\nMonitoring\nb10c stuff etc\n\nStandardization\nBIPs\nBolts etc\n\nEvents\nCoredev\nOnline communication channels\nMailing list\nDelving\nIRC\nTwitter / etc\nStack exchange\nhttp://bitcoincore.org\nBackups of stuff\n\nDev Infrastructure\nFuzzing\nDevops stuff\nDns seeds\n\nUser feedback\nOutward\nTalk to miners? Exchanges? Surveys\n\nResearch\nBRW\n\nJanitor work\nReproducing\n\nOther items listed:\nCoredev\nconference\nBIPs (review, reading)\nStack exchange\nCI\nFuzzer machines\nDevops\nMonitoring\nhttp://bitcoincore.org maintaining/hosting\nSignet / inquisition\nUtilities for interacting with Bitcoin (Core)\nEducational stuff like saving satoshi\nDelving\nMailing list\nBackup of delving/mailing list/github comments\nIRC and logs\nDrahtbot / meetingbot\nBitcoinacks (?)\nFundraising\nDeveloper hubs\nReview clubs\nTechnical talks / podcasts / outreach\nBitdevs\nDeterministic builds (running)\nDns seed\nDependency auditing/pruning\nArchitecture CI doesn’t account for\nReproducing issues\nModeration of github\nResearch Week\nTwitter threads\nTranslations\nSecurity\nSecurity mailing list\nCVE management / disclosure etc\nPen testing\nhttp://Corecheck.dev\nCore dev wiki\nBitcoin wiki\nSummaries of communal knowledge\nOptech\nRelease packaging for distros\nJanitoring old issues/PRs\nBOSS program\nSummer of Bitcoin\n\nOriginal: https://btctranscripts.com/bitcoin-core-dev-tech/2025-02/non-development-contributions",
+    "timestamp": "1758730539",
+    "date": "9/24/2025, 4:15:39 PM",
+    "id": "175edb96ea3a635d88ae78ddf5ee8e98bdd18c0123025da4d1a0e8bb865f7938",
+    "kind": 6
+  },
+  {
+    "content": "Yesterday at GTR Commodities Conference in Geneva 🇨🇭: \nGlobal Commodity Traders orange-pilled on #Bitcoin with Bitcredit Protocol in just 60 seconds. \n\nThey received a promissory note for 21,000 sats on Testnet3 for their Proof-of-Work and walked away with a real Bitcoin T-Shirt, after endorsing their eBill to the virtual \"Satoshi Fashion Store\".\nhttps://blossom.primal.net/be625906d694682e5a56395f8eafdc8e240c345c5c7d59333c9d8140c569b7b2.jpg",
+    "timestamp": "1758730506",
+    "date": "9/24/2025, 4:15:06 PM",
+    "id": "4ea1beb5bcbd571b0f67bb8590a3f7667d39f043eb8073167bcc1a69c108665a",
+    "kind": 6
+  },
+  {
     "content": "What if you didn't need to check every character when copy pasting data?\nBe it a crypto address, an IBAN string, an email address, or a phone number.\n\nWhat if you could easily distinguish a real identity from an imposter, a scammer?\nBe it a friend, or a well known individual or company.\n\nThe solution to these UX and security problems, for your company and your users, is a simple one:\n\nHashatar.\n\nJoin the launch presentation to learn more, and chat with the devs, on Thurs 25 Sep 2025 at 1600 CET: https://fs.ft.hn/call/itxajgu6\n\nhttps://image.nostr.build/76bd0090d218f06dd4572966f825efb6ff121a8a85192efaee6649c9378a085f.gif",
     "timestamp": "1758649119",
     "date": "9/23/2025, 5:38:39 PM",
