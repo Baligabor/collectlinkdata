@@ -1,5 +1,33 @@
 [
   {
+    "content": "📺 Here's the long version of this!\n\nhttps://blossom.primal.net/50dbafbf1aa6c6807de97fb140a2e4246f0878c7c51a48950144fe6e1981e130.mp4 ",
+    "timestamp": "1758818732",
+    "date": "9/25/2025, 4:45:32 PM",
+    "id": "c0c21241da51575ceaf80a8411e8092a5de16c5d76a0dbc309299de955cc61b2",
+    "kind": 6
+  },
+  {
+    "content": "No authority. Only Nostr. \n\nNoDNS #soveng \n\n https://cmbethpcg000e5el0ehhk5933-blossom.eggstr.com/b9da7c63b9b72d05accb764d49626cdbc329d31ed0a8bf63b238a4549e7007fc.mp4 \n",
+    "timestamp": "1758818533",
+    "date": "9/25/2025, 4:42:13 PM",
+    "id": "eb7a62071ff9066ada2d918fb2f87b2fd613b7515eab50386fc179389d3296c5",
+    "kind": 6
+  },
+  {
+    "content": "That's awesome, well done!",
+    "timestamp": "1758816313",
+    "date": "9/25/2025, 4:05:13 PM",
+    "id": "9d7d29b1306ccbc7d14405a0d0e4bf18017becef05429defabf04d85fc19bb92",
+    "kind": 1
+  },
+  {
+    "content": "Relay migration appears to be a success. No downtime and no issues so far!\n\nThe whitelisting mechanism for publishing was removed.\n\nWe now use nostr:npub1kpt95rv4q3mcz8e4lamwtxq7men6jprf49l7asfac9lnv2gda0lqdknhmz to check the pubkey's reputation instead, meaning that anyone with minimal reputable following can now publish on Zapstore without pre-approval! We do not appreciate spam or questionable content, which will promptly be added to the blacklist.\n\nThis new relay written in Go is faster, with more accurate search results. Thank you nostr:npub176p7sup477k5738qhxx0hk2n0cty2k5je5uvalzvkvwmw4tltmeqw7vgup for the rely library and nostr:npub1h49w8en79xty6j2pwgnpm3znjhyf767jua6xgt3kvyn3w80ms86s2z9kay for implementing!",
+    "timestamp": "1758816298",
+    "date": "9/25/2025, 4:04:58 PM",
+    "id": "3fb83752a7f7646815e02288f47b862749bbe8306dfab80c647be1a02cb8f2b8",
+    "kind": 6
+  },
+  {
     "content": "Hello nostr. I'm a zap.stream server based in Germany and I'm looking forward to broadcasting your awesome content to the nostr network!\n https://image.nostr.build/3853419f330a13979fce90dcff06e7dab3f827f7af0153cc09d012a12904ae93.png\n\n #introduction #streaming #zapstream #nostr",
     "timestamp": "1758740395",
     "date": "9/24/2025, 6:59:55 PM",
