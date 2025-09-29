@@ -1,5 +1,75 @@
 [
   {
+    "content": "Is still prefer i3, it is so clean and minimalistic by default, with infinite customizability, and especially since it runs on Qubes",
+    "timestamp": "1759064438",
+    "date": "9/28/2025, 1:00:38 PM",
+    "id": "b9ff1313d8265875a3191700590a516ec0408d126f89e617c322485e197b4604",
+    "kind": 1
+  },
+  {
+    "content": "\"It just works\" on most devices and doesn't feel different or scary to new users.",
+    "timestamp": "1759064391",
+    "date": "9/28/2025, 12:59:51 PM",
+    "id": "35aa897a9841aa20fd3187a900dfe051377b55c3f39ee392e9d127f75090cce2",
+    "kind": 1
+  },
+  {
+    "content": "PopOS Beta 24.0.4 is quite good already and the new COSMIC UI is pretty, great for a first time Linux experience.\nsystem76.com/pop/pop-beta",
+    "timestamp": "1759062239",
+    "date": "9/28/2025, 12:23:59 PM",
+    "id": "041b21dcb544491607e144356970363aa708fbdf76bfb80525dbe0facb0b4070",
+    "kind": 1
+  },
+  {
+    "content": "There was a hacky PoC web app, nostr:nprofile1qqsthdwa5rs42euhnuz5xsrmmssr84hshwes7uj392vpeldj7z0zw3cppemhxue69uhkummn9ekx7mp0qyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhscs6htm might have that link.",
+    "timestamp": "1759062081",
+    "date": "9/28/2025, 12:21:21 PM",
+    "id": "4a59b3250c2b9eaf0be13fa4c3637ac761493281f4d2d8cc65cdaae2b2dca918",
+    "kind": 1
+  },
+  {
+    "content": "Libbitcoin is the way.",
+    "timestamp": "1759059298",
+    "date": "9/28/2025, 11:34:58 AM",
+    "id": "c09fb15240c8ae44974dc3dfe59ff34024314ea04df997bc3ffcf7fd6ce6578a",
+    "kind": 1
+  },
+  {
+    "content": "Finally, I’ve just released version 0.7.0 of nostrcheck-server.\n\nIt’s been months of hard work, and I’m proud to deliver the best release this project has ever had. The highlight: the integrated Nostr relay and full multi-tenancy support.\n\nChangelog 0.7.0\n\n- The Nostr relay (Brand new, built from scratch with full NIP support)\n- Multi-tenancy support (different domains, different configs, one instance)\n\n- Improved security engine.\n- Improved database engine.\n- Improved Redis engine.\n- New log engine.\n- Enhanced AI moderation engine.\n- Legal, privacy and TOS pages.\n- Refactored dashboard and settings page.\n- Custom file types and extensions.\n- Improved theming engine.\n- Tons of new configurable options.\n- Key converter frontend page.\n- Relay frontend page.\n- Improved install script.\n- General refactor and code cleanup.\n\nThanks to everyone who has followed the project and provided feedback. Available as standalone and Docker install. Enjoy! 🥳\n\nhttps://github.com/quentintaranpino/nostrcheck-server",
+    "timestamp": "1759059264",
+    "date": "9/28/2025, 11:34:24 AM",
+    "id": "f9b5b60200e29eeda101ef5a708c2f42d1b838cac5eb7940aaa946c835cf9759",
+    "kind": 6
+  },
+  {
+    "content": "This sounds very similar to nostr onion routing nostr:nprofile1qqsthdwa5rs42euhnuz5xsrmmssr84hshwes7uj392vpeldj7z0zw3cppemhxue69uhkummn9ekx7mp0qyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhscs6htm et al worked on at #SEC, do you have a link to that repo?\n\nWe spoke about this with Claudia Diaz, who I think poked a couple holes in the naive approach of doing this. Probably using a carefully designed mixnet like nym has stronger privacy guarantees, but these nostr hacks at least work easy in the browser.",
+    "timestamp": "1759058956",
+    "date": "9/28/2025, 11:29:16 AM",
+    "id": "ebc24ebbf8a487a05bb2140db89c53ffab37c0d7c106cd9c4a58ec5e4568dd33",
+    "kind": 1
+  },
+  {
+    "content": "Superball: Anonymous Nostr Posting\n\nhttps://laantungir.github.io/img_repo/0246a1c67289367573fcc552dffdc54867c15cca200572e12499db2d907df66b.jpg\n\nThis is an experiment I call #Superball.\n\nSuperballs are a way to post nostr events that help preserve the anonymity and location of the sender. Superballs use timing delays and add or subtract event padding to help defeat timing and size analysis, such as is used to help defeat TOR anonymity.\n\nA Superball is a wrapped nostr event that is posted to a relay and picked up by a \"Thrower\". A Thrower is a program that watches relays for Superballs that are marked for them. The Thrower grabs the Superball, decrypts the outer shell of the Superball and reads the instructions inside, which tell the Thrower:\n\n1. What relays to throw the superball to next.\n2. How long to wait before throwing the superball.\n3. Whether to add or remove padding to the superball to obscure its size.\n\nWhen you create a Superball, you can chain throwers together. Depending on where the Thrower is in the chain, the Thrower will either rewrap the Superball with optional padding and post it to relays where it can be picked up by the next Thrower, or post the final event.\n\nBut enough talk. It's best understood by using it.\n\nI have implemented the protocol in two web pages, which you can use to test it out:\n\nThis page lets you create and throw a superball. You can log in as yourself if you want, and just throw a superball. There are already throwers up. https://laantungir.net/superball/superball.html\n\nThis page lets you create a thrower. You can open as many of these pages as you want to create as many throwers as you want. You can watch your superballs propogate through your throwers. Don't log in as yourself. Log in as a new account to create a thrower. https://laantungir.net/superball/thrower.html\n\nIf you don't like reading instructions, go ahead and dive in. You can probably figure it out if you are nostr savy.\n\nIf you like instructions, keep reading:\n\nQUICK START ONE- Throw a single bounce Superball\n\nGo here to create a superball and throw it:\n\nhttps://laantungir.net/superball/superball.html\n\n1. Sign in with your favorite nostr method, or create a new throwaway test key.\nhttps://laantungir.net/superball/img/sb1.png\n\n2. Create a type 1 event that will eventually be posted.\nhttps://laantungir.net/superball/img/sb2.png\n\n3. Click on the Add Bounce button.\nhttps://laantungir.net/superball/img/sb3.png\n4. You have to, at a minimum, choose a thrower, along with what relays you want the thrower to throw your event to. The default delay is 30 seconds.\n5. Click on Throw Superball, with the blue outline.\n6. Scroll down to Event Flow Visualization. This will show you how your Superball will bounce around NOSTR.\nhttps://laantungir.net/superball/img/sb4.png\n7. Click on Throw Superball.\n8. Click on Reset Builder to start again.\n\nQuick Start Two: Throw a Double Bounce Superball\n\n1. Click on Reset Builder on the bottom right of the page.\n2. Repeat steps 1-6\n3. Click on Add Bounce, and add another bounce. Note that with 2 or more bounces, you can now specify that the thrower add padding to the Superball, to defeat any size analysis of your superball. \n\nQuick Start Three: Create and Use Your Own Thrower\n\n1. In a separate browser window, go to https://laantungir.net/superball/thrower.html\n2. Log in not with your own key, but with a key you want to use for your Thrower that you are going to create. Jot down the key.\nhttps://laantungir.net/superball/img/thrower01.png\n3. Click on Edit Thrower Info, and give your thrower a fun name and description. Save the info. You may have to log back in for that information to display properly on this page.\n4. Go to Edit Relays to add relays that you want your Thrower to be able to read from and write to. Save Relay Configuration.\n5. Test Relays. Because your thrower will be publishing someone else's notes, it can't publish to relays that require authentication. That is what this button does.\n6. Click on Start Thrower. Your thrower will then publish a kind 12222 thrower information document. This lets the world know your thrower is alive and active.\n7. Go back to https://laantungir.net/superball/superball.html. Under Available Throwers, click on Refresh List and your thrower should appear. The account you logged into on the Superball Builder page has to follow at least one relay that the Thrower publishes to, or you won't see it.\n8. Go ahead and create a superball, select your thrower, and throw it.\n9. When the Thrower receives the Superball, it will show it in the Event Queue. You can follow the Processing Log if you encounter problems.\n\nProject Link\n\nhttps://git.laantungir.net/laantungir/super_ball\n\nInspiration\n\nWhen I was a kid, I used to buy superballs from gumball machines, go into parking lots, and throw my superballs down as hard as I could onto the pavement. Hours of fun.\n\nThe early cypherpunks used Anonymous Remailers. I believe this may have been one of the most anonymous ways to message ever created. Tor and I2P are great, and can't be replaced, but their immediate nature means that they will always be vulnerable to timing attacks. Remailers helped solve this, and I think Superball can do the same on nostr.",
+    "timestamp": "1759058738",
+    "date": "9/28/2025, 11:25:38 AM",
+    "id": "db491cb31828c3edc81b6fa783e16c0ac6d40e1f815a4fd4a22aba40e7513116",
+    "kind": 6
+  },
+  {
+    "content": "This is I think a major breakthrough in praxeological thought by Eric Voskuil, the axiom of resistance.\nhttps://github.com/libbitcoin/libbitcoin-system/wiki/Axiom-of-Resistance",
+    "timestamp": "1759058408",
+    "date": "9/28/2025, 11:20:08 AM",
+    "id": "f0e45d025df2b2210f32180a93118442773cbb135e32293fdd9dbc7720fa3943",
+    "kind": 1
+  },
+  {
+    "content": "When does Bitcoin fail?\n\n\"When people stop using it and stop resisting an adversary...\"\nby nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uqjqamnwvaz7tmwdaehgu3wv45kuatwv3a8wctw0f5kwtnnwpskxef0qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lq7j7xf3 \n\nGreat interview by nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpqdg6es53r3hys9tk3n7aldgz4lx4ly8qu4zg468zwyl6smuhjjrvsm58xhx \nhttps://www.youtube.com/watch?v=dyuptJD8YQg\n\n",
+    "timestamp": "1759058329",
+    "date": "9/28/2025, 11:18:49 AM",
+    "id": "9e2cc7c32456dda0fcdfbf1ab1d358e6977d6f7e23251ddd0685a5d9898a3f1c",
+    "kind": 6
+  },
+  {
     "content": "Tails 7.0 is here!\n\nAnonymised Linux based on \nDebian 13 (Trixie) and \nGNOME 48 (Bengaluru)\n\nhttps://tails.net/news/version_7.0/ https://image.nostr.build/1e05805cff5c65a0e9e7a22aa7b7e4f9fc198aff6dc1e7c40fc7ba1ca488f91e.jpg",
     "timestamp": "1759007071",
     "date": "9/27/2025, 9:04:31 PM",
