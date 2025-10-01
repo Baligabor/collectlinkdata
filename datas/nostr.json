@@ -1,5 +1,54 @@
 [
   {
+    "content": "Very powerful!",
+    "timestamp": "1759269628",
+    "date": "9/30/2025, 10:00:28 PM",
+    "id": "bd4c1eb582a63788b8cb58a604a2bf1f8631d1d57fdd3bda5e61814f825f963f",
+    "kind": 1
+  },
+  {
+    "content": "Nerd warning.\nI managed to hack together a DNS resolver that resolves A records via relays.\nThe ideas is that any npub that has valid records can be expressed as part of the npub.openproof.org domain (I own this one). I also managed to get certbot working to issue a valid TLS certificate. Below this points to my #nostr #safebox site.\n\nhttps://npub1h9taws9gujwja2weyxzhawfahwqljcm3cs7wjv5vv70dvtx637wsl8rhx0.npub.openproof.org/",
+    "timestamp": "1759269544",
+    "date": "9/30/2025, 9:59:04 PM",
+    "id": "add984379c567d28026f28610421eabb87f4870418a29921b5afff2258ebdeac",
+    "kind": 6
+  },
+  {
+    "content": "We launched Liana v13 yesterday evening, many major improvements in this release again.\n- Encrypted descriptors\n- Fiat prices and input\n- Clearer signing device selection modal\n- and a lot more\n\nhttps://wizardsardine.com/blog/liana-13.0-release/\n",
+    "timestamp": "1759240734",
+    "date": "9/30/2025, 1:58:54 PM",
+    "id": "00a20fdfd4510e00b81528577fd88ae9423d149f6cdd7c9ad789303265fda66f",
+    "kind": 6
+  },
+  {
+    "content": "$850k for for-profit and non-profit Bitcoin-related projects!\nApply before October 10th!\nhttps://forms.gle/BKmgCBnX7XXjgNnm8",
+    "timestamp": "1759239505",
+    "date": "9/30/2025, 1:38:25 PM",
+    "id": "1dc97154e135039986035efdf57d6e2b8b99710059a71d853c9174011c8c09de",
+    "kind": 6
+  },
+  {
+    "content": "That's awesome!",
+    "timestamp": "1759238063",
+    "date": "9/30/2025, 1:14:23 PM",
+    "id": "e08b7809e9226fe57053cc49c9113d405828a7021245e007e0fbce495eb1c7fa",
+    "kind": 1
+  },
+  {
+    "content": "Ever wished your posts could queue themselves while you’re offline ? \nComing soon, exclusively on YakiHonne.\n\n https://video.nostr.build/9dff5e7ed2a5ab4c2308b072c5660bb7b9099232560d12abb9d27e62c310d75f.mp4",
+    "timestamp": "1759238054",
+    "date": "9/30/2025, 1:14:14 PM",
+    "id": "0c39edcf770f4df932f21812023fa76c165509cc3db641b167969fb695ed954f",
+    "kind": 6
+  },
+  {
+    "content": "Yet another wonderful, full of insight interview with nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpypmhxue69uhkummnw3ezuetfde6kuer6wasku7nfvuh8xurpvdjj7qghwaehxw309aex2mrp0yhxz7n6v9kk7tnwv46z7pxxtmh, this time on nostr:nprofile1qqsx5dvc2g3cmjgz4mgelwlk5p2ln2ljrsw23y2ar38z0agd7tefpkgpzpmhxue69uhkummnw3ezuamfdejszvmhwden5te0demkxtnswf5k6ctv9ehx2ap0vv6xjc3cdqe8yuekxf3xkmtvdv68wafhdf3xkmeew4nhzcnw0g9352 show #You’reTheVoice\n\nTaking into account the recent Digital ID introductory changes in the UK and the vote in Switzerland, it’s really important to familiarize yourself with the theories behind #FreedomTech and self-sovereignty. \n\nThank you both for bringing this to mine and world’s attention! \n\nhttps://fountain.fm/episode/zd5q3mF7xwjfmpuHZ5kR\n\nCheck it out!\n\n#FoodforThought",
+    "timestamp": "1759238035",
+    "date": "9/30/2025, 1:13:55 PM",
+    "id": "fafb5e4ad2872328cafe937cc56a22371d3e1c7be9a8bf755147275e25f38659",
+    "kind": 6
+  },
+  {
     "content": "Is still prefer i3, it is so clean and minimalistic by default, with infinite customizability, and especially since it runs on Qubes",
     "timestamp": "1759064438",
     "date": "9/28/2025, 1:00:38 PM",
