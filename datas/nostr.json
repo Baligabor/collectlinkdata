@@ -1,5 +1,19 @@
 [
   {
+    "content": "White Noise is a chat app built on the marmot protocol.",
+    "timestamp": "1759411072",
+    "date": "10/2/2025, 1:17:52 PM",
+    "id": "e5623836306d7e2a860c60be39158fd610a9cbcb225d93e100f4cec5d598a12d",
+    "kind": 1
+  },
+  {
+    "content": "What do you get when you cross Messaging Layer Security with Nostr's decentralized network? A Marmot. 🦫\n\nIntroducing Marmot: Marmot is an evolution of NIP-EE into a full protocol with modular specs for optional features. Built for the future of secure messaging!\n\nWe're also excited to announce MDK (Marmot Development Kit) - a standalone Rust library following the BDK/LDK model.\n\nCheck out the blog post for more details! ⚡\n\n📄 Protocol: github.com/parres-hq/marmot\n🦀 MDK: github.com/parres-hq/mdk\n\nnostr:naddr1qvzqqqr4gupzq9eemymaerqvwdc25f6ctyuvzx0zt3qld3zp5hf5cmfc2qlrzdh0qyv8wumn8ghj7enfd36x2u3wdehhxarj9emkjmn99uq36amnwvaz7tmfdejx27r9wghxxmmjv93kcefwwdhkx6tpdshsqvtfde68ymmyw43kjmn894kkzundda6z6argv5kkvat5w4ex2tt0vckhxetrw4ex2ttdv4ehxct8d9hxw09cvnl\n",
+    "timestamp": "1759411025",
+    "date": "10/2/2025, 1:17:05 PM",
+    "id": "83822a6d75bf199dfb786f96265cce8b56888e12d1fb46d1ebc2e64efc738c2f",
+    "kind": 6
+  },
+  {
     "content": "Will go live with nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt in 2 hours to discuss his new project: White Noise\n\nA Nostr-based privacy messaging platform which comes at the right time to counter Chat Control in Europe. \n\nJoin us if you would like to learn more!\n\nhttps://youtube.com/live/amNaZ35KIo8?feature=share\n\nhttps://video.nostr.build/24df2aa1d291e55a911c97b09fe35c673bd5263b2ad5eb8effa77003cdaa7bef.mp4",
     "timestamp": "1759329373",
     "date": "10/1/2025, 2:36:13 PM",
