@@ -1,5 +1,12 @@
 [
   {
+    "content": "**Bisq Easy on Mobile**\nIt’s never been easier to get Bitcoin — peer-to-peer and privacy-preserving over Tor.\n\nWe’re happy to announce that Bisq Easy is now available for Android — both as an APK and on the Google Play Store.\n\nhttps://github.com/bisq-network/bisq-mobile/releases/anode_0.1.1\n\nhttps://play.google.com/store/apps/details?id=network.bisq.mobile.node\n\n**Full node in your pocket.**\nYour phone runs a P2P node over the Tor network — just like Bisq on desktop.\nTor is fully integrated, no extra setup required.\n\nWhen the app goes into the background, network connectivity usually remains active for a while (depending on usage and system resources).\nIf it disconnects, the app automatically reconnects within seconds when reopened.\n\nWhy no iOS (yet)?\nBisq is built in Java, which integrates easily with Android but not with iOS.\nA full rewrite for iOS would be a prohibitive effort.\n\nBut stay tuned — we’re working on Bisq Connect, a companion app that acts as a “remote control” for your desktop or VPS-hosted Bisq node, also running over Tor.\nIt will be available for both Android and iOS.\n\nExcited? Give it a try! We’d love your feedback — and if you find it useful, help spread the word.\n\n\n",
+    "timestamp": "1760253310",
+    "date": "10/12/2025, 7:15:10 AM",
+    "id": "04046428807c13d2ec6965fc7b1cddf75618895cf01c85d3545449c3ce304ba2",
+    "kind": 6
+  },
+  {
     "content": "The slowmo is unreal...\nCan you do it blindfolded?",
     "timestamp": "1760172126",
     "date": "10/11/2025, 8:42:06 AM",
