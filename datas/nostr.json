@@ -1,5 +1,12 @@
 [
   {
+    "content": "Phil Zimmermann almost faced prison for publishing PGP. Why? The U.S. argued secure code was a weapon. nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqv6g2cl Hillebrand reminds us: privacy tech has always been criminalized—Because when people can’t be spied on, they can’t be easily stolen from.\n\nFull episode on nostr:nprofile1qqsdcz7puq6jv9ahh58h26zxl5gwl7xks548ck48uyfmsx0kzlfl3rcfrx0pj!\n\nhttps://blossom.primal.net/17944c4e891f967d95834c629963880f690637c995f9d3c0808bd7e06b946ea1.mp4",
+    "timestamp": "1760519821",
+    "date": "10/15/2025, 9:17:01 AM",
+    "id": "f199bb3287b3da5a206e0e8d271e2bb748b3ec2e7a970ee4a66412c1820ea488",
+    "kind": 6
+  },
+  {
     "content": "**Bisq Easy on Mobile**\nIt’s never been easier to get Bitcoin — peer-to-peer and privacy-preserving over Tor.\n\nWe’re happy to announce that Bisq Easy is now available for Android — both as an APK and on the Google Play Store.\n\nhttps://github.com/bisq-network/bisq-mobile/releases/anode_0.1.1\n\nhttps://play.google.com/store/apps/details?id=network.bisq.mobile.node\n\n**Full node in your pocket.**\nYour phone runs a P2P node over the Tor network — just like Bisq on desktop.\nTor is fully integrated, no extra setup required.\n\nWhen the app goes into the background, network connectivity usually remains active for a while (depending on usage and system resources).\nIf it disconnects, the app automatically reconnects within seconds when reopened.\n\nWhy no iOS (yet)?\nBisq is built in Java, which integrates easily with Android but not with iOS.\nA full rewrite for iOS would be a prohibitive effort.\n\nBut stay tuned — we’re working on Bisq Connect, a companion app that acts as a “remote control” for your desktop or VPS-hosted Bisq node, also running over Tor.\nIt will be available for both Android and iOS.\n\nExcited? Give it a try! We’d love your feedback — and if you find it useful, help spread the word.\n\n\n",
     "timestamp": "1760253310",
     "date": "10/12/2025, 7:15:10 AM",
