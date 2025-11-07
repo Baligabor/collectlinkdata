@@ -1,5 +1,40 @@
 [
   {
+    "content": "Join me for Ep 136 of nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3wvf5hgcm0d9hx2u3wwdhkx6tpdshsqg9dn4pzq07jfq829ewyceze8gp8wz9whc4s92nqh4a36end4fds35xl9mtm tomorrow, Friday, Nov 7 at 3pm ET (2000 UTC)\n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uqjqamnwvaz7tmwdaehgu3wv45kuatwv3a8wctw0f5kwtnnwpskxef0qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lq7j7xf3 returns to the show to share his wisdom and calming presence.\n\nSet your blockclocks!\n\nThe show will be streamed live on zap.stream/pcr",
+    "timestamp": "1762461883",
+    "date": "11/6/2025, 8:44:43 PM",
+    "id": "703d3843d6f6ceedec75a2119d287edd11ec742222448fb24a1d698ada4bbe8e",
+    "kind": 6
+  },
+  {
+    "content": "The pace of the project is really incredible, big plans.",
+    "timestamp": "1762443659",
+    "date": "11/6/2025, 3:40:59 PM",
+    "id": "4dc901151740497c2d27b31902c7234668453f514cb66ca0e2ef86d99a7536b3",
+    "kind": 1
+  },
+  {
+    "content": "Hey there 👋 \n\nThe last two months? Busy. Productive. A little intense (in the best way). We shipped major updates, refactored deep under the hood, and launched a protocol that’s been in the works for a while. Plus, we got a wave of real-world feedback. some of it stung, all of it helped. Exactly what we needed.\n\nLet’s break it down.\n\n📦 Two big releases: built on real feedback\n\n- v0.1.4 (The Punch-In-The-Face Update)\n\nWe dropped 0.1.4 at the end of September: a release that marked a turning point. After 0.1.3 hit the wild, users gave us real, raw feedback. And we listened. Hard. \n\nAt the heart of this release was a major overhaul of the core Rust crate. We refactored big chunks of the backend to align with a new API, which yes, meant rewriting a lot of stuff. But the result? Smoother, faster, and a lot more solid.\n\nv0.1.4 Highlights:\n\n🔧 Stability upgrades: reworked relay connections, event processing, and group logic.\n🚀 Performance boosts: reduced lag, faster responses.\n✨ UX polish: drafts now save securely. Chats scroll like they’re supposed to. “Start New Chat” got a facelift.\n🧼 Visual tweaks: cleaner UI, skeleton loaders, bottom sheets with silky animations.\n📱 Better support: Android v7a builds for older devices. Versioned binaries + SHA-256 hashes for the careful types.\n\t\nPrepping for v0.2.0 ( We're Not Slowing Down)\n\nAfter 0.1.4, we kept the momentum. A bunch of exciting things are landing:\n\n🖼️ Image support: encrypted media sharing via the brand new MIP-04 spec.\n🔔 Local notifications (Android-first): fully private, device-side alerts. No servers involved. You get notified, your privacy stays intact.\n🙋‍♂️ UX enhancements: avatars in group chats. Smarter notifications.\n🌍 Global ready: Multi-language support: English, German, Spanish, French, Italian, Portuguese, Russian, Turkish.\n🧑‍🤝‍🧑 Group Power-Ups: add people to existing groups without losing encryption guarantees.\n\n- 🦫 Say Hi to MARMOT PROTOCOL\n\nNow, here’s the big one: Marmot. Yeah, we launched a protocol. It’s native to Nostr, built from scratch, and (not to brag) it’s a game-changer for secure group messaging.\n\nWhat makes Marmot different?\n\nMarmot combines MLS (Messaging Layer Security) with Nostr’s decentralized architecture. \n\nThat means:\n\n🔒 True End-to-End encryption: only you and your people can read your messages.\n🌐 No central servers: no single point of failure. Or censorship.\n🕵️‍♂️ Metadata protection: not just the message, it hides who you’re talking to.\n🧢 Identity flexibility: No phone numbers. No emails. Just your keys.\n🔥 Censorship resistance: if one relay goes down, another steps in.\n\t\nMIP-04 (Secure Media, Done Right). It lets you share images and files securely in Marmot groups. \n\nHere’s what’s under the hood:\n\n🔐 ChaCha20-Poly1305 AEAD encryption \n🗂️ Content stored via content-addressed systems like Blossom\n🔁 Forward secrecy & post-compromise security\n✅ Integrity checks to make sure no one’s tampering\n\t\n❤️ We don’t just slap features together… we design them to last.\n\n🎤 On the Global Stage\n\nIn case you missed it: nostr:nprofile1qqspwwwexlwgcrrnwz4zwkze8rq3ncjug8mvgsd96dxx6wzs8ccndmcpzamhxue69uhkv6tvw3jhytnwdaehgu3wwa5kuegpzamhxue69uhkummnw3ezu6rpwd5xyctwvuhxumq47j9et  and nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpypmhxue69uhkummnw3ezuetfde6kuer6wasku7nfvuh8xurpvdjj7qghwaehxw309aex2mrp0yhxz7n6v9kk7tnwv46z7pxxtmh  hit the stage at the Lugano Plan B Forum, talking about privacy, Bitcoin, and how to build messaging that actually respects you. (Spoiler: people listened.)\n\n🚧 What’s next\n\nMarmot is still in development( experimental but promising). The cryptography is solid, and we’re iterating fast. New release in COMING SOON, and real-world testing is shaping every release.\n\nFollow us for new updates!\nhttps://blossom.primal.net/aaeff29a27d8872abafa54576917012e176e57486aa450dfc96ab91615a58116.jpg",
+    "timestamp": "1762443121",
+    "date": "11/6/2025, 3:32:01 PM",
+    "id": "62a006471225765caf2c304635c505fad3376c68d859011d20d0b052c39df103",
+    "kind": 6
+  },
+  {
+    "content": "the mystery of life isn’t a problem to solve, but a reality to experience\n \n\nhttps://blossom.primal.net/b89522b11a316d18787671b6628efb0e77f13ea4dcad006f457afea06e0b0539.mp4 ",
+    "timestamp": "1762439625",
+    "date": "11/6/2025, 2:33:45 PM",
+    "id": "3baa1d1f75757c61603d7c779821d3c42b77fafd9088934f0bbe44439ffe8e97",
+    "kind": 6
+  },
+  {
+    "content": "Is there a way to configure Graphene so that two apps can play audio simultaneously?\nnostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcnv0md0",
+    "timestamp": "1762431522",
+    "date": "11/6/2025, 12:18:42 PM",
+    "id": "b562446fb785d9833866ac759c3408856b6aaac2082552f8beaad789a0faf9bc",
+    "kind": 1
+  },
+  {
     "content": "remember remember",
     "timestamp": "1762358507",
     "date": "11/5/2025, 4:01:47 PM",
