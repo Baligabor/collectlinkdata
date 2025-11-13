@@ -1,5 +1,26 @@
 [
   {
+    "content": "By the way, I don't think that last paragraph is correct.\nIf the attacker compromises a maintainer GitHub account, they will not have access to the PGP private key to sign the malicious release, thus clients wouldn't update the package.",
+    "timestamp": "1762949804",
+    "date": "11/12/2025, 12:16:44 PM",
+    "id": "65b7dd85fedf3e21d8db6233600d64d7942f60d9180ac81a62f8251546a69b15",
+    "kind": 1
+  },
+  {
+    "content": "498 input coinjoin transaction, NEW WORLD RECORD!\nhttps://mempool.space/tx/278126c43dc16ec2f05ed2eff4c77d8871e502d5f61affcfea296312b4ce36a7",
+    "timestamp": "1762949598",
+    "date": "11/12/2025, 12:13:18 PM",
+    "id": "1ac914da7fb9305573b6e9bdb97a9b9ad1c91a9ce36df1ffe7e2dabf794a6f32",
+    "kind": 6
+  },
+  {
+    "content": "Just saying 👀\nhttps://blossom.primal.net/225cc0fa87d279ed19d313d83c804eb4cd267c9a148a95f51135aca36928cb31.jpg",
+    "timestamp": "1762948484",
+    "date": "11/12/2025, 11:54:44 AM",
+    "id": "5fa1c2b58b705bb58f3f8882ef24f60dbf855843391fab4d96ea6b12ce9fd2dc",
+    "kind": 6
+  },
+  {
     "content": "https://spendabit.co a search engine that finds products you can buy with bitcoin.",
     "timestamp": "1762878647",
     "date": "11/11/2025, 4:30:47 PM",
