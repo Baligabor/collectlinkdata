@@ -1,5 +1,33 @@
 [
   {
+    "content": "Different protocols / details for the chats.\nWhite Noise uses marmot (MLS, Nostr, Blossom)",
+    "timestamp": "1763040759",
+    "date": "11/13/2025, 1:32:39 PM",
+    "id": "b12e4b4e7a0fc346b5053fd33b47b0eccd5e03117da50d4fa4ad462828426f85",
+    "kind": 1
+  },
+  {
+    "content": "Really?\nIn our testing it was always very low percentage usage.\nHow old is your phone?",
+    "timestamp": "1763040710",
+    "date": "11/13/2025, 1:31:50 PM",
+    "id": "db5d146c064d00ef919ba9a23ea679864c50bffd5d5908549e84e0cb15642c5d",
+    "kind": 1
+  },
+  {
+    "content": "Click on start new chat, then help and feedback",
+    "timestamp": "1763040677",
+    "date": "11/13/2025, 1:31:17 PM",
+    "id": "86efee0413f74b8c903f91f3b1c74b96312a86c3355fc7e6a87d6fe9a78c5512",
+    "kind": 1
+  },
+  {
+    "content": "Thanks for the feedback, very helpful!\nSome of these will be fixed in the next release.\nStay tuned and keep these reports coming please",
+    "timestamp": "1763040379",
+    "date": "11/13/2025, 1:26:19 PM",
+    "id": "0e6c4adbf33ee68a740001714d78cde925fce4e5199cf16854596b0b60d0a42f",
+    "kind": 1
+  },
+  {
     "content": "By the way, I don't think that last paragraph is correct.\nIf the attacker compromises a maintainer GitHub account, they will not have access to the PGP private key to sign the malicious release, thus clients wouldn't update the package.",
     "timestamp": "1762949804",
     "date": "11/12/2025, 12:16:44 PM",
