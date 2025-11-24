@@ -1,5 +1,12 @@
 [
   {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp v0.2.1 is out!\nMany small improvements and bug fixes.",
+    "timestamp": "1763928232",
+    "date": "11/23/2025, 8:03:52 PM",
+    "id": "5881882201ecd58a7d05a81db7e489d18304a5eeb0cad87d4e2ce885c46ac9f7",
+    "kind": 1
+  },
+  {
     "content": "Yup, That's why secretless recovery with wot is cool, and works specifically well in nostr.",
     "timestamp": "1763730534",
     "date": "11/21/2025, 1:08:54 PM",
