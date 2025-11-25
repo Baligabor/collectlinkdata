@@ -1,5 +1,89 @@
 [
   {
+    "content": "Amber support coming hopefully soon.\nIn the mean time, just create a new nsec, they're free!",
+    "timestamp": "1764013230",
+    "date": "11/24/2025, 7:40:30 PM",
+    "id": "e578138318b34a6b9cfaf97741f7cc7a74c4e00825b168b091c976a09c092add",
+    "kind": 1
+  },
+  {
+    "content": "Can you reproduce with another nsec?",
+    "timestamp": "1764009645",
+    "date": "11/24/2025, 6:40:45 PM",
+    "id": "a97c6b261152ee5cb84a9377692595f322ad2a8ff503bfafa81d49c96638972e",
+    "kind": 1
+  },
+  {
+    "content": "Try clicking the button again and it might work.",
+    "timestamp": "1764008751",
+    "date": "11/24/2025, 6:25:51 PM",
+    "id": "a2bc54ac9bf85c33513f55f53ce219a033633bf1db9f814234d0a5ede8275705",
+    "kind": 1
+  },
+  {
+    "content": "Good catch, will be fixed!",
+    "timestamp": "1764008726",
+    "date": "11/24/2025, 6:25:26 PM",
+    "id": "1407ebeaa65200a2f845281bc9fd63f4e68ea388e1a9301af7d75cdfb150c1a3",
+    "kind": 1
+  },
+  {
+    "content": "Best install White Noise in nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhxetpwf3kstnwdaejuar0v3shjtc3uszjr",
+    "timestamp": "1764008694",
+    "date": "11/24/2025, 6:24:54 PM",
+    "id": "fed4ae45b66a4ea3bc2888a94251d4288282c8a6df7de7a26fa9ac609150ac0e",
+    "kind": 1
+  },
+  {
+    "content": "The law of comparative advantage is best understood as a priori in its logical form: \"if agents differ in relative productivity, then mutual gains from specialization are possible\" is analytically true given the concepts of opportunity cost and exchange. \n\nHowever, you're right to press on this: the antecedent condition of human heterogeneity is not derivable from the action axiom alone. It's an empirical fact about the world, not a logical necessity. So the law occupies a hybrid status: the inferential structure is a priori, but its real-world applicability and social significance depend on contingent facts. This is actually a broader tension within praxeology - the action axiom may be apodictic, but substantive economic laws typically require auxiliary assumptions (heterogeneity, multiple goods, time preference) that smuggle in empirical content.",
+    "timestamp": "1764007835",
+    "date": "11/24/2025, 6:10:35 PM",
+    "id": "6b27f4de0463ec2d1f91dfafaa944cf91c2c73b76b80094b742d7468f55a6ccc",
+    "kind": 1
+  },
+  {
+    "content": "Yes, later.",
+    "timestamp": "1764007510",
+    "date": "11/24/2025, 6:05:10 PM",
+    "id": "fa3e51d7225b448c82783ffc0af2ff2de39f6e2b61ac5a4f75a3b57151fb4f40",
+    "kind": 1
+  },
+  {
+    "content": "White Noise v0.2.1 is out!\n\nNotifications behave better, images are smoother, and the app gets out of your way a bit more. \n\nSO. What’s new?\n\n ✨New Features\n\nNotifications & navigation\n\n- Deep linking for notifications: tapping a notification now takes you directly to the correct chat or invite screen\n\n- Automatic notification clearing: notifications for messages and invites disappear when you open the related chat\n\n- Unread counts: added unread message counts for both DMs and groups.\n\n- Notification translations: added proper localization support in notifications.\n\n🖼 Images & Media\n\n- Automatic image downloads: images in messages now download automatically.\n\n- Image zoom: added zoom functionality for images in messages.\n\n- Media icons in previews: message previews in the chat list now show a media icon when images are present.\n\n👣 User Experience\n\n- Identicons: replaced single-letter avatars with unique identicons for better visual identification.\n\n- Unsaved changes dialog: added protection against accidental back navigation on the edit profile screen.\n\n🐛 Bug Fixes\n\nChat Experience\n\n- Scroll behavior improvements: chat now jumps instantly to the bottom when opened, does not auto-scroll for incoming messages, and only scrolls when you send a message.\n\n- Fixed disappearing messages: messages no longer temporarily disappear after being sent\n\n- Better hit-box: the chat bubble hit-box now spans the entire width for easier interaction\n\n- Scrollable group details: chat details during the creation flow are now properly scrollable\n\n🔔 Notifications\n\n- Missing notifications fix: fixed an issue where multiple messages arriving in the same polling window could miss notifications.\n\n- Inactive account navigation: fixed notification navigation for inactive accounts.\n\n💅 UI Polish\n\n- Developer settings: fixed content going under the three-button bottom navigation on GrapheneOS and some Android devices.\n\n- Keypackage buttons: fixed the loading state displaying incorrectly on keypackage operation buttons.\n\n- Chat screen padding: reduced unnecessary bottom padding in the chat screen.\n\n- Avatar colors: refactored avatar color handling for consistency.\n\n💪 Performance Improvements\n\n- Optimized group metadata: improved group metadata loading and caching.\n\nNon-blocking user fetch: switched several areas to use non-blocking user fetch for better responsiveness.\n\n- Smarter data loading: added digests and improvements to avoid reloading everything on every update.\n\n- Notification efficiency: avoided fetching all groups unnecessarily for notification details.\n\n- Background sync optimization: increased the foreground task repeat interval from 1 second to 60 seconds for better battery life.\n\n 🛠 Technical Improvements\n\n- Better error messages: improved error messaging throughout the app.\n\n- Updated Rust crate: updated the underlying Rust crate with various improvements.\n\n- Added get_group method : new bridge method for better group data access.\n\nThis release sharpens notifications, makes images easier to work with, and cleans up a bunch of UI/UX issues reported by the community. The performance work under the hood should make White Noise feel smoother and more responsive in everyday use. \n\nThank you for the support 🖤\nhttps://blossom.primal.net/704ca785d6779340882055987e64982c02e0da5085a67fae0fac69ec272370e1.jpg",
+    "timestamp": "1764007249",
+    "date": "11/24/2025, 6:00:49 PM",
+    "id": "5c8fadb3d020f0b45a8d3a6cb19170804f707cb03c78e1c8204ac537bae1340e",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqswacu3amp428kj8wtpqf77yd2upukcn2ft4aycmxm5scmh359e0ssppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uvt9vcv",
+    "timestamp": "1764003212",
+    "date": "11/24/2025, 4:53:32 PM",
+    "id": "35cf4f0f13b1c00a28038f4a55c0b74d6fc9f7699295542153fd119561e125d2",
+    "kind": 1
+  },
+  {
+    "content": "It might be that they didn't use it enough to \"get it\", nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt said it best, using X and other legacy social media show you stuff based on an algorithm but nostr has Bitcoin payments behind it so it shows you what you would like. \"And so we build a way to send and receive Bitcoin so that your friends see what's the stuff that you like. And that's a social signal that's not just likes and reposts but a real monetary cost of, hey, I value this thing. And nostr:npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc has the perfect line of, you wouldn't zap a car crash. Car crashes are something you just have to look at when it happens. You don't really want to see it, but your attention is drawn to it. You're somewhat tricked by your brain to actually look at it. But you wouldn't send money to it for how great it is. so we have a car crash economy in our attention seeking in the legacy social media that makes you see stuff that you don't really want to see but you're forced to look at it because the algorithm chooses to maximize for your attention and in nostr we can simply make that obsolete\" from nostr:npub1dg6es53r3hys9tk3n7aldgz4lx4ly8qu4zg468zwyl6smuhjjrvsnhsguz podcast. I had never thought of it before but yeah some people believe more noise IS more relevant unfortunately.",
+    "timestamp": "1764003178",
+    "date": "11/24/2025, 4:52:58 PM",
+    "id": "55755f906ebed53e9d9459a840406f9601d08cf617a97179e675e7607f22f720",
+    "kind": 6
+  },
+  {
+    "content": "„I can’t wait to be done with fixing the money, so we can finally get to fixing all the other stuff…” - nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcppemhxue69uhkummn9ekx7mp0gf8npz \n\nOn yesterday’s episode of nostr:nprofile1qqs8spcgqfgzxkcnerak0t40xs8jfsecgkeywrnam3lvp4qvqp5zv3gprdmhxue69uhkummnw3ezummjv9hxwetsd9kxctnyv4mz7qg7waehxw309ahx7um5wgkhqatz9emk2mrvdaexgetj9ehx2ap05jt7r5, Max Hillebrand offered yet another inspiring and greatly encouraging perspective on freedom within the digital space and beyond.\n\nIt’s certainly uncertain what the future holds, but listening to discussions such as this one certainly leaves me uplifted and energised.\n\nAfter the previous interview with Max I’ve listened to, I read “Cryptoeconomics” (and understood maybe about 10% of it), nevertheless, it was worth it.\n\nThank you both nostr:nprofile1qqsvfr3f7p95stxqrjslnmuvsmhcxxxqt8swjdfjx5tz7zq0yms5cygpzamhxue69uhkummnw3ezuendwsh8w6t69e3xj7spz4mhxue69uhk2er9dchxummnw3ezumrpdejql6mgf7 and Max for this incredible and dense in signal conversation. \n\nWholeheartedly recommended! \n\nCheck it out on Fountain: https://fountain.fm/episode/2f8dSIU59uV5xVrC2bu0\nhttps://blossom.primal.net/b823f5d632a7f510b137c5cd9449858fda6dc97f8b620e49887d787e5e914b66.jpg",
+    "timestamp": "1764003128",
+    "date": "11/24/2025, 4:52:08 PM",
+    "id": "7dd91113940df3a4dadb6882f2e51a338c73fe4d4c91b6574db5c5b38179dcd7",
+    "kind": 6
+  },
+  {
+    "content": "Yeah, finally...",
+    "timestamp": "1764003061",
+    "date": "11/24/2025, 4:51:01 PM",
+    "id": "0b4daf76b60140ed1bc17d567cd66d43bc110606c9574cfea7bac60c16266042",
+    "kind": 1
+  },
+  {
     "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp v0.2.1 is out!\nMany small improvements and bug fixes.",
     "timestamp": "1763928232",
     "date": "11/23/2025, 8:03:52 PM",
@@ -18,6 +102,13 @@
     "timestamp": "1763659717",
     "date": "11/20/2025, 5:28:37 PM",
     "id": "8f10954935121c337691befbe0026e253013e3826f713b2e52efe1db54a0701a",
+    "kind": 1
+  },
+  {
+    "content": "We should finally fix key rotation in Nostr.\nI think this approach makes a lot of sense.\nLet me know! nostr:naddr1qqgrydtrvyekywfev56nvdfjxsux2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w2k68hy",
+    "timestamp": "1763653941",
+    "date": "11/20/2025, 3:52:21 PM",
+    "id": "4e5c1f38b0a8f8029eb0ca26d6383b35e23bc0c7ea6b47394694ccd04ada31f8",
     "kind": 1
   },
   {
