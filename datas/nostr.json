@@ -1,5 +1,96 @@
 [
   {
+    "content": "That's a good roadmap.\n\nFYI android has great notifications already now (without google play services)",
+    "timestamp": "1764267594",
+    "date": "11/27/2025, 6:19:54 PM",
+    "id": "1bf8b0ca9f44355bba5700d7b6e7c13ded4afb797b0409a7d4178cb81532af58",
+    "kind": 1
+  },
+  {
+    "content": "I hope we can get this in the next big release, but the work hasn't even properly started yet, at least the rust-nostr library supports it now.",
+    "timestamp": "1764267277",
+    "date": "11/27/2025, 6:14:37 PM",
+    "id": "324ba85d0a2f42abd948637a46f535d744a11c65b5512ff3bb38a61e80f8fb67",
+    "kind": 1
+  },
+  {
+    "content": "I wouldn't call it flawless just yet, but thanks!",
+    "timestamp": "1764267241",
+    "date": "11/27/2025, 6:14:01 PM",
+    "id": "ea10d51c6489a12bd6dd4b51c27d4129940b5893f3a260fe8b49aaa84c9183cd",
+    "kind": 1
+  },
+  {
+    "content": "That's my first scare, too many devs does not equal fast and great code... Small teams can be deadly efficient.\n\nWe should scale horizontally with more projects.",
+    "timestamp": "1764267215",
+    "date": "11/27/2025, 6:13:35 PM",
+    "id": "01f75c0f3f2a1714599b0c9a1e9b2d85dd9f8cdbaa28660b452dafb2d357fe95",
+    "kind": 1
+  },
+  {
+    "content": "This is the way.",
+    "timestamp": "1764255373",
+    "date": "11/27/2025, 2:56:13 PM",
+    "id": "fe07930dc323c596d1a80a7ee073685f9fd608ca7c0cbaee43f1f8ac31859507",
+    "kind": 1
+  },
+  {
+    "content": "I realized that nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp might have the largest developer team in Nostr, we're 11 developers now.\n\nThat's scary in two ways:\n\nMaybe we're growing too fast.\nMaybe the others are not growing fast enough.\n\nIn any case, we don't have time to waste, freedom tech must be delivered at scale and quickly, if we want to save the web and its people.",
+    "timestamp": "1764255361",
+    "date": "11/27/2025, 2:56:01 PM",
+    "id": "5365055f60fc5d4d2c38a124d0ba33da7717c2cc6b8b9e9dc783b2ce401c8e27",
+    "kind": 1
+  },
+  {
+    "content": "I was wondering who built it, thanks for the connection.",
+    "timestamp": "1764244996",
+    "date": "11/27/2025, 12:03:16 PM",
+    "id": "af50ea5ec4e79c96165f462a17ce2d93d499ad86c7b1f54ae64bb20f93d490b2",
+    "kind": 1
+  },
+  {
+    "content": "Yes. There is full encryption between the different users, so I don't think it's possible to communicate across profiles for stuff like this.\nMaybe disable phone app on the second user?",
+    "timestamp": "1764243651",
+    "date": "11/27/2025, 11:40:51 AM",
+    "id": "c2218a8f98bb7d48fccac863c8ad609f542d27831456c77c6ef774d063bf7811",
+    "kind": 1
+  },
+  {
+    "content": "https://deflock.me",
+    "timestamp": "1764240554",
+    "date": "11/27/2025, 10:49:14 AM",
+    "id": "cf54dc7e07c9349ba921916422ca8b0ade0c656b69938ed652fe0c3678737f90",
+    "kind": 6
+  },
+  {
+    "content": "Just dropping in to say thank you for open sourcing the backend. Kinda crazy that not more projects do it.",
+    "timestamp": "1764240248",
+    "date": "11/27/2025, 10:44:08 AM",
+    "id": "c8df8b96ee13a1f40e6344b03c1a3164a49e5333e1a887ee79ece16e7267274d",
+    "kind": 1
+  },
+  {
+    "content": "There's already a settings for this.\n\nSettings > security and privacy > exploit protection > turn off WiFi/Bluetooth automatically.",
+    "timestamp": "1764240090",
+    "date": "11/27/2025, 10:41:30 AM",
+    "id": "e7ecdde4d46364ddfac5d18333beccb314a404bca93defa48330c59f6c598ef9",
+    "kind": 1
+  },
+  {
+    "content": "The new nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpzemhxue69uhhyetvv9ujuerfw36x7tnsw43z786xdyf Android QPR1 release adds some new UI features like compressing the notification buttons and turning on/off Bluetooth with a single click.\n\nHowever, the WiFi button still has the same behavior as before, it opens the pop-up selector where you have to click again to turn it on/off.\nnostr:nprofile1qqstnr0dfn4w5grepk7t8sc5qp5jqzwnf3lejf7zs6p44xdhfqd9cgspzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcnv0md0 is that expected or a missing feature? I'd love to be able to turn it off with a single click.",
+    "timestamp": "1764230101",
+    "date": "11/27/2025, 7:55:01 AM",
+    "id": "4d484382174d68d8f0d4fa0d447489cd06027be76ddaf3410f86afbd716fa3ec",
+    "kind": 1
+  },
+  {
+    "content": "There is an open questions for what is the longest chain algorithm.\nThe service could have generated a chain of 10 rotation events and withhold them, then the user publishes his rotation, and later the service publishes its entire chain.\nWhich one is valid?",
+    "timestamp": "1764225187",
+    "date": "11/27/2025, 6:33:07 AM",
+    "id": "26577ee8146b07b64ab7e542ec08227ea2d929a0bafce9c2a0a8ad0e22ca3b51",
+    "kind": 1
+  },
+  {
     "content": "A violated B's property and must pay recompense, which isn't much considering he didnt break anything.\nB of course must return with compensation the bike.",
     "timestamp": "1764167475",
     "date": "11/26/2025, 2:31:15 PM",
