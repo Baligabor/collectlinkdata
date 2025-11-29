@@ -1,5 +1,159 @@
 [
   {
+    "content": "DVM feeds work, but the request/response model is overkill for what's essentially a list of event IDs. I wrote up a simpler alternative using replaceable events: publishers maintain feed lists, clients just subscribe. nostr:naddr1qqgxyvf4v3jrqve3893xgwrzvvcnzq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wu35cl3",
+    "timestamp": "1764354973",
+    "date": "11/28/2025, 6:36:13 PM",
+    "id": "af92dc2cd286d9894c6e55254e8978bd5bbc09bb06536a7805cac0ea37d7f0d8",
+    "kind": 1
+  },
+  {
+    "content": "So, what do we have to do to get a Nostr Optech going?\n\nnostr:nprofile1qqstmwt26vdvdtcj83mg832hwhhzzwx6p78sz83ejn2k5fe8pe5j2agpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpzdmhxue69uhhqatjwpkx2urpvuhx2ue0qy28wumn8ghj7un9d3shjctzd3jjummjvuhsyxkqja nostr:nprofile1qqsgz07wf388du08kn6xj7l3qv9fpudqk7plrp7n9xqq5nwcd9lewkgpzemhxue69uhh2um9wghxk6twv3cxzeewv4ej7dvy0q4 nostr:nprofile1qqspg8l84qfgf4fvzl64p7qxhh9plwl5q32lvzzrj3azx2v77rez6ucpzemhxue69uhh2um9wghxk6twv3cxzeewv4ej7p5njm0 nostr:nprofile1qqspgwdt6s5cz9j74nxdq34a2ed26x0jx99f8tvm6zdds03ng2lvn8cpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq3vamnwvaz7tm9v3jkutnwdaehgu3wd3skuep0qy88wumn8ghj7mn0wvhxcmmv9uhvtwwu",
+    "timestamp": "1764342392",
+    "date": "11/28/2025, 3:06:32 PM",
+    "id": "01e3064369934622d42708fbaa50ab47a12a5778fb7410278475c40cea585267",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin Optech newsletter #382 is here:\n\n- provides an update on compact block reconstruction discussions\n- relays a call to activate BIP3\n- summarizes popular Q&A from Stack Exchange\n- Optech Newsletter #382 Podcast\nhttps://bitcoinops.org/en/newsletters/2025/11/28/\n\n0xB10C posted an update to Delving Bitcoin about his statistics around compact block reconstruction...\nhttps://bitcoinops.org/en/newsletters/2025/11/28/#stats-on-compact-block-reconstructions-updates\n\nMurch posted to the Bitcoin-Dev mailing list a formal motion to activate BIP3...\nhttps://bitcoinops.org/en/newsletters/2025/11/28/#motion-to-activate-bip3\n\nSelected Q&A from Bitcoin Stack Exchange:\n- Do pruned nodes store witness inscriptions?\n- Increasing probability of block hash collisions when difficulty is too high\n- What is the purpose of the initial 0x04 byte in all extended public and private keys?\nhttps://bitcoinops.org/en/newsletters/2025/11/28/#selected-qa-from-bitcoin-stack-exchange\n\nBitcoin Optech will host an audio recap discussion of this newsletter on Riverside.fm Tuesday at 17:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.fm/studio/bitcoin-optech",
+    "timestamp": "1764342187",
+    "date": "11/28/2025, 3:03:07 PM",
+    "id": "98c045e4add79d783662ad191049acb04c624cd874bd27d044e90fb1ad204540",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj76rzwghxxmmjv93kcefwwdhkx6tpdshsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0sadgdk might be interested too.",
+    "timestamp": "1764341893",
+    "date": "11/28/2025, 2:58:13 PM",
+    "id": "abdd46ece584d424d717a7c0087013d74a337814aff84fe6af254192a1ab09bf",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsxg45ph8gx0vdrvtzta6xal7v86frx6jvstsnvhrlvtehmwwh4epqpz4mhxue69uhksar5wpej7tmwdaejumr0dshsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0qydhwumn8ghj7mn0wd68ytnnv968xarjv9kxjcfwvdhk6tcgnx79f",
+    "timestamp": "1764333765",
+    "date": "11/28/2025, 12:42:45 PM",
+    "id": "4c04b64aacf1fcc36490a89a18c5e01fd489c202695952b193dd06bb3ed71678",
+    "kind": 1
+  },
+  {
+    "content": "Thing is that the outer marmot events only have a random and often changing group ID.\nIs it possible for White Noise to give the new group IDs to Pokey in the background for listening?",
+    "timestamp": "1764333677",
+    "date": "11/28/2025, 12:41:17 PM",
+    "id": "170b6e41f2d0f2993351a5f4b593e828eb104ee2252fba43892a4918bbdb562b",
+    "kind": 1
+  },
+  {
+    "content": "If you're not using Tor, then probably Mixnets are the way to go, I2P is kinda in between.",
+    "timestamp": "1764333046",
+    "date": "11/28/2025, 12:30:46 PM",
+    "id": "ce7abafd1ba7cb503a574014e1836c189077142215f8f66df7c361c3eb503f3b",
+    "kind": 1
+  },
+  {
+    "content": "Today, we released a new version of SV2 Reference Implementation (SRI).   \n\nStarting today miners no longer need a custom BTC Core fork to build block templates with SV2. The bitcoin_core_sv2 crate is integrated into JDC and Pool, enabling direct communication with Bitcoin Core v30. This improves the UX and keeps SRI implementation-agnostic going forward.\n\nWith this release, we’re rolling out Docker support for SV2 Apps, making cross-platform deployments easier and shipping binaries for all major platforms. This is the first step toward a smoother  UX. In the next release, we plan to ship UI for our miner-side apps: JDC and tProxy.\n\n https://blossom.primal.net/d2738ce97d7642c944f39c9efdd8ea7ef1620c6adaf89859b157eb4a57e9e271.jpg \nWe’ve split the project into two repositories:\n/stratum containing low-level protocol crates and /Sv2-Apps for end-user applications.\nThis makes the ecosystem easier to understand, contribute, and build on.\n\nWant to test all the new improvements yourself?\n\nUse our Web Deployment Wizard to spin up the full SV2 stack (Including your own pool) and share your feedback with the community.\n\nhttps://stratumprotocol.org/get-started (for miners)\n\nhttps://stratumprotocol.org/developers (for devs and full stack deployments)",
+    "timestamp": "1764332960",
+    "date": "11/28/2025, 12:29:20 PM",
+    "id": "de5ba1f9bc39b7e452751cdaccda04180292f31c57625f7a59722c7cc76dcc37",
+    "kind": 6
+  },
+  {
+    "content": "Great ad!",
+    "timestamp": "1764332877",
+    "date": "11/28/2025, 12:27:57 PM",
+    "id": "f9005537b22330fac4eb1600fbf40497f0ce9a2f5968bb2b95846c966af4cad0",
+    "kind": 1
+  },
+  {
+    "content": "Just found out. Apple removed the iTorrent app from an iOS alternative marketplace (EU) by revoking the developer notarization \"in order to comply with government sanctions-related rules\"\n\nhttps://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace",
+    "timestamp": "1764332605",
+    "date": "11/28/2025, 12:23:25 PM",
+    "id": "66e603ae76a396989a0f609674d1e2b40ba11fbef2f90250dde91a142941b363",
+    "kind": 6
+  },
+  {
+    "content": "https://docs.ntfy.sh/develop/?h=apns#apple-setup",
+    "timestamp": "1764332369",
+    "date": "11/28/2025, 12:19:29 PM",
+    "id": "d22bb78d73732d1275fd1fc23e936c6804d47e008832f28382ecb0994b5c80dd",
+    "kind": 1
+  },
+  {
+    "content": "It seems like ntfy on iOS uses APNS and not unified push.",
+    "timestamp": "1764332169",
+    "date": "11/28/2025, 12:16:09 PM",
+    "id": "0346f33403f9f4be11e66831c785e3cba729ac6d1ed424309acfc77eaab0061d",
+    "kind": 1
+  },
+  {
+    "content": "ntfy on IOS has 2 reviews and last release 4 years ago.\nSo now I'm confused again.",
+    "timestamp": "1764331175",
+    "date": "11/28/2025, 11:59:35 AM",
+    "id": "7b3641e75e349a3567afdc6d782d9c4057425f603dac797e1b726f015fd41ea1",
+    "kind": 1
+  },
+  {
+    "content": "Got it\nhttps://aerogear.github.io/aerogear-unifiedpush-server/docs/variants/ios",
+    "timestamp": "1764330955",
+    "date": "11/28/2025, 11:55:55 AM",
+    "id": "b73cd6773bde1852aa8a735fab57816411e13a63d848d3ac3b58ecbffa6e9e52",
+    "kind": 1
+  },
+  {
+    "content": "Oh really, how? \nDo you have a link to docs?",
+    "timestamp": "1764330914",
+    "date": "11/28/2025, 11:55:14 AM",
+    "id": "da181e448800458dad816b235e6d805305508a55d4547610115d7025c62b1470",
+    "kind": 1
+  },
+  {
+    "content": "Read this and you might reconsider.\n\nAnonymity Loves Company: Usability and the Network Effect\n\nhttps://www.freehaven.net/anonbib/cache/usability:weis2006.pdf",
+    "timestamp": "1764330864",
+    "date": "11/28/2025, 11:54:24 AM",
+    "id": "b8ae31d11d4fd3a07c7fd458029b2d31540de1e3b3e08e7d09cfb323652e5c10",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj76rzwghxxmmjv93kcefwwdhkx6tpdshsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0sadgdk maybe worth to consider as alternative to the social recovery of rotation keys.",
+    "timestamp": "1764323249",
+    "date": "11/28/2025, 9:47:29 AM",
+    "id": "79bfac1732b6f2298da961725998d60764ab41798046138d75a28076fb49c305",
+    "kind": 1
+  },
+  {
+    "content": "Announcing Recoverbull, a privacy-first encrypted hot wallet backup and recovery protocol. Implemented in BULL wallet, it serves as an alternative to custodial wallets for beginners. A key milestone in our journey to make self-custody the safest default Bitcoin user experience!\n\nhttps://www.bullbitcoin.com/blog/recoverbull-a-bitcoin-wallet-backup-system\n\n \n\n",
+    "timestamp": "1764323208",
+    "date": "11/28/2025, 9:46:48 AM",
+    "id": "32261aec3e61a5166c4a5812ae27c9de6de9c611bdf5396d0e227e9cdf17fc29",
+    "kind": 6
+  },
+  {
+    "content": "What's the alternative?\n\nPokey doesn't support marmot groups out of the box, and if would probably be nontrivial to implement that there.",
+    "timestamp": "1764322921",
+    "date": "11/28/2025, 9:42:01 AM",
+    "id": "3c3deb12a094716ed23c5f305776b2290b18e35bed85ef5f80b5ca366de4558b",
+    "kind": 1
+  },
+  {
+    "content": "Read: A team at StarkWare proposed a new NUT specification for integrating zero-knowledge programs in Cashu. \n\nThis would allow arbitrary ecash spending conditions without revealing the script to the mint, maintaining excellent user privacy. More in our latest blog post.\n\nhttps://blog.cashu.space/bringing-zero-knowledge-proofs-to-cashu/\n https://blossom.primal.net/0c68c711d108d4df26ef1d74c884c3bf8e658e71cc0fbcd3ab659ef01b518d52.png",
+    "timestamp": "1764310752",
+    "date": "11/28/2025, 6:19:12 AM",
+    "id": "d0fe9da28b79c41904694249aed20fc72e25c741411c726a3e2a42187f9caa95",
+    "kind": 6
+  },
+  {
+    "content": "Unified push doesnt work on iOS, and on Android we can just keep the websockets open in the background without any third party notification server.\n\nSo probably not.",
+    "timestamp": "1764308948",
+    "date": "11/28/2025, 5:49:08 AM",
+    "id": "a34f3edf21a7bfa658376864092164947a87dc94635372327c43d667ca15dd22",
+    "kind": 1
+  },
+  {
+    "content": "First alpha release for testing of BlindBit Desktop. BlindBit Desktop is a pure Silent Payments (Bip 352) wallet for desktop. All scanning is happening locally, so the public indexing server does not learn anything about your transactions.\n\n*Core Features:*\n- Local scanning, reaping the full benefits of high privacy with Silent Payments\n- Background scanning in tray, you will always be at or close to chaintip\n- Simple GUI to manage the wallet\n\nIf you are keen on playing around with Silent Payments (BIP 352), this Desktop Wallet might be for you.\n\nhttps://github.com/setavenger/blindbit-desktop/releases/tag/v0.1.0-alpha.1\n\n*SHA256 Sums:*\n\nb9c025f0c22a419248d2aa9000a905c90290b7182d5eafdca927f55357e9a465  BlindBit-darwin-amd64.zip\n70e230bfb69ceaf2d7e03e02c23f099cebf26d45f933cb233ca7fa409e28ec0c  BlindBit-darwin-arm64.zip\n76f08a27a256a5940af024d28efd53fe22b5c1b5df0cbcc8a4b4dba3e6861da9  BlindBit-linux-amd64.tar.xz\n745394ca580e454c63da4a37c51aa79ee9d5be02ae9c34ce56fc09b58ba3dce9  BlindBit-linux-arm64.tar.xz\n2829dd3e430a681ea3a49501db18707f2a18823a478990429d9daedcd3a51d89  BlindBit-windows-amd64.exe",
+    "timestamp": "1764308586",
+    "date": "11/28/2025, 5:43:06 AM",
+    "id": "3dca6df43a6bd04247c6fbc3ed3eeb9805a75d5eee2d2aaa9dbff49e1b8038a6",
+    "kind": 6
+  },
+  {
     "content": "That's a good roadmap.\n\nFYI android has great notifications already now (without google play services)",
     "timestamp": "1764267594",
     "date": "11/27/2025, 6:19:54 PM",
