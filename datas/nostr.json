@@ -1,5 +1,152 @@
 [
   {
+    "content": "Yeah they are new to me to, beautiful tech!",
+    "timestamp": "1764438255",
+    "date": "11/29/2025, 5:44:15 PM",
+    "id": "22a741480c6bde30b093a455fa1cfdb593a2510e59f9735ccbf7b4a04c462587",
+    "kind": 1
+  },
+  {
+    "content": "I don't have any actual benchmarks dor how fast it would be, but yes, they seem to be crazy fast.\n\nI don't know much about proper HTTP header structure, so you're probably right.\n\nOh very interesting point, this delta could be a filter too to avoid 2, but 1 is kinda unavoidable if we add a new feature.\n\nYes indeed, filters are super useful for many things, good idea with the quick WoT lookup, nostr:nprofile1qqs0dqlgwq6l0t20gnstnr8mm9fhu9j9t2fv6wxwl3xtx8dh24l4auspzemhxue69uhkzat5dqhxummnw3erztnrdakj7qg4waehxw309a4x2mrv09nxjumg9ekxzmny9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcyrexcy wen vertex filter?",
+    "timestamp": "1764437367",
+    "date": "11/29/2025, 5:29:27 PM",
+    "id": "502db3542f82c534bcfd5f7130f670d3983206ea08f0e2cf9cb6761405022d30",
+    "kind": 1
+  },
+  {
+    "content": "Is that yours nostr:nprofile1qqs0uvmnu45srhx5rcwncpvd2sdhwtlqxw06uc7zj2mj2hgvhnamugqpzdmhxue69uhhqatjwpkx2urpvuhx2ue0gkx3nr?\nNow in color?!",
+    "timestamp": "1764436610",
+    "date": "11/29/2025, 5:16:50 PM",
+    "id": "9fb11f1a121255b6e4a53ea02e4c87464b3a437813001c5ee05d6bef3d2dba1b",
+    "kind": 1
+  },
+  {
+    "content": "There's a couple free blossom servers, you can self host one on an old laptop or a 2$/month VPS.\n\nBut for reliable long term storage you'd want to pay for the storage of a blossom server, a couple cents per GB per month.",
+    "timestamp": "1764435993",
+    "date": "11/29/2025, 5:06:33 PM",
+    "id": "80920d16d7b2bf3fecf688c41dd01df434f4c468f26f8dc5b4b0afced267e923",
+    "kind": 1
+  },
+  {
+    "content": "Exactly.\nAnd FUSE seems to be super cheap to compute, rather small in size. The server can choose how frequently he recomputes the filter (could be once a day or so) and filter generation is done in milliseconds on a single core CPU.",
+    "timestamp": "1764435569",
+    "date": "11/29/2025, 4:59:29 PM",
+    "id": "87251bac126c5c0b06950f3519e51df5de447fd47439f0778fd420e8fe94d831",
+    "kind": 1
+  },
+  {
+    "content": "Oh that's a cool idea!\n\nFuse seem to be the cutting edge in regards to filters at the moment.",
+    "timestamp": "1764434329",
+    "date": "11/29/2025, 4:38:49 PM",
+    "id": "b6301eff47705ceaf08bb1fe9a02ea0804e8d403e77b222b18e31708dc1debd2",
+    "kind": 1
+  },
+  {
+    "content": "This research made me realize that we could upgrade BIP157/158 and the Wasabi Wallet indexer to use FUSE filters, they're smaller and much faster to query than golomb rice filters.\nI wonder what the speedup would be...",
+    "timestamp": "1764434203",
+    "date": "11/29/2025, 4:36:43 PM",
+    "id": "d4691f53578434f67a1538ecea581bdb847d355a9044e3ae12c964acfe705121",
+    "kind": 1
+  },
+  {
+    "content": "Thanks!\nWould this be under the Optech brand? Or do you prefer a separate brand/website/etc",
+    "timestamp": "1764429306",
+    "date": "11/29/2025, 3:15:06 PM",
+    "id": "ab1774470e6f454ab059c3ac748610d96929b64d514d7dfee4352135dade5b98",
+    "kind": 1
+  },
+  {
+    "content": "A weekly newsletter and recap podcast about the latest technical news in Nostr.\n\nOptech has such an expertise in this workflow for Bitcoin, it would be very valuable for Nostr too.\n\nI know It's a big ask, but I'm sure we can gather community support.",
+    "timestamp": "1764428442",
+    "date": "11/29/2025, 3:00:42 PM",
+    "id": "184c14716649b26515a58e83204618efbc20b5bb0adc4900c271bb153c2c12fb",
+    "kind": 1
+  },
+  {
+    "content": "Block filters enable efficient privacy for Bitcoin wallet synchronization.\n\nA similar trick can be used to privately find out if your files are stored in a blossom server.\n\nSummoning the cryptography wizards for review please!\nThanks nostr:npub1ye5ptcxfyyxl5vjvdjar2ua3f0hynkjzpx552mu5snj3qmx5pzjscpknpr for the brainstorming sessions. nostr:naddr1qqgrjde5x4nrwve3vcmnzde4vc6rgq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wa7dm58",
+    "timestamp": "1764427552",
+    "date": "11/29/2025, 2:45:52 PM",
+    "id": "dc8f4d6234e773350fb0130a1e6654637135c715a6e0f2afb8ddbec4a99e6d1a",
+    "kind": 1
+  },
+  {
+    "content": "Read the BUDs, quite simple to understand.\nhttps://github.com/hzrd149/blossom/tree/master/buds",
+    "timestamp": "1764421669",
+    "date": "11/29/2025, 1:07:49 PM",
+    "id": "4c9f16e75909e67fa9229daa3ca662984f225dac2647f89c872057bec52ac76e",
+    "kind": 1
+  },
+  {
+    "content": "No.\nThe design here is to have key-recoverable encrypted files.\nWith marmot, having the nsec only means you cannot decrypt messages, because messages are encrypted to ephemeral and rotating keys not backed up.\n\nThis is regular AES or ChaCha.",
+    "timestamp": "1764417326",
+    "date": "11/29/2025, 11:55:26 AM",
+    "id": "49731f7597dd2f4e1d0a7e669b649b6d39605615148819362a8ea27f79a02134",
+    "kind": 1
+  },
+  {
+    "content": "I want to be able to get all my important files while only remembering 12 words. \nBlossom fixes this!\nHere's how:\nWant to help build it? nostr:naddr1qqgrsde5xcexzvny8qerjvf3vgmkxq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wwuut36",
+    "timestamp": "1764416098",
+    "date": "11/29/2025, 11:34:58 AM",
+    "id": "33f667759fcb882f7c7b35105e602cecb5bfaf289ea3f85aa3e94273423d5305",
+    "kind": 1
+  },
+  {
+    "content": "What's up guys\nAfter my year break from social media I deployed the total rebuild of https://satellite.earth I created over course of these past 12 months.\nIt's a major upgrade.\nThe old Satellite was cool aesthetically but was not functional enough to be a daily driver. I had to fix this, to make the nostr client that I've always wanted.\nSomething beautiful that gets the basics right.\nI changed the front page and the profile pages to focus on *just* what you're looking for, but I kept reddit-style threads because they are amazing for reading long conversations, e.g\nhttps://satellite.earth/thread/note15yhl85e6jnayprt3ufp4ucuzwqry0uxd8sxqn4twctxxf4gkfdpsfyea0e\nI got rid of NIP-172 communities. They were just too messy. I'm working on replacing them with relay-based communities instead (something like what nostr:npub1jlrs53pkdfjnts29kveljul2sm0actt6n8dxrrzqcersttvcuv3qdjynqn has been cooking). This will be ready and deployed in the near term.\nIn the meantime, straight up relay feeds are already functional. You just have to type the url in yourself, e.g.\nhttps://satellite.earth/relay/pyramid.fiatjaf.com\nYou can create aggregate relay feeds too by just including multiple comma separated relays in the url, e.g.\nhttps://satellite.earth/relay/pyramid.fiatjaf.com,relays.land/spatianostra\nSatellite CDN got reworked and refreshed as well. You can now see all your transactions, your current balance, and your burn rate. It's way more clear now what's going on.\nhttps://cdn.satellite.earth/a3ac4d96ad9979b8a614851ad2ae002165c7123202f5be23ce75a8b6d4f3246d.jpg\nI added client side search, based on your social graph (or *my* social graph if you're not signed in). It pulls all your contacts, your contacts' contacts, and indexes your web of trust locally. Believe it or not this is actually quite performant (especially if you are on a multicore machine).\nTo be clear, this is not really *search*. Something like what nostr:npub176p7sup477k5738qhxx0hk2n0cty2k5je5uvalzvkvwmw4tltmeqw7vgup is building that is not strictly local will be necessary for finding obscure people.\nThis is essentially navigation UX, and it works great for jumping to someone's profile when you know where you want to go.\nhttps://cdn.satellite.earth/602fa1a92beeadc1cc1b4e589c5fb17b5c9ec056e69dfc0513784245d8da27bd.jpg\nNotifications are super reliable now.\nAside the feed working well (which is the #1 live or die UX that absolutely must work) having notifications that are useful and where you can reply immediately from the interface without hunting down the post context is pretty important.\nhttps://cdn.satellite.earth/c9e4f35d948775955826e78bd2b0bf8f4dd4b93fa498fe854ac1ec33716e90b6.jpg\nAdded NIP17 support.\nMaintained legacy NIP04 support for existing chats only.\nThe future is nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec style Marmot Protocol (pending)\nhttps://cdn.satellite.earth/ce753d8cc59464966c7fdc3cbb1c325a884e35d9579951d86ecc6722888e8b52.jpg\nOne of things that always annoyed me about legacy social media is that they spend all their screen real estate trying to get you to go somewhere *else* (???)\nI mainly designed this profile page to be the client that I want to use.\nI want to link to my page and not have the sidebars to like a billboard or something.\nIn the new Satellite the profile page looks pretty and only shows your stuff (and nothing else)\nhttps://cdn.satellite.earth/65cc73de0e24a3573fd66de6ae9ce3033be8811061c0cca6d1239f611b128ff4.jpg\nhttps://cdn.satellite.earth/749e4259cc1cec126b3aaef4483dee9293b79b4db636b8d2c219ec01158e2118.jpg\nAdded full featured rich text editor. This was one of the main things the old Satellite was lacking.\nIn the new Satellite you can upload media inline, directly to Satellite CDN or whichever is your preferred blossom server.\nMentions, emojis, embedding nostr notes inline are supported as well.\nhttps://cdn.satellite.earth/5fa337c678187184d350e5fdba97679c643b75cd9142c848d0ed35e5a71a1b19.jpg\nThe Satellite CDN UI is much improved as well, especially if you have lots of files.\nThe terms and cost are the same as old Satellite.\nYou can upload big files (like > 5GB).\nBandwidth is free. $0.05/GB/mo.\nPrepaid. Lightning only.\n If you want a nice blossom-compatible gallery UX to be a home for all your media on nostr, I would encourage you to check it out.\nhttps://cdn.satellite.earth/7710c74c54679c1c720f046879717e821e91bbaa90e391161ecd3a11d2183010.jpg\nI added some other thread improvements too. One feature I'm really happy about in the new Satellite is that you can link directly to deeply nested reply, e.g.\nhttps://satellite.earth/thread/note1lqgmper99zj566xlc0gha4fmx4929njdckcq2w80yej0vrkcsyqqkqqh4s#note1zukmyf2nxrn5xamzawdez6f9egzaexjlhtjsza07rd7df9fn89esd40url\nThe ability to link to replies while seeing the whole context of the conversation I feel like really increases the \"surface area\" of the thread.\n* * *\nThere are some more cool things in the pipeline.\nRelay communities are the priority right now.\nAfter that I will show you guys the new relay that I also built during this 12 month interlude.\nFinally, if you still want to use the old satellite, you may at https://v1.satellite.earth\nnostr:nevent1qgs07f7srjc72ma4skqrqmrm5a4mqdalyyw9k4eu2mjwwr9gtp644uqqyzagvjeknhf40w7qjm3x9452spj3n3lhv8ndvdq6jcpxx62gzv7n2mc3pts",
+    "timestamp": "1764415012",
+    "date": "11/29/2025, 11:16:52 AM",
+    "id": "2a0801813cb7dec5dc5ed3fb0b88ef18cd1afaae11e50d0eaa5ffcddc6b2b97d",
+    "kind": 6
+  },
+  {
+    "content": "I guess that's up to the provider for figuring out.\n\nAnother reason why I like this is that its easy for a hobbiest provider to just maintain a list manually and update whenever needed.\n\nA DVM provider should have a server.",
+    "timestamp": "1764414786",
+    "date": "11/29/2025, 11:13:06 AM",
+    "id": "40b06fb725bcd9ca931d898a69183625bc78974aff07399e030c6f6c81309bef",
+    "kind": 1
+  },
+  {
+    "content": "https://github.com/ZharlieW/Aegis\nhttps://github.com/haorendashu/nowser",
+    "timestamp": "1764398441",
+    "date": "11/29/2025, 6:40:41 AM",
+    "id": "eb19eb8a906050c16cd50c043d30af63fe43c9a7fae37e73eb2d2e05e93a1219",
+    "kind": 1
+  },
+  {
+    "content": "Trusted Lists is better when:\n\n- You're building WoT infrastructure\n- You need to aggregate rankings from multiple providers\n- Trust scores have semantic meaning to users\n- You want users to explicitly choose which providers they trust for which contexts\n\nCurated Feeds is better when:\n\n- You just want to publish a list of recommended content\n- Editorial judgment is the value, not computed scores\n- You want minimal implementation complexity\n- You don't need the WoT service provider ecosystem",
+    "timestamp": "1764394107",
+    "date": "11/29/2025, 5:28:27 AM",
+    "id": "e6d470dd6f58bdb627e3ea2645ff39e1a8f2aa65a7077db46499cc66bd65c665",
+    "kind": 1
+  },
+  {
+    "content": "We made light bulbs. \n\nShipping to every state in the US + Canada.\n\nFor decorative purposes only 😉\n\nhttps://daylightcomputer.com/labs\nhttps://blossom.primal.net/88a57d4726cbd992aabcc2475de1a33ac0c9fbf2c089216065e4b478edd21163.jpg",
+    "timestamp": "1764391660",
+    "date": "11/29/2025, 4:47:40 AM",
+    "id": "8d0a4f220f586397d159fcd7524038ef7d478be0aaf6d55fd970b71bea9d4c71",
+    "kind": 6
+  },
+  {
+    "content": "I swear I didn't\ntry to write in this old form -\nit wrote itself, see",
+    "timestamp": "1764391344",
+    "date": "11/29/2025, 4:42:24 AM",
+    "id": "2b7b9c59d95e03a3e92431557c343ac2e1bf803393454651a0a74d13c40a1312",
+    "kind": 1
+  },
+  {
+    "content": "Interesting, isn't a follow list enough for this?",
+    "timestamp": "1764391246",
+    "date": "11/29/2025, 4:40:46 AM",
+    "id": "b0c5d41ec5f641f4bdacc3c09ed3cc70720e4b20c9cd4a713d04f50f8ce61f8b",
+    "kind": 1
+  },
+  {
+    "content": "Why not?\n\nUser asks provider for a custom list, provider requests payment, user pays, provider computes and returns a event ID of the list (potentially encrypted) which gets updated until the provider stops.\n\nMaybe we should spec this too, but I think it's a separate optional nip.",
+    "timestamp": "1764391045",
+    "date": "11/29/2025, 4:37:25 AM",
+    "id": "575a1f4079cb0ba6b02014bb7369aab0d5c94d82fe18d87cbffc903ae6c1aa2f",
+    "kind": 1
+  },
+  {
     "content": "DVM feeds work, but the request/response model is overkill for what's essentially a list of event IDs. I wrote up a simpler alternative using replaceable events: publishers maintain feed lists, clients just subscribe. nostr:naddr1qqgxyvf4v3jrqve3893xgwrzvvcnzq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wu35cl3",
     "timestamp": "1764354973",
     "date": "11/28/2025, 6:36:13 PM",
