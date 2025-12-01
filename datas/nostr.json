@@ -1,5 +1,75 @@
 [
   {
+    "content": "Yes, no amber yet, try with a throwaway key for now.\n(Or go #reckless and paste your real nsec, its in android secret storage)",
+    "timestamp": "1764526589",
+    "date": "11/30/2025, 6:16:29 PM",
+    "id": "d9935283f68bb5802bc5f069766e75a736f7b2c6dcdbe85e43651d1851e18f11",
+    "kind": 1
+  },
+  {
+    "content": "As far as I understand, SPV node privacy is really bad, so its not at all a privacy preserving scaling opportunity.\n\nEven block filters get cumbersome with large blocks...",
+    "timestamp": "1764498484",
+    "date": "11/30/2025, 10:28:04 AM",
+    "id": "722dcc5bf533c81a6fc4ac50fc52756d93f48605f7101cbca2146ee8d8828ef6",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqswlew3yr0ses5slf6gwflmgkkysl926drdfu3f82cxn68srlz3nqgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxrhwden5te0wfjkccte9ejxjum0vfjhjtnyv4mz7qgkwaehxw309aex2mrp0yhxummnw3ezumn9wshsc8za9h wdyt, are two enough?",
+    "timestamp": "1764488096",
+    "date": "11/30/2025, 7:34:56 AM",
+    "id": "c913a4724402295de42a094d1b4f3485ec9b0cd17a9dd3be303cc3c9c89d0740",
+    "kind": 1
+  },
+  {
+    "content": "The new channel rebalancing tool in nostr:npub1xnf02f60r9v0e5kty33a404dm79zr7z2eepyrk5gsq3m7pwvsz2sazlpr5 v0.12.0 in action!\n\nhttps://video.nostr.build/c8121aa1f2afbb4958aff494985d727ee9f51f0e4d5cdb6a5f852795c83235ed.mp4",
+    "timestamp": "1764480122",
+    "date": "11/30/2025, 5:22:02 AM",
+    "id": "4777141cf2d296743cf17c514ff0439f768e912e98d9e3431f25bce57932e259",
+    "kind": 6
+  },
+  {
+    "content": "Not so long ago, most comments I got under my posts were from people I already followed.\nNow it seems to be the opposite.\n\nNostr is growing.",
+    "timestamp": "1764479892",
+    "date": "11/30/2025, 5:18:12 AM",
+    "id": "b27ceaea89817b012b33de252e5e4e3e76f7ca9a62f89e102d72c04771ba7f55",
+    "kind": 1
+  },
+  {
+    "content": "You know, in hindsight I'm always kinda impressed that my spontaneous blabbering somewhat makes sense...",
+    "timestamp": "1764479723",
+    "date": "11/30/2025, 5:15:23 AM",
+    "id": "aab9f2304d3303404a492af97cc69a6f261a118a0ac3cab4f8e6f96e94a75abe",
+    "kind": 1
+  },
+  {
+    "content": "That sucks...\nGo arbitrage shopping on the international market, you can domicile your company anywhere.",
+    "timestamp": "1764479661",
+    "date": "11/30/2025, 5:14:21 AM",
+    "id": "49747cc10b0f672a00cde81155809bb95cf874ecb2580eb7677da2061a41f8a9",
+    "kind": 1
+  },
+  {
+    "content": "\"I started out as a freedom maximalist... and slowly that morphed into becoming a privacy maximalist.\" - nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uqjqamnwvaz7tmwdaehgu3wv45kuatwv3a8wctw0f5kwtnnwpskxef0qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lq7j7xf3 w nostr:nprofile1qyt8wue69uhh2mtzwfjkctnvda3kzmp6xsurgwqpz4mhxue69uhk2er9dchxummnw3ezumrpdejqqgxy3c5lqj6g9nqpeg0ea7xgdmurrrq9nc8fx5er2930pq8jdc2vzyu7yza6 \n\nhttps://v.nostr.build/FvxPPHOAwmz7ZZfk.mp4\n\nnostr:nevent1qvzqqqqqqypzq7q8pqp9qg6mz0y0keaw4u6q7fxr8pzmy3cw0hw8asx5psqxsfj9qy88wumn8ghj7mn0wvhxcmmv9uq3uamnwvaz7tmwdaehgu3dwp6kytnhv4kxcmmjv3jhytnwv46z7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcqyqqzxwz9axtls9d7en5x7la5fnk2qhjxq2d46navyk8e9a39rwzdj0pkpdr ",
+    "timestamp": "1764479588",
+    "date": "11/30/2025, 5:13:08 AM",
+    "id": "8a56c7e22bab1a93af46ae7db6637c134595bfb2c1d053d5d84847b29ce4aece",
+    "kind": 6
+  },
+  {
+    "content": "NIP44 would be used to encrypt the file path manifest.\nNIP44 doesnt work with blossom, so its just regular AES or ChaCha for the files.",
+    "timestamp": "1764479514",
+    "date": "11/30/2025, 5:11:54 AM",
+    "id": "f80e9875e8ea8e08a6ae8b2e1227cb693f22b0bb65e0d2fca23c93a3fec5d7e6",
+    "kind": 1
+  },
+  {
+    "content": "Good call!",
+    "timestamp": "1764479344",
+    "date": "11/30/2025, 5:09:04 AM",
+    "id": "6e9cd8c9bc724c27337ab5ac59876551372093c7e64eced352e3ff8890a7f1e3",
+    "kind": 1
+  },
+  {
     "content": "Yeah they are new to me to, beautiful tech!",
     "timestamp": "1764438255",
     "date": "11/29/2025, 5:44:15 PM",
