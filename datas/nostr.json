@@ -1,5 +1,103 @@
 [
   {
+    "content": "# About the Submission of Wives to Their Husbands\n\nWe are all, in some way or another, in rebellion against God, and then it is not about judging women for their own rebellion but about trying to understand why and how they can change if they want to.\n\nLet us start by saying that submission is something that one does voluntarily and that it couldn't be in any other way because men and women were created equally and our Father has no preference for men over women nor women over men, and since we all have free will, it is up to us whether we submit to someone or not.\n\nJesus Christ gave us the most astonishing example. When Jesus was twelve, his parents took him to Jerusalem for a holiday. On the way home, they realized he was missing and went back to look for him. After three days of searching, they found Jesus in the Temple sitting with the teachers. Everyone was amazed at how smart he was. Mary was upset and asked, \"Why did you do this? We were so worried!\" Jesus answered, \"Why were you looking for me? Didn't you know I had to be in my Father's house?\" Mary didn't understand what he meant. Jesus went back home with them and obeyed them.\n\nWhy would Jesus Christ, God himself, obey Mary and Joseph? Jesus voluntarily obeyed his parents because that's the natural law, God's law, and he doesn't break his own law. Children must obey their parents because nobody will love them and take care of them as their parents do. We all have obeyed our parents even when we weren't able to understand why they asked us to do or not to do something, and that's okay because parents love their children much more than children love their parents. In that sense, the family replicates in this world the same structure where our Father loves us more than we love him. Moreover, just as children somehow know that obeying is the natural thing to do, they don't always want to do it.\n\nSubmitting to God, our loving Father who wants the best for all of us and who sent his son to suffer and die for us, should simply be natural, but we fail to do it miserably again and again. The same happens with our sisters. If you met a good man, one that you are in love with, someone who loves you and wanted to marry you and form a family with you and make you happy, shouldn't it be natural to submit to him? I mean, all men know that women have virtues and vices different from theirs and they all know that women have been given what they don't have. However, many women believe they are like men and that men haven't received anything special, so why would a woman submit to her husband? But the reality is that leadership is more natural in men and submission to their husbands is also natural in women. In the same way that wives feel unhappy when their husbands refuse to lead, men feel unhappy when their wives don't follow them.\n\nThere is also a lack of trust. What if I submit to my husband and he loses his path? Or he becomes irresponsible or leads the family to ruin? What if he becomes a bad model for my children?\n\nIn the same way that you submitted voluntarily because you trusted him, once it is clear that you can no longer trust him anymore, you don't have to submit to him anymore in order to save your household. That's what Abigail's story is about, and God sees it as good, just as he sees your submission to your husband as good when he is a good man.\n\nA husband who loves his wife would naturally pursue her happiness, and a wife who loves her husband would naturally submit to him. But how? Let us start by helping him to develop his role as the authority of the family and as the priest of the family. Let him sit at the head of the table, let him start the prayer, let him have the final decision and support it. Correct him with love when he makes a mistake, hold him when he stumbles, and ask him all what you need to fulfill your role as mather of the family.\n\n\n",
+    "timestamp": "1764614018",
+    "date": "12/1/2025, 6:33:38 PM",
+    "id": "9576617520cb21c15e015a162ff22a8695929b7a626f38ab81c501702d480985",
+    "kind": 6
+  },
+  {
+    "content": "Gave a presentation last week on \"purecoin\", showing basically how ~ 50% embedding rate in \"pure\" bitcoin transactions with no scripts is inevitable *even if* you force the outputs to prove they are not \"fake\". 'Fraid the audience had no idea what I was talking about, so I'll post the pdf here:\n\nhttps://files.catbox.moe/tpfc4x.pdf\n\nI must apologize for calling it a \"very hard fork\" because you could actually do it as a soft fork (thanks nostr:nprofile1qqsw79gu0guq7s98t473fyavx3akwaafmx6l5z4rehd50lrcl2mf4zcprfmhxue69uhkzer4d36zuvfcwpk82uewwdhkx6tpdshsz9mhwden5te0v96xcctn9ehx7um5wghxcctwvshsz9thwden5te0wfjkccte9ejxzmt4wvhxjme094u090 ) but it's hardly relevant. The point is that there is no version of Bitcoin, even a 99% crippled version of it that doesn't allow L2s, that does not allow data embedding, *except* one in which we completely change the cryptography to BLS (any deterministic signature scheme could in theory do it, but nobody is going to seriously suggest hash-based signatures or RSA FDH I think) (thanks nostr:nprofile1qqsrtnjl8xtejc4k7h38gz6akjv0v75vrsdhlznu0slr2n3tatf8w3qpzpmhxue69uhkummnw3ezumt0d5hs64xj85 for thoughts on this), *and* totally cripple any programmability. And since quantum is coming (so they tell me!) I see basically no chance of this happening.\n\n#bitcoin #cryptography ",
+    "timestamp": "1764613779",
+    "date": "12/1/2025, 6:29:39 PM",
+    "id": "be4faa84708a92622d3bdbe0f28cecb773ca7afdf4d6d322119c93da52cdcccf",
+    "kind": 6
+  },
+  {
+    "content": "Nope, only one app can use the hack at a time, and it breaks when the user wants to listen to actual music.",
+    "timestamp": "1764613395",
+    "date": "12/1/2025, 6:23:15 PM",
+    "id": "b7e29d1287eda30a5c35b4e6c67ce9d3bfcf3f09a54b111a59971a89dce9b995",
+    "kind": 1
+  },
+  {
+    "content": "Don't underestimate your grandma tho...",
+    "timestamp": "1764603776",
+    "date": "12/1/2025, 3:42:56 PM",
+    "id": "42eaf49c6e31d6e4c4dd947ec1479c671f12616a1f73b97f40589ba2620fff3f",
+    "kind": 1
+  },
+  {
+    "content": "I guess as much as any music player?",
+    "timestamp": "1764603727",
+    "date": "12/1/2025, 3:42:07 PM",
+    "id": "06e4f507fb7f3a4c9b9abdbda727c2ca648572317dc2266d7ee6cb9b98dfa038",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, Im sure someone's already working on that.",
+    "timestamp": "1764602215",
+    "date": "12/1/2025, 3:16:55 PM",
+    "id": "e13a59878eaaf969e3a381c931dd6a069bb659a11778b382c925540213c3c1a5",
+    "kind": 1
+  },
+  {
+    "content": "So you think Bitcoin is not private?\nThink again...\nnostr:nprofile1qqsf80gvdu7vhtj88z9srtrvuzevqyc3fh9yczxkufcj6nlhzsz68scppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0qyg8wumn8ghj7um0d3hkxmewdekz7q6gldk is all you need.\n\nnostr:naddr1qqgxywf5xg6ryerxvdnrjwf5vscxxqghwaehxw309aex2mrp0yhxz7n6v9kk7tnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wglfe8x",
+    "timestamp": "1764601901",
+    "date": "12/1/2025, 3:11:41 PM",
+    "id": "7b2ebf756e4bde4cbb22aff9cc076b04b6742e5a5d7673150205b203f0df0979",
+    "kind": 1
+  },
+  {
+    "content": "Want to run a PWA in the background?\nEasy, just play music constantly, and the OS won't kill the app.\n\nnostr:nprofile1qqsqgc0uhmxycvm5gwvn944c7yfxnnxm0nyh8tt62zhrvtd3xkj8fhgpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpzemhxue69uhhyetvv9ujuerfw36x7tnsw43z7qgkwaehxw309aex2mrp0yhx6mmnw3ezuur4vghs0klf00 blew my mind with this hack!",
+    "timestamp": "1764596605",
+    "date": "12/1/2025, 1:43:25 PM",
+    "id": "5488e5e51d144c9a7b2591424fe53a501ccc9007e4a705d19fb50c7827494349",
+    "kind": 1
+  },
+  {
+    "content": "Yes exactly.",
+    "timestamp": "1764588505",
+    "date": "12/1/2025, 11:28:25 AM",
+    "id": "659680198ce90ae8b7b195917e2d544a942f8230403c051b73616a5664ae78ab",
+    "kind": 1
+  },
+  {
+    "content": "We could just do it ourselves from scratch, choose the encryption algorithm, chunking etc. \n\nNo clue about performance...",
+    "timestamp": "1764588484",
+    "date": "12/1/2025, 11:28:04 AM",
+    "id": "95ebe3a326a3beca7d993c0cfa63dfa6ff84acadc43d73eb4f2e561865a342c8",
+    "kind": 1
+  },
+  {
+    "content": "You'd need blossom for the zip storage, and a nostr event like nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcsrhspy for discovery, should be quite straight forward.",
+    "timestamp": "1764577981",
+    "date": "12/1/2025, 8:33:01 AM",
+    "id": "51096e5731681001163af74c30a7d99c3aab2943470c390f46c2f95f6a0e1ad5",
+    "kind": 1
+  },
+  {
+    "content": "Chat UX seems to cluttered for that...",
+    "timestamp": "1764574800",
+    "date": "12/1/2025, 7:40:00 AM",
+    "id": "7e013b678559df2410295fa480ac55256967211c56dd99e1aa0cf48ce77caccd",
+    "kind": 1
+  },
+  {
+    "content": "We gotta build something like delving native to nostr... Maybe Flotilla? nostr:nprofile1qqsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj76rzwghxxmmjv93kcefwwdhkx6tpdshsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0sadgdk",
+    "timestamp": "1764574773",
+    "date": "12/1/2025, 7:39:33 AM",
+    "id": "4468021dac46e5350b0643f7950912215b9247669919ec95f60fbe02d3316807",
+    "kind": 1
+  },
+  {
+    "content": "Do we have something like the bitcoin-dev mailing list for Nostr? High quality technical discussion with thorough feedback. Posting kind 1s for these just get lost in the void.",
+    "timestamp": "1764565689",
+    "date": "12/1/2025, 5:08:09 AM",
+    "id": "a9932bafa96de10b5e644f6feda6d80867a0a8a21e59d0290d8f25eccddfe33f",
+    "kind": 1
+  },
+  {
     "content": "Yes, no amber yet, try with a throwaway key for now.\n(Or go #reckless and paste your real nsec, its in android secret storage)",
     "timestamp": "1764526589",
     "date": "11/30/2025, 6:16:29 PM",
