@@ -1,5 +1,145 @@
 [
   {
+    "content": "Security relies on min-entropy, not Shannon entropy. Min-entropy bounds the worst case: the probability of the *most likely* interpretation, not the average.\n\nSince H_min ≤ H_Shannon, proving high Shannon entropy guarantees even the adversary's best guess has astronomically low probability. We're not trusting averages, we're using the average as an upper bound on the maximum.",
+    "timestamp": "1764698873",
+    "date": "12/2/2025, 6:07:53 PM",
+    "id": "390721b9b1d5341effcb8535641cda68239f939067c031ecaa975eb1184fa256",
+    "kind": 1
+  },
+  {
+    "content": "tldr, what you think is a bug, is actually a feature.\n\nHere the long answer:\nnostr:naddr1qqgrxetyx43njdrxv33nvdecxcerqqghwaehxw309aex2mrp0yhxz7n6v9kk7tnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wj03utj",
+    "timestamp": "1764698712",
+    "date": "12/2/2025, 6:05:12 PM",
+    "id": "0d19188fc19fe5deb9cf683c44cfe33defebb33dac6ccc945a5b44639860a775",
+    "kind": 1
+  },
+  {
+    "content": "Love the edit!",
+    "timestamp": "1764696875",
+    "date": "12/2/2025, 5:34:35 PM",
+    "id": "5951d967fe9ff9b5b83a185723b05592ba950ba1d59eb87ae66481759d17d97e",
+    "kind": 1
+  },
+  {
+    "content": "Max is using Vexl and is friends with nostr:npub1gunkavtrl32txueexz44el2l49rg0gv48pc6suadf7hwj852tuuqj3nudq just to meet Ash The Vexl Dog?!? 🧐😳\n\nBut seriously Vexl is designed so you can actually meet people to trade Bitcoin with. Not random strangers, but people you already have some connections with.\nhttps://blossom.primal.net/57cdabd21a32f85a5be701a4d31d23a6cf38c384ba6d297dcc71e5b1a0fe7d03.mov",
+    "timestamp": "1764696506",
+    "date": "12/2/2025, 5:28:26 PM",
+    "id": "96d9e31decacaf7ab5d810e09d881424fe3e52e2752e7906dee89664728ffe8a",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp devs started working on nostr:nprofile1qqswacu3amp428kj8wtpqf77yd2upukcn2ft4aycmxm5scmh359e0ssppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uvt9vcv integration!\n\nhttps://image.nostr.build/f443678aee738c0d52d7d99361ecadc12bf995f6c8a1323774ea5ebaa91b38c0.gif",
+    "timestamp": "1764695768",
+    "date": "12/2/2025, 5:16:08 PM",
+    "id": "138e1adb1829da1f8f30635eab63a177a634e1c52384ce567e87865315fa7ce1",
+    "kind": 1
+  },
+  {
+    "content": "Different link for the call\nmeet.fulmo.org/marmot",
+    "timestamp": "1764691571",
+    "date": "12/2/2025, 4:06:11 PM",
+    "id": "4135a5c64999a6d28997deb4cda2543d0dfd2d62ffb02d9487c842f01e568407",
+    "kind": 1
+  },
+  {
+    "content": "New link\nmeet.fulmo.org/marmot",
+    "timestamp": "1764691559",
+    "date": "12/2/2025, 4:05:59 PM",
+    "id": "62d6976c3c4a86b03697842832850c44e5dbba89694fee9c0cac6dc6c2b3b2b3",
+    "kind": 1
+  },
+  {
+    "content": "idk, how could the end user verify the quality of RSA 512 bit keys?",
+    "timestamp": "1764691365",
+    "date": "12/2/2025, 4:02:45 PM",
+    "id": "91cfbbf612e409a208ddb859c54789374e70a9a49f282fe0f9c31d3bdfa51126",
+    "kind": 1
+  },
+  {
+    "content": "http://meet.angor.io/marmot",
+    "timestamp": "1764691206",
+    "date": "12/2/2025, 4:00:06 PM",
+    "id": "74badc492a2395db0d74702629764748870f305314685b4d953d1f3cb0edf1a5",
+    "kind": 1
+  },
+  {
+    "content": "Yes.\nDid you ever try opening a wabisabi round with a Boltzman tool? It either says \"N/A\" or it just crashes.",
+    "timestamp": "1764689831",
+    "date": "12/2/2025, 3:37:11 PM",
+    "id": "e3bfdf2943e02927d3c256141c33557addc8bdc933da9be1589c70a390daf9fb",
+    "kind": 1
+  },
+  {
+    "content": "Yeah I was wondering that too...\nMight not even go through test flight...",
+    "timestamp": "1764686568",
+    "date": "12/2/2025, 2:42:48 PM",
+    "id": "9f4499222401be4c8e9d2be4883bee835bfedc4ccde04d57ab7fc7dd71ef495e",
+    "kind": 1
+  },
+  {
+    "content": "underworld part 1 by nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt — looking foward to part 2 cc: nostr:npub1mftv2j67vayavkks8rqev3u8jjhefe86tf80msstfxvpunk9vmps6prkl3 \nhttps://vexl.it/post/fiction---underworld-by-max-hillebrand-pt-1",
+    "timestamp": "1764686533",
+    "date": "12/2/2025, 2:42:13 PM",
+    "id": "66e4f9ae75979eda8594520cf8fc84b2006dcd9aa295d9a007a38f334e444c08",
+    "kind": 6
+  },
+  {
+    "content": "Why?",
+    "timestamp": "1764686524",
+    "date": "12/2/2025, 2:42:04 PM",
+    "id": "bb3d8b2f154fa402a4ca4ea588fd28412df2019e057f4a3b62f9c4410df53e7c",
+    "kind": 1
+  },
+  {
+    "content": "You can't.\n\nWabisabi coinjoin are too large to calculate (or even estimate) entropy.\n\nYou'd create a black hole before the calculation completes.",
+    "timestamp": "1764657874",
+    "date": "12/2/2025, 6:44:34 AM",
+    "id": "4d65ee28c057303d5e8eae4a34d5f0aeeeb39d947bd48d5476055e15572cdbbe",
+    "kind": 1
+  },
+  {
+    "content": "I keep on making that same mistake...",
+    "timestamp": "1764648580",
+    "date": "12/2/2025, 4:09:40 AM",
+    "id": "b19cc53e8744fa57b8a06ca460c77c8056bf66bc8482fa2d665538a4e2c41e34",
+    "kind": 1
+  },
+  {
+    "content": "The regular flow is receive money, coinjoin, make payment, coinjoin the change.\n\nThe new flow is receive money, make payment in the coinjoin, that's it, your leftover wallet is already private.\n\nMUCH cheaper actually.",
+    "timestamp": "1764648121",
+    "date": "12/2/2025, 4:02:01 AM",
+    "id": "109d84ae7ff98e93e7a88a0e23ec07d1d47c25849858943d030459bf7d4a0386",
+    "kind": 1
+  },
+  {
+    "content": "Funny how you had the exact same idea, this has bothered me since forever, now I'm happy.",
+    "timestamp": "1764647987",
+    "date": "12/2/2025, 3:59:47 AM",
+    "id": "41b2f2c768fadbf24e6206dff9a197fbfc44d9b85e6964c13b180f8d9bac6677",
+    "kind": 1
+  },
+  {
+    "content": "If terminal UI is enough, then here you go!\n\nnostr:nevent1qqs8kt4lw4hyhhjvhv32l7wvqa4sfdn59ed96annz5pqtvsr7r0sj7gpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgl3dcmd",
+    "timestamp": "1764647909",
+    "date": "12/2/2025, 3:58:29 AM",
+    "id": "b72eff0faa035919fccb11a91bc06bc2e7427c4a8b3a2d7a8b879d20d0614fac",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uqjqamnwvaz7tmwdaehgu3wv45kuatwv3a8wctw0f5kwtnnwpskxef0qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lq7j7xf3 explains to nostr:nprofile1qyt8wue69uhh2mtzwfjkctnvda3kzmp6xsurgwqpz4mhxue69uhk2er9dchxummnw3ezumrpdejqqgxy3c5lqj6g9nqpeg0ea7xgdmurrrq9nc8fx5er2930pq8jdc2vzyu7yza6 why sea steading on the open ocean is the closest thing we have to true anarchy.\n\nhttps://youtu.be/Ex8SQIdeyKw",
+    "timestamp": "1764647620",
+    "date": "12/2/2025, 3:53:40 AM",
+    "id": "339e2a8cfebd9df918e1731d6ff7dfd80d980abba083bb2451a0feec00d059a8",
+    "kind": 6
+  },
+  {
+    "content": "Yes, I just want it for more than just passwords, and also in the appvms that receive the paste.",
+    "timestamp": "1764647477",
+    "date": "12/2/2025, 3:51:17 AM",
+    "id": "a1eb30fac909affc41619054ac247ba6f641be4d9330d54c5b431c184cee3192",
+    "kind": 1
+  },
+  {
     "content": "# About the Submission of Wives to Their Husbands\n\nWe are all, in some way or another, in rebellion against God, and then it is not about judging women for their own rebellion but about trying to understand why and how they can change if they want to.\n\nLet us start by saying that submission is something that one does voluntarily and that it couldn't be in any other way because men and women were created equally and our Father has no preference for men over women nor women over men, and since we all have free will, it is up to us whether we submit to someone or not.\n\nJesus Christ gave us the most astonishing example. When Jesus was twelve, his parents took him to Jerusalem for a holiday. On the way home, they realized he was missing and went back to look for him. After three days of searching, they found Jesus in the Temple sitting with the teachers. Everyone was amazed at how smart he was. Mary was upset and asked, \"Why did you do this? We were so worried!\" Jesus answered, \"Why were you looking for me? Didn't you know I had to be in my Father's house?\" Mary didn't understand what he meant. Jesus went back home with them and obeyed them.\n\nWhy would Jesus Christ, God himself, obey Mary and Joseph? Jesus voluntarily obeyed his parents because that's the natural law, God's law, and he doesn't break his own law. Children must obey their parents because nobody will love them and take care of them as their parents do. We all have obeyed our parents even when we weren't able to understand why they asked us to do or not to do something, and that's okay because parents love their children much more than children love their parents. In that sense, the family replicates in this world the same structure where our Father loves us more than we love him. Moreover, just as children somehow know that obeying is the natural thing to do, they don't always want to do it.\n\nSubmitting to God, our loving Father who wants the best for all of us and who sent his son to suffer and die for us, should simply be natural, but we fail to do it miserably again and again. The same happens with our sisters. If you met a good man, one that you are in love with, someone who loves you and wanted to marry you and form a family with you and make you happy, shouldn't it be natural to submit to him? I mean, all men know that women have virtues and vices different from theirs and they all know that women have been given what they don't have. However, many women believe they are like men and that men haven't received anything special, so why would a woman submit to her husband? But the reality is that leadership is more natural in men and submission to their husbands is also natural in women. In the same way that wives feel unhappy when their husbands refuse to lead, men feel unhappy when their wives don't follow them.\n\nThere is also a lack of trust. What if I submit to my husband and he loses his path? Or he becomes irresponsible or leads the family to ruin? What if he becomes a bad model for my children?\n\nIn the same way that you submitted voluntarily because you trusted him, once it is clear that you can no longer trust him anymore, you don't have to submit to him anymore in order to save your household. That's what Abigail's story is about, and God sees it as good, just as he sees your submission to your husband as good when he is a good man.\n\nA husband who loves his wife would naturally pursue her happiness, and a wife who loves her husband would naturally submit to him. But how? Let us start by helping him to develop his role as the authority of the family and as the priest of the family. Let him sit at the head of the table, let him start the prayer, let him have the final decision and support it. Correct him with love when he makes a mistake, hold him when he stumbles, and ask him all what you need to fulfill your role as mather of the family.\n\n\n",
     "timestamp": "1764614018",
     "date": "12/1/2025, 6:33:38 PM",
