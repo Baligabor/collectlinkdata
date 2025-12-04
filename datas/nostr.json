@@ -1,5 +1,26 @@
 [
   {
+    "content": "A new nostrich is born!\nGive Ibra a follow\nnostr:nevent1qqsd8fa78544gseh49frt8lx46p7ernkfelt7p0nr2yj78dg0lq2ulcprfmhxue69uhhyetvv9ujuct8daexjum59eehqctrv5hsyg9dkhj4wcyf5yle6avlmkllj0a6k7ftrguzjemr5r6v4dfudvad5spsgqqqqqqstxyjmq",
+    "timestamp": "1764756299",
+    "date": "12/3/2025, 10:04:59 AM",
+    "id": "cf6381460cd3963c6f6bf5867fb22700f97accb32b19ae384c8bf19a0bbf4262",
+    "kind": 1
+  },
+  {
+    "content": "Yes!",
+    "timestamp": "1764734111",
+    "date": "12/3/2025, 3:55:11 AM",
+    "id": "7e99120587c16471fd6e316aa836a764078ca0ea4d31a6cefcf2a1539c6317e8",
+    "kind": 1
+  },
+  {
+    "content": "\"The privacy doesn’t come from uncertainty about whether the number is big; it comes from mathematical proof that it’s big enough to exceed any adversary’s computational capacity.\"\n\nThis article was a fantastic read. Highly recommend!\nnostr:nevent1qqs2ewrtacy9a8hdjm69xuey9yae6qhfhtvn0uyln3ampumdgevw5scpp4mhxue69uhkummn9ekx7mq503uru",
+    "timestamp": "1764734100",
+    "date": "12/3/2025, 3:55:00 AM",
+    "id": "cd5119bb48fbc16f5f0d1a9575b69015dfd02a38ab220653e798474a7d344d3d",
+    "kind": 6
+  },
+  {
     "content": "Security relies on min-entropy, not Shannon entropy. Min-entropy bounds the worst case: the probability of the *most likely* interpretation, not the average.\n\nSince H_min ≤ H_Shannon, proving high Shannon entropy guarantees even the adversary's best guess has astronomically low probability. We're not trusting averages, we're using the average as an upper bound on the maximum.",
     "timestamp": "1764698873",
     "date": "12/2/2025, 6:07:53 PM",
