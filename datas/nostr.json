@@ -1,9 +1,100 @@
 [
   {
+    "content": "So you're proving \"I have a valid path to a trust root\" without anyone ever assembling the full picture?",
+    "timestamp": "1764873573",
+    "date": "12/4/2025, 6:39:33 PM",
+    "id": "e2b1a9296298427108cebd0140a1a1ec9b4131531ea4ea13d29f259ed1b677e1",
+    "kind": 1
+  },
+  {
+    "content": "Wait, you're suggesting they're fudging the numbers?\nWell that couldn't be true, right? Right...\n\nThe only metric that truly matters is base money, checkout nostr:nprofile1qqsw4m6evhlz0qj02ekw86657dc5nm3gunvgk4ux0r4qyz6h2ywkk7gprpmhxue69uhhyetvv9ujucm4wfex2mn59en8j6f0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qgewaehxw309aex2mrp0yh8xmn0wf6zuum0vd5kzmp0qn0m9j work.",
+    "timestamp": "1764873453",
+    "date": "12/4/2025, 6:37:33 PM",
+    "id": "2f44b6437717f4858aad3c260ba9231427013095e0b7759c7d62aed6e50b30b3",
+    "kind": 1
+  },
+  {
+    "content": "Interesting, do you have more info on this?\n\nThis seems more expressive and composable, probably with larger proof size.\n\nThere's a new paper \"Anchored Merkle Range Proofs for Pedersen Commitments\" (ePrint 2025/1811, October) which might stay within your existing primitives, maybe more suitable than bullet proofs for you. \n\nHow would you handle key compromise in the middle of the chain? Are the roles attached to the chain position?",
+    "timestamp": "1764872853",
+    "date": "12/4/2025, 6:27:33 PM",
+    "id": "5503cd15767764d0c59a10994242c93ad2f24856ded948fd00765365d80b9f91",
+    "kind": 1
+  },
+  {
+    "content": "Oh then I misunderstood you, but a greater than proof is computationally equally expensive, so doesn't matter.\n\nWhat do you mean the user needs to register to a provider?",
+    "timestamp": "1764869006",
+    "date": "12/4/2025, 5:23:26 PM",
+    "id": "b5040bf5649e0df312152ef851c81d05f1eaaf666af7d7b557ed789fdbe663bd",
+    "kind": 1
+  },
+  {
+    "content": "Can be whichever you want, could also be just a follow list (then omit the score range proof)",
+    "timestamp": "1764866327",
+    "date": "12/4/2025, 4:38:47 PM",
+    "id": "0b1e46c15b4046072d7f536a1769e2b90fe88c0b40c650e99c7acf2b58b25c2e",
+    "kind": 1
+  },
+  {
+    "content": "Would be thankful for nostr:nprofile1qqst3axzay8sm4n8zg2n84acmt7hwwztpdg9r7p89e2f83v007f7zjcpr9mhxue69uhhqun9d45h2mfwwpexjmtpdshxuet59uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tc3s2hgn & nostr:nprofile1qqsxwkuyle67y94tj378gw8w2xw2wa6nwmwlqhddlwnz0z7sztsaw2qpz9mhxue69uhkummnw3ezuamfdejj7nxasma to poke holes in this approach...",
+    "timestamp": "1764863748",
+    "date": "12/4/2025, 3:55:48 PM",
+    "id": "b86e493e084856e116903219ce7b3dcaa0f553e33dd0bdd716f007278b63c739",
+    "kind": 1
+  },
+  {
+    "content": "After brainstorming with nostr:npub176p7sup477k5738qhxx0hk2n0cty2k5je5uvalzvkvwmw4tltmeqw7vgup  about anonymous relay access, I wrote up how zero-knowledge proofs could let users prove they're on a WoT trusted list, and that their score is good enough, without revealing which pubkey is theirs. nostr:naddr1qqgrjvfhvv6rqdtpxymxvdnrx4jngq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wt2w8k9",
+    "timestamp": "1764863684",
+    "date": "12/4/2025, 3:54:44 PM",
+    "id": "fc4364c852c7e9619ac5cbb16590ecc8f2b1cf3b1534a76070c000f09c98c254",
+    "kind": 1
+  },
+  {
+    "content": "You got em too, huh?",
+    "timestamp": "1764857788",
+    "date": "12/4/2025, 2:16:28 PM",
+    "id": "b573feaaffe19cf2d5e542d133adfb984511b5dab5e8cc4801952678428b165a",
+    "kind": 1
+  },
+  {
+    "content": "GM 🌞🏝️\n\nnostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpypmhxue69uhkummnw3ezuetfde6kuer6wasku7nfvuh8xurpvdjj7qghwaehxw309aex2mrp0yhxz7n6v9kk7tnwv46z7pxxtmh killed it here at Africa Bitcoin Conference! 👏\n\nIt’s been so cool talking to so many builders about Marmot this week. \nhttps://blossom.primal.net/714411fecddc1b7caeb6231a6e742a3119cfc6faed8acb039d1bfc7c00417379.jpg",
+    "timestamp": "1764857540",
+    "date": "12/4/2025, 2:12:20 PM",
+    "id": "b15e4e197060028b4b9321f491a85d371d63f184a9731e3b6c46bb109d46ff4f",
+    "kind": 6
+  },
+  {
+    "content": "Yes.\nI'll write up something on WoT zk magic soon, ping me if I forget...",
+    "timestamp": "1764823710",
+    "date": "12/4/2025, 4:48:30 AM",
+    "id": "ea10501380031a034d109a3b73c8782ea99ee7e01440690c5f7bfc62c61cce0d",
+    "kind": 1
+  },
+  {
+    "content": "📱 White Noise & Marmot Protocol \n📄 Monthly Recap - November 2025\n\nNovember was a month of shipping, learning, and connecting with the global freedom tech community.\n\n- Conference stages in Costa Rica\n- Podcast conversations about - decentralized identity\n- We kept pushing forward on our mission to build communication infrastructure owned by no one.\n\n🚀 What we shipped\n\nThis month we released two versions of White Noise, continuing our rapid iteration cycle:\n\n- White Noise v0.2.0 - Our first major update since launch, featuring notification improvements and picture sharing capabilities\n- White Noise v0.2.1 - A follow-up release addressing battery optimization and notification refinements\n- Picture sharing- Users can now share images in their encrypted chats\n- Notification fine-tuning - Better control over how and when you receive message alerts\n\n📕 What we learned\n\nVersion 0.2.0 shipped with a bug: background notification polling was set to 1-second intervals, which caused excessive battery drain on mobile devices. This was a valuable lesson in the tradeoffs between real-time responsiveness and power efficiency. We quickly addressed this in v0.2.1 by implementing smarter polling intervals that respect your battery while still delivering timely notifications.\n\n💪 What we're working on\n\nThe team is heads-down on several improvements:\n\n- Smart notifications - Click any notification to jump directly to that specific chat\n- Image zoom - Pinch-to-zoom on shared pictures for a better viewing experience\n- Major UI redesign - A comprehensive visual refresh is in progress\n- Key rotation NIP - Continued work on the Nostr Implementation Possibility for secure key rotation\n\n🫶 Community & Ecosystem\n\nShoutout to Danny for creating language bindings for the Marmot Development Kit (MDK) across Swift, Kotlin, and WASM. This cross-platform foundation makes it easier for developers to integrate Marmot's privacy primitives into their applications, regardless of the platform they're building for.\n\nWe're also excited that Tubestr has integrated Marmot for private video sharing. This is exactly the kind of ecosystem growth we envisioned - other Nostr projects adopting Marmot's protocol to add privacy features to their platforms.\n\n🚙 On the Road\n\nNovember took the team to Costa Rica for the Nostrxxx Conference, where we hosted a White Noise House - a dedicated space for privacy-focused builders to connect, collaborate, and demo their work. We shipped a release at the event and spent focused time advancing the key rotation NIP with fellow Nostr developers.\n\n🎙️ Podcast Appearances\n\n- nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcppemhxue69uhkummn9ekx7mp0gf8npz on Bitcoin Takeover Podcast - A deep 4-hour conversation covering White Noise, Marmot, Bitcoin layer 2s, and the philosophy of building freedom tech\n- nostr:nprofile1qqspwwwexlwgcrrnwz4zwkze8rq3ncjug8mvgsd96dxx6wzs8ccndmcpzamhxue69uhkummnw3ezu6rpwd5xyctwvuhxumqpzpmhxue69uhkummnw3ezuamfdejstcdkcv on You're The Voice (Ep. 107) - Discussing decentralized digital identity and encrypted messaging with nostr:nprofile1qqsx5dvc2g3cmjgz4mgelwlk5p2ln2ljrsw23y2ar38z0agd7tefpkgpz4mhxue69uhk2er9dchxummnw3ezumrpdejqzyrhwden5te0dehhxarj9emkjmn9v4lz04  \n\n📆 What's Next\n\nDecember is shaping up to be just as eventful:\n\n- Africa Bitcoin Conference (December 3-5) - We're heading to Mauritius for Africa's premier Bitcoin gathering. The conference brings together innovators, builders, and changemakers shaping the future of technology and financial sovereignty across the continent.\n- White Noise House Mauritius - Another gathering space for privacy builders and freedom tech enthusiasts\n\n💡 As always, White Noise and Marmot Protocol remain open-source, community-driven, and focused on building communication infrastructure that belongs to everyone and no one. Thank you for being part of this journey.\n\nTry White Noise: [(whitenoise.chat)\nhttps://blossom.primal.net/1470b36e72d251788f67e1ab5cdff299742c0bad8758623984e0cff27a53d9e1.jpg",
+    "timestamp": "1764823389",
+    "date": "12/4/2025, 4:43:09 AM",
+    "id": "ef8862c2031044eedd406a6536ddc68b1944c27b45c39ec08a2e6896aa0de1b0",
+    "kind": 6
+  },
+  {
+    "content": "If anyone wants to help out and contribute to #blossom then stress testing this would be great.\n\nBlossom needs a way for clients to quickly check if 1000s of blobs are present on a server and its a bonus if it can be done without the server knowing which blobs are being checked. (reduces ability for server to lie)\n\nIf no one else is able to work on this ill probably take a stab at it, but its going to take me a while since my time is limited and it would be much better to have some help\nnostr:naddr1qvzqqqr4gupzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tcppemhxue69uhkummn9ekx7mp0qqgrjde5x4nrwve3vcmnzde4vc6rgq98cy5",
+    "timestamp": "1764823088",
+    "date": "12/4/2025, 4:38:08 AM",
+    "id": "63fd2533b5187b3b7781d5a965498d0beabbc7d823599409cedcb6dcf04c631b",
+    "kind": 6
+  },
+  {
     "content": "A new nostrich is born!\nGive Ibra a follow\nnostr:nevent1qqsd8fa78544gseh49frt8lx46p7ernkfelt7p0nr2yj78dg0lq2ulcprfmhxue69uhhyetvv9ujuct8daexjum59eehqctrv5hsyg9dkhj4wcyf5yle6avlmkllj0a6k7ftrguzjemr5r6v4dfudvad5spsgqqqqqqstxyjmq",
     "timestamp": "1764756299",
     "date": "12/3/2025, 10:04:59 AM",
     "id": "cf6381460cd3963c6f6bf5867fb22700f97accb32b19ae384c8bf19a0bbf4262",
+    "kind": 1
+  },
+  {
+    "content": "Sometimes It's really hard to channel anger into productive passion, and not blind rage.",
+    "timestamp": "1764744568",
+    "date": "12/3/2025, 6:49:28 AM",
+    "id": "958d621be94fda6f51fda20853e62c399f502186473ea28b11f4afd4f2a98e89",
     "kind": 1
   },
   {
