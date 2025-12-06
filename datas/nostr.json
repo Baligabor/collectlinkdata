@@ -1,5 +1,47 @@
 [
   {
+    "content": "True, not many.\nBut it's kinda like pay join, only a small subset of users has to do it in order to get a huge privacy benefit for everyone.\nAnd this will be in the UI eventually.",
+    "timestamp": "1764950495",
+    "date": "12/5/2025, 4:01:35 PM",
+    "id": "8b7c8987ab2f97c8d31f91bb670bca0021551db5998cd38ad3e84283463b100a",
+    "kind": 1
+  },
+  {
+    "content": "It ain't bad if you can opt out.",
+    "timestamp": "1764949124",
+    "date": "12/5/2025, 3:38:44 PM",
+    "id": "bfcc8df5f5e5d45619d26b5341ead657d63d5530e05b482d2175661671fca655",
+    "kind": 1
+  },
+  {
+    "content": "I leave the coding to the actual wizards, I just code in English...",
+    "timestamp": "1764948762",
+    "date": "12/5/2025, 3:32:42 PM",
+    "id": "22e7d819931144c089185c38c4f9ac80219d3de3e358197e82c669ff7f5171eb",
+    "kind": 1
+  },
+  {
+    "content": "Yeah that's confusingly said, the WoT provider can of course add any pubkey he wants without user action.\nOr the user somehow initiates this, for example with payment.",
+    "timestamp": "1764948614",
+    "date": "12/5/2025, 3:30:14 PM",
+    "id": "cfaa899eedf569fa6a7acac7a3d7fd08cbe148de690d7dfa52d9579ca942318d",
+    "kind": 1
+  },
+  {
+    "content": "It ain't traceable if you use it right...\nnostr:naddr1qqgxywf5xg6ryerxvdnrjwf5vscxxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c9ldpd6",
+    "timestamp": "1764948545",
+    "date": "12/5/2025, 3:29:05 PM",
+    "id": "1517e2e18c808ebda147a681fad5e2f74da7db95f1322fe406bc931c6dd8a8ac",
+    "kind": 1
+  },
+  {
+    "content": "When money is tracked, identity is watched, and privacy is gone. Fiction just became prophecy.\n\nDive into the first part of Underworld by Max Hillebrand. A cypherpunk story at the edge of dystopia and freedom. Great work nostr:nprofile1qqs9rzzjrvedgzm5pgfc35jyugny9k34zhq0kw0swpt39ymsqz8t2xqpr9mhxue69uhkummnw3ezuun4vf3x2unydakxctnrvvq36amnwvaz7tmjv4kxz7fwvf6kcmrfwd5xymm4de68jtnrdaks3p7ewd 🫂\n\nPart 1 available here: \nhttps://vexl.it/post/fiction---underworld-by-max-hillebrand-pt-1\nhttps://blossom.primal.net/8f03520d3952d605992723527b388a19e1410b54d3c1d759c7fb505acd444f25.jpg",
+    "timestamp": "1764948490",
+    "date": "12/5/2025, 3:28:10 PM",
+    "id": "0f15309f608424c7bcfd08d766864d2427bc5cef0afa31c42ce0ed7f97016724",
+    "kind": 6
+  },
+  {
     "content": "So you're proving \"I have a valid path to a trust root\" without anyone ever assembling the full picture?",
     "timestamp": "1764873573",
     "date": "12/4/2025, 6:39:33 PM",
