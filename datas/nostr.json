@@ -1,5 +1,26 @@
 [
   {
+    "content": "Ever wonder what those last 6 characters of your npub actually do? They're not random, they're a mathematical safety net that catches up to 4 typos with 100% certainty. New post exploring how Bech32's BCH codes work, why Nostr chose bech32 over bech32m, and why the algorithm deliberately refuses to auto-correct your mistakes (hint: it could \"fix\" your key into someone else's). The same math that guided deep space probes now protects your Nostr identity. nostr:naddr1qqgx2dtrxcmxgvrp89jnyer9vymrsq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wfy2xxr",
+    "timestamp": "1765044736",
+    "date": "12/6/2025, 6:12:16 PM",
+    "id": "e0e8f582a37eadd63a41b9492d75ffb5aba65e6296e3c92c9c03fba95f2e4ea1",
+    "kind": 1
+  },
+  {
+    "content": "Come build the future of how computers connect to each other.\n\nnostr:naddr1qqv8xetr95crwtt5dpjj6mn9w3mk7unt94ehgctrdvq3jamnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kz7q3qs0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsxpqqqp65w0thhc4",
+    "timestamp": "1765037352",
+    "date": "12/6/2025, 4:09:12 PM",
+    "id": "b156a26a816b1a5c24e37c68428e70bf86e3a0065729779e1de93b16daf2e092",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, I'm the original vibe coder for a decade now.",
+    "timestamp": "1765000549",
+    "date": "12/6/2025, 5:55:49 AM",
+    "id": "f66ca3facbd94bb750bcab6ff17afad4774b49d2d542bc79bb8f8b8bee114151",
+    "kind": 1
+  },
+  {
     "content": "True, not many.\nBut it's kinda like pay join, only a small subset of users has to do it in order to get a huge privacy benefit for everyone.\nAnd this will be in the UI eventually.",
     "timestamp": "1764950495",
     "date": "12/5/2025, 4:01:35 PM",
