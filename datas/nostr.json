@@ -1,5 +1,110 @@
 [
   {
+    "content": "1. Yes, as long as old blobs and old inodes are still there, changes can be rolled back, and conflicts can be merged gracefully.\n\n2. Yes, storage will be big, and it will be larger if we don't do erasure coding. The original idea was for super important small files, like wallet descriptors or password managers, not for your entire picture gallery.\n\n3. Yes and that's tricky, with this design outside observers can't tell that two blobs belong to the same user. 402 fixes this.",
+    "timestamp": "1765132717",
+    "date": "12/7/2025, 6:38:37 PM",
+    "id": "78963a9ae4d8b27b901d5572292ba7a64879b037048fe5703b2c3afb79119094",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs9c5x6zv55073m736eawtc67zdky4645wrukm22a2ppt4k233ekjcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshsaaktem is the UX hero nostr has, but doesnt deserve.\n\nIncredible talent, so bullish to share his latest work, not yet, but soon.",
+    "timestamp": "1765109983",
+    "date": "12/7/2025, 12:19:43 PM",
+    "id": "eddc1be7e5905faac5c85b1f6de9cc86fbf7ff8dc303de9d1d7c5d9fc2d385ee",
+    "kind": 1
+  },
+  {
+    "content": "Yes, the earlier designs had a password as well, it should be trivial to add here too as an option.",
+    "timestamp": "1765109721",
+    "date": "12/7/2025, 12:15:21 PM",
+    "id": "b7a1799cfa164b9fc14be1deeb0f0d8d5febd7ba3c43cdb03d9bb28b02a32c7f",
+    "kind": 1
+  },
+  {
+    "content": "Indeed.\nDo you see anything wrong with this architecture?",
+    "timestamp": "1765109573",
+    "date": "12/7/2025, 12:12:53 PM",
+    "id": "b123bdcb979f32a75c254bb82222e0c980eb93eea46d408dbb9d1e276fa33dd1",
+    "kind": 1
+  },
+  {
+    "content": "Oh wow, that's a very cool screen, thanks!",
+    "timestamp": "1765107089",
+    "date": "12/7/2025, 11:31:29 AM",
+    "id": "3c3746a6cc822434a21d1692d466a6d7c4653d472c6ad99d9a302346829549e6",
+    "kind": 1
+  },
+  {
+    "content": "Also notice that there is a per file randomly generated key, from which we derive unique keys for each block. The per file key is encrypted to the nsec for recovery.\n\nThis prevents linking multiple blocks to the same file/user.",
+    "timestamp": "1765094677",
+    "date": "12/7/2025, 8:04:37 AM",
+    "id": "2fb4c6c28fdefc253aa370043252241184167570e2ecf72e829e445c11544496",
+    "kind": 1
+  },
+  {
+    "content": "Also the best practice is to use a new nsec for this, not your main identity key, this limits key exposure and reduces compromise risk.\n\nNothing stops you to use your main nsec tho, if that is desired.",
+    "timestamp": "1765094504",
+    "date": "12/7/2025, 8:01:44 AM",
+    "id": "da99d67596652bdcb1c5203a5a4b27941c7e0834e751daafeb9aab65126b87f6",
+    "kind": 1
+  },
+  {
+    "content": "The entire idea here is to have a single key that gives you all the files, perfect for memorizing. So forward secrecy is explicitly not desired.",
+    "timestamp": "1765094422",
+    "date": "12/7/2025, 8:00:22 AM",
+    "id": "32bb16b15c207f3ba207fbf85bf69e040c30a2a429d4f74debd2b2aecc635d1b",
+    "kind": 1
+  },
+  {
+    "content": "Ok, here the latest version of our architecture.\nnostr:naddr1qqgxxdryxfsnxvf3xscnvdnx8pnr2qg5waen5te0xyerwt3s9cczuvf6xsurvwf0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqa28ajp369",
+    "timestamp": "1765093354",
+    "date": "12/7/2025, 7:42:34 AM",
+    "id": "1ceb3838e6f37d4b5387d6f94b3210cb3a2c4a63ebb81d0f7b5f9f1842f0f358",
+    "kind": 1
+  },
+  {
+    "content": "Local (and remote) file storage encryption is doable with nostr too, here's an article with an early architecture, we made a lot of progress since, but I haven't made an update post yet.\nCheck it out and please give some feedback.\n\nnostr:naddr1qqgrsde5xcexzvny8qerjvf3vgmkxqg3waehxw309ahx7um5wgh8w6twv5hsyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlspsgqqqw4rs37vdn7",
+    "timestamp": "1765092043",
+    "date": "12/7/2025, 7:20:43 AM",
+    "id": "a3f83bc41408b6217858cfe5b4f21b93bd090f73e1eb718a7c9dfe6921370645",
+    "kind": 1
+  },
+  {
+    "content": "I don't get it...\n\nWhy do you still need PGP at all? nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhxetpwf3kstnwdaejuar0v3shjtc3uszjr does software signing better anyhow.\n\nAnd what's the difference of using nostr as your long term identity key and not just a PGP master key? At least the PGP master key you can revoke, expire, rotate, while we don't have any of that in nostr yet.",
+    "timestamp": "1765089018",
+    "date": "12/7/2025, 6:30:18 AM",
+    "id": "17ad041c9e9791cd29a95f6a373d814ebea4097151179c13629f097d8297ee5c",
+    "kind": 1
+  },
+  {
+    "content": "Is there a second implementation of the simplex / session protocol?\n\nThe second implementation of Marmot protocol is nostr:nprofile1qqsrgtm763cvepn02aejwp9t8chxnr6jgqg2zyllt9mhqcwcsksjwwqprdmhxue69uhhsmtj9e5hg6r4wf68xamgv4hxjupwv4jj7qg5waehxw309aex2mrp09skymr99ehhyee0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0vzchvx and has nothing to do with chats, it's about private video sharing to a group of trusted friends, specifically the parents are admins of a group that have full control over who can watch the videos of their kids.\n\nAnd the marmot integration was vibe codes in a couple days.\n\nI believe this is unique and quite valuable.",
+    "timestamp": "1765080354",
+    "date": "12/7/2025, 4:05:54 AM",
+    "id": "f00cebf1cf9892dc609d90d0f038b891e025341b714d4070c47233814f812a38",
+    "kind": 1
+  },
+  {
+    "content": "You can long press this type of background sync notification and then turn it off.\n\nThis is the same as for a VPN or Tor, android only allows you to run in the background if you persistently tell the user.",
+    "timestamp": "1765079993",
+    "date": "12/7/2025, 3:59:53 AM",
+    "id": "f9816cc2157c26143057316352e444e5cf61fe579f3f4c9cbb1f3fe8a6280705",
+    "kind": 1
+  },
+  {
+    "content": "I just checked, and 1.5% of out budget goes to marketing, 98.5% is for engineers and devs.",
+    "timestamp": "1765079890",
+    "date": "12/7/2025, 3:58:10 AM",
+    "id": "e3058ed8ddab313d45697bb0dfb0ab2f9a9d92ddb6fa999e5e32eb05dcbc2f23",
+    "kind": 1
+  },
+  {
+    "content": "Because its a protocol, not an app, and that protocol is much more than just for chat, this gives us everything that Nostr can do, but encrypted so only your friends can see it.",
+    "timestamp": "1765079799",
+    "date": "12/7/2025, 3:56:39 AM",
+    "id": "3530b9dbce3feeddae00721334eadf99909ab41a02b3745f2e6d4a55951b3d44",
+    "kind": 1
+  },
+  {
     "content": "Ever wonder what those last 6 characters of your npub actually do? They're not random, they're a mathematical safety net that catches up to 4 typos with 100% certainty. New post exploring how Bech32's BCH codes work, why Nostr chose bech32 over bech32m, and why the algorithm deliberately refuses to auto-correct your mistakes (hint: it could \"fix\" your key into someone else's). The same math that guided deep space probes now protects your Nostr identity. nostr:naddr1qqgx2dtrxcmxgvrp89jnyer9vymrsq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wfy2xxr",
     "timestamp": "1765044736",
     "date": "12/6/2025, 6:12:16 PM",
