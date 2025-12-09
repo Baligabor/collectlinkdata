@@ -1,5 +1,33 @@
 [
   {
+    "content": "Germany never disappoints when it comes to Bitcoin conferences!\n\nCheck out the new so called Vexl vlog featuring nostr:npub1gunkavtrl32txueexz44el2l49rg0gv48pc6suadf7hwj852tuuqj3nudq from 3. BitcoinForum in Ingolstadt. \n\nShould we make more of these next year? 🤔\nhttps://blossom.primal.net/9c36be43ebfc18f4c17fc5408e0e86a63927e65da9905760cbbdc856f86b3b5d.mov",
+    "timestamp": "1765216755",
+    "date": "12/8/2025, 5:59:15 PM",
+    "id": "b54f19d8319147678de58a9c7dd975662f2005741ab35399ba6fa04b644ea159",
+    "kind": 6
+  },
+  {
+    "content": "Ship things.\nShip things harder.",
+    "timestamp": "1765177608",
+    "date": "12/8/2025, 7:06:48 AM",
+    "id": "6121460ecd9b7b02c53ef48a1eaf20857760b60faf082892d44ddfc933f59780",
+    "kind": 1
+  },
+  {
+    "content": "Ha, true.",
+    "timestamp": "1765177412",
+    "date": "12/8/2025, 7:03:32 AM",
+    "id": "e6959c4ba572a66d9a2cfd3a9b49e03d144bd766ed3801cc1513fed22b386c9f",
+    "kind": 1
+  },
+  {
+    "content": "That's super hard and would increase complexity substantially.\n\nYou can share the per file encryption key tho, but then rotating that is difficult.",
+    "timestamp": "1765165315",
+    "date": "12/8/2025, 3:41:55 AM",
+    "id": "973cc4f56801f3c65cabd3c701fc6b80581aabba16b4df67e19b820cbe369a37",
+    "kind": 1
+  },
+  {
     "content": "1. Yes, as long as old blobs and old inodes are still there, changes can be rolled back, and conflicts can be merged gracefully.\n\n2. Yes, storage will be big, and it will be larger if we don't do erasure coding. The original idea was for super important small files, like wallet descriptors or password managers, not for your entire picture gallery.\n\n3. Yes and that's tricky, with this design outside observers can't tell that two blobs belong to the same user. 402 fixes this.",
     "timestamp": "1765132717",
     "date": "12/7/2025, 6:38:37 PM",
