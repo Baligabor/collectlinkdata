@@ -1,5 +1,26 @@
 [
   {
+    "content": "Interesting, IPFS feels over engineered to the simplicity of blossom tho, wdyt?",
+    "timestamp": "1765256904",
+    "date": "12/9/2025, 5:08:24 AM",
+    "id": "99f6642c1eb5e2e7c894844f8a11137f16fbc59a6bbd3c1a68faa23e8c4958ed",
+    "kind": 1
+  },
+  {
+    "content": "Cool!",
+    "timestamp": "1765249417",
+    "date": "12/9/2025, 3:03:37 AM",
+    "id": "f1deeb424f8750c23c1cc82dc02f14065c013d8b1629dff88b34fb58c4b61361",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, the fix is easy, the bug discovery is hard...",
+    "timestamp": "1765249391",
+    "date": "12/9/2025, 3:03:11 AM",
+    "id": "e0d1ce133e6ea683924a6c36c3579cd571ef7dffb9a3982a60c66052b5c979c5",
+    "kind": 1
+  },
+  {
     "content": "Germany never disappoints when it comes to Bitcoin conferences!\n\nCheck out the new so called Vexl vlog featuring nostr:npub1gunkavtrl32txueexz44el2l49rg0gv48pc6suadf7hwj852tuuqj3nudq from 3. BitcoinForum in Ingolstadt. \n\nShould we make more of these next year? 🤔\nhttps://blossom.primal.net/9c36be43ebfc18f4c17fc5408e0e86a63927e65da9905760cbbdc856f86b3b5d.mov",
     "timestamp": "1765216755",
     "date": "12/8/2025, 5:59:15 PM",
@@ -81,6 +102,13 @@
     "timestamp": "1765094422",
     "date": "12/7/2025, 8:00:22 AM",
     "id": "32bb16b15c207f3ba207fbf85bf69e040c30a2a429d4f74debd2b2aecc635d1b",
+    "kind": 1
+  },
+  {
+    "content": "tldr:\n\nData path: file → fixed-size chunks → encrypt each block → erasure-code into n shards → upload shards to n servers\n\nKey derivation: nsec → random per-file key → derived per-block subkey\n\nnostr:naddr1qqgxxdryxfsnxvf3xscnvdnx8pnr2qg5waen5te0xyerwt3s9cczuvf6xsurvwf0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqa28ajp369",
+    "timestamp": "1765094338",
+    "date": "12/7/2025, 7:58:58 AM",
+    "id": "55d93ae18c6059fe5119a97edad0a6c3859d31e57400c42cd6c32ee5cbc0be17",
     "kind": 1
   },
   {
