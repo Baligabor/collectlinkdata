@@ -1,5 +1,47 @@
 [
   {
+    "content": "Yes, That's a good direction, Thanks for doing this!",
+    "timestamp": "1765472595",
+    "date": "12/11/2025, 5:03:15 PM",
+    "id": "12e609db45d99eb94709ad02e2bfac89175eb1234a6c1ea3751c676b50dcaf2c",
+    "kind": 1
+  },
+  {
+    "content": "Do you have a link for the forward secrecy? ",
+    "timestamp": "1765460249",
+    "date": "12/11/2025, 1:37:29 PM",
+    "id": "4007c209075fe63a494eda1b6f5f14980c0f5991cc189f52ea9f4e22c80a19e2",
+    "kind": 1
+  },
+  {
+    "content": "TIL session chat app doesn't use a ratchet and has no forward secrecy or post compromise security.",
+    "timestamp": "1765452120",
+    "date": "12/11/2025, 11:22:00 AM",
+    "id": "8b24d90496d59047d51271e693798f8d89f8d72ee7c51a5462fbf8bb54844ff9",
+    "kind": 1
+  },
+  {
+    "content": "And it is the content you deserve.",
+    "timestamp": "1765445111",
+    "date": "12/11/2025, 9:25:11 AM",
+    "id": "c9382cf95fd0e442a9a846fd658fbc23886f8053f3415304f41ba732a2f693a8",
+    "kind": 1
+  },
+  {
+    "content": "Interesting, thanks!\nI'm a fan of smart clients dumb servers, and seems like IPFS is the opposite.\n\nYou can have a smart blossom client that bootstraps with some hard coded nostr/blossom relays, and then discovers other servers, then queries for files.\n\nUltimately the same UX as IPFS, with much less complexity. \n\nReally not sure if that's an accurate claim tho.",
+    "timestamp": "1765445020",
+    "date": "12/11/2025, 9:23:40 AM",
+    "id": "1651a3a2f240d7828627128041e18235fc26ff43eaa145a117a246a922e4c7ab",
+    "kind": 1
+  },
+  {
+    "content": "New blog: a deep dive into symmetric encryption for developers. When to use ChaCha20-Poly1305 vs AES-GCM, the mathematics behind Poly1305, why nonce reuse is catastrophic, and how TLS 1.3, WireGuard & Signal made their cipher choices. Essential reading for anyone building encrypted systems. nostr:naddr1qqgrydtpxdnrqcekv5mkxv3kxd3kxq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65we7e8wx",
+    "timestamp": "1765439987",
+    "date": "12/11/2025, 7:59:47 AM",
+    "id": "67e38ad59b60599efaa94a70a4ddc9e31c0530cef61a34b7b52099018cf9c5df",
+    "kind": 1
+  },
+  {
     "content": "Interesting, IPFS feels over engineered to the simplicity of blossom tho, wdyt?",
     "timestamp": "1765256904",
     "date": "12/9/2025, 5:08:24 AM",
