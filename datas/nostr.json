@@ -1,5 +1,61 @@
 [
   {
+    "content": "nostr:nprofile1qqswum4p82uluhz2dr40nvdrflspffntgqghc58w9fs57nx6jkdkuaqpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszythwden5te0dehhxarj9ekxzmny9uq3zamnwvaz7tmwdaehgu3wwa5kuef0nwfqpd I nuked the zombies, but srill see all followers on amethyst, got any ideas?",
+    "timestamp": "1765742315",
+    "date": "12/14/2025, 7:58:35 PM",
+    "id": "35008a48e46288ed68d464ef6d622dc3f1f0da1d8acc4235e7ce47ef3c27797c",
+    "kind": 1
+  },
+  {
+    "content": "Yes.\nnostr:nevent1qqsd63ckqqg9r68zd9l93j2quta3ak7gwh9scm9mhjw9c9hgw58533spzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgrl3uhr",
+    "timestamp": "1765740172",
+    "date": "12/14/2025, 7:22:52 PM",
+    "id": "7b0369b137e92f0834a1a7528c45239eafcddde14a0b602b22653c3676afbb52",
+    "kind": 1
+  },
+  {
+    "content": "It's quite good, still a bit buggy and incomplete, but works!",
+    "timestamp": "1765740053",
+    "date": "12/14/2025, 7:20:53 PM",
+    "id": "4582d0aa333fe25c89c75d8da4849a2b6fe96026b622ceb2516b00279ca0d620",
+    "kind": 1
+  },
+  {
+    "content": "Yeah Asado every other day is just not reasonable!",
+    "timestamp": "1765716795",
+    "date": "12/14/2025, 12:53:15 PM",
+    "id": "e3ac5820a7d476243d129192c3b8bea5ff7fa894f941551f863c228a3e71c7a9",
+    "kind": 1
+  },
+  {
+    "content": "Did you look into media over quic?\n\nhttps://moq.dev/",
+    "timestamp": "1765709536",
+    "date": "12/14/2025, 10:52:16 AM",
+    "id": "b4d7e73b8c7cb07217348e9b142fa2aaba4a3639912c05a2ea9eddd662b6ae7e",
+    "kind": 1
+  },
+  {
+    "content": "Paraguay is at the end of the rabbit hole.\n\nhttps://image.nostr.build/586c89095d892955c523f0ae8b6f4bbeb3318d6e89b2e31c96197069683e0c1a.jpg",
+    "timestamp": "1765707748",
+    "date": "12/14/2025, 10:22:28 AM",
+    "id": "bf05a6a2b25d3724785effb250b21cd86f3d9fb4714e57d8f4c0b5a79f10c36d",
+    "kind": 1
+  },
+  {
+    "content": "Nice!\nwould be good to start with camera and microphone off, and only ask for permissions when user turns each on.",
+    "timestamp": "1765683470",
+    "date": "12/14/2025, 3:37:50 AM",
+    "id": "b8d9de8cd7fe1e94eadfc333ab214172c535199db7feb3631d95d13e53da4889",
+    "kind": 1
+  },
+  {
+    "content": "GM, this is why FOSS wins.",
+    "timestamp": "1765680388",
+    "date": "12/14/2025, 2:46:28 AM",
+    "id": "00d629be0699510285e09efcd54a3b0aa62ec59c90782af353f03d3aa512ba4d",
+    "kind": 1
+  },
+  {
     "content": "Nostria on Zapstore!\n\nhttps://zapstore.dev/apps/naddr1qvzqqqr7pvpzp5daxvenwv7ucsglpm5f8vuts530cr0zylllgkwejpzvak0x2kqmqq8kzurs9ehx7um5wf5kztn5wassny8q76\n\n#nostria #zapstore",
     "timestamp": "1765633506",
     "date": "12/13/2025, 1:45:06 PM",
