@@ -1,5 +1,159 @@
 [
   {
+    "content": "Droid-ify is a prettier F-Droid client with a cleaner UI and better features like automatic updates and multi-repo support, but it doesn't solve the fundamental problem. It's still pulling from F-Droid repositories where apps are signed by F-Droid's keys, not the original developers. The trust model is identical. It's a better interface to a flawed system, not an alternative architecture. ",
+    "timestamp": "1765828233",
+    "date": "12/15/2025, 7:50:33 PM",
+    "id": "044bc66bcb7d20e1952f744917d9de22b552ed78c76a89b031b62562feb4f2f9",
+    "kind": 1
+  },
+  {
+    "content": "lol that's funny\nRules for thy but not for me.",
+    "timestamp": "1765817307",
+    "date": "12/15/2025, 4:48:27 PM",
+    "id": "c53e64a32feea3e51ecfb38e580c03eb8f9ff1e33ff2e3f189e04d4d136b5a5d",
+    "kind": 1
+  },
+  {
+    "content": "Exactly, makes the phone feel like an actual computer and not just a remote control to some company server.",
+    "timestamp": "1765817207",
+    "date": "12/15/2025, 4:46:47 PM",
+    "id": "bce262cd7ea3c7ff9930db6a0916fdec3ea4a89b1d1b981cf2e3214098689d88",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yhxummnw3ezucnpdejz7qpq0r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7s85uvay is fantastic, and to me the most important app in the android ecosystem. \n\nZapstore combined with nostr:nprofile1qyt8wumn8ghj7un9d3shjtnyd968gmewwp6kytcqyp2x308wkaxwxh95zu7uext5hhdvn6y55a9l84z0nj5tw42xqhy76xjduwt makes me feel like I own my phone again.",
+    "timestamp": "1765817166",
+    "date": "12/15/2025, 4:46:06 PM",
+    "id": "f2b9af6eb616480b4db5e768ac3d5c22840bc35d5a8c9768e91af8f06cc0ea4b",
+    "kind": 6
+  },
+  {
+    "content": "Mhhh, I'll have to do more thinking about this, but intuitively it feels like a larger network means stronger WoT.\n\nYou're right that we need to be careful tho.",
+    "timestamp": "1765807207",
+    "date": "12/15/2025, 2:00:07 PM",
+    "id": "7729eb47bce16183548c2be89d1b814e8b3f07291b44815d28b6443b0bd3e8b9",
+    "kind": 1
+  },
+  {
+    "content": "And unfortunately White Noise isn't even reproducible yet... I know, shame on us!",
+    "timestamp": "1765807092",
+    "date": "12/15/2025, 1:58:12 PM",
+    "id": "8e6634e05c93152bb6edd5123372a8689db61b4b003e0958db711868d04f5bd5",
+    "kind": 1
+  },
+  {
+    "content": "Appreciate the hard work!",
+    "timestamp": "1765807039",
+    "date": "12/15/2025, 1:57:19 PM",
+    "id": "098bd1566cb42bfa0e5f7902ab545ffcc6bdebff382e4aa8aad4a8041f8342c6",
+    "kind": 1
+  },
+  {
+    "content": "Everything changes when we can trust our computers.\nHomomorphic encryption, proof carrying data, and verifiable secure enclaves are the absolute game changer here.\n\nSeems like I should write a bit about that...",
+    "timestamp": "1765807001",
+    "date": "12/15/2025, 1:56:41 PM",
+    "id": "9654c6c19709fd85dcb752411ccbb48a3e7da7f923ab63632e5ac03f4d6a397e",
+    "kind": 1
+  },
+  {
+    "content": "Then in the worst case we're back where we are now, 500+ 5 star reviews from random strangers. But with the benefit of an open WoT graph your client can analyze and take out the bots. And most likely there will be some celebrity you trust in that group.\n\nIt already works great now with our tiny community and I think it will work better with more users and a more interconnected graph.",
+    "timestamp": "1765806785",
+    "date": "12/15/2025, 1:53:05 PM",
+    "id": "ebf2db2fc6bcac5044336c3d24625e2c3e721bae230590f2b1a70af4ffd9b2e9",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nevent1qqsgwpl2z8j8l83e534xy5k7njgtuj3wemayectxzmyzw4svypncrugpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgqskuhc",
+    "timestamp": "1765804357",
+    "date": "12/15/2025, 1:12:37 PM",
+    "id": "7b64dd1f73987f54ce6b168f07f5befa4e90145838c4541ae034a29831120b67",
+    "kind": 1
+  },
+  {
+    "content": "Because fdroid is insecure in comparison to zapstore.\nThey rebuild the app and could introduce malware.\nWith zapstore we sign it ourselves and nobody can tamper with the build.",
+    "timestamp": "1765804341",
+    "date": "12/15/2025, 1:12:21 PM",
+    "id": "3b4a9027e961e519fc5aff5b0247833d1bf5aa78fc341f33138ee92489993c2b",
+    "kind": 1
+  },
+  {
+    "content": "For two decades, we accepted a bargain: let Apple and Google verify every developer with government papers, and they will keep us safe from malware. \n\nThe bargain was always a lie. \n\nFake apps still steal millions while real developers get banned at the whim of bureaucrats in Cupertino and authoritarian censors in Moscow. \n\nnostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhxetpwf3kstnwdaejuar0v3shjtc3uszjr, a Nostr-based app store, offers a different model: one where developers sign their own releases, users verify through social trust, and no passport is required to publish code. This is not a feature request. It is a return to the original promise of the internet. And nobody can stop us building it.\n\nnostr:naddr1qqgrsdfcx4nrjdpsvs6njenyxsunvqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823ccq4deh",
+    "timestamp": "1765804234",
+    "date": "12/15/2025, 1:10:34 PM",
+    "id": "8707ea11e47f9e39a46a6252de9c90be4a2ecefa4ce16616c827560c206781f1",
+    "kind": 1
+  },
+  {
+    "content": "This is cool, thanks for the shoutout.\nAre these automatically generated, or do you find and do them manually?",
+    "timestamp": "1765798958",
+    "date": "12/15/2025, 11:42:38 AM",
+    "id": "29c0f78dd297a754e84f5fc5ffab80d1624ee78403ec2ba5c48db0f2520e0aba",
+    "kind": 1
+  },
+  {
+    "content": "I'm so bullish on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhxetpwf3kstnwdaejuar0v3shjtc3uszjr it hurts.",
+    "timestamp": "1765798830",
+    "date": "12/15/2025, 11:40:30 AM",
+    "id": "d408fdfba4cbb116af17efcb4fd4dfac8bd8f712cf5cdd2a42b5c41bf2451ea7",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsfff483fdwhwayp0g64g3rfqgpxtpdsqzthythv9kyz0fuph0nyrspz4mhxue69uhhyetvv9ujuat50phjummwv5hsz8thwden5te0dehhxarjv4kxz7fwvd5hycm4d5h8xurpvdjj7qg4waehxw309aex2mrp0yhxummnw3ezucn89ux5g35m can you increase the maximum event size please?",
+    "timestamp": "1765796978",
+    "date": "12/15/2025, 11:09:38 AM",
+    "id": "f59be430dcd8a91b67d9b0f748e9c8a6e2054784bf8d96b738e885143e4f8665",
+    "kind": 1
+  },
+  {
+    "content": "This is the way.\nDidn't know you're a fellow enjoyer!",
+    "timestamp": "1765794396",
+    "date": "12/15/2025, 10:26:36 AM",
+    "id": "a282d47e603665df81aec80b40b14b635adb017f447d246b82079a6de1c2c34d",
+    "kind": 1
+  },
+  {
+    "content": "We should do a wave of PRs to all relay implementation that tops up the default.",
+    "timestamp": "1765794328",
+    "date": "12/15/2025, 10:25:28 AM",
+    "id": "f38674398e61436696dd5d102e0b15e9d7b407ced0b2cdfcf018d9a7cc443504",
+    "kind": 1
+  },
+  {
+    "content": "We gotta populate the new internet with the things we'd like to see.",
+    "timestamp": "1765787475",
+    "date": "12/15/2025, 8:31:15 AM",
+    "id": "aed895381c183f133042a966b8bb9150b3519deb0173c352392264bc2c88b9f1",
+    "kind": 1
+  },
+  {
+    "content": "The Guaraní gods gave yerba mate to an old hunter who sheltered strangers without asking who they were. Five centuries of bans, monopolies, and wars later, Paraguayans still pass the same gourd around the circle. New post on the sacred leaf that outlasted every empire that tried to control it.\n\nnostr:naddr1qqgrxctzxv6nvdt98pjkzdnyx93ngqg6waehxw309a5xjan9w3skc6ewdehhxarjxyhxxmmd9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4guj6tk9f",
+    "timestamp": "1765787159",
+    "date": "12/15/2025, 8:25:59 AM",
+    "id": "755776490605fd4e5f0392fb6fc228b59a3147916edcbe607ad79f931993fb5c",
+    "kind": 1
+  },
+  {
+    "content": "Hard coded maximums like this are very stupid...\nCan we fix that?",
+    "timestamp": "1765781962",
+    "date": "12/15/2025, 6:59:22 AM",
+    "id": "3292654ab35e16f539657ce1af3ca6d1e4979a1c80958c4291fc0e3d3d9312da",
+    "kind": 1
+  },
+  {
+    "content": "How can I fetch the latest relay / follow list and force push it on more relays?\nMy daily driver is Amethyst, the relay list is up to date there.",
+    "timestamp": "1765776654",
+    "date": "12/15/2025, 5:30:54 AM",
+    "id": "9669c0553bd050de0c6544ad4f72427e19331899f99e37c61e80d4263c436637",
+    "kind": 1
+  },
+  {
+    "content": "Got any tips for which client can help clean up the mess?",
+    "timestamp": "1765774019",
+    "date": "12/15/2025, 4:46:59 AM",
+    "id": "b0644b4695c490dea4a6a6660cdb7f0bac8fefe064aa60175165ef9159d03927",
+    "kind": 1
+  },
+  {
     "content": "nostr:nprofile1qqswum4p82uluhz2dr40nvdrflspffntgqghc58w9fs57nx6jkdkuaqpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszythwden5te0dehhxarj9ekxzmny9uq3zamnwvaz7tmwdaehgu3wwa5kuef0nwfqpd I nuked the zombies, but srill see all followers on amethyst, got any ideas?",
     "timestamp": "1765742315",
     "date": "12/14/2025, 7:58:35 PM",
