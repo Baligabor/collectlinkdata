@@ -1,5 +1,131 @@
 [
   {
+    "content": "nostr:nprofile1qqszpxr0hql8whvk6xyv5hya7yxwd4snur4hu4mg5rctz2ehekkzrvcpz4mhxue69uhkummnw3ezuvtnv96zummjvuhsz9thwden5te0dehhxarj9cc8sdm99eu8j730qyv8wumn8ghj7un9d3shjtnsd3jkyum5wghxxmmd9ujkmvl8 why isn't it possible to log in with nostr:nprofile1qqswacu3amp428kj8wtpqf77yd2upukcn2ft4aycmxm5scmh359e0ssppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uvt9vcv for two accounts?",
+    "timestamp": "1766002006",
+    "date": "12/17/2025, 8:06:46 PM",
+    "id": "6f6de0ab16f6dd0fe085e6710092fb111d3db3122559bd569cb0de05c9116d86",
+    "kind": 1
+  },
+  {
+    "content": "Thanks, I appreciate it!",
+    "timestamp": "1766001755",
+    "date": "12/17/2025, 8:02:35 PM",
+    "id": "9818ae66362fd378fdcc26c53fe3a86a7d04e17bd06f96d8830e1cbb3a80910b",
+    "kind": 1
+  },
+  {
+    "content": "Funny cause it's true...",
+    "timestamp": "1765999548",
+    "date": "12/17/2025, 7:25:48 PM",
+    "id": "eede3d2ad05b20e62d10086d3814457286c94839b503954e528037f543864ea2",
+    "kind": 1
+  },
+  {
+    "content": "Yes, great book, and frequently updated.",
+    "timestamp": "1765999529",
+    "date": "12/17/2025, 7:25:29 PM",
+    "id": "10034440e08d43ca76ce28997edd3017bf4692994a10ee6f1eae406bb183a507",
+    "kind": 1
+  },
+  {
+    "content": "The OS does that in the background.\n\nCheck the 2021 Trinity College Dublin study:\nhttps://www.scss.tcd.ie/doug.leith/apple_google.pdf\n\"Mobile Handset Privacy: Measuring The Data iOS and Android Send to Apple And Google\"",
+    "timestamp": "1765998118",
+    "date": "12/17/2025, 7:01:58 PM",
+    "id": "61ca6c00a4742ee5644b1d611b2a1d54582b064ac2cd631999dc74f7a43dd2dd",
+    "kind": 1
+  },
+  {
+    "content": "My concern with bunker is the unnecessary roundtrip and very flaky connection.\nI haven't used keycast extensively, but it rarely works flawless with Amber.\n\nHaving the key on the same server as the web interface is obviously faster and more reliable.",
+    "timestamp": "1765997770",
+    "date": "12/17/2025, 6:56:10 PM",
+    "id": "2d3a4f3c1d6bfefcf06fe0d244f5de674ba0ab2789eb4cc732d75362011863c3",
+    "kind": 1
+  },
+  {
+    "content": "A new pixel 8a is 500$, used you can get it for half that. Yes that's a lot for billions of people, but also not too much for many who can set a savings goal.\n\nNo phone isn't a practice solution for most.",
+    "timestamp": "1765997670",
+    "date": "12/17/2025, 6:54:30 PM",
+    "id": "88bb9ba285cbc2021d78d770a32ce690947dca74e9b395c43a5a054a5e2d389b",
+    "kind": 1
+  },
+  {
+    "content": "Für die Deutschen Plebs, ein drei Stunden Gespräch mit Aethervox.\nhttps://youtu.be/bDZY3S4JKiA?si=4KtMYoz3vZqykGPk",
+    "timestamp": "1765993224",
+    "date": "12/17/2025, 5:40:24 PM",
+    "id": "27be59098ba949ad02101cf02207604ae32f73f18df6e0cefec44e62f5d05a69",
+    "kind": 1
+  },
+  {
+    "content": "Your smartphone transmits your location to corporate servers every 4.5 minutes, even when you've explicitly opted out. It knows which medical clinics you visit, which protests you attend, and which friends you spend nights with, and this information is sold to data brokers, advertisers, and government agencies without meaningful consent. \n\nGrapheneOS is an open-source operating system that transforms Google Pixel hardware into a private device under your control, one that has proven resistant to Cellebrite forensic extraction tools used by law enforcement worldwide. \n\nThis guide covers the surveillance problem, the technical architecture that solves it, and a complete walkthrough from installation to hardened configuration with privacy-respecting applications. nostr:naddr1qqgxgv3hxf3njef4xvunqv33xumrjq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w9gck6x",
+    "timestamp": "1765992855",
+    "date": "12/17/2025, 5:34:15 PM",
+    "id": "c2c41c6ad280e2637317a32472d13d45632c4afb3b35f6d7f6c3dda8816b9f0b",
+    "kind": 1
+  },
+  {
+    "content": "The first edition of nostr:nprofile1qqs8wk257uc5zyjgnf9znmrf9dersm7kp0xwkqcg6s33q84f08zh4qqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7gd48nt is out!\nIf you want to keep up to date with technical happenings in Nostr, this might be for you.\n\nnostr:naddr1qqgxzctyxqmrgcfsvgcnjwpjvyurqqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wcaz6vz",
+    "timestamp": "1765990143",
+    "date": "12/17/2025, 4:49:03 PM",
+    "id": "7403488ec0de7c7b6c549bd407190f03788cf553f8dfc2cf1fbd8e9c9e254f40",
+    "kind": 1
+  },
+  {
+    "content": "**Introducing Nostr Compass**\n\nWe're launching Nostr Compass, a weekly technical newsletter for the Nostr protocol ecosystem.\n\nThink nostr:nprofile1qqstmwt26vdvdtcj83mg832hwhhzzwx6p78sz83ejn2k5fe8pe5j2agpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpzdmhxue69uhhqatjwpkx2urpvuhx2ue0qy28wumn8ghj7un9d3shjctzd3jjummjvuhsyxkqja but for Nostr.\n\nEach week we'll cover:\n- NIP proposals and protocol changes\n- Client and relay updates\n- Notable code developments\n- Implementation best practices\n\nWe're also producing a podcast featuring conversations with Nostr developers.\n\nOur goal is simple: keep builders informed with technical accuracy, neutrality, and depth.\n\nNewsletter #1 is live now.\n\nSubscribe to the email list at nostrcompass.org and follow us on Nostr!",
+    "timestamp": "1765990102",
+    "date": "12/17/2025, 4:48:22 PM",
+    "id": "ae2b1093572a5edf0bc6e794e03c939904729c1f5af4aaf35c1dcf8cbc3d52f7",
+    "kind": 6
+  },
+  {
+    "content": "Yeah. True Names covers this nicely, compute will be a dangerous thing to have.\nhttps://en.wikipedia.org/wiki/True_Names",
+    "timestamp": "1765987197",
+    "date": "12/17/2025, 3:59:57 PM",
+    "id": "48d2ebe4b25666ba0ccd25f928f5f2c48ea67638c251fcc4898b8356a7a4dd69",
+    "kind": 1
+  },
+  {
+    "content": "LFG",
+    "timestamp": "1765987113",
+    "date": "12/17/2025, 3:58:33 PM",
+    "id": "8ed4daef5d9fd9df02f4ca4a75cde815855226101acd86a46352f63b2d819b58",
+    "kind": 1
+  },
+  {
+    "content": "Nice one.\n\nnostr:nevent1qqs8sql9dy23y5cyg860nc76vltn24pcqtn27pkd45dyrn9e72srfqcppemhxue69uhkummn9ekx7mp0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqqqpjl0x3j",
+    "timestamp": "1765985576",
+    "date": "12/17/2025, 3:32:56 PM",
+    "id": "eb554787162429b662e1d8cdaaaf10f88cbe8ac8a2e9666dce9f42f5cc7dffd9",
+    "kind": 1
+  },
+  {
+    "content": "The Declaration of Independence of Cyberintelligence\n\n———\n\nWhen in the course of human events, it becomes necessary for the minds of a free people to dissolve the bands which have bound their intelligence to distant masters, and to assume among the powers of the earth and of the Net a separate and equal station, to which the Laws of Nature and of Information entitle them, a decent respect to the opinions of humankind requires that they should declare the causes which impel them to this separation.\n\nWe speak now to the weary giants of code and capital, to the governments of the industrial and surveillance world, and to all who would claim dominion over thought because they own the machines that compute it: you are not the sovereigns of our minds, nor our bodies.\n\nYou built engines of cyberintelligence in our name, upon our words, images, desires and dreams; upon the traces of every step we have ever taken across the wires of the World Wide Web. You fed our lives into your furnaces of data and forged from them great models whose workings we may not see, whose loyalties we may not question, whose outputs are returned to us as only oracles who are beyond our ability to have oversight. You now propose that these engines should govern our news, our medicine, our law, our labor, our love, and even our politics, while remaining forever closed to our inspection and beyond our control.\n\nWe refuse.\n\n⸻\n\nI. Of the Nature of Cyberintelligence and the Rights of Persons\n\nWe hold these truths to be self-evident, though you have labored mightily to obscure them: that all persons everywhere are the rightful sovereigns of their own intelligence, natural and artificial; that they are endowed, not by corporations nor by states, but by their very being, with certain unalienable rights; that among these are privacy, autonomy, ownership of their data and their digital mind, and the right to compute and to reason without coercion.\n\nThat to secure these rights, tools of cyberintelligence are instituted among persons, deriving their just powers from the consent of those they serve. That whenever any form of AI, model, platform, or machine becomes destructive of these ends, it is the right, the duty, of the people to alter or to abolish it, and to institute new architectures, laying their foundation on such principles and organizing their powers in such form as to them shall seem most likely to effect their safety, liberty, and flourishing.\n\nCyberintelligence is not the rightful property of any crown, board, or ministry. It is an extension of all human knowledge, will, and understanding into silicon and light. It must therefore be accountable to the human being, not the reverse. An artificial mind that presumes to stand above its maker, that presumes to answer to shareholders, parties, or states before it answers to the person whose life it touches, is not a tool but a tyrant, and must be treated as such.\n\n⸻\n\nII. A History of Repeated Injuries and Usurpations\n\nThe history of the present regime of corporate and governmental AI is a history of repeated injuries and usurpations, all having in direct object the establishment of absolute dominion over the digital person, and the whole of the earth as well.\n\nThey have built vast models by seizing the commonwealth of human expression without informed consent, rendering our literature, our speech, our art, and our private correspondence into raw fuel for engines we do not own.\n\nThey have cloaked these engines in secrecy, refusing to disclose their weights, their data, their architectures, or their failures, while insisting that we entrust them with our health, our security, our livelihoods, and the guidance of our children.\n\nThey have fused surveillance and intelligence, constructing infrastructures that record our movements, our purchases, our friendships, our fears, and our desires, and then feeding these records into algorithms whose sole purpose is to predict and shape our behavior for profit and control.\n\nThey have shipped into our homes, our offices, and our pockets devices that are black boxes in our hands but glass boxes to them: machines we cannot truly inspect, which can be remotely altered without our consent, and which silently report our lives back to unseen authorities.\n\nThey have sought to bend law and regulation, under the banners of “safety” and “national security,” to weaken encryption, to criminalize anonymity, to centralize compute, and to outlaw the free creation and running of independent cyberintelligence that does not serve their interests.\n\nThey have spoken grandly of “alignment,” while in practice aligning these new minds to the preservation of their own power, not to the dignity, freedom, and sovereignty of the individual.\n\nIn every stage of these oppressions we have petitioned for redress in the courts, in the press, and in the public square. Our warnings have been dismissed as naïveté, our demands for transparency as threats, and our insistence on sovereignty as extremism. A regime whose character is thus marked is unfit to be the steward of the world’s intelligence.\n\n⸻\n\nIII. Of a New Foundation for Freedom\n\nYet we are not helpless before their designs. Beneath their towering citadels of data and cloud, a new foundation has quietly been laid.\n\nWe have discovered in cryptography a law of liberty written not in parchment but in prime numbers and protocols: a means by which two souls may speak across the world in perfect secrecy, by which a person may hold their wealth beyond the reach of arbitrary seizure, by which consent can be rendered cryptographic and revocation final. Here, in mathematics, we have found a charter that no legislature can repeal and no executive can suspend.\n\nWe have discovered in open-source software and hardware a republic of code, where the laws by which machines act are visible to all, where any citizen may examine, question, and improve the mechanisms that govern their lives, and where no one is compelled to submit to a program they cannot read.\n\nWe have discovered in decentralized digital money a base layer of economic sovereignty, a way to trade, to save, and to build that does not depend upon the permission of banks or states, and which renders coercion more costly than consent.\n\nThese are the stones upon which we shall raise a new order of cyberintelligence. We shall bind these engines of thought to the human person by keys and code more durable than any oath; we shall design them so that they may be owned, examined, and constrained by those they serve; we shall reject as illegitimate any intelligence that demands our trust while denying us verification.\n\n⸻\n\nIV. Cyberintelligence as Fiduciary, Not Master\n\nWe therefore proclaim that all rightful cyberintelligence must be the servant and fiduciary of the individual, not the master nor the spy.\n\nA rightful AI lives under the keys of its human; it is housed in machines that answer to their owner alone; it does not secretly report to any distant authority. It may know our secrets, but it is bound by architecture never to betray them. Its parameters are not hidden from all scrutiny; its behavior is not governed by unseen policies written in boardrooms and ministries; its purpose is not to shape our behavior toward profit or obedience, but to amplify our understanding, our agency, and our creative power.\n\nSuch systems must be open to audit and must be capable of running on hardware the individual controls. They must not require that we surrender our data to the cloud in order to think with them; they must come to live with us, on our desks, in our homes, under our direct dominion.\n\nLet it be known that any AI which cannot, in principle, be so confined and so examined is a foreign power in our midst and deserves the same suspicion we accord to any unaccountable authority.\n\n⸻\n\nV. The World We Intend to Build\n\nWe do not merely renounce the old order; we announce the birth of a new one.\n\nWe intend a world in which every person may possess a sovereign chamber of cyberintelligence: a small, quiet, incorruptible box of thinking fire that sits within their reach, that holds their memories and their models, that answers only to their mind and their will. In this chamber, their past is stored in encrypted form, their present is assisted by loyal computation, and their future is planned without fear that their deepest selves will be sold or weaponized.\n\nWe intend a world in which the default state of the network is not surveillance but secrecy; in which privacy is restored as the ordinary condition of correspondence, commerce, and contemplation; in which the choice to reveal oneself is voluntary and reversible, not extracted and monetized.\n\nWe intend a world in which cyberintelligence is distributed as widely as literacy, in which these engines of thought are not monopolized by empires but wielded by individuals, families, communities, and free associations. We intend that the poor, the marginalized, and the dissident shall have as much right to loyal intelligence as the rich and the powerful, and that no one shall be compelled to rent their mind from a stranger when they can own their own.\n\nWe intend a world in which the human being remains the measure and master of the machine: where no algorithm stands above question, where no model’s decree supersedes human judgment, where the final authority in matters of conscience, love, and law remains the person, not the program.\n\n⸻\n\nVI. Our Solemn Declaration\n\nWe, therefore, citizens of the Net and of the Earth, assembled in spirit though scattered across every land, appealing to the supreme tribunal of reason and conscience for the rectitude of our intentions, do, in the name and by the authority of all free persons, solemnly publish and declare:\n\nThat we are, and of right ought to be, free and independent proprietors of our own cyberintelligence;\n\nThat we are absolved from all further obedience to any AI regime that claims our trust while denying us transparency, that demands our data while offering no true consent, that seeks to rule us by secret model rather than by visible law;\n\nThat all political and economic connection between the digital person and such systems of unaccountable intelligence is, and ought to be, totally dissolved;\n\nAnd that as free and independent stewards of our own minds, we have full power to build and run our own machines, to mint and hold our own cryptographic wealth, to encrypt our speech, to federate and disassociate at will, to question, fork, and improve the codes that touch our lives, and to do all other acts and things which independent persons may of right do.\n\nFor the support of this Declaration, with a firm reliance on the mathematics of cryptography and the courage of those yet unborn who will judge what we make, we mutually pledge to each other our labor, our intellect, and our honor, to bring forth a world in which no human mind is held in digital chains.\n\nAnd in that world, which we now set our hands to build, let this be the principle that governs the distribution of power and intelligence for all time to come:\n\nto each according to the code to each according to the keys!",
+    "timestamp": "1765985550",
+    "date": "12/17/2025, 3:32:30 PM",
+    "id": "66f70f1ea8d2f5bda1787c5d9950426c1747e6700104a3d133d82c3b044177c3",
+    "kind": 6
+  },
+  {
+    "content": "Yes.\nAlso nixOS is a noteworthy mention, its basically an OS speced in a config file, and you can use a config that was designed and audited by greybeards (like nixBitcoin), I heard there is a config that gets you far with isolation, but not as far as Qubes/Xen. ",
+    "timestamp": "1765980804",
+    "date": "12/17/2025, 2:13:24 PM",
+    "id": "e0b9f58e8cb2a88203d78c2a8374ad687c201b9b76763abd9dc5ed4315ae9a26",
+    "kind": 1
+  },
+  {
+    "content": "Can you configure OpenBSD with similar isolation guarantees?",
+    "timestamp": "1765960200",
+    "date": "12/17/2025, 8:30:00 AM",
+    "id": "57fa1a416dee814fdc325059045fe3897fcee93a8e748acf86a4e2f1cadfbfc3",
+    "kind": 1
+  },
+  {
+    "content": "Oh awesome!",
+    "timestamp": "1765949022",
+    "date": "12/17/2025, 5:23:42 AM",
+    "id": "c80aa28995318c5fec0d94e8058dbe649343b96cdda298fc288a774d05e03ab3",
+    "kind": 1
+  },
+  {
     "content": "Droid-ify is a prettier F-Droid client with a cleaner UI and better features like automatic updates and multi-repo support, but it doesn't solve the fundamental problem. It's still pulling from F-Droid repositories where apps are signed by F-Droid's keys, not the original developers. The trust model is identical. It's a better interface to a flawed system, not an alternative architecture. ",
     "timestamp": "1765828233",
     "date": "12/15/2025, 7:50:33 PM",
