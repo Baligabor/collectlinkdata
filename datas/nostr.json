@@ -1,5 +1,82 @@
 [
   {
+    "content": "Yes, we desperately need freer hardware, and I'd probably switch to an alternative if that would exist.",
+    "timestamp": "1766083303",
+    "date": "12/18/2025, 6:41:43 PM",
+    "id": "ea11c241d0821b2f234387ef6ffca432872b004de1339bff381f91698b8ae7dd",
+    "kind": 1
+  },
+  {
+    "content": "Bisq, vexl, robosats, friends.",
+    "timestamp": "1766075177",
+    "date": "12/18/2025, 4:26:17 PM",
+    "id": "105ee8ac5b0299733b6e525662deb8904aa82f7d8b0ae6445944fad26c27e3f1",
+    "kind": 1
+  },
+  {
+    "content": "There is no other hardware with a lockable boot loader and secure elements.\nThey are working with a second manufacturer at the moment.",
+    "timestamp": "1766075132",
+    "date": "12/18/2025, 4:25:32 PM",
+    "id": "daba41e9001c69cc4d32d0668faacba8a439886c0278bf4607628692277d8aee",
+    "kind": 1
+  },
+  {
+    "content": "It'll take at least a year until that gets released, get a used Pixel 8a for now, cheap and secure.",
+    "timestamp": "1766042106",
+    "date": "12/18/2025, 7:15:06 AM",
+    "id": "5c5a258a1e93b5b1cb14dd63ccc0df023a97ac7f258057154ec3104abf198eb1",
+    "kind": 1
+  },
+  {
+    "content": "I had the same feeling when I read the first edition of Optech, then I just kept reading every week, and I learned so incredibly much, keep going!",
+    "timestamp": "1766038493",
+    "date": "12/18/2025, 6:14:53 AM",
+    "id": "0e29e5b0bd44d1ad78288af6e3abb1dcad90755bc870d20add973eba3b69afaa",
+    "kind": 1
+  },
+  {
+    "content": "I see. Thanks!",
+    "timestamp": "1766038414",
+    "date": "12/18/2025, 6:13:34 AM",
+    "id": "c85717013c71624c4dbb74dec0f1121b65de15a0251842c9babbc1d8dfb967aa",
+    "kind": 1
+  },
+  {
+    "content": "Recognition of the problem is the first step.\nThe rest is comparatively easy.",
+    "timestamp": "1766038322",
+    "date": "12/18/2025, 6:12:02 AM",
+    "id": "be00c4a0c7f151a689354cc4e864bebdf441cede071dfd4807a6e187d4635975",
+    "kind": 1
+  },
+  {
+    "content": "Make sure you set the USB C port to charging only even when unlocked, this might have prevented the exploit. There are also power only USB cables or adapters who cut the data cable connection.\n\nYes, it is a good idea to regularly reinstall graphene os and start from zero, make sure you have all backups.",
+    "timestamp": "1766038229",
+    "date": "12/18/2025, 6:10:29 AM",
+    "id": "28f7912bccc28ec53faceac1423cde73cd6b9f2056477ccb68a626dd681b6b82",
+    "kind": 1
+  },
+  {
+    "content": "That's why you have airplane mode.",
+    "timestamp": "1766037473",
+    "date": "12/18/2025, 5:57:53 AM",
+    "id": "32b60556e9d0746cbcb40967616680307ea172fec0132ca54f56c7c5084a76fe",
+    "kind": 1
+  },
+  {
+    "content": "Isn't signal calls & jitsi enough?",
+    "timestamp": "1766037276",
+    "date": "12/18/2025, 5:54:36 AM",
+    "id": "3d696de16136c8032bd7bc6ed1052cf3f2c97330e27f9b7cb846c6ab5eab7077",
+    "kind": 1
+  },
+  {
+    "content": "No, really curious tho!",
+    "timestamp": "1766037113",
+    "date": "12/18/2025, 5:51:53 AM",
+    "id": "fb30f8f412634ef8bae90e89eddd4fb5e673f9b043c1bdcf7304c3a013adbafc",
+    "kind": 1
+  },
+  {
     "content": "nostr:nprofile1qqszpxr0hql8whvk6xyv5hya7yxwd4snur4hu4mg5rctz2ehekkzrvcpz4mhxue69uhkummnw3ezuvtnv96zummjvuhsz9thwden5te0dehhxarj9cc8sdm99eu8j730qyv8wumn8ghj7un9d3shjtnsd3jkyum5wghxxmmd9ujkmvl8 why isn't it possible to log in with nostr:nprofile1qqswacu3amp428kj8wtpqf77yd2upukcn2ft4aycmxm5scmh359e0ssppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uvt9vcv for two accounts?",
     "timestamp": "1766002006",
     "date": "12/17/2025, 8:06:46 PM",
