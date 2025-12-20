@@ -1,5 +1,103 @@
 [
   {
+    "content": "Nice work!\nCan you check DMs please?",
+    "timestamp": "1766166144",
+    "date": "12/19/2025, 5:42:24 PM",
+    "id": "a4bcfe31d82109bd328434e9909a131d87bd0ec412286022918ba169b25e7080",
+    "kind": 1
+  },
+  {
+    "content": "Fountain 1.4.2 is now live 📲\n\nBased on your feedback, we made a couple of improvements to the library. \n\nYou can now see a grid view of your shows and get to the filtered episode list in one tap. \n\nPlease share your suggestions below on how we can continue to improve the app.\nhttps://blossom.primal.net/f453406da46b97d5969ca13f08dd1db4dcdb8a606f614f9c370473271eadc9b8.png",
+    "timestamp": "1766166121",
+    "date": "12/19/2025, 5:42:01 PM",
+    "id": "ba2f93e3faaacc2719ff958cbf9a122f4852de5c87fdf713a1239ff3177ac7e5",
+    "kind": 6
+  },
+  {
+    "content": "Es soll ja kein Monolog sein, ich mag so casual podcasts eher als Q&A ",
+    "timestamp": "1766163512",
+    "date": "12/19/2025, 4:58:32 PM",
+    "id": "d4b9bcfd2bce76054675c1cdd652ad122f65dcdcc84abb50422adf95317f0f64",
+    "kind": 1
+  },
+  {
+    "content": "Notice that Uber & Cabify have a progressive web app without google play service requirements. (bolt does not)\n\nm.uber.com\ncabify.com/app",
+    "timestamp": "1766155173",
+    "date": "12/19/2025, 2:39:33 PM",
+    "id": "338ff5185e4023ff246cf836d028160e9e16c8269d89d37d705a8bca221b8dc6",
+    "kind": 1
+  },
+  {
+    "content": "Need a recipe for safe and private taxi travel?  Try the following:  \n\n - Create a dedicated user in Graphene OS with Google Play installed (unfortunately, a prerequisite)\n - Install your preferred app (Uber, Bolt, Cabify, etc)\n - Use a rental number from nostr:npub1qmw7jhczdr8yqy5t7u72d6z4v7u9va5gaff0ynwd2u6wwlzs7tvs694er8 \n - Add a 3DS card from https://2fiat.com (6% fee)\n - Use a dedicated email from proton.me\n - Use a VPN such as mullvad, ivpn, or obscura (works on android with wireguard)\n - USE A FAKE NAME\n\nFor max privacy, wear a covid mask during the ride due to frequent use of in-cab cameras.\n\nEnjoy private travel!",
+    "timestamp": "1766155002",
+    "date": "12/19/2025, 2:36:42 PM",
+    "id": "089b6fb2051b4df83516f4f99ae8c09fcc6c0d2ac35ac680cc01fdddfc35812d",
+    "kind": 6
+  },
+  {
+    "content": "https://github.com/mmalmi/hashtree-ts - it's basically blossom with directories and file chunking. \n\n* Merkle tree roots published on nostr, so you can have npub/path addressed directories whose content you can update.\n* Chunks are encrypted by default (Freenet style CHK content hash key encryption).\n* Peers request chunks over WebRTC with Freenet style privacy preserving HTL hops-to-live algorihtm.\n* HTTP blossom servers used as fallback.\n\nI also have github replacement on hashtree in the works: https://files.iris.to/#/npub1g53mukxnjkcmr94fhryzkqutdz2ukq4ks0gvy5af25rgmwsl4ngq43drvk/repos/hashtree-ts\n\nhttps://cdn.iris.to/fdfe08608d9f7076193e44667f8596f9270efc482d47852a2d826bbdae782243.png",
+    "timestamp": "1766154734",
+    "date": "12/19/2025, 2:32:14 PM",
+    "id": "f60d3406edcb7e80f74ec9ea194438b29f3590ec65e49de0d9ff678a84635636",
+    "kind": 6
+  },
+  {
+    "content": "Security is not a binary state. It is a relationship between what you protect, who you protect it from, and what resources they command. \n\nThe Marmot Protocol's threat model does what every security document should: it names specific adversaries, details how the protocol defeats each one, and admits where cryptography alone cannot save you. This matters because matching a protocol's actual defenses to your actual situation is the difference between security and security theater. nostr:naddr1qqgrsvrp8p3xxetzxvmnqdtzxejnsq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w0wylh7",
+    "timestamp": "1766151432",
+    "date": "12/19/2025, 1:37:12 PM",
+    "id": "d37dfb47167655763db2777a69d2d3a3f2378e889fadc22c745ee874c18e4e95",
+    "kind": 1
+  },
+  {
+    "content": "Yes: https://shop.lnbits.com/product/nsec-remote-nostr-signer\n\nBut this does not have a secure element, arguably graphene is thus more secure. On the other side that has a much larger codebase and thus attack surface.",
+    "timestamp": "1766138120",
+    "date": "12/19/2025, 9:55:20 AM",
+    "id": "16eb3ffb33f471b68efc828501c142fae248513274dc48d108104d878b8b628f",
+    "kind": 1
+  },
+  {
+    "content": "tldr: No.",
+    "timestamp": "1766137884",
+    "date": "12/19/2025, 9:51:24 AM",
+    "id": "5217fe66080bb811778b54d387da3450c1c32796ae680148f15d45e812a97ec7",
+    "kind": 1
+  },
+  {
+    "content": "I'd say make selective backups of your important files, not everything since that might include the malware, and then go again through https://grapheneos.org/install/web and start over.",
+    "timestamp": "1766125937",
+    "date": "12/19/2025, 6:32:17 AM",
+    "id": "384c4ac212a96b3a37382ebe9c0bfeb43315613f40e38f97e44b05cd7ccb3d23",
+    "kind": 1
+  },
+  {
+    "content": "8s are fine, especially if you have it already or want the cheapest option.\n\nBoth 9 and 10 are marginal improvements in build quality, performance, battery, and they will receive updates for one or two years longer (standard is 7 years official support from google, Graphene usually supports even longer)",
+    "timestamp": "1766125159",
+    "date": "12/19/2025, 6:19:19 AM",
+    "id": "3799e1a4ea9efbbc381822b6fc7a8004903111ac81b3ebc8145d6cb6d5308919",
+    "kind": 1
+  },
+  {
+    "content": "The Pixel 8's Tensor G3 chip pairs with an upgraded Titan M2 security coprocessor to isolate sensitive cryptographic operations, while introducing Memory Tagging Extension (MTE) support for runtime detection of memory corruption vulnerabilities and significantly hardening the cellular baseband firmware with bounds sanitizers, integer overflow protection, stack canaries, and control flow integrity to reduce what has historically been a major attack surface.\n\nThat's a major improvement compared to the 7 or earlier generations.",
+    "timestamp": "1766124452",
+    "date": "12/19/2025, 6:07:32 AM",
+    "id": "5f60ecf35a11b4309d21c99917e36ccd8201e0287efd607a6b5aaa83b0a761cf",
+    "kind": 1
+  },
+  {
+    "content": "In February 2014, Apple removed the last Bitcoin wallet from its App Store without explanation. A decade later, the freedom technology community has built an answer: a complete mobile stack where no corporation can decide what you install, who you talk to, or how you manage your identity. \n\nThis post examines how nostr:npub10r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7stjt2p8 nostr:npub1am3ermkr250dywukzqnaug64cred3x5jht6f3kdhfp3h0rgtjlpqecxrv7 @nostr:npub1hqlxlq57nvlq70ugmsmu9y5lmyc5k2lh5w7y85j7dgsr5u7zwavq5agspw nostr:npub142gywvjkq0dv6nupggyn2euhx4nduwc7yz5f24ah9rpmunr2s39se3xrj0 nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec on nostr:npub1235tem4hfn34edqh8hxfja9amty73998f0eagnuu4zm423s9e8ksdg0ht5 deliver that promise, and why this matters far beyond the Bitcoin crowd.\n nostr:naddr1qqgrswpkv43nwvfcvsunqerrvvek2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w90gm57",
+    "timestamp": "1766121960",
+    "date": "12/19/2025, 5:26:00 AM",
+    "id": "8a320ff2de4f02927457db2b55dae8929eb9986adb5d4da110e329b037a12125",
+    "kind": 1
+  },
+  {
+    "content": "Yes, its explained there, super simple.\nSettings > Security & Privacy > Exploit Protection > USB-C Port > Charging Only\n\nTo reflash graphene, just to the same steps you did to install it in the first place.",
+    "timestamp": "1766118491",
+    "date": "12/19/2025, 4:28:11 AM",
+    "id": "5c117115a8fa5f9f7aa472fe31778ebf6e8054191ccc58b2c015770235120330",
+    "kind": 1
+  },
+  {
     "content": "Yes, we desperately need freer hardware, and I'd probably switch to an alternative if that would exist.",
     "timestamp": "1766083303",
     "date": "12/18/2025, 6:41:43 PM",
