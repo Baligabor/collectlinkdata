@@ -1,5 +1,33 @@
 [
   {
+    "content": "Love it.\nProud of you that you didn't cry from the onion.",
+    "timestamp": "1766520757",
+    "date": "12/23/2025, 8:12:37 PM",
+    "id": "55ad0fa78c03cdc380e550ff5c195abf101d4e91a788e471147caedb5ba41035",
+    "kind": 1
+  },
+  {
+    "content": "Stages of Bitcoin \n\n1. Dismissal\n2. Crypto Degen\n3. Questioning Money\n4. Bitcoin is not Crypto \n5. Wannabe philosopher king\n6. Ego death \n\nWith some words from nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsqzw64m latest read.  \nhttps://blossom.primal.net/4a929d78a13a415a823d5471d2493e046c9cd87a14b46be09c8a0875dd69f45d.mov",
+    "timestamp": "1766520733",
+    "date": "12/23/2025, 8:12:13 PM",
+    "id": "02c6469b2582fdccb86fa4a4da7c4e95cd6f8599d79940a283b5325210326779",
+    "kind": 6
+  },
+  {
+    "content": "Could Private Information Retrieval let Nostr clients query relays without revealing who they follow? In theory, yes. In practice, Nostr's filter syntax raises hard cryptographic questions that don't have answers yet. This post asks those questions. nostr:naddr1qqgr2dnrxvcx2ctpxu6nxenpxeskyq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wu273pc",
+    "timestamp": "1766519924",
+    "date": "12/23/2025, 7:58:44 PM",
+    "id": "a2a2b9e662573568e01e79528124fa51dd52e685f22d1f49efc50c2432ffd319",
+    "kind": 1
+  },
+  {
+    "content": "Purplepag.es has had a massive revamp overnight.\n\nAs part of its mission for 2026 the board of relay directors has approved expanding business to the broader category of \"lists\".\n\nWhen purplepag.es started, the Board choose to focus on 10002 events, for relay discovery, answering the question \"where shall I find my homies' relays?\"\n\nSince then, many other relay-lists came out: DM relays, search relays, wiki relays, etc.\n\nSo, let it be known, that from this day forward, purplepag.es accepts all 1xxxx kinds.\n\nIn addition to the current kind 0 (profiles) and kind 3 (follow lists), obviously.\n\nAlso, it actively crawls for newer data from people's relays; for example, if you publish a new profile or a new follow list only to your relays, it will get it.\n\nAnd, one more thing: negentropy.\n\nApps can quickly retrieve all the events they need for their local operations and serve things in the nostr way: local-first.\n\nWhat does this mean for you?\n\nYou will also have more reliable access to finding people's latest profiles, follow lists and relay lists, but that goes without saying.\n\nIf you are a developer, purplepag.es now will give a lot more data, and way more up-to-date, particularly from pubkeys that are followed, data will tend to be very fresh.",
+    "timestamp": "1766494971",
+    "date": "12/23/2025, 1:02:51 PM",
+    "id": "08575368ff3b114272278222626ddf2558e9e7693becb570d9c436dbd245cf24",
+    "kind": 6
+  },
+  {
     "content": "If you want minimal price, go with the 8a, for most performance the 9 pro or 10 pro.\nThe 9a comes with better build quality and one more year of updates (always 7 years after launch)\n\nHere two articles to help set it up\n\nnostr://nevent1qqsv93qudtfgpcnrwvt6xfrj6y752cevftankd0k6lmv8hdgs94e7zcpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqg4xl25t\n\nnostr://nevent1qqsg5vs07t0y7q5jw3tak264mt5f984enp4dkh2d5ygwx2dsx7sjzfgpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqg0q7qk3",
     "timestamp": "1766415438",
     "date": "12/22/2025, 2:57:18 PM",
