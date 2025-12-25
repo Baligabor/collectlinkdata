@@ -1,5 +1,26 @@
 [
   {
+    "content": "Nostr Compass #2 is out. This week covers three NIP-55 signer updates including Primal Android joining as a full local signer, Shopstr's new Zapsnags flash sale feature, and Mostro's development fund. Four NIP changes landed with Public Messages (kind 24) and major group privacy improvements in NIP-29. On the library side, NDK cache queries got 162x faster and Tenex introduced RAL architecture for AI agent delegation.\n\nThe deep dive explains NIP-02 and NIP-10, the foundational specs for follow lists and reply threading that make social timelines and conversations work. Essential reading if you're building anything that displays feeds or handles replies. nostr:naddr1qqgrgdrx8pjngcfnx5enscnrv4jxyq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wucr7vf",
+    "timestamp": "1766596045",
+    "date": "12/24/2025, 5:07:25 PM",
+    "id": "bdf030fb3dde4e3ab553b189a64964949c7a4c90c68ff9d235de87772cc1cb58",
+    "kind": 6
+  },
+  {
+    "content": "This is fixed with the latest nostr:nprofile1qqswacu3amp428kj8wtpqf77yd2upukcn2ft4aycmxm5scmh359e0ssppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uvt9vcv release, thanks nostr:nprofile1qqs827g8dkd07zjvlhh60csytujgd3l9mz7x807xk3fewge7rwlukxgppemhxue69uhkummn9ekx7mp0qydhwumn8ghj7argv4nx7un9wd6zumn0wd68yvfwvdhk6tcpz9mhxue69uhkummnw3ezumrpdejz7d9xcpk!",
+    "timestamp": "1766567581",
+    "date": "12/24/2025, 9:13:01 AM",
+    "id": "0f51f0337ea8c1b62f00fd3da75849a5617e4888986ca3fadc832f387135afa7",
+    "kind": 1
+  },
+  {
+    "content": "Awesome.",
+    "timestamp": "1766558065",
+    "date": "12/24/2025, 6:34:25 AM",
+    "id": "5322ba0e514f9bcccdb2c6c2137809c3b4fab00ea16ac9e25ddb3afcbf2148a4",
+    "kind": 1
+  },
+  {
     "content": "Love it.\nProud of you that you didn't cry from the onion.",
     "timestamp": "1766520757",
     "date": "12/23/2025, 8:12:37 PM",
