@@ -1,5 +1,47 @@
 [
   {
+    "content": "We don't need a constitution, we just need legal principles \n\nnostr:naddr1qqgrzvpc8yuxyc3sxqexvvmpvy6ryqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w0vqsm2",
+    "timestamp": "1766678941",
+    "date": "12/25/2025, 4:09:01 PM",
+    "id": "bfa20959a961e6be02728232e5940574028cd40c48d0226dc565279ed3d14333",
+    "kind": 1
+  },
+  {
+    "content": "The state claims to represent you, protect you, serve you. It does none of these things. It is simply the organization of predation, dressed in the language of public service. This post dissects the state: what it is not, what it is, how it survives, how it grows, and what it fears. nostr:naddr1qqgrsdnpxumkgwfevscnyetxxccrgq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wx0zqej",
+    "timestamp": "1766669422",
+    "date": "12/25/2025, 1:30:22 PM",
+    "id": "3790197671a1247fe031b17ce1ed281b8cf11f9bcc936da0cc4d640243ddd991",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass now has a Topics section.\nhttps://nostrcompass.org/en/topics/\n\nWhen reading about Nostr development, you'll often encounter references to NIPs, protocol specs, and technical concepts without much context. Our new topics section solves this, each topic page provides a clear explanation, links to primary sources, and references to our newsletter coverage where you can see how it's being used in practice.\n\nWe've launched with 25 topics covering core NIPs (like NIP-01, NIP-02, NIP-17, NIP-55), the Blossom media protocol, and Marmot's encrypted messaging specs. As we cover more in our weekly newsletters, the topics section will grow alongside.\n\nWhether you're building a client, trying to understand how zaps work, or figuring out what NIP-46 remote signing actually does, this is your reference.",
+    "timestamp": "1766665600",
+    "date": "12/25/2025, 12:26:40 PM",
+    "id": "64664b974e215a6470698ccd142c25695cb598cac70fb208706ccc60948cfc26",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass is amazing. I recommend you follow it. nostr:naddr1qqgrgdrx8pjngcfnx5enscnrv4jxyq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wucr7vf",
+    "timestamp": "1766665582",
+    "date": "12/25/2025, 12:26:22 PM",
+    "id": "87d0137576c3838891790b1f6abb12151e1e01dea811320ef181b0d9eea6d7b1",
+    "kind": 6
+  },
+  {
+    "content": "Could Private Information Retrieval let Nostr clients query relays without revealing who they follow? In theory, yes. In practice, Nostr's filter syntax raises hard cryptographic questions that don't have answers yet. This post asks those questions. nostr:naddr1qqgr2dnrxvcx2ctpxu6nxenpxeskyq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wu273pc",
+    "timestamp": "1766659634",
+    "date": "12/25/2025, 10:47:14 AM",
+    "id": "5f9968bcdb34039c6cb022808501974e507325e36cca75ce4b565da3917f2b0e",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass #2 is out. This week covers three NIP-55 signer updates including Primal Android joining as a full local signer, Shopstr's new Zapsnags flash sale feature, and Mostro's development fund. Four NIP changes landed with Public Messages (kind 24) and major group privacy improvements in NIP-29. On the library side, NDK cache queries got 162x faster and Tenex introduced RAL architecture for AI agent delegation.\n\nThe deep dive explains NIP-02 and NIP-10, the foundational specs for follow lists and reply threading that make social timelines and conversations work. Essential reading if you're building anything that displays feeds or handles replies. nostr:naddr1qqgrgdrx8pjngcfnx5enscnrv4jxyq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wucr7vf",
+    "timestamp": "1766659551",
+    "date": "12/25/2025, 10:45:51 AM",
+    "id": "fa40b8280a76eceb6c23d8f3a1fb0e824cde9dfadc3b0a2db972a9204b385cc2",
+    "kind": 6
+  },
+  {
     "content": "Nostr Compass #2 is out. This week covers three NIP-55 signer updates including Primal Android joining as a full local signer, Shopstr's new Zapsnags flash sale feature, and Mostro's development fund. Four NIP changes landed with Public Messages (kind 24) and major group privacy improvements in NIP-29. On the library side, NDK cache queries got 162x faster and Tenex introduced RAL architecture for AI agent delegation.\n\nThe deep dive explains NIP-02 and NIP-10, the foundational specs for follow lists and reply threading that make social timelines and conversations work. Essential reading if you're building anything that displays feeds or handles replies. nostr:naddr1qqgrgdrx8pjngcfnx5enscnrv4jxyq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wucr7vf",
     "timestamp": "1766596045",
     "date": "12/24/2025, 5:07:25 PM",
