@@ -1,5 +1,33 @@
 [
   {
+    "content": "This is a major upgrade, thanks a bunch and congrats on getting this over the finish line!",
+    "timestamp": "1766755275",
+    "date": "12/26/2025, 1:21:15 PM",
+    "id": "61b4205963476064e78ac92eb5437cfcac4862a73ee35a8cae56e9966187025a",
+    "kind": 1
+  },
+  {
+    "content": "🚀 Zapstore 1.0 release candidate is finally out!\n\nA completely new app with too many features to list here, available for anyone to test. Get it on Zapstore or see our latest release on Github.\n\nIt will install as a separate app until it comes out of beta/release candidate state. Expect bugs and please report them on our Signal group.\n\nMerry Christmas! 🎅🎄\n\nhttps://image.nostr.build/bcd648e9b919f8409c8292913318581ce5ac32d1867a44a286bd675092d21383.png",
+    "timestamp": "1766755254",
+    "date": "12/26/2025, 1:20:54 PM",
+    "id": "b9a07744696ad9c258cea2f79246b7f0c8d64bb8eadab431e717c719b322d1c4",
+    "kind": 6
+  },
+  {
+    "content": "Private Information Retrieval can't solve Nostr's query privacy problem. The compound predicates, range queries, and federated trust model break it. But there's another approach: run the relay inside a secure enclave where even the operator can't see your queries. This post examines what TEEs actually offer, what they don't, and whether the trust trade is worth making. nostr:naddr1qqgr2cfcvcmrjwfcvdjnse35xuckvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wrtjqdc",
+    "timestamp": "1766753410",
+    "date": "12/26/2025, 12:50:10 PM",
+    "id": "1b64f47f9ea34b6d1b37cfbed02e4e4e07357ea6216abac181a928df31e2d7cc",
+    "kind": 6
+  },
+  {
+    "content": "# Nostr Compass is now available in 10 languages!\n\nNostr Compass has been translated into 9 new languages, available on the website: Chinese, Dutch, French, German, Italian, Japanese, Korean, Portuguese, and Spanish.\n\nhttps://nostrcompass.org\n\n**We need your help!** If you're a native speaker of any of these languages, we'd love for you to review the translations and help us improve them. Found a typo or a better way to phrase something? PRs are welcome!\n\nCheck out the repo: https://github.com/andotherstuff/nostr-compass\n\nThank you for helping make Nostr more accessible to everyone around the world!",
+    "timestamp": "1766750123",
+    "date": "12/26/2025, 11:55:23 AM",
+    "id": "8441658dd42b420ce8b2e1e987f1e1e738cbe6a8f5090c5d12608b954f116978",
+    "kind": 6
+  },
+  {
     "content": "We don't need a constitution, we just need legal principles \n\nnostr:naddr1qqgrzvpc8yuxyc3sxqexvvmpvy6ryqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w0vqsm2",
     "timestamp": "1766678941",
     "date": "12/25/2025, 4:09:01 PM",
