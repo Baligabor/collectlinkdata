@@ -1,5 +1,89 @@
 [
   {
+    "content": "Here on nostr is fine, also GitHub issues for less clutter, and the White Noise support account in the app itself.\n\nThanks!",
+    "timestamp": "1766869588",
+    "date": "12/27/2025, 9:06:28 PM",
+    "id": "3713ca13b4fb931089b9b2fba6b7f44267d6eedeb48aeb6ffc7e4ade2a6832d0",
+    "kind": 1
+  },
+  {
+    "content": "Yeah that repeated permission asking bug is fixed and will be included in the next release too.",
+    "timestamp": "1766866345",
+    "date": "12/27/2025, 8:12:25 PM",
+    "id": "bb93424248136229dee05ad214bb0a7fdfa167605a58b5cb331369bb821d0c32",
+    "kind": 1
+  },
+  {
+    "content": "Money Fest by nostr:nprofile1qqsq3vfrjycgmr99m4eq3g75p4822a69txz74zcccdsz9afat9q0c7spzamhxue69uhhxetpwf3kstnwdaejuar0v3shjtcjaj623 is insanely good, deep lyrics, groovy beats, pleb rap at its finest.\nhttps://www.youtube.com/playlist?list=PLdT6e-IKe6lGgz09c2QsMn2FnVpTuNFom",
+    "timestamp": "1766864948",
+    "date": "12/27/2025, 7:49:08 PM",
+    "id": "65a2f24b25f874c2fa59b253f2617fd8e817db4d4af71d69e99e83cdc30cfcc1",
+    "kind": 1
+  },
+  {
+    "content": "GM\n\nMünzgosse #2 Money (Weihnachts) Fest (mit nostr:nprofile1qqsq3vfrjycgmr99m4eq3g75p4822a69txz74zcccdsz9afat9q0c7spvemhxue69uhkv6tvw3jhytnwdaehgu3wwa5kuef0dec82c33wpaxx63c09n8xvmt0qe8g6r5dfc85vmpvaeryae4x3kn2vntwcukzv3exvehxmt3096rvm3kdve8zmpnv9cnyepswak8s0mzwfhkzerrv9ehg0t5wf6k2qgdwaehxw309ahx7uewd3hkclt8yzf, nostr:nprofile1qqsx7yp40ukn6unvcm94tuy66y69yqcfvuzcyzjlrxq8hm5p5ty85wgpp4mhxue69uhkummn9ekx7mqpzdmhxue69uhkummnw3ezud3sxqh8warxs69k8v und nostr:nprofile1qqsq4rjeqzq8qndcag3h8gxpud8hyqmqgxsy4d6x9c7gqgp9rfscy9gppamhxue69uhkumewwd68ytnrwgqs6amnwvaz7tmwdaejumr0ds5rc986 )\n\nhttps://fountain.fm/episode/2CGdEzJ2cu7zMtid31bM\n\nPlebRap in der Münzgosse - mehr gibt es nicht zu sagen.\n\nViel Spaß beim Hören\n\nP.S. die längsten Podcastfolgen kommen immer, wenn man am wenigsten Zeit hat.😉 \n\n",
+    "timestamp": "1766864798",
+    "date": "12/27/2025, 7:46:38 PM",
+    "id": "3c8b0a375127e50b1175142aac63115706fc7fabf14b3f39b30932de1d7689a2",
+    "kind": 6
+  },
+  {
+    "content": "Funny when politiciians pretend play entrepreneurs. ",
+    "timestamp": "1766862494",
+    "date": "12/27/2025, 7:08:14 PM",
+    "id": "ab8710e489fd2a7f416efe430945bac7892f7c093f69dabd6815be86bc7177ea",
+    "kind": 1
+  },
+  {
+    "content": "Did you upgrade to v0.2.1? That already has some battery improvements compared to v0.2.0",
+    "timestamp": "1766862374",
+    "date": "12/27/2025, 7:06:14 PM",
+    "id": "89c7a45984c26308ad95d79a6bbeb98d5b430be70df60e29397ec357733ffabc",
+    "kind": 1
+  },
+  {
+    "content": "Would this include only the TTS engine, or also an app to read texts and show them in the UI?",
+    "timestamp": "1766820808",
+    "date": "12/27/2025, 7:33:28 AM",
+    "id": "d32a21ed01699795301ec55da62735c093191ed8b3474e8f077f9c3e92eae1b9",
+    "kind": 1
+  },
+  {
+    "content": "Yeah the battery drain is insane with our initial approach, we're making a big architecture change to hopefully reduce this substantially.",
+    "timestamp": "1766817239",
+    "date": "12/27/2025, 6:33:59 AM",
+    "id": "03fe7ddb23a19d184b3091779572cbb9828678549cfd5d210865e0bb2a34483e",
+    "kind": 1
+  },
+  {
+    "content": "iOS doesnt allow client side notifications, so we first have to invent a private notification server scheme, that's MIP 5 https://github.com/marmot-protocol/marmot/pull/18\n\nOn Android the client keeps running in the background and checks for new messages to notify you every 30 seconds.",
+    "timestamp": "1766817206",
+    "date": "12/27/2025, 6:33:26 AM",
+    "id": "d0381fa7502d986e5383763ec1123ffdf2fe2ba860e62dc6124644cf0a840779",
+    "kind": 1
+  },
+  {
+    "content": "It would have been great to ship amber support from the beginning, but we first had to add it to the rust-nostr library, which nostr:nprofile1qqsx3kq3vkgczq9hmfplc28h687py42yvms3zkyxh8nmkvn0vhkyyuspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszythwden5te0dehhxarj9emkjmn99uq32amnwvaz7tmwdaehgu3wdau8gu3wv3jhvtckf9t82 did.",
+    "timestamp": "1766817091",
+    "date": "12/27/2025, 6:31:31 AM",
+    "id": "44a98553a37e7e7599727b3e0b866a7a00d06ff98803b3a85291ee05e31e2da0",
+    "kind": 1
+  },
+  {
+    "content": "Amber should be in the next release, #twoweeks",
+    "timestamp": "1766816981",
+    "date": "12/27/2025, 6:29:41 AM",
+    "id": "5ae9465a8326773f92a466830774c59841fb1dc67de908fa2f622b674cb0baa5",
+    "kind": 1
+  },
+  {
+    "content": "We're developing our own implementations of text-to-speech and speech-to-text to use in #GrapheneOS which are entirely open source and avoid using so-called 'open' models without the training data available. Instead, we're making a truly open source implementation of both where all of the data used for it is open source. If you don't want to use our app for local text-to-speech and speech-to-text then you don't need to use it. Many people need this and want a better option.\n\nWe are working on TTS first then SST. The TTS training data is LJ Speech https://keithito.com/LJ-Speech-Dataset/ and the model used is our own fork of Matcha-TTS.\n\nIf people want they can fork it and add/remove/change the training data in any way they see fit. It's nothing like the so-called \"open\" models from OpenAI, Facebook, etc. where the only thing that's open are the neural network weights after training with no way to know what they used to train it and no way to reproduce that.\n\nMany blind users asked us to include one of the existing open source TTS apps so they could use it to obtain a better app. None of the available open source apps meets our requirements for reasonable licensing, privacy, security or functionality. Therefore, we've developed our own text-to-speech which will be shipping soon, likely in January. We'll also be providing our own speech-to-text. We're using neural networks for both which we're making ourselves.",
+    "timestamp": "1766816642",
+    "date": "12/27/2025, 6:24:02 AM",
+    "id": "9be9cacf01cc157f588f0233ba34c57c2a340041d6e11b6470141185c19b7bf2",
+    "kind": 6
+  },
+  {
     "content": "This is a major upgrade, thanks a bunch and congrats on getting this over the finish line!",
     "timestamp": "1766755275",
     "date": "12/26/2025, 1:21:15 PM",
