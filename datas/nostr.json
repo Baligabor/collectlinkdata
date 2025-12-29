@@ -1,5 +1,54 @@
 [
   {
+    "content": "The point of the article is that we need much more than \"just\" money.",
+    "timestamp": "1766956044",
+    "date": "12/28/2025, 9:07:24 PM",
+    "id": "730e2855cd06af876e233ca1bbf5322c2d7a06dea55c67bb3d06baed3fabf71d",
+    "kind": 1
+  },
+  {
+    "content": "The cryptoanarchist vision is forty years old. The theory is complete. The tools exist. Yet we have almost nothing to show for it. \nThe bottleneck was never ideas or technology. It was always people willing to build. This is a call to those ready to act, and an honest warning about what that requires. nostr:naddr1qqgrqcmxvdskzetzxcmrxdmrxy6r2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w62jx9s",
+    "timestamp": "1766955280",
+    "date": "12/28/2025, 8:54:40 PM",
+    "id": "6c46ce992e6e1ad13220c1f60fc75b0aa7543d893da07c77edcaa5e692fda61d",
+    "kind": 1
+  },
+  {
+    "content": "Encrypted messaging only works if it survives failure. That’s the flaw nostr:nprofile1qyv8wumn8ghj7enfd36x2u3wdehhxarj9emkjmn99uq3jamnwvaz7tmswfjk66t4d5h8qunfd4skctnwv46z7qpqzuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsfce088 points to in even the best centralized tools: one company, one infrastructure, one outage away from silence. \nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhwp9puf uses Nostr and novel cryptography to remove the server as a choke point. If one relay fails, you move on. Secure communication shouldn’t depend on permission or uptime from anyone else.\n\nWatch full episode on nostr:nprofile1qy28wumn8ghj7mtfwdekkete9ejx2umfvahqzrthwden5te0dehhxtnvdakqqgxup0q7qdfxz7mm6rm4dpr06y80lrtg22nut2n7zyacr8mp05lc3u69jf2l & zap ahead! 😉 \n\n https://blossom.primal.net/ee71f6689996b4bd7116b8223e541a642a95c51d37a770d2439e6dc7fdc493fc.mp4 \n",
+    "timestamp": "1766951641",
+    "date": "12/28/2025, 7:54:01 PM",
+    "id": "aeea7ab3685f8a190b8f2f9e8b239b927c5499ffe810f52587d78073d0287021",
+    "kind": 6
+  },
+  {
+    "content": "It's difficult to sue the state in courts that are funded by the state...",
+    "timestamp": "1766934450",
+    "date": "12/28/2025, 3:07:30 PM",
+    "id": "0b18d9bb2def87e9ef3c4c91cde91c96b9777da3ec16ed6843cbf3ad6c14b629",
+    "kind": 1
+  },
+  {
+    "content": "Thanks, a lot of fun to write them!",
+    "timestamp": "1766928675",
+    "date": "12/28/2025, 1:31:15 PM",
+    "id": "aa2e8a02abfebd003475e76f620b9b85c3724957c129bbffbba44b9f4d48c129",
+    "kind": 1
+  },
+  {
+    "content": "Forty thousand Americans die on government roads every year, and nobody holds anyone accountable. Yet when libertarians suggest private alternatives, the response is always the same: \"But who will build the roads?\" The question itself is more interesting than people realize. It reveals not the impossibility of markets, but the depth of the state's success in making people unable to imagine alternatives to its failures. nostr:naddr1qqgxywfsxccxgdmxxscngcnx8qcnyq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wu8l4h8",
+    "timestamp": "1766926488",
+    "date": "12/28/2025, 12:54:48 PM",
+    "id": "798e0bc936b85d312f3f5ccc70e660f0590ebbc33ae4228cd83a05f4dcc8393d",
+    "kind": 1
+  },
+  {
+    "content": "I also made a short YouTube video about the White Noise Messenger.\nMaybe I’ll manage to reach a few more people with it. I believe it will become a very cool freedom tool.\n\nhttps://youtu.be/nIFXmOv4PBs \n\n",
+    "timestamp": "1766920513",
+    "date": "12/28/2025, 11:15:13 AM",
+    "id": "4e90def1b0b4274b1bb13c3e1040639c819d47275043ee73745e09c31c00281b",
+    "kind": 6
+  },
+  {
     "content": "Here on nostr is fine, also GitHub issues for less clutter, and the White Noise support account in the app itself.\n\nThanks!",
     "timestamp": "1766869588",
     "date": "12/27/2025, 9:06:28 PM",
