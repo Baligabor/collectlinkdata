@@ -1,5 +1,33 @@
 [
   {
+    "content": "For two decades, we accepted a bargain: let Apple and Google verify every developer with government papers, and they will keep us safe from malware. \n\nThe bargain was always a lie. \n\nFake apps still steal millions while real developers get banned at the whim of bureaucrats in Cupertino and authoritarian censors in Moscow. \n\nnostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhxetpwf3kstnwdaejuar0v3shjtc3uszjr, a Nostr-based app store, offers a different model: one where developers sign their own releases, users verify through social trust, and no passport is required to publish code. This is not a feature request. It is a return to the original promise of the internet. And nobody can stop us building it.\n\nnostr:naddr1qqgrsdfcx4nrjdpsvs6njenyxsunvqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823ccq4deh",
+    "timestamp": "1767027672",
+    "date": "12/29/2025, 5:01:12 PM",
+    "id": "3715bb1ed0056dc62318e63102f65581121c445a06197331d092abfbf516b671",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqszpxr0hql8whvk6xyv5hya7yxwd4snur4hu4mg5rctz2ehekkzrvcpz4mhxue69uhkummnw3ezuvtnv96zummjvuhsz9thwden5te0dehhxarj9cc8sdm99eu8j730qyv8wumn8ghj7un9d3shjtnsd3jkyum5wghxxmmd9ujkmvl8 the latest release breaks opening the file explorer for adding an image, the file manager crashes after opening.",
+    "timestamp": "1767005571",
+    "date": "12/29/2025, 10:52:51 AM",
+    "id": "83faecf87b2e84b7f855c2ab102687c057463198841a4f54f35d4585f1ae66df",
+    "kind": 1
+  },
+  {
+    "content": "If you are a founder and wanna find builders keep an eye on nostr:nprofile1qqstwptzcs6au74zrvmkku4hccp8r9t678ghqpgumkqphfzcgxh4u4snsk4cp who is building \nhttps://moonshot.angor.io/",
+    "timestamp": "1766996063",
+    "date": "12/29/2025, 8:14:23 AM",
+    "id": "9cf1d9012c399ca655042c62026ee90fae7094de9be8bc930106d85165c09486",
+    "kind": 6
+  },
+  {
+    "content": "It's an amazing book.",
+    "timestamp": "1766993931",
+    "date": "12/29/2025, 7:38:51 AM",
+    "id": "482892283d8c8753f02a949feed338e8c8a13608a494928adcc240d2b7b5c3e1",
+    "kind": 1
+  },
+  {
     "content": "The point of the article is that we need much more than \"just\" money.",
     "timestamp": "1766956044",
     "date": "12/28/2025, 9:07:24 PM",
