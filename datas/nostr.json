@@ -1,5 +1,75 @@
 [
   {
+    "content": "The cryptoanarchist vision is forty years old. The theory is complete. The tools exist. Yet we have almost nothing to show for it. \nThe bottleneck was never ideas or technology. It was always people willing to build. This is a call to those ready to act, and an honest warning about what that requires. nostr:naddr1qqgrqcmxvdskzetzxcmrxdmrxy6r2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w62jx9s",
+    "timestamp": "1767136069",
+    "date": "12/30/2025, 11:07:49 PM",
+    "id": "300fe910a825193f32bf5e9ff73a5618a9f178d68ad168f63600da6260d73bff",
+    "kind": 6
+  },
+  {
+    "content": "Aaand... we’re back with the monthly recap 😎\n\nDecember was a big month for us: two conference talks, some real face time as a team, and solid progress toward real-time messaging.\n\n🎤 Conferences and Speaking\n\n- @Btrust Dev Day 🚀 Josefina + Javier presented MIP-5: private mobile notifications without leaking metadata (reliable push, hidden social graph)\n\nWatch the presentation: https://www.youtube.com/watch?v=bDxhY5p1yKQ&t=6360s\n\n- Africa Bitcoin Conference: nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcppemhxue69uhkummn9ekx7mp0gf8npz  introduced Marmot and why MLS-based group encryption brings real group messaging to Nostr. \n\nInterested? The talk is here: https://www.youtube.com/watch?v=g2qKOw0xWVU&t=3280s\n\n- nostr:nprofile1qqspwwwexlwgcrrnwz4zwkze8rq3ncjug8mvgsd96dxx6wzs8ccndmcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxrhwden5te0ve5kcar9wghxummnw3ezuamfdejj7n8dex9  also ran a two-hour hands-on workshop on building with Nostr and Marmot, unfortunately this was not recorded.\n\n🏝️Team Gathering in Mauritius\n\nWith most of the team together for the conferences, we held a team meeting to discuss the streaming architecture work now underway. \n\nBeyond the technical sessions, we answered questions from conference attendees curious about encrypted messaging on Nostr, met potential collaborators, and got to know each other better outside of GitHub and video calls.\n\n👥 Community Call Highlights\n\nThe December community call (first Tuesday of each month, 1700 UTC) covered local WebSocket notifications and the battery and reliability tradeoffs for keeping connections alive on mobile.\n\nWe also did a deep dive on the privacy design decisions behind MIP-5.\n\n🧩  The highlight was introducing Tubestr, the first non-chat Marmot client: Tubestr is a private video sharing app designed for kids to share their creations with a trusted circle only. Check it out at https://www.tubestr.app/\n\n🔧Technical Progress\n\nReal-Time Messaging Architecture\n\nUntil now, White Noise polled for new messages every 2 seconds in the foreground and every 30 seconds in the background.\n\nThis works, but it means messages never arrive instantly and background delivery feels sluggish.\n\nThe streaming architecture work underway will change this: messages arrive the moment they're sent.\n\nThis is early work that will roll out over several releases. The groundwork includes a new subscribe_to_group_messages API that delivers an initial snapshot plus live updates for new messages, reactions, and deletions.\n\nOn the Flutter side, a new ChatStreamProvider consumes the Rust SDK stream directly, handling sorting and member resolution.\n\nWe also added an enriched chat list API that returns summaries with latest message previews, and fixed message reordering loops by using stable sorting with createdAt plus message id as a tiebreaker.\n\n📲 Android Platform Stability\n\nSeveral fixes this month target real-world Android issues. \n\nNotifications weren't arriving after device restart because the foreground service only initialized the Rust library without the full database configuration.\n\nWe created a WhitenoiseInitService that properly initializes the backend from both the foreground service and the main app, making it safe to call from either entry point.\n\nWe also fixed 🧼 data cleanup on uninstall so chats and profiles no longer persist after reinstalling, simplified the battery optimization permission flow to avoid stuck denial loops, and added graceful camera permission handling with an \"Open Settings\" link when access is denied.\n\n💅 UI and UX Improvements\n\nChat bubbles now follow a standardized layout and dimension spec.\n\nWe added a new WarningBox widget used across profile screens to remind users that their profile information is public.\n\nThe media modal got fade animations and stable image positioning so the image no longer shifts when toggling overlays.\n\nThe language selector now correctly shows the system language on first load.\n\n🦫 Marmot Protocol Spec\n\nMIP-00 and MIP-02 now specify base64 encoding for KeyPackage and Welcome content instead of hex. This reduces payload size by roughly 33% and uses a tag-based encoding declaration.\n\nThis is a protocol hard fork, so readers must accept both formats during the transition period, but new implementations must write base64.\n\n✏️ Marmot TypeScript SDK\n\nThe TypeScript SDK saw significant development this month with 9 merged PRs.\n\nThe main focus was building out the MarmotClient class as the primary interface for developers. \n\nThe proposals and commits flow is now implemented, allowing proper MLS group state management. \n\nGroup message reading now includes retry logic for handling unreadable messages gracefully. \n\nMember addition and group membership methods were refactored into cleaner abstractions, and the SDK picked up base64 content encoding to match the spec change.\n\nA new generic NostrNetworkInterface makes it easier to integrate with different Nostr implementations.\n\n💻 MDK Language Bindings\n\nMDK is now published to Rubygems and PyPI (as mdk-python), making it easier to integrate Marmot into Ruby and Python applications.\n\nThese join the existing Kotlin and Swift bindings, all generated via UniFFI from the core Rust crate.\n\n💪 Security Audit\n\nWe're currently undergoing a security audit with Least Authority. This month several fixes landed based on their findings.\n\nMDK now uses a v2 group image format with separate upload seed derivation, ensuring uploaded images use a derived keypair rather than the encryption key directly.\n\nMigration tooling handles the transition from v1 to v2 automatically while maintaining backward compatibility.\n\n🛠️ Expect more fixes and improvements in the coming months as the audit continues.\n\n⏳ In Progress\n\nA few notable PRs are still in flight. \n\nThe optimistic UI work will make messages and reactions appear instantly while syncing with the server.\n\nNIP-55 support will enable integration with Amber and other external signers.\n\nMedia layout standardization will bring dynamic grid sizing that respects screen width constraints.\n\n🌷 Ecosystem Growth\n\nSeveral new projects have expressed interest in adding Marmot to their stack.\n\nMore to share as those conversations develop.\n\n❤️ Contributors\n\nThanks to everyone who contributed this month: erskingardner, josefinalliende, hzrd149, gzuuus, untreu2, jgmontoya, codeswot, Quwaysim, ayushsaksena30, AbdulbasitSaid, mubarakcoded, dannym-arx, and kuba-04.\n\n-\n\nIf you're building on Nostr and want to add encrypted messaging, check out the Marmot Protocol spec. https://x.com/whitenoisechat/status/2006075259406188550?s=46\n\nIf you want to contribute to the reference implementation, White Noise is open for PRs. \n\nThe next community call is the first Tuesday of January at 1700 UTC.\nhttps://blossom.primal.net/8a9c592be96d03a83ce5fe5b95eb1729516d5be8348326c26d62b55e60469757.jpg",
+    "timestamp": "1767125053",
+    "date": "12/30/2025, 8:04:13 PM",
+    "id": "f1c6c12dc7c092740f8796ee18b05ac687706d5ddc0c9ac1a5672d7d52ca6ca8",
+    "kind": 6
+  },
+  {
+    "content": "In 2026 nostr:npub1eajvs8x67vmzsnwaf9ltfgt59e6acmeztx9shduewvfgwftx8ahsagcd93 will bring back the private peer-to-peer payment instrument formerly known as \"bill of exchange\". \n\nThe e-bill returns with Freedom Technology, payable on unstoppable Bitcoin rails instead of in bank custodied gold, on encrypted Nostr transport instead of state postal services.\n\nThis will unlock world trade for the Bitcoin circular economy and give Bitcoin its missing currency, its Medium of Exchange.\n\nnostr:note1s9pq9y48ez9m6p7zpt6g09wmd7s5ed4tc4vssjx6drlx6k8s9n9qeztnu0",
+    "timestamp": "1767122146",
+    "date": "12/30/2025, 7:15:46 PM",
+    "id": "884bf50a03aa65af3d649f7ca8eaec3c6ed832859181fe1e3e9632910db048a5",
+    "kind": 6
+  },
+  {
+    "content": "Thanks!",
+    "timestamp": "1767106242",
+    "date": "12/30/2025, 2:50:42 PM",
+    "id": "fe71b7d45a2e4a09ce93a4a324ef35154aef9e927fac26d6b4e52d5065bfa403",
+    "kind": 1
+  },
+  {
+    "content": "In 1912, London financed sixty percent of world trade through bills of exchange: private commercial paper backed by goods in transit, settling in gold. No central bank required. \nTwo years later, governments killed this system in a week. What we got instead is the inflation, instability, and central bank manipulation we now consider normal. \nThe market had already solved the money problem. Governments unsolved it. \nnostr:naddr1qqgrzc3svdsn2dmpxycrgdrpvgmkzq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wm3vatp",
+    "timestamp": "1767106157",
+    "date": "12/30/2025, 2:49:17 PM",
+    "id": "81420292a7c88bbd07c20af48795db6fa14cb6abc5590848da68fe6d58f02cca",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #1\n\nThe builders mentioned in Nostr Compass #1 sat down to talk through what shipped.\n\nNIP-BE brings Bluetooth mesh networking to Nostr. MIP-05 tackles private push notifications. Amethyst, WhiteNoise, Damus, and Notedeck all dropped security and UX improvements.\n\nHear the devs explain why it matters.\n\nhttps://blossom.primal.net/24df160d686899425b1c03abff256817bc2e5bf4f491c61285cc7842a5aecee7.ogg ",
+    "timestamp": "1767098926",
+    "date": "12/30/2025, 12:48:46 PM",
+    "id": "77c2ab0f90319927089637f98c2df31f60326d4accb69307349b5216c91544fa",
+    "kind": 6
+  },
+  {
+    "content": "**Nostr Compass Podcast is live.**\n\nProtocol updates and client releases, explained by the builders.\n\nFully Nostr native: hosted on Blossom, published via nostr:nprofile1qqszaqx80w9eg8uf39l527h8znumq0jcxdav2h0kdgwy08e3p87wfrgpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcke6zfw. Works in any podcast client.\n\nSubscribe wherever you listen:\n\nhttps://castr.me/npub1wav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qq902923/rss.xml\n\nnostr:nevent1qqs820luxaj3ytkdtraqc97vcjsnfz3emar3x9ajfh7waz9glk9tmpcppemhxue69uhkummn9ekx7mp0qgs8wk257uc5zyjgnf9znmrf9dersm7kp0xwkqcg6s33q84f08zh4qqrqsqqqqqpq6z2ea",
+    "timestamp": "1767098923",
+    "date": "12/30/2025, 12:48:43 PM",
+    "id": "563f5dcf333ff2f3b3bfb5f64d5e14baabed28754a38dec23f78847551923390",
+    "kind": 6
+  },
+  {
+    "content": "This is a banger!",
+    "timestamp": "1767093520",
+    "date": "12/30/2025, 11:18:40 AM",
+    "id": "bcf5705c863224d1f6e25697633f882d8a4aca1106b399569640704c752dc13f",
+    "kind": 1
+  },
+  {
+    "content": "'Inspired' by the writings of nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e \n\nhttps://wavlake.com/album/7f8cc547-7bd2-482c-8929-8a8fd59eef29",
+    "timestamp": "1767093506",
+    "date": "12/30/2025, 11:18:26 AM",
+    "id": "6a5f84ec82f601c5e16bfd6f8716f3253c4febcf4211e2eba4275282677f5ed8",
+    "kind": 6
+  },
+  {
+    "content": "Perfect.",
+    "timestamp": "1767090188",
+    "date": "12/30/2025, 10:23:08 AM",
+    "id": "275fd9e435a929bc8ef0c9059a6fc604646365b515fe849ec0af5cead86967ff",
+    "kind": 1
+  },
+  {
     "content": "For two decades, we accepted a bargain: let Apple and Google verify every developer with government papers, and they will keep us safe from malware. \n\nThe bargain was always a lie. \n\nFake apps still steal millions while real developers get banned at the whim of bureaucrats in Cupertino and authoritarian censors in Moscow. \n\nnostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhxetpwf3kstnwdaejuar0v3shjtc3uszjr, a Nostr-based app store, offers a different model: one where developers sign their own releases, users verify through social trust, and no passport is required to publish code. This is not a feature request. It is a return to the original promise of the internet. And nobody can stop us building it.\n\nnostr:naddr1qqgrsdfcx4nrjdpsvs6njenyxsunvqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823ccq4deh",
     "timestamp": "1767027672",
     "date": "12/29/2025, 5:01:12 PM",
