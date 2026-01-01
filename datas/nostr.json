@@ -1,5 +1,54 @@
 [
   {
+    "content": "Nice!\nBut why don't you just send an empty payload and clients do processing locally?\nYour approach still seems to tie the receiver pubkey to the apple ID against apple servers.",
+    "timestamp": "1767218264",
+    "date": "12/31/2025, 9:57:44 PM",
+    "id": "bc3fde9e28627c2e464ef241aff476b90a1f666c2bf960ea7c0c1fa1087c317a",
+    "kind": 1
+  },
+  {
+    "content": "Most resolutions dissolve by February. These are not those. They are not self-improvement projects or lifestyle optimizations. They are the ethical commitments that separate those who talk about freedom from those who live it. Seven principles, each actionable, together forming the foundation of a society built on consent rather than coercion. \nnostr:naddr1qqgrxcenxanr2e33vyervcee8qurjq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wfmv9qx",
+    "timestamp": "1767218188",
+    "date": "12/31/2025, 9:56:28 PM",
+    "id": "2764e12316f34065a61f7ebc46861e79fde94e16ce57d5d14e77e6ea3557c1e6",
+    "kind": 6
+  },
+  {
+    "content": "In December 2023, a U.S. Senate investigation revealed that governments worldwide have been demanding push notification records from Apple and Google to surveil smartphone users, including tying anonymous messaging accounts to real identities. For years, privacy engineers dismissed this attack vector as unsolvable, since mobile operating systems require routing through platform servers. \n\nMIP-05, a new specification for the Marmot Protocol, proves them wrong: by encrypting device tokens with probabilistic encryption and delivering notifications through gift-wrapped Nostr events, it makes push notifications functionally anonymous. If you care about private communication, this is the specification you need to understand.\n\nThe specification is currently in draft and open for review: https://github.com/marmot-protocol/marmot/pull/18 nostr:naddr1qqgx2dpjv9nr2dpjvejryvpcv3nxzq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w2exg09",
+    "timestamp": "1767215605",
+    "date": "12/31/2025, 9:13:25 PM",
+    "id": "b2ea137fe5a3e2b4dea28c6c1b2ce33eb554f0f49fac5fd62fde5235b0fee525",
+    "kind": 6
+  },
+  {
+    "content": "This was the goal!",
+    "timestamp": "1767211378",
+    "date": "12/31/2025, 8:02:58 PM",
+    "id": "fca7c7846439098385366c23ccbb7469cdc61b80e1cc50cf0229b360d57cc68c",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass #3 is out: \"Five Years of Nostr Decembers\"\n\nA technical retrospective tracing December milestones from 2020's genesis through Jack's 14 BTC donation to this month's NIP-55 signer expansion and NDK's 162x speedup.\n\nPlus: Amethyst desktop module, Notedeck messaging, Citrine web hosting, NIP-54 internationalization fixes. \nnostr:naddr1qqgxxetyxvex2deexf3nwvtpxp3rvq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65w67xjeh",
+    "timestamp": "1767205053",
+    "date": "12/31/2025, 6:17:33 PM",
+    "id": "fde85cc48f4df8499ca0568246a958bbca9b307a8662d3180d741be6ad8a86a8",
+    "kind": 6
+  },
+  {
+    "content": "Most resolutions dissolve by February. These are not those. They are not self-improvement projects or lifestyle optimizations. They are the ethical commitments that separate those who talk about freedom from those who live it. Seven principles, each actionable, together forming the foundation of a society built on consent rather than coercion. \nnostr:naddr1qqgrxcenxanr2e33vyervcee8qurjq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wfmv9qx",
+    "timestamp": "1767196346",
+    "date": "12/31/2025, 3:52:26 PM",
+    "id": "cd2205993a5a6d3328a5edae098bb6733f8ba0f69a4e8b17ac66906f5c834adf",
+    "kind": 1
+  },
+  {
+    "content": "Interesting, I'd like to learn more about the second point.",
+    "timestamp": "1767189417",
+    "date": "12/31/2025, 1:56:57 PM",
+    "id": "c3e8158b109b39c9637a6acbe9e971a4d70efaba0cda6da4b36b733f6808c109",
+    "kind": 1
+  },
+  {
     "content": "The cryptoanarchist vision is forty years old. The theory is complete. The tools exist. Yet we have almost nothing to show for it. \nThe bottleneck was never ideas or technology. It was always people willing to build. This is a call to those ready to act, and an honest warning about what that requires. nostr:naddr1qqgrqcmxvdskzetzxcmrxdmrxy6r2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w62jx9s",
     "timestamp": "1767136069",
     "date": "12/30/2025, 11:07:49 PM",
