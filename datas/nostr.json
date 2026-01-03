@@ -1,5 +1,166 @@
 [
   {
+    "content": "Yes, after the third or fourth edition when its proper.",
+    "timestamp": "1767394574",
+    "date": "1/2/2026, 10:56:14 PM",
+    "id": "7898de437662b6dad832e55cbd55fc493f407dce3d8b20b2dd093e2222309d76",
+    "kind": 1
+  },
+  {
+    "content": "On zapstore you can get Sherpa, that's a text to speech engine, and voca, that's a reader app that uses the engine. Voca is very early development so its not yet great. There is @voice app too, but that's closed source and you need to install Aurora Store to get it.\n\nhttps://zapstore.dev/apps/naddr1qqvx7un89emk76r9d3kx2u3k8yh8garnv4hxw6twv5pzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqvzqqqr7pvehy4fu\n\nhttps://zapstore.dev/apps/naddr1qqxxxmmd9emx7cmp9eshquqzyr6u4xd2v3lunpr6mdsmdmfqpkd3tyyn5kuhymzwfc4en0ul6v3c7qcyqqq8uzcvhdyuk\n\nThe TTS PDF is just a regular PDF but without page numbers and page titles so it makes listening better.",
+    "timestamp": "1767387565",
+    "date": "1/2/2026, 8:59:25 PM",
+    "id": "bceb584da16502928bb90bf89904f0dac007a91a9e25c37d8bf7353697b502ca",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, doing \"actually good\" audio book recordings is a pain in the ass... So no pressure!\nI'll probably get to a point where I'll do it in half a year.\nIdk, maybe earlier if enough people bug me about it.\n\nOh, I also made a text to speech friendly PDF that might work for you, get it at towardsliberty.com/pop",
+    "timestamp": "1767386886",
+    "date": "1/2/2026, 8:48:06 PM",
+    "id": "8827fd5ed2b2405fd0a987c0f92b7649189cf17cfaf60893bca55ccf4e6f6076",
+    "kind": 1
+  },
+  {
+    "content": "It just fetches any profile and displays all the uploaded audio or video files as a podcast feed.\n\nSo just post on primal or whatever client and it'll automagically work.",
+    "timestamp": "1767386775",
+    "date": "1/2/2026, 8:46:15 PM",
+    "id": "82929056fa2858b3fe5f44b8b010500a3fc07a3b2bb908c9c56ed6fde44a416a",
+    "kind": 1
+  },
+  {
+    "content": "New in this edition of the book is a dedicated chapter about nostr with much more depth about Why it works, what is possible with it, and where it needs improvement.\n\nIt's probably the first praxological treatise mentioning Nostr!\n\nnostr:naddr1qqgrsdrxveskgvrzv3nrgdmrvcmkvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wpx3yl3\n\nnostr:nevent1qqsx7y0m5hwtf9xprhejay64yegerpql69gxzwgdjkwzhf0xlxh72dcpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlspsgqqqqqqs3vejrh",
+    "timestamp": "1767386682",
+    "date": "1/2/2026, 8:44:42 PM",
+    "id": "8a8857a48e48a804586a2a81073dc5e0251cb20ca302812c3db67dfe1991e424",
+    "kind": 1
+  },
+  {
+    "content": "It might be the first book published in dark mode PDF tho...",
+    "timestamp": "1767385063",
+    "date": "1/2/2026, 8:17:43 PM",
+    "id": "88f2fa77f633fcb6e015a0aa241939d7fd10e7decc7dd60db6ecaf590c78db4f",
+    "kind": 1
+  },
+  {
+    "content": "Nah, nostr:nprofile1qqstsw3gkljwt5stm9svt7htvcjlj4ffze4chkcyt4pxxj30xkgeg5qpr9mhxue69uhhqun9d45h2mfwwpexjmtpdshxuet59uq3wamnwvaz7tmjv4kxz7fwdehhxarj9e3xzmny9uqsuamnwvaz7tmwdaejumr0dshs257akr did too I think?",
+    "timestamp": "1767384249",
+    "date": "1/2/2026, 8:04:09 PM",
+    "id": "09c30c6e460fdbd1ea8f58b0a8b234fd2637f5602f257fbb8a6de837e64c5f80",
+    "kind": 1
+  },
+  {
+    "content": "No, I'll wait for some more review of the logic and keep fiddling with it for a bit before it goes in print & audio.",
+    "timestamp": "1767384152",
+    "date": "1/2/2026, 8:02:32 PM",
+    "id": "176de1d2b9618d12aef7a7082fbe372abb90882831ca9f69b027001c8f3e8f4b",
+    "kind": 1
+  },
+  {
+    "content": "You can just upload a mp3 / wav / ogg and nostr:nprofile1qqszaqx80w9eg8uf39l527h8znumq0jcxdav2h0kdgwy08e3p87wfrgpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcke6zfw will automatically turn it into a podcast.\n\nI was planning to do the audio book a bit later, this isn't the final version yet, would be happy to hear yours tho!",
+    "timestamp": "1767383944",
+    "date": "1/2/2026, 7:59:04 PM",
+    "id": "1e1f2c9c207a7e2e17cfe8ce220a11d0fd3785b27c10d9ed67cca545a6a499b5",
+    "kind": 1
+  },
+  {
+    "content": "That sucks, sorry for the loss, hope you get it back.\nJust curious and somewhat sensitive, but was there a coinjoin in the recent transaction history?",
+    "timestamp": "1767382217",
+    "date": "1/2/2026, 7:30:17 PM",
+    "id": "62b1b42bf113017ba03ebd1b6fd47ebd5828430165f367a780cfa83cb94a8507",
+    "kind": 1
+  },
+  {
+    "content": "This book is in the making for a couple years, just not got the time to rework it for v0.2.0.\n\nThe other articles recently where when I got distracted from this work...",
+    "timestamp": "1767381266",
+    "date": "1/2/2026, 7:14:26 PM",
+    "id": "4095acae601f903c2d6c23236aa8ce751840f7f49c6ba0adc3482190415662a6",
+    "kind": 1
+  },
+  {
+    "content": "I finished the second version of my book!\n\n## The Praxeology of Privacy\n### Economic Logic in Cypherpunk Implementation\n\nAustrian economists theorize but cannot build. Cypherpunks build but lack theory. This book synthesizes both traditions into a unified strategy for making the state irrelevant.\n\nThree axioms. Twenty-one chapters. One conclusion: cheap defense defeats expensive attack. When theft becomes unprofitable, the state withers.\n\nPublic Domain. v0.2.0. Published on Nostr.\n\nThanks a lot to Stephan Kinsella and Eric Voskuil for their tough feedback on the first version, please join them in demolishing the logic of this second edition and help me make the arguments better!\n\n---\n\nTable of Contents\n\nPreface\nAustrian economists theorize but cannot build. Cypherpunks build but lack theory. This book synthesizes both to make the state irrelevant.\nnostr:naddr1qqgrvvpjx33kgvtrxgen2vfcvcurjqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cwhph63\n\nPart I: Introduction\n\nChapter 1: The Nature of Privacy\nPrivacy is selective disclosure, not hiding. Breaking adversary observation through the OODA loop is strategic defense. Cheap privacy defeats expensive surveillance.\nnostr:naddr1qqgxvdpc8pjrywryxv6nwv3kxsungqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cmtv33p\n\nChapter 2: Two Traditions, One Conclusion\nAustrian economics and cypherpunk practice converge independently on privacy's importance. Theory explains why; code demonstrates how. This book synthesizes both traditions.\nnostr:naddr1qqgxzctpxvenverrx93rwv35v3snzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4p7jlc\n\nPart II: Philosophical Foundations\n\nChapter 3: The Action Axiom\nThe Action Axiom proves privacy is structural to human action. Deliberation is internal; preferences are subjective; information asymmetry is inherent.\nnostr:naddr1qqgxyvecvgexvcnzxyekvefkxvukxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c83cqzs\n\nChapter 4: The Argumentation Axiom\nArgumentation ethics demonstrates self-ownership through performative contradiction. Denying it while arguing presupposes it. Privacy rights follow directly from self-ownership.\nnostr:naddr1qqgxvcfhx5unjdpk8quxxdp3xvcrsqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c3n4fxz\n\nChapter 5: The Axiom of Resistance\nThe Axiom of Resistance assumes systems can resist control. Mathematics, empirical evidence, and similar systems support this well-grounded but non-self-evident assumption.\nnostr:naddr1qqgrgvmrxfjxgvmpxg6nqvt9xuurwqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c2v0h9m\n\nPart III: Economic Foundations\n\nChapter 6: Information, Scarcity, and Property\nInformation is non-scarce and cannot be property. Privacy is protected through self-ownership, physical property rights, and voluntary contracts, not intellectual property.\nnostr:naddr1qqgx2dr9vv6kgwf5xe3ngdee8y6nzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cgpp3hh\n\nChapter 7: Exchange Theory and Privacy\nPrivacy enhances exchange by protecting deliberation and enabling negotiation. Surveillance distorts prices and chills transactions. Better privacy means better functioning markets.\nnostr:naddr1qqgrsdfcv5mx2vmxxe3nzvf4xqmxzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4hcvgf\n\nChapter 8: Capital Theory and Entrepreneurship\nPrivacy infrastructure is capital requiring present sacrifice for future capability. Entrepreneurial discovery drives innovation. Markets coordinate heterogeneous privacy tools most effectively.\nnostr:naddr1qqgxgdeev5ckzer9xy6rvwpnxyukvqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cxcc5c2\n\nChapter 9: Monetary Theory and Sound Money\nSound money emerges spontaneously from markets, not decrees. Bitcoin implements digital soundness with fixed supply and censorship resistance; privacy requires additional tools.\nnostr:naddr1qqgxgwf3xqensef5vvcrvcfs8yuxxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823ceca8xr\n\nPart IV: The Adversary\n\nChapter 10: Financial Surveillance and State Control\nFinancial surveillance enables state control through observation. CBDCs complete the architecture. Privacy breaks the OODA loop at observation, making theft unprofitable.\nnostr:naddr1qqgrsdmpvv6n2wfhv5ervdmpxa3kxqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wcwwf6m\n\nChapter 11: Corporate Surveillance and Data Extraction\nCorporate surveillance extracts behavioral data for prediction products. State and corporate surveillance are deeply entangled. Markets are responding to growing privacy demand.\nnostr:naddr1qqgrydekxumxvvm9xp3n2vtr89jrxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cduqmxa\n\nChapter 12: The Crypto Wars\nThe Crypto Wars pit states against privacy technology. Mathematics ignores legislation. Developers face prosecution. The fundamental conflict is permanent and intensifying.\nnostr:naddr1qqgxycfjvyck2vrpxvunycfcxsuk2qgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cwnenzp\n\nPart V: Technical Implementation\n\nChapter 13: Cryptographic Foundations\nCryptography provides mathematical privacy foundations: encryption, hashing, and digital signatures enable trustless verification. Implementation bugs and human error remain the weakest links.\nnostr:naddr1qqgxzdt9xcexvef5v3jrsefexsunzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c94u5pd\n\nChapter 14: Anonymous Communication Networks\nThe internet leaks metadata. VPNs help locally. Tor distributes trust through relays. Mixnets defeat global adversaries. Choose tools matching your threat model.\nnostr:naddr1qqgrydphv9nrgcfcxg6ryvrzx56kzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cvp8fcy\n\nChapter 15: Bitcoin: Resistance Money\nBitcoin solves double-spending without trusted third parties. Sound money enforced by code. Base layer privacy requires additional tools like Lightning and coinjoin.\nnostr:naddr1qqgrwv33xvenvdnyxc6ngv3hv5mxxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4qzyqz\n\nChapter 16: Zero-Knowledge Proofs\nZero-knowledge proofs enable verification without disclosure. SNARKs, STARKs, and Bulletproofs make different tradeoffs. Deployed in Zcash and rollups; broader adoption developing.\nnostr:naddr1qqgrjd33vvcxyv3kvyurydfexscrgqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65we3mut9\n\nChapter 17: Decentralized Social Infrastructure\nNostr solves identity capture through cryptographic keys users control. Relays compete, moderation is market-driven, and the protocol extends beyond social posts.\nnostr:naddr1qqgrsdrxveskgvrzv3nrgdmrvcmkvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wpx3yl3\n\nPart VI: Praxis\n\nChapter 18: Lessons from History\nDigiCash, e-gold, and Silk Road failed through centralization and poor OPSEC. Bitcoin succeeded through decentralization, open source, and properly aligned economic incentives.\nnostr:naddr1qqgxydmpv56nqefnv4jnwepcxdjx2qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wm4wp04\n\nChapter 19: Operational Security\nOperational security prevents adversaries from gathering compromising information. Threat modeling guides defense. Human factors are the weakest link. Perfect OPSEC is impossible.\nnostr:naddr1qqgrxep3vscrzc3kxyenqdpex9jnzqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wyp98rv\n\nChapter 20: Implementation Strategy\nStart with honest assessment. Build progressively from basics to advanced. Find community. Privacy is not a destination but ongoing practice. Progress matters.\nnostr:naddr1qqgxvdtyx43nwvmxvcckgerx8qmnvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wmuawxl\n\nChapter 21: Building the Parallel Economy\nThe parallel economy grows through counter-economics. Cheap defense defeats expensive attack. When theft becomes unprofitable, the state withers. Build. Trade. Resist.\nnostr:naddr1qqgxxefj89nrxvtrxcerxvfs8q6xvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wat25hx",
+    "timestamp": "1767381202",
+    "date": "1/2/2026, 7:13:22 PM",
+    "id": "6f11fba5dcb494c11df32e9355265191841fd15061390d959c2ba5e6f9afe537",
+    "kind": 1
+  },
+  {
+    "content": "The default is a random number between 30 and 70 I believe.\nProbably even lower is good enough, but 50 is solid.",
+    "timestamp": "1767373304",
+    "date": "1/2/2026, 5:01:44 PM",
+    "id": "1dbba9a0e91c73e8d7a0987ba539744cd924a6b613a3f23d182286391d52aeed",
+    "kind": 1
+  },
+  {
+    "content": "I hope this will help you:\nnostr:naddr1qqgxzceevenrgcnzvf3r2epsvsur2qgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c9lcxu7",
+    "timestamp": "1767360823",
+    "date": "1/2/2026, 1:33:43 PM",
+    "id": "365300f75c6cb6485da1b2a24a05f619bf4760ac7919d61f2e25f065890b0397",
+    "kind": 1
+  },
+  {
+    "content": "You've been trained since childhood to believe you cannot function without state permission and provision. The programming runs so deep that even reading this, you'll feel resistance to acting on it. \nBut learned helplessness has a cure: you must demonstrate to yourself that you have control by actually exercising it. This post maps the escape routes. The only question is whether you'll take one. \nnostr:naddr1qqgxzceevenrgcnzvf3r2epsvsur2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wxhqpjk",
+    "timestamp": "1767360773",
+    "date": "1/2/2026, 1:32:53 PM",
+    "id": "e5b544c67430cdf57e506807ddb970f739d57b473871831c83025db357caa024",
+    "kind": 1
+  },
+  {
+    "content": "Pure Wasabi coinjoins\n\nhttps://npub1nccwjspr3nv7h67xx2qhdh2dzzvpyy55gte2dsu8yl7xd7n74y9qydz7mj.blossom.band/25276b797d11625aabc83f4a5b256b1395c2e4e53c936f57f3ebd307476ae186.png",
+    "timestamp": "1767345441",
+    "date": "1/2/2026, 9:17:21 AM",
+    "id": "a5a00b93a237600394ebee5844c01d84111983de3e246929c11220a4ac08f612",
+    "kind": 6
+  },
+  {
+    "content": "# Wasabi coinjoin flows\n\nhttps://npub1nccwjspr3nv7h67xx2qhdh2dzzvpyy55gte2dsu8yl7xd7n74y9qydz7mj.blossom.band/88775ef3c0558299cd3632ee5e3fd262db77e3cc787d0af8b565595828b8eed9.png\n\nIt seems Wasabi users don't trust a single coordinator—which makes sense—and mitigate that by coinjoining with one coordinator and then finishing the process by coinjoining with a different one.",
+    "timestamp": "1767345366",
+    "date": "1/2/2026, 9:16:06 AM",
+    "id": "5e3242b51debd20931e47349a19309bca8bcb32fa8317eb88c2fd851f0dc7e23",
+    "kind": 6
+  },
+  {
+    "content": "This one shows the zkSNACKs coordinator's liquidity trying to find the new coordinator. A chaotic competition that has resulted in a stable system.\n  \nhttps://npub1nccwjspr3nv7h67xx2qhdh2dzzvpyy55gte2dsu8yl7xd7n74y9qydz7mj.blossom.band/91915e32337b284de7348381cd14509d1b6621abe20b0b5f85a2795fc14feb22.png\n\nnostr:nevent1qqsqqqyrsw4mz3uyakux5zthw47qzx0euyn467wt28uped827yfad0gppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qg3waehxw309ahx7um5wgh8w6twv5hs7vh49v ",
+    "timestamp": "1767345364",
+    "date": "1/2/2026, 9:16:04 AM",
+    "id": "46dfab878c32684e1d10dde6d65e9adfe48efd51fac6b53df5e6c0c0181fbff7",
+    "kind": 6
+  },
+  {
+    "content": "# Wasabi Scripting (experimental)\n\nhttps://npub1nccwjspr3nv7h67xx2qhdh2dzzvpyy55gte2dsu8yl7xd7n74y9qydz7mj.blossom.band/d27b8a1f3b3a85db9c696b84004d6127896ef29364c5cbbb9400281b5990c575.mp4",
+    "timestamp": "1767345043",
+    "date": "1/2/2026, 9:10:43 AM",
+    "id": "ed3a033421fbf10e1d071843d00184a16db22e95e1e4ff16f527aa723b569b2b",
+    "kind": 6
+  },
+  {
+    "content": "This is great, been in the works for a while.\nnostr:naddr1qqgrgwrpxq6rxv3n8qurxvf4x33ryqg4waehxw309aex2mrp0yhxgctdw4eju6t09upzqg42s9gsae3lu2cketskuzfp778fh2vg9c5x3elx8ttdpzhfkk25qvzqqqr4gud03mcy",
+    "timestamp": "1767344749",
+    "date": "1/2/2026, 9:05:49 AM",
+    "id": "c7416291e20de98c19bbb1bbb9bed4e0f88adfd3bf92a4e3b08724bd8f74c4f9",
+    "kind": 1
+  },
+  {
+    "content": "Btw, checkout Outer Tune, great music app for graphene.",
+    "timestamp": "1767344473",
+    "date": "1/2/2026, 9:01:13 AM",
+    "id": "6f6656de94c4699086c6a5fb742e33987880ab2367b6e393cd2fa637bbd80805",
+    "kind": 1
+  },
+  {
+    "content": "I agree on many points.\nJust a nuance is that I define \"political means\" as acquiring wealth through coercion, from Oppenheimer.\n",
+    "timestamp": "1767344383",
+    "date": "1/2/2026, 8:59:43 AM",
+    "id": "1d34b7d5575dad623e673bb097f4c1adcfacfa90f6444edb69ca356af3fdcf08",
+    "kind": 1
+  },
+  {
+    "content": "Something as important as healthcare cannot be left in the hands of monopolistic bureaucrats. \nGo to a freer place like south east Asia and see the private healthcare there, it'll blow your mind.\n\nWhat if a state court says that the murder was accidental and doesnt punish the neighbor? In the state system you cannot do anything about that. In a free system the entire village might come for your defense.\n\nYou do notice that you repeated the main premise of the question, so I'd suggest you contemplate and broaden your imagination. You don't need to steal to get healthy or get justice!",
+    "timestamp": "1767343893",
+    "date": "1/2/2026, 8:51:33 AM",
+    "id": "f6ffaeb338db96334bad16ee1e6efc8680276a375443db409c65b4d547744dc2",
+    "kind": 1
+  },
+  {
     "content": "Privacy IS. \nPrivacy OUGHT TO BE. \nPrivacy CAN BE.",
     "timestamp": "1767304597",
     "date": "1/1/2026, 9:56:37 PM",
