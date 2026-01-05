@@ -1,5 +1,75 @@
 [
   {
+    "content": "This \"Insider\" trading is precisely what makes prediction markets work. Its a way for insiders to leak secrets profitably.",
+    "timestamp": "1767527148",
+    "date": "1/4/2026, 11:45:48 AM",
+    "id": "4798a3fa4564fc9233cb473b0d64092a1d1cd69e91e3596269d5645a0e903beb",
+    "kind": 1
+  },
+  {
+    "content": "The 10 Rules of Bitcredit Protocol  \n\n(which Wildcat mints must adhere to):\n\n1. Proof-of-work: Only commercial e-bills for goods already produced, invoiced to other businesses, qualify for minting of Bitcoin credits (MoE). \n\n2. Verifiable terms: E-bill maturity must match expected reflux from buyers, and no more than 12 months. \n\n3. Verifiable prices: Invoice prices must be plausible.\n\n4. Bitcoin rails: Payment is in Bitcoin, irrespective of e-bill denomination.\n\n5. Verifiable redemption: Upon maturity, e-bills must be verifiably paid via Bitcoin mainchain or Lightning Network.\n\n6. Non-custodial: Not your keys? Not your coins, nor your credits.\n\n7. Privacy by default: Fungibility of credits through bearer instruments and censorship resistance.\n\n8. Decentralisation: Wildcat mints in the Bitcredit Network compete independently under peer supervision.\n\n9. Game theory: A clowder majority can eliminate rabid wildcats through punishment transactions.\n\n10. Future money: No contractual convertibility before maturity. ",
+    "timestamp": "1767526925",
+    "date": "1/4/2026, 11:42:05 AM",
+    "id": "698cd340436f885a39c7b9a77636ed67962e75b252b9133ecbd0afbd01f42b1c",
+    "kind": 6
+  },
+  {
+    "content": "I just published a book, and it took me 30 minutes of copy pasting for each chapter. \nA better flow would be appreciated!",
+    "timestamp": "1767526781",
+    "date": "1/4/2026, 11:39:41 AM",
+    "id": "bc8c2aa210cbacef5337b758a178af40309c4e50c3a78d4b7e0f4ebe0d5911fc",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, I'm slowly building towards that.",
+    "timestamp": "1767524801",
+    "date": "1/4/2026, 11:06:41 AM",
+    "id": "6b8c0bf182511547bf8324ff14b7f5efafbc523b86cf338e829fa62b271cc8ea",
+    "kind": 1
+  },
+  {
+    "content": "Sound money advocates assume you need coin before commerce. But Lancashire built the Industrial Revolution on bills of exchange before accumulating gold, and Colonial America ran a sophisticated economy while chronically short of specie. The credit came first; the base money followed through export revenues. Understanding this pattern reveals how Bitcoin economies might bootstrap themselves. \nnostr:naddr1qqgxxc33ve3k2dtpxvmnqwfnx43njq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wrmkj6p",
+    "timestamp": "1767522880",
+    "date": "1/4/2026, 10:34:40 AM",
+    "id": "268fb9fb23da173d14c11d40097c9ae099f938bb8be9d15953682cdb3af142b7",
+    "kind": 1
+  },
+  {
+    "content": "The reason I publish early version of the book is to get honest and critical review. \nSo please, if you read it, take notes on when you got lost, or where you disagree, or what is missing! Zaps are incoming for great feedback.\n\nnostr:nevent1qqsx7y0m5hwtf9xprhejay64yegerpql69gxzwgdjkwzhf0xlxh72dcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgax7zjr",
+    "timestamp": "1767521733",
+    "date": "1/4/2026, 10:15:33 AM",
+    "id": "24a4d4118da2cb4fa83772080205248440b11d4b822483a588577349d81ac587",
+    "kind": 1
+  },
+  {
+    "content": "Yes!",
+    "timestamp": "1767521644",
+    "date": "1/4/2026, 10:14:04 AM",
+    "id": "eaffc5b1f7745406053e62a92715fa2ad39d7a7e3ef160ab4265d02fbd044f05",
+    "kind": 1
+  },
+  {
+    "content": "I think we all made those mistakes in the past ... I still do sometimes. The writing is partly a reminder for me too!",
+    "timestamp": "1767516759",
+    "date": "1/4/2026, 8:52:39 AM",
+    "id": "b47a774b20ca5ea69c4adeef10b872e2c7bf2bee1752db2ec6b34274ffa71870",
+    "kind": 1
+  },
+  {
+    "content": "I think yes, the algorithm used can be anything, including only of a single pubkey, its just harder to find a pre computed result of a niche key, or a specific collection of keys. In that case you'd have to pay an operator for creating that curated list, and then others can see it too.",
+    "timestamp": "1767516533",
+    "date": "1/4/2026, 8:48:53 AM",
+    "id": "e85308ce992887140aefefecb2e0fb49a12dac820d7fe489ed59daa47333d6ec",
+    "kind": 1
+  },
+  {
+    "content": "Not in Person, but online, that's what the essay is inspired by.",
+    "timestamp": "1767516395",
+    "date": "1/4/2026, 8:46:35 AM",
+    "id": "652a6ba2445795deaf83e9a021adce9b922f879eeb691b01fb29ebc00c8fe4b6",
+    "kind": 1
+  },
+  {
     "content": "It did, I see it, lol",
     "timestamp": "1767485852",
     "date": "1/4/2026, 12:17:32 AM",
@@ -25,6 +95,13 @@
     "timestamp": "1767483164",
     "date": "1/3/2026, 11:32:44 PM",
     "id": "d95e3bd8ac306bffdbf2537a46633bfb9c344cd6da1703d48743065756aaddae",
+    "kind": 1
+  },
+  {
+    "content": "## The Deprogramming Series\n\nThe most common failure mode in the liberty movement is not lack of knowledge but lack of effectiveness. We have spent decades accumulating theory while watching our loved ones remain captured by ideas we know to be false. These three posts address that gap.\n\nFirst, read \"Breaking Free: Deprogramming State Dependence.\" This covers the psychology of learned helplessness and why reading more Rothbard won't save you. The cure is not cognitive but behavioral: you must act your way out of the conditioning, not think your way out.\n\nnostr:naddr1qqgxzceevenrgcnzvf3r2epsvsur2qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wg3s584\n\nSecond, read \"The Candle's Work: Helping Loved Ones Escape the Most Dangerous Superstition.\" This explains why everything you've been doing to wake up your family has probably made things worse, and what actually works instead. Stop arguing. Start asking.\n\nnostr:naddr1qqgrydnzxenrvwp5xgcr2dfkxajrqqglwaehxw309aex2mrp0yh8gmmhv9exgumvd93x2un50yhxxmmd9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gu4daumz\n\nRead those two posts more than once. The instincts they challenge are deep, and the methods they recommend require practice.\n\nThird, share \"What Your Loved One Is Actually Trying to Tell You\" with the people you've been trying to reach. This one was written for them, not for you. It validates their frustration, explains what you've actually been trying to share, and invites them to engage with your questions rather than your conclusions.\n\nnostr:naddr1qqgrqd34x5ukvvecvcmxzerpx5un2qgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cnlgkgy",
+    "timestamp": "1767482994",
+    "date": "1/3/2026, 11:29:54 PM",
+    "id": "8efff8c0f14777da9802ea3692ad3d0672126a5b3db50a4b480463b4cae1aca0",
     "kind": 1
   },
   {
@@ -151,6 +228,13 @@
     "timestamp": "1767439720",
     "date": "1/3/2026, 11:28:40 AM",
     "id": "503481fc256c5f03c7ce83907783f2b971c9132aa0f617c67731b98e607e9ed8",
+    "kind": 1
+  },
+  {
+    "content": "What separates prophecy from punditry? In 2002, Paul Rosenberg wrote a novel about cryptographic money enabling a \"cyber-society with no possibility of oversight or control.\" Seven years later, Bitcoin arrived. \n\nNow his new quarterly newsletter \"The Wreckage & The Rebuild\" provides the strategic intelligence that freedom-builders actually need, connecting macro trends to decisions you can make this quarter. Subscribe at thewreckageandtherebuild.substack.com.\n(I've bugged him to publish on Nostr, hopefully he'll do this year!) \nnostr:naddr1qqgrwdt9vymnwdpsvgengwtz8y6nyq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65we64ftg",
+    "timestamp": "1767439514",
+    "date": "1/3/2026, 11:25:14 AM",
+    "id": "b9389e820a40b396eea81af5c1d0315eb87200d2a743c7a28df8338fec86fedd",
     "kind": 1
   },
   {
