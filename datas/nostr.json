@@ -1,5 +1,159 @@
 [
   {
+    "content": "Nothing tests your stoic resolve than an accidental rm -rf",
+    "timestamp": "1767654587",
+    "date": "1/5/2026, 11:09:47 PM",
+    "id": "7e4ccce3f30e6f0fe96c3ede287480a0f0c64bfac34d677eeaf293f090f1400e",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, I just rm -rf carelessly too...",
+    "timestamp": "1767654524",
+    "date": "1/5/2026, 11:08:44 PM",
+    "id": "f524d278469c4c81c2d084bfa19ab0199da29c03fa4a1fe1d7ac992d43c76159",
+    "kind": 1
+  },
+  {
+    "content": "I finished the second version of my book!\n\n## The Praxeology of Privacy\n### Economic Logic in Cypherpunk Implementation\n\nAustrian economists theorize but cannot build. Cypherpunks build but lack theory. This book synthesizes both traditions into a unified strategy for making the state irrelevant.\n\nThree axioms. Twenty-one chapters. One conclusion: cheap defense defeats expensive attack. When theft becomes unprofitable, the state withers.\n\nPublic Domain. v0.2.0. Published on Nostr.\n\nThanks a lot to Stephan Kinsella and Eric Voskuil for their tough feedback on the first version, please join them in demolishing the logic of this second edition and help me make the arguments better!\n\n---\n\nTable of Contents\n\nPreface\nAustrian economists theorize but cannot build. Cypherpunks build but lack theory. This book synthesizes both to make the state irrelevant.\nnostr:naddr1qqgrvvpjx33kgvtrxgen2vfcvcurjqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cwhph63\n\nPart I: Introduction\n\nChapter 1: The Nature of Privacy\nPrivacy is selective disclosure, not hiding. Breaking adversary observation through the OODA loop is strategic defense. Cheap privacy defeats expensive surveillance.\nnostr:naddr1qqgxvdpc8pjrywryxv6nwv3kxsungqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cmtv33p\n\nChapter 2: Two Traditions, One Conclusion\nAustrian economics and cypherpunk practice converge independently on privacy's importance. Theory explains why; code demonstrates how. This book synthesizes both traditions.\nnostr:naddr1qqgxzctpxvenverrx93rwv35v3snzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4p7jlc\n\nPart II: Philosophical Foundations\n\nChapter 3: The Action Axiom\nThe Action Axiom proves privacy is structural to human action. Deliberation is internal; preferences are subjective; information asymmetry is inherent.\nnostr:naddr1qqgxyvecvgexvcnzxyekvefkxvukxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c83cqzs\n\nChapter 4: The Argumentation Axiom\nArgumentation ethics demonstrates self-ownership through performative contradiction. Denying it while arguing presupposes it. Privacy rights follow directly from self-ownership.\nnostr:naddr1qqgxvcfhx5unjdpk8quxxdp3xvcrsqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c3n4fxz\n\nChapter 5: The Axiom of Resistance\nThe Axiom of Resistance assumes systems can resist control. Mathematics, empirical evidence, and similar systems support this well-grounded but non-self-evident assumption.\nnostr:naddr1qqgrgvmrxfjxgvmpxg6nqvt9xuurwqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c2v0h9m\n\nPart III: Economic Foundations\n\nChapter 6: Information, Scarcity, and Property\nInformation is non-scarce and cannot be property. Privacy is protected through self-ownership, physical property rights, and voluntary contracts, not intellectual property.\nnostr:naddr1qqgx2dr9vv6kgwf5xe3ngdee8y6nzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cgpp3hh\n\nChapter 7: Exchange Theory and Privacy\nPrivacy enhances exchange by protecting deliberation and enabling negotiation. Surveillance distorts prices and chills transactions. Better privacy means better functioning markets.\nnostr:naddr1qqgrsdfcv5mx2vmxxe3nzvf4xqmxzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4hcvgf\n\nChapter 8: Capital Theory and Entrepreneurship\nPrivacy infrastructure is capital requiring present sacrifice for future capability. Entrepreneurial discovery drives innovation. Markets coordinate heterogeneous privacy tools most effectively.\nnostr:naddr1qqgxgdeev5ckzer9xy6rvwpnxyukvqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cxcc5c2\n\nChapter 9: Monetary Theory and Sound Money\nSound money emerges spontaneously from markets, not decrees. Bitcoin implements digital soundness with fixed supply and censorship resistance; privacy requires additional tools.\nnostr:naddr1qqgxgwf3xqensef5vvcrvcfs8yuxxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823ceca8xr\n\nPart IV: The Adversary\n\nChapter 10: Financial Surveillance and State Control\nFinancial surveillance enables state control through observation. CBDCs complete the architecture. Privacy breaks the OODA loop at observation, making theft unprofitable.\nnostr:naddr1qqgrsdmpvv6n2wfhv5ervdmpxa3kxqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wcwwf6m\n\nChapter 11: Corporate Surveillance and Data Extraction\nCorporate surveillance extracts behavioral data for prediction products. State and corporate surveillance are deeply entangled. Markets are responding to growing privacy demand.\nnostr:naddr1qqgrydekxumxvvm9xp3n2vtr89jrxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cduqmxa\n\nChapter 12: The Crypto Wars\nThe Crypto Wars pit states against privacy technology. Mathematics ignores legislation. Developers face prosecution. The fundamental conflict is permanent and intensifying.\nnostr:naddr1qqgxycfjvyck2vrpxvunycfcxsuk2qgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cwnenzp\n\nPart V: Technical Implementation\n\nChapter 13: Cryptographic Foundations\nCryptography provides mathematical privacy foundations: encryption, hashing, and digital signatures enable trustless verification. Implementation bugs and human error remain the weakest links.\nnostr:naddr1qqgxzdt9xcexvef5v3jrsefexsunzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c94u5pd\n\nChapter 14: Anonymous Communication Networks\nThe internet leaks metadata. VPNs help locally. Tor distributes trust through relays. Mixnets defeat global adversaries. Choose tools matching your threat model.\nnostr:naddr1qqgrydphv9nrgcfcxg6ryvrzx56kzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cvp8fcy\n\nChapter 15: Bitcoin: Resistance Money\nBitcoin solves double-spending without trusted third parties. Sound money enforced by code. Base layer privacy requires additional tools like Lightning and coinjoin.\nnostr:naddr1qqgrwv33xvenvdnyxc6ngv3hv5mxxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4qzyqz\n\nChapter 16: Zero-Knowledge Proofs\nZero-knowledge proofs enable verification without disclosure. SNARKs, STARKs, and Bulletproofs make different tradeoffs. Deployed in Zcash and rollups; broader adoption developing.\nnostr:naddr1qqgrjd33vvcxyv3kvyurydfexscrgqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65we3mut9\n\nChapter 17: Decentralized Social Infrastructure\nNostr solves identity capture through cryptographic keys users control. Relays compete, moderation is market-driven, and the protocol extends beyond social posts.\nnostr:naddr1qqgrsdrxveskgvrzv3nrgdmrvcmkvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wpx3yl3\n\nPart VI: Praxis\n\nChapter 18: Lessons from History\nDigiCash, e-gold, and Silk Road failed through centralization and poor OPSEC. Bitcoin succeeded through decentralization, open source, and properly aligned economic incentives.\nnostr:naddr1qqgxydmpv56nqefnv4jnwepcxdjx2qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wm4wp04\n\nChapter 19: Operational Security\nOperational security prevents adversaries from gathering compromising information. Threat modeling guides defense. Human factors are the weakest link. Perfect OPSEC is impossible.\nnostr:naddr1qqgrxep3vscrzc3kxyenqdpex9jnzqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wyp98rv\n\nChapter 20: Implementation Strategy\nStart with honest assessment. Build progressively from basics to advanced. Find community. Privacy is not a destination but ongoing practice. Progress matters.\nnostr:naddr1qqgxvdtyx43nwvmxvcckgerx8qmnvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wmuawxl\n\nChapter 21: Building the Parallel Economy\nThe parallel economy grows through counter-economics. Cheap defense defeats expensive attack. When theft becomes unprofitable, the state withers. Build. Trade. Resist.\nnostr:naddr1qqgxxefj89nrxvtrxcerxvfs8q6xvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wat25hx",
+    "timestamp": "1767654409",
+    "date": "1/5/2026, 11:06:49 PM",
+    "id": "cd29f1a30617676e154f153e81b567378c72cfc471110786f19c3a8e4bf051c3",
+    "kind": 6
+  },
+  {
+    "content": "Hopefully Primal will implement the marmot protocol, and then White Noise users can talk to Primal users.",
+    "timestamp": "1767646994",
+    "date": "1/5/2026, 9:03:14 PM",
+    "id": "abf1592cd360347953cfca2378de323f89747477fce88d4e35f7a6d6c2bd274e",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #2\n\nPrimal Android joins Amber and Aegis as a full NIP-55 signer, Shopstr introduces Zapsnags for flash sales via Lightning, and Mostro adds an opt-in development fund. Plus: NDK cache queries got 162x faster, we break down NIP-02 (follow lists) and NIP-10 (reply threading), and the panel explores multi-agent AI systems on Nostr.\n https://blossom.primal.net/e99e56f8375773124281450b78eb79c5f4c68ba34c5172fa964681ec2ab09efc.mp3 \n\nnostr:nprofile1qqsfydhe43fphchwpf20rnllmukl0ayc9h6wd6ue9pnawv77hnu4kdgpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq3qamnwvaz7tmwduh8xarj9e3hytc4uhx75 nostr:nprofile1qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszythwden5te0dehhxarj9emkjmn99uq35amnwvaz7tms09exzmtfvshxv6tpw34xze3wvdhk6tc4uevew nostr:nprofile1qqsqqqqqqqr99ezjae52qyv8lvyv3x2fdj6xedgar2sgq0gx8t8dhfcpr9mhxue69uhhqun9d45h2mfwwpexjmtpdshxuet59uqjyamn8ghj7mn0wd68y6np944kzunf9458gars9e5x2em4wfhjucm0d5hszrnhwden5te0dehhxtnvdakz7q5ymvj nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpz9mhxue69uhkummnw3ezuamfdejj7qghwaehxw309amxjar0wghxummnw3erztnrdakj7qgswaehxw309ahx7um5wghx6mmd9ud62lxp nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap06fen87",
+    "timestamp": "1767646945",
+    "date": "1/5/2026, 9:02:25 PM",
+    "id": "1228c62ae8fda76135f9cfb498a3234e3811eaf83232efc8a9e9641f6435719d",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass now has a podcast edition. Each week we record a panel discussion walking through the newsletter with developers and contributors from the ecosystem. Subscribe via RSS to get new episodes in your podcast app of choice.\n\nRSS: https://castr.me/npub1wav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qq902923/rss.xml\n\nnostr:nevent1qqspj9w0dwwweg0vutg9l8ypzku7acautu9ugrqccjat5w8th9xht2sppemhxue69uhkummn9ekx7mp0qgs8wk257uc5zyjgnf9znmrf9dersm7kp0xwkqcg6s33q84f08zh4qqrqsqqqqqpa9ytf3",
+    "timestamp": "1767646940",
+    "date": "1/5/2026, 9:02:20 PM",
+    "id": "ae6167ca6a03eb1e66103424e1c2078d6c2d8124f2c6cbaaae84e51d4f731137",
+    "kind": 6
+  },
+  {
+    "content": "That depends on your app, apps could just drop the old standard, but then you might miss messages from people who haven't upgraded yet.",
+    "timestamp": "1767644625",
+    "date": "1/5/2026, 8:23:45 PM",
+    "id": "87cd6145fd3582daba27830492e85fb4ebb9c2b0f0c168f15a5770ae8eb1b1b5",
+    "kind": 1
+  },
+  {
+    "content": "There's already wasm bindings for MDK, should work out of the box!",
+    "timestamp": "1767644588",
+    "date": "1/5/2026, 8:23:08 PM",
+    "id": "7b921052146b660b166b27fc4877d7becd795b476cff15b3a68a3ee435d2449a",
+    "kind": 1
+  },
+  {
+    "content": "Two years ago, encrypted messaging on Nostr was an unsolved problem.\n\nToday, it has a protocol, an app, and a community.\n\nFrom NIP-104 to Marmot. From research to release.\n\nThe 2024-2025 Year in Review: https://primal.net/whitenoise/white-noise--marmot-protocol-2024-2025-year-in-review\n\nhttps://blossom.primal.net/a52532e66540647d4e2b7a50b62f70668696df73335da0aab2a79e2a8ab45189.jpg \n\n",
+    "timestamp": "1767644500",
+    "date": "1/5/2026, 8:21:40 PM",
+    "id": "2d67c8bf7deb6bc102e97306f1fdf24fcde57098bb8190f92428f6fe06349118",
+    "kind": 6
+  },
+  {
+    "content": "Very interesting, thanks!\nDefinitely left out due to ignorance, you're right that it deserves more mention, I'll keep this in my notes for the next edition.",
+    "timestamp": "1767629137",
+    "date": "1/5/2026, 4:05:37 PM",
+    "id": "d147147e6053fbe8f0f545309c755d8f0ea6f7b893e50761586b95750538e915",
+    "kind": 1
+  },
+  {
+    "content": "bitcoin whitepaper: reference [8] is interesting—it's the only non-computer-science citation in the whitepaper.\nThe reference:\nWilliam Feller, \"An Introduction to Probability Theory and Its Applications\" (1957)\nThis is a foundational probability textbook, still used in graduate programs. Satoshi cites it for Section 11: Calculations, where he models the double-spend attack as a Gambler's Ruin problem\n\nThe core idea:\nAn attacker trying to catch up to the honest chain is like a gambler with limited funds playing against the house. Each block is a \"bet\":\n\nHonest network finds a block → attacker falls further behind\nAttacker finds a block → attacker catches up by one\n\nFeller's book provides the math showing that if the attacker has less than 50% of hash power, the probability of ever catching up drops exponentially with each confirmation. This is why \"6 confirmations\" became the rule of thumb.\n\nThe network's \"immune response\" to attack isn't a designed defense mechanism—it's an emergent property of probabilistic dynamics. The system doesn't prevent attacks; it makes them economically irrational over time through statistical inevitability. This is closer to how living systems maintain integrity: not through walls, but through processes that make certain outcomes overwhelmingly likely.\n\n\"The Praxeology of Privacy\" does excellent work connecting Austrian praxeology to cypherpunk implementation. But in Chapter 15's treatment of Bitcoin, it focuses almost entirely on the economic and cryptographic lineage: Hashcash, B-money, Bit Gold, the double-spending problem, proof-of-work as throttling mechanism.\n\nWhat's missing: Satoshi's explicit grounding of Bitcoin's security in probability theory, not cryptography.  nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e \n\nWhy is this important?\n\nThe network's \"immune response\" to attack isn't a designed defense mechanism—it's an emergent property of probabilistic dynamics. The system doesn't prevent attacks; it makes them economically irrational over time through statistical inevitability. This is closer to how living systems maintain integrity: not through walls, but through processes that make certain outcomes overwhelmingly likely.\n\nI find it a strange ommision from \"The Praxeology of Privacy\" -- curious if there is intention to omit ?  \n\nFrom my radical constructivst POV it's the single most curious citations - this is the thread that I pulled where I encountered  the idea that Bitcoin  may have autopoietic properties - self-organizing /producing system.",
+    "timestamp": "1767629064",
+    "date": "1/5/2026, 4:04:24 PM",
+    "id": "d2aa3bc06716fa66ca372a88cd5c7d5daf31743515566b8f9c9355555dba5edb",
+    "kind": 6
+  },
+  {
+    "content": "Yeah its an interesting rabbit hole.\nBest articulation I found is from Brandon Joe Williams.\nhttps://onestupidfuck.com/\nhttps://www.williamsandwilliamslawfirm.com",
+    "timestamp": "1767628797",
+    "date": "1/5/2026, 3:59:57 PM",
+    "id": "d129870200d88e35586d23d6f5c2b5e268558d83de9631de163bdfc6b98f6086",
+    "kind": 1
+  },
+  {
+    "content": "Ha, thanks!\nYeah notria has some cool features for that.",
+    "timestamp": "1767628605",
+    "date": "1/5/2026, 3:56:45 PM",
+    "id": "4ebe289bb6a74f6c33ed1bc0299da52671f56ecaf7b6cdaa5aa44c1b986954bc",
+    "kind": 1
+  },
+  {
+    "content": "Big news Nostr fam: the Primal Remote Signer is here! 🫡 \n\nWe just released Primal 2.6, which includes a NIP-46 remote signer built into our iOS and Android apps. Now you can use your Primal mobile app to login to any Nostr app that supports the remote login (a.k.a. nsec bunker) standard. IMHO this is the easiest and most secure way to login to Nostr web apps. \n\nCheck out Paul’s overview video below. We had to do some crazy stuff to make this work on iOS. Overall this was way harder to build than we anticipated. Try it and let us now how it hits! \n\nhttps://blossom.primal.net/bff3c129e4dbd895b2373b51cf83ea6545f2fedf285cc8371e5e2f3ccad35718.mp4 ",
+    "timestamp": "1767628091",
+    "date": "1/5/2026, 3:48:11 PM",
+    "id": "aafb0ed055539ee9df9d4bff7ceb8c33dd83adc301c8481c57a3e8e8c3f22f2b",
+    "kind": 6
+  },
+  {
+    "content": "Kryptoökonomie, das Buch von Eric Voskuil, ist jetzt auch auf deutsch übersetzt und auch als Hörbuch!\nhttps://podcastindex.org/podcast/7521079",
+    "timestamp": "1767628056",
+    "date": "1/5/2026, 3:47:36 PM",
+    "id": "30f4ec371ed6389995df66c6a810c81836169cf8dc42501ea101e92c07249f00",
+    "kind": 1
+  },
+  {
+    "content": "In December 1914, enemy soldiers spontaneously stopped killing each other, exchanged gifts, and played football in No Man's Land. The generals were horrified and ordered artillery bombardments to ensure it never happened again. They understood what most peace activists miss: war persists through manufactured consent, and it ends when that consent is withdrawn. \nnostr:naddr1qqgrswryvycxge3kxu6rjwf4v3jnvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wr89fcd",
+    "timestamp": "1767615592",
+    "date": "1/5/2026, 12:19:52 PM",
+    "id": "4e8a2cc9e610b5851c7927985ecee6f9f2ca2888dcb6e42b164fa8e82a270337",
+    "kind": 1
+  },
+  {
+    "content": "Good read. The state wants you just above starving and depending on government aid, that's when they have the highest leverage and maximum obedience.\n\nnostr:nevent1qqspcgf88tftaz7snukth3mqzflh7gjse4rdjtkg7phxwyd4mz8vc9gprdmhxue69uhhyetvv9ujumtpva5kxcmfw3ujumrfwejj7q3q7amtesfzwxl8nlr3ke2l8jl7kw52z60n8msnxh7vps3g9xgpmf9qxpqqqqqqz73uuvs",
+    "timestamp": "1767612295",
+    "date": "1/5/2026, 11:24:55 AM",
+    "id": "45dd6728bb66649c5dfc104637e3eaa111d5c145e3f15d3f01742edb7e3093b0",
+    "kind": 1
+  },
+  {
+    "content": "Well, some GMs are excellent...",
+    "timestamp": "1767610935",
+    "date": "1/5/2026, 11:02:15 AM",
+    "id": "ec22bf7c6a3437f7224c3e78ed46a07f4957a174a5b8c1c187ccf866f19570a2",
+    "kind": 1
+  },
+  {
+    "content": "I'd love a nostr client that shows a highly curated feed of top quality posts, only a limited amount, when you reach the bottom, you're done, no need to doom scroll through 100 GMs.",
+    "timestamp": "1767610701",
+    "date": "1/5/2026, 10:58:21 AM",
+    "id": "a7513ca05a9aad1d7c5c116239685edf135c5ce6d88da4dedc0c329b27ecfcce",
+    "kind": 1
+  },
+  {
+    "content": "Checkout nostr:nprofile1qqst5teefqektpr4aytgpwyclxlq78v9q9nvd2pem0sgf5pxdttwyzspzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0qy3hwumn8ghj7mtgwqer2wr6wfcxj6thdchxxmr0wfjkxmr0w4jzumn9wshsqgqa67 work on this, Choose Life",
+    "timestamp": "1767610475",
+    "date": "1/5/2026, 10:54:35 AM",
+    "id": "0faedf0e5146859e6c1c4201ff4c0509e25c2eec953c9a3cdb910f746a7b5de7",
+    "kind": 1
+  },
+  {
+    "content": "You can get the epub at towardsliberty.com/pop",
+    "timestamp": "1767606660",
+    "date": "1/5/2026, 9:51:00 AM",
+    "id": "4f7ccac5652a8f474caa2113b925cef64a8bf5a9ec3698e3a1e20fab623b265a",
+    "kind": 1
+  },
+  {
+    "content": "All I do is in the public domain, just do with it as you please, no need to ask for permission.\nI'd love to hear audio versions of it, Thanks!",
+    "timestamp": "1767606150",
+    "date": "1/5/2026, 9:42:30 AM",
+    "id": "77a755561413af034c41deba4290d02f09208a085abb6249159f7810c6b8722a",
+    "kind": 1
+  },
+  {
     "content": "This \"Insider\" trading is precisely what makes prediction markets work. Its a way for insiders to leak secrets profitably.",
     "timestamp": "1767527148",
     "date": "1/4/2026, 11:45:48 AM",
