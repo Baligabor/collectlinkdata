@@ -1,5 +1,33 @@
 [
   {
+    "content": "Thank you for reading!",
+    "timestamp": "1767736130",
+    "date": "1/6/2026, 9:48:50 PM",
+    "id": "f46c85e2b4b033c245856a1cb878b69359c42d416bdc0ac92ea881816abbc5f2",
+    "kind": 1
+  },
+  {
+    "content": "Crowdfunding promised to democratize capital. ICOs promised to decentralize it. Both failed investors in the same fundamental way: once you send money, you lose control. nostr:npub1wrzguj625auyeysfuuxzf7ywhzlwfz9gm3fml2lul72gwqxw8n9swtcm02 rewrites this contract using Bitcoin timelocks and Nostr, letting investors recover unspent funds at any stage. The exit option changes everything. \nnostr:naddr1qqgrqd3hv93rscfnv4jrjdtpxdskxq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wn4q7ge",
+    "timestamp": "1767736010",
+    "date": "1/6/2026, 9:46:50 PM",
+    "id": "f7b7cc4768c6c068346b9133706c25017ef9c541e6e6e70f472c6a62db46e1ad",
+    "kind": 1
+  },
+  {
+    "content": "That's odd, it should work in zapstore.\nCan you download zapstore alpha and see if its a problem there too?",
+    "timestamp": "1767726085",
+    "date": "1/6/2026, 7:01:25 PM",
+    "id": "03ab5ba66f7f5948eb62eef0854ee3b35aa7be8f2bb72a23e696a2319e14c1c1",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #2\n\nPrimal Android joins Amber and Aegis as a full NIP-55 signer, Shopstr introduces Zapsnags for flash sales via Lightning, and Mostro adds an opt-in development fund. Plus: NDK cache queries got 162x faster, we break down NIP-02 (follow lists) and NIP-10 (reply threading), and the panel explores multi-agent AI systems on Nostr.\n https://blossom.primal.net/e99e56f8375773124281450b78eb79c5f4c68ba34c5172fa964681ec2ab09efc.mp3 \n\nnostr:nprofile1qqsfydhe43fphchwpf20rnllmukl0ayc9h6wd6ue9pnawv77hnu4kdgpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq3qamnwvaz7tmwduh8xarj9e3hytc4uhx75 nostr:nprofile1qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszythwden5te0dehhxarj9emkjmn99uq35amnwvaz7tms09exzmtfvshxv6tpw34xze3wvdhk6tc4uevew nostr:nprofile1qqsqqqqqqqr99ezjae52qyv8lvyv3x2fdj6xedgar2sgq0gx8t8dhfcpr9mhxue69uhhqun9d45h2mfwwpexjmtpdshxuet59uqjyamn8ghj7mn0wd68y6np944kzunf9458gars9e5x2em4wfhjucm0d5hszrnhwden5te0dehhxtnvdakz7q5ymvj nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpz9mhxue69uhkummnw3ezuamfdejj7qghwaehxw309amxjar0wghxummnw3erztnrdakj7qgswaehxw309ahx7um5wghx6mmd9ud62lxp nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap06fen87",
+    "timestamp": "1767691940",
+    "date": "1/6/2026, 9:32:20 AM",
+    "id": "448239f20ad77e6a7f98f478a38d6ce4c2b90b2681e60d2e3a8d254b1a75f70f",
+    "kind": 6
+  },
+  {
     "content": "Nothing tests your stoic resolve than an accidental rm -rf",
     "timestamp": "1767654587",
     "date": "1/5/2026, 11:09:47 PM",
