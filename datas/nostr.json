@@ -1,5 +1,82 @@
 [
   {
+    "content": "Everyone has secrets: health struggles, business terms, private thoughts.\n\nThese aren't crimes. they are the components of a private life.\nnostr:naddr1qqs8wefdv9kxcttgv9mx2ttnv43hyet5wvkkzmny946xsct5wvkk76czyp6awd7rguj8zq5ugjrkkvcdy2zz3zjzw7d4jx3w6nd2r3kq0ma0wqcyqqq823c7qdz9y",
+    "timestamp": "1768243648",
+    "date": "1/12/2026, 6:47:28 PM",
+    "id": "436e9c5d7428031b557c26452f4833e40447289af76d032c682758b8ce62da6e",
+    "kind": 6
+  },
+  {
+    "content": "Who's the owner of the debt doesnt really matter, they're just not repaid.",
+    "timestamp": "1768229148",
+    "date": "1/12/2026, 2:45:48 PM",
+    "id": "a699737dc864004f13a2f3a6e225376910f5e44b7cf6fb1e7ba89c7879315c06",
+    "kind": 1
+  },
+  {
+    "content": "nospeak v0.9.21 is out: \n\n- Much better scroll performance on Android\n- Chose primary Blossom server\n- Much better notifications.\n\nnospeak is on F-Droid now! But Zapstore and Obtanium are always a bit faster.\n\n#nip-17 #chat #messaging",
+    "timestamp": "1768222611",
+    "date": "1/12/2026, 12:56:51 PM",
+    "id": "3b67b4e84f92f92db08abaca396bb6a859a0472758c9a820e213b207e80f99df",
+    "kind": 6
+  },
+  {
+    "content": "Government debt differs fundamentally from private debt: politicians pledge not their own resources but ours, and creditors who buy Treasury bonds are investing in future theft. With the national debt at thirty-eight trillion dollars and climbing by seventy thousand dollars every second, nobody knows what to do. The proposals on offer range from implausible to fantastical. \nThere is another option with a long history and principled foundation: repudiation. \nnostr:naddr1qqgxzctpxdsnxwtrvcunvepexv6rwq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wa2fnz0",
+    "timestamp": "1768221119",
+    "date": "1/12/2026, 12:31:59 PM",
+    "id": "4633a86a8d599f1d5da3f5a0900532e368c3768a43f8598b5f507cbcb9fbe6ff",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsqlzkn2zk6yv9ll73lguqf7vqy4nj5qmyajxnf2aam9ffdzc0teccppemhxue69uhkummn9ekx7mp0qythwumn8ghj7mn0wd68ytnrdqekuvnt9e3k7mf0qythwumn8ghj7mn0wd68ytnddah8xarj9e5kuee0nfderj is one of them",
+    "timestamp": "1768217832",
+    "date": "1/12/2026, 11:37:12 AM",
+    "id": "326036187367a421a4f227933943a1838fcc23206511f81da332b3fb270a134f",
+    "kind": 1
+  },
+  {
+    "content": "This meshtastic firmware makes your meshtastic device act like a normal bitchat peer. Any messages that your meshtastic receives from any bitchat users nearby, will be forwarded to the lora network.\nhttps://github.com/evansmj/firmware-bitchat-plugin/releases/tag/v1-bitchat-beta",
+    "timestamp": "1768211287",
+    "date": "1/12/2026, 9:48:07 AM",
+    "id": "863a098aab15edac5c86d4fa632e58ffe92066b96eb44cbc5f47c8b98daeeef4",
+    "kind": 6
+  },
+  {
+    "content": "That's a very cool project, thanks!",
+    "timestamp": "1768211253",
+    "date": "1/12/2026, 9:47:33 AM",
+    "id": "ff0f3378daf2c596b90a72659185e6122c8cfbc9f4ed1a985d831f0991f7deb8",
+    "kind": 1
+  },
+  {
+    "content": "# JoinMarket NG 0.9.0 Release Summary\n\n## Major Features\n\nDescriptor Wallet Backend\n- New default backend using Bitcoin Core's descriptor wallets\n- Sync time reduced from ~90s to ~1s via listunspent instead of scantxoutset\n- One-time setup with automatic descriptor import\n- Smart scan for mainnet: initial import scans ~1 year, full rescan runs in background\n\nOrderbook Watcher Enhancements\n- Direct maker reachability tracking via Tor health checks\n- directly_reachable field in orderbook API responses\n- Maker feature extraction from handshakes for monitoring\n\nOperator Notifications\n- Push notifications via Apprise (100+ services: Telegram, Discord, email, etc.)\n- Privacy-aware with configurable data inclusion\n- Per-event toggles, fire-and-forget design\n- Integrated across all components\n\n## Configuration Changes\n\nDefaults Modified\n- Backend: full_node → descriptor_wallet\n- Fee rate fallback: 10 sat/vB → 1 sat/vB\n- Counterparty count: 3 → 10 makers\n- Broadcast policy: RANDOM_PEER → MULTIPLE_PEERS (3 random makers)\n\nFee Estimation\n- Added --block-target (1-1008 blocks) and --fee-rate options\n- Support for sub-1 sat/vB rates (float precision)\n- Default: 3-block estimation with full node, 1 sat/vB fallback with Neutrino\n\n## Critical Fixes\n\nTransaction Handling\n- Fixed maker multi-UTXO support (multiple !sig messages)\n- Fixed maker fee calculation bug causing \"Change output value too low\" errors\n  - offer.txfee is total contribution, not per-input/output multiplier\n\nOrderbook Watcher Stability\n- Fixed aggressive offer pruning removing valid long-running makers\n- Fixed peerlist handling treating partial updates as complete replacements\n- Fixed concurrent read race conditions in TCP connections\n- Philosophy shift: \"show offers when in doubt\" vs aggressive cleanup\n\nTimeout Handling\n- Fixed JoinMarket NG directory compatibility (120s timeout for peerlist features)\n- Reduced Neutrino pending transaction timeout: 48h → 10h\n\n## Performance & UX\n\n- Estimated fees displayed before confirmation\n- Final transaction summary with exact counts and fees\n- Early backend validation before wallet sync\n- Reduced logging verbosity for routine operations\n- Improved sweep coinjoin logging clarity\n\n## Backend Improvements\n\n- Unified broadcast behavior across full node and Neutrino\n- Self-fallback now allowed for RANDOM_PEER and MULTIPLE_PEERS policies\n- Enhanced Neutrino UTXO detection with incremental rescans\n- Block-based verification for Neutrino (no mempool access)\n\nhttps://github.com/m0wer/joinmarket-ng/releases/tag/0.9.0",
+    "timestamp": "1768210968",
+    "date": "1/12/2026, 9:42:48 AM",
+    "id": "88a1be08b1536b49eaf0ac86d9e3f50a2100020dae26e14795c4ff1899041877",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass Podcast #3\n\nThe third episode of the Nostr Compass Podcast is here. This special episode celebrates Nostr's fifth anniversary with a deep retrospective tracing the protocol's evolution through every December since 2020.\n\nWe start with HODL invoice escrows in Shopstr, then journey through five years of December milestones: from fiatjaf's first client release in December 2020, through the Hacker News moment in 2021, Jack Dorsey's pivotal 14 BTC donation in 2022, the NIP-44 encryption audit in 2023, to 2024 and 2025's ecosystem expansion with NDK's 162x cache speedup and NIP-55 signer proliferation.\n\nPlus: Amethyst's desktop module takes shape, voice messaging arrives, local relays and offline functionality, data resilience patterns, NIP updates, ZapStore improvements, npub.cash, and more.\n\nWhether you've been here since the Branle days or just discovered Nostr, this episode puts five years of protocol development into perspective.\n\n**Listen to the Podcast:**\nhttps://blossom.primal.net/b2fe0827d48e466c7dec3b3583cd36278fd36c6a8f92f2b7bd7514917d5ae8b5.ogg \n\n**Read the Newsletter:** \nnostr:naddr1qqgxxetyxvex2deexf3nwvtpxp3rvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65w0dv4vr\n",
+    "timestamp": "1768209403",
+    "date": "1/12/2026, 9:16:43 AM",
+    "id": "0880f777785bfcbc89790fbece8c46274a57c458c292eaaf8f7ae43fb4fa4ab8",
+    "kind": 6
+  },
+  {
+    "content": "The cypherpunks solved encryption decades ago, yet private digital commerce remains marginal. The missing piece is not better cryptography but better institutions for managing trust between pseudonymous parties. \nThis essay explores how trust can be treated algebraically: quantified, distributed, pooled, and traded like any other commodity. The result is a framework for building the institutional layer that Bitcoin and Nostr still need. \nnostr:naddr1qqgrvvehvgurvvt9vsekydnrxsurvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wz97uxj",
+    "timestamp": "1768208384",
+    "date": "1/12/2026, 8:59:44 AM",
+    "id": "5a94fc93b4f0102f272b8e366d19e09c409711797fae60d7e1b0de106263c9c0",
+    "kind": 1
+  },
+  {
+    "content": "Phil Zimmermann's 1992 vision for decentralized trust collapsed under its own weight. Key signing parties, trust levels, keyring management: the people who most needed encrypted communication couldn't navigate the bureaucracy. \nNostr inverts the model entirely. Every follow is an endorsement. Every mute is a warning. Every zap is an economic vote. Trust emerges from actions users already take, computed by tools like Vertex and npub.world into personalized reputation scores. The cypherpunk lesson: the best cryptographic systems are the ones users don't notice. \nnostr:naddr1qqgrwd34vvek2wf5ve3nwcmrxycrxq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wrp5t4t",
+    "timestamp": "1768207012",
+    "date": "1/12/2026, 8:36:52 AM",
+    "id": "b472743451d51d152ccf02092c1bffc68c1485aa0ba4341c3f07f05655da8a3b",
+    "kind": 6
+  },
+  {
     "content": "The state cannot steal what it cannot see. The state cannot control what it cannot observe. The state cannot persist when theft becomes unprofitable.\n\nThis book shows how to make it so.\n\nThe logic is sound. The strategy is clear. The tools exist. The only question is whether enough people will understand and act before the window closes.\n\n👏 nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap06fen87\n\nnostr:naddr1qqgrvvpjx33kgvtrxgen2vfcvcurjqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cwhph63 ",
     "timestamp": "1768163661",
     "date": "1/11/2026, 8:34:21 PM",
