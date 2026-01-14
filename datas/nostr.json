@@ -1,5 +1,131 @@
 [
   {
+    "content": "I use en_GB-alba-medium\nIt's definitwly not high quality tho, but I get used to it.",
+    "timestamp": "1768332345",
+    "date": "1/13/2026, 7:25:45 PM",
+    "id": "89eb026b577adc581f688f3db992efc02711ad63ea573d4ad88b1ef9801e2a8c",
+    "kind": 1
+  },
+  {
+    "content": "Yes, this sounds like the argumentation ethics from another point of view.",
+    "timestamp": "1768332284",
+    "date": "1/13/2026, 7:24:44 PM",
+    "id": "edf2e2999e6ee99f3d88724be8062d8bece0182025df958c004ea1301492b6c3",
+    "kind": 1
+  },
+  {
+    "content": "Every time I think about NAP and argumentation ethics, I think about the the Impossibility of arguing for Initiatory Violence. Maybe that’s trivial but I have never read it in a clear and simple term. Maybe you finde the following valuable:\n\n\nThe Impossibility of Arguing for Initiatory Violence\n\nTo argue for something means to justify it as generally acceptable. This implies that I would have to accept it even if I myself were affected by it.\n\nInitiatory violence, however, is by definition an action taken without or against the consent of the affected party. It excludes consent.\n\nAnyone who claims to support initiatory violence would therefore have to accept being subjected to it themselves. Yet this is impossible:\n\nEither the affected party consents, in which case it is not violence.\nOr they do not consent, in which case, by definition, one cannot support it.\n\nIt follows that initiatory violence can be carried out, but it cannot be consistently endorsed or defended through argument. Any attempt to do so collapses conceptually.\n\nnostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap08pu8g0 Isn’t this a descriptive, logical truth that nonetheless imposes normatively binding rules? Sometimes this thought feels important sometimes I think it’s trivial :D",
+    "timestamp": "1768332246",
+    "date": "1/13/2026, 7:24:06 PM",
+    "id": "caca487a7ae726b6994c90ce95168e7cc2684b5e6ae5b3ac15a4695972023aa1",
+    "kind": 6
+  },
+  {
+    "content": "The argument isn't that Mises is wrong, but that Rothbard clarifies him, and the Bitcoin community departs from both.\n\nRothbard in Man, Economy, and State: \"People allocate their money among consumption, investment, and hoarding. The proportion between consumption and investment reflects individual time preferences.\" Three margins, not two. Hoarding is orthogonal. You can increase hoarding without changing time preference at all if you draw proportionally from both consumption and investment.\n\nNon-monetary case: Crusoe can eat coconuts (consume), plant them (invest), or store them (hoard). His time preference is the ratio of eating to planting. Stored coconuts provide present utility: security, optionality, peace of mind. They're consumed as liquidity services right now, while depreciating and costing him the yield he'd earn by planting. If he stores 100% and plants nothing, his time preference isn't zero, it's infinite: he refuses to exchange present goods for future goods plus interest at any price.\n\nOn \"plain saving\": Rothbard says treating saving as a single decision that expresses time preference is wrong. Savings encompasses two distinct decisions: how much to invest and how much to hoard. Only investment expresses time preference through interest. Hoarding expresses liquidity preference under uncertainty.\n\nThe hodler enjoys present satisfactions: speculation entertainment, security, optionality. These are present goods consumed now. What's deferred is only the purchase of other goods, but that deferral isn't investment since no temporal exchange for interest occurs. The hodler who refuses to lend at any rate expresses infinite time preference, not zero.",
+    "timestamp": "1768332148",
+    "date": "1/13/2026, 7:22:28 PM",
+    "id": "6744b337941eb34c8abdcb5361ee15c7cd9b347552e5db6278578eb072a98e62",
+    "kind": 1
+  },
+  {
+    "content": "Nice.\nTTS works OK on the phone locally, but not in the same quality as with these servers.",
+    "timestamp": "1768331305",
+    "date": "1/13/2026, 7:08:25 PM",
+    "id": "81d8470d0ddee411be5215fdf919a8dfe0f9fb181693ae8b0733975f557852e1",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqv6g2cl I found a good text to speech solution to read your book. Speechify. Except it's expensive and sadly gotta cancel my trial today. But here's snoop dogg reading your book. :)  \n\n\n\nhttps://blossom.primal.net/adb052d28463b10bee183a904df253d96b5a86c00c38be92175066bdd51ee159.mp4\nhttps://blossom.primal.net/7b5ba331e431ebf481efa55aa4ca559b8600060711ce11d6b7f3510718170fa0.mp4",
+    "timestamp": "1768331270",
+    "date": "1/13/2026, 7:07:50 PM",
+    "id": "bb245ee8c8848b1834e8491efae5ec86660e03578f89a60712d183b3d06ec153",
+    "kind": 6
+  },
+  {
+    "content": "Improving signing UX while fixing a replay attack in Blossom.\n\n👋  Say hello to Nostr Web Tokens.\n\nhttps://blossom.primal.net/0c8193e58b189d6bf16d937f6957c95a4c8a4564d76638d15397108856c529ad.mp4",
+    "timestamp": "1768320667",
+    "date": "1/13/2026, 4:11:07 PM",
+    "id": "9742355843da449b95183b67c63119b632d8209973bce9df22b19e11e9151c01",
+    "kind": 6
+  },
+  {
+    "content": "I wonder at what scale that graphic would break... Let's find out",
+    "timestamp": "1768315882",
+    "date": "1/13/2026, 2:51:22 PM",
+    "id": "e8aa78b50c0e465691c5c30f629e970382b397ffae5539c05a319608b0089077",
+    "kind": 1
+  },
+  {
+    "content": "I guess the click house database could quickly query for user focused scores...",
+    "timestamp": "1768315126",
+    "date": "1/13/2026, 2:38:46 PM",
+    "id": "7119aed5b6bd3b8a82ea874cf7fed52611131108f50321b0ebe642737174314e",
+    "kind": 1
+  },
+  {
+    "content": "Exactly.",
+    "timestamp": "1768313843",
+    "date": "1/13/2026, 2:17:23 PM",
+    "id": "b91ef666a746732500180bf38573f64b7c9cc9f2d0baf6fa8902d240b918c052",
+    "kind": 1
+  },
+  {
+    "content": "Mission accomplished!",
+    "timestamp": "1768313792",
+    "date": "1/13/2026, 2:16:32 PM",
+    "id": "21616b8ded968da79cabfe26843fb3fa2b47b9de3b092cabd82a6969bd83beb0",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin in your wallet **is** a present good whose utility you are consuming right now: its liquidity, its speculative entertainment value, its peace of mind against uncertainty. The economic distinction isn't between \"consumer goods\" and \"non-consumer goods\" but between hoarding (consuming the present utility of holding) and investment (exchanging present goods for future goods plus interest), and only the latter expresses time preference in the technical sense.",
+    "timestamp": "1768313368",
+    "date": "1/13/2026, 2:09:28 PM",
+    "id": "311a671e0467e79d47f937e143891d458133815a16da3b3a38cc2ec806e0cf2b",
+    "kind": 1
+  },
+  {
+    "content": "Nope, it's a fundamental praxeological truth, bitcoin is a present good, and time preference is the extend to which you prefer holding present goods over future goods.",
+    "timestamp": "1768309927",
+    "date": "1/13/2026, 1:12:07 PM",
+    "id": "49eb289599642c677f0f32f805c6ea2a93f920b9b8578ba257e65162274c1274",
+    "kind": 1
+  },
+  {
+    "content": "Hoarding isn't bad, it's just not low time preference.",
+    "timestamp": "1768309140",
+    "date": "1/13/2026, 12:59:00 PM",
+    "id": "3550f8bc862882206addea1f1e704d82724066b19a616d864a5ea86a3a8e8b1d",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin's cultural mythos celebrates the HODLer as a paragon of deferred gratification, a being of superior moral fiber who resists immediate consumption in favor of future reward. \"Have fun staying poor,\" they tell the uninitiated, certain that mere possession of an appreciating asset proves they have mastered the ancient virtue of patience. They invoke the concept of time preference, borrowed from Austrian economics, to frame their inactivity as civilizational achievement. \nThe framing contains a fundamental error that reverses the meaning of the very concept it deploys. \nnostr:naddr1qqgxxdesx3jrjdrz8qunydfh8qck2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w03h06p",
+    "timestamp": "1768307896",
+    "date": "1/13/2026, 12:38:16 PM",
+    "id": "81b7767a917d763db8af6cf75921265d942be62c4dee8dbbc783908bb2145646",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #4 \n\nThis week we cover Primal Android's transformation into a signing hub for other apps. We look at Marmot's 18 security fixes after their audit and Nostria 2.0's music and streaming features. Plus our NIP deep dive breaks down NIP-04 vs NIP-44 encryption\n\nhttps://blossom.primal.net/bca37ae7299e057071afb80c79fd811cbecadcf966af356d68b007d9d4481969.mp3  \nnostr:naddr1qqgxxvp5vvcxgdpnx93rqvphxvuxxq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65w3t2jcw",
+    "timestamp": "1768295612",
+    "date": "1/13/2026, 9:13:32 AM",
+    "id": "e81cc81624a5edeb02bd74ad42cb7011dc69a8aea6f2fa9909ada7234fbf850b",
+    "kind": 6
+  },
+  {
+    "content": "Woopwoop!",
+    "timestamp": "1768294810",
+    "date": "1/13/2026, 9:00:10 AM",
+    "id": "3d8cd957bab58693938f265c10c6e9aa8fe2b0ea9b92f3e953550863e3dbabe8",
+    "kind": 1
+  },
+  {
+    "content": "There's a script that connects to 180 GitHub repos and pulls all changes.",
+    "timestamp": "1768293751",
+    "date": "1/13/2026, 8:42:31 AM",
+    "id": "9d41380fee1a8f4c8a5a87162fd1f4b0a7fbba4924035684f8df2793e00cf09d",
+    "kind": 1
+  },
+  {
     "content": "Everyone has secrets: health struggles, business terms, private thoughts.\n\nThese aren't crimes. they are the components of a private life.\nnostr:naddr1qqs8wefdv9kxcttgv9mx2ttnv43hyet5wvkkzmny946xsct5wvkk76czyp6awd7rguj8zq5ugjrkkvcdy2zz3zjzw7d4jx3w6nd2r3kq0ma0wqcyqqq823c7qdz9y",
     "timestamp": "1768243648",
     "date": "1/12/2026, 6:47:28 PM",
