@@ -1,5 +1,75 @@
 [
   {
+    "content": "I doubt it will be useful at such low compute tho...",
+    "timestamp": "1768429359",
+    "date": "1/14/2026, 10:22:39 PM",
+    "id": "af34da05745a027e019139225f76c1180a5e621d3ff685607b8f4ce96013f682",
+    "kind": 1
+  },
+  {
+    "content": "Hacked up a \"constant message size\" change for CLN, inspired by https://github.com/lightning/bolts/pull/1304\n\nThere have been a number is papers showing how trivial it is for someone with a network view to identify which messages are Lightning payments. The first mitigation is to make the TCP packet sizes identical (the rest have to do with timings, but this is a prerequisite).\n\nThe approach here is wrong: you need to attack it lower level than message construction. You need it post-encryption where you do the write().  Fortunately, we have explicit padding messages for this in the spec! Pings which do not elicit a reply.\n\nBut testing is vital: it's easy to slip up and have weird packet sizes slip though and leak all your info even though everything \"works fine\"! ",
+    "timestamp": "1768427080",
+    "date": "1/14/2026, 9:44:40 PM",
+    "id": "3abc17a8e14a30aac5d90a027e860639ba8f0538c52c08a25413661b868267a6",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass #5 is out. \nBitchat completed a professional security audit by Cure53, the same firm that reviewed Signal and NIP-44, with 17+ PRs already merged fixing critical findings. NIP-71 brings addressable video events to the protocol. Amethyst ships bookmarks, voice notes, and an early desktop release, while a new post-quantum cryptography NIP opens discussion on future-proofing Nostr. \nRead more at nostrcompass.org. \nnostr:naddr1qqgrqdpjvgmngvenvsenyen9x9nryq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wptkphk",
+    "timestamp": "1768427002",
+    "date": "1/14/2026, 9:43:22 PM",
+    "id": "e9134a53d6715868aaa2466bd2eab3e9b3be3493a5f0ccef3573dba04d373d62",
+    "kind": 6
+  },
+  {
+    "content": "If the server goes down and you lose your friends, you never really 'had' them.",
+    "timestamp": "1768426902",
+    "date": "1/14/2026, 9:41:42 PM",
+    "id": "9f2cb9f183737e1fceae456f89f49169b7274c6b734437e8bc6eb1ef4b650f48",
+    "kind": 6
+  },
+  {
+    "content": "If you have to think twice before typing, you've already lost your autonomy.",
+    "timestamp": "1768426893",
+    "date": "1/14/2026, 9:41:33 PM",
+    "id": "74d915e5249075be7645ff38a976369347dfff80e8c258befd580f668ce918cc",
+    "kind": 6
+  },
+  {
+    "content": "GrapheneOS now supports hardware-virtualized Linux environments on Pixel devices. Combined with OpenCode, you can run a complete vibe coding setup from your phone, with no vendor lock-in on either the operating system or the AI tooling. Here is how to set it up. \nnostr:naddr1qqgxvvrz89snjvtrxvcnqvtxxejnvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65www6kyc",
+    "timestamp": "1768426642",
+    "date": "1/14/2026, 9:37:22 PM",
+    "id": "ac27ee80ad4cb46f49d8d694d016b809c64525dd932fb73c4f4d74f76b2843e3",
+    "kind": 1
+  },
+  {
+    "content": "Finding Home: Episode 3 – Paraguay is officially out. ⚡\n\nThis film is a deep dive into what it means to be sovereign in 2026. nostr:nprofile1qyxhwumn8ghj7ctywfjjuum4qy08wumn8ghj76mwdaehgu3wdejh2arjd9hx2tnrdakn5dpjxccqqgzcwnhjmvvy5cdccurfdlw8wagg9lrw9p8ukn9zzhdk89w86s0afv9g8lad  and I explore Asunción – a city that feels like a frontier for those building outside of failing systems.\n\nWe talk about the \"Sovereignty Stack\" and the inner citatdel that no state or politician can touch.\n\nThis is a continuation of the journey that started in Harlem, and then Prague. A journey to answer a simple question: \"what is home?\"\n\nThis episode wouldn't have been possible without the masterful editing and post-production by nostr:nprofile1qye8wumn8ghj7mrwvf5hguewwpshqetjwdshguewd9hj7mn0wd68ycmvd9jkuap0v9cxjtmkxyhhyetvv9usz9rhwden5te0dehhxarj9ehx2cn4w5hxccgqyqj8hd6eed2x5w8pqgx82yyrrpfx99uuympcxmkxgz9k2hklg8te7pq0y72, and the support of nostr:nprofile1qyd8wumn8ghj7enpdenxzun9wvhxummnw3erztnrdakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uqzp47czz0wgdjhees9dtdyv5cqdwakg8e3u58g2fpks8p8y3g8sy0vf86jar and nostr:nprofile1qyt8wumn8ghj7ct8vaezumn0wd68ytnvv9hxgtcpr3mhxue69uhkyatrddjhgtnrdaexzcmvv5h8xmmrd9skctcqypcvfrjtf2nhsnyjp8nscf8c36utaeyg4rw980atlnlefpcqec7vkvam3xq \n\nWatch it on nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpqah55ex8qs07t8nvwsuk7gv8s92lh6a9w2hf259wjdrh3873ll9wqkzgf22 : \n\nhttps://indeehub.studio/film/finding-home/season/1/episode/3",
+    "timestamp": "1768417377",
+    "date": "1/14/2026, 7:02:57 PM",
+    "id": "feb4f9bbba50582bd9c1679f438a97063cfae4ee0169774fe46b1769b2c0a9f7",
+    "kind": 6
+  },
+  {
+    "content": "Cust a casual reading list.",
+    "timestamp": "1768410687",
+    "date": "1/14/2026, 5:11:27 PM",
+    "id": "ca47560639454bfb5cdaf492a029fb2c4bb3345a25a4944b7e22e6235106a053",
+    "kind": 1
+  },
+  {
+    "content": "People don't choose new tools for the vibes. They choose them because the old ones stopped working.\n\nThe next generation of apps won't ask for your ID card or your phone number.\n\nIf a government can shut it down, it’s a platform. If they can’t, it’s a tool. We prefer tools.\n\nnostr:nevent1qvzqqqqqqypzq5xeflpdskqvdq4swxj59793uvdzqzc9pzatjk3nhmcg2h0js8trqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qgwwaehxw309ahx7uewd3hkctcqypxmq78qchuwnx8kdk66v00qettterd978jhph0vnvvf6k7tq8yx7chjwef ",
+    "timestamp": "1768409287",
+    "date": "1/14/2026, 4:48:07 PM",
+    "id": "cc4427e53dd3ebbe8e1197ee4b07124595d160d3ef1125ae0b055b271ee0b31b",
+    "kind": 6
+  },
+  {
+    "content": "The Two Realms > The Network State \nnostr:naddr1qqgxye3svccrsc3h8y6xzctp8ymxyq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w920z5k",
+    "timestamp": "1768408273",
+    "date": "1/14/2026, 4:31:13 PM",
+    "id": "743a4673c8499c4c82cddc965b10b05d2a1bcca03487482801ba0440c7c65ebd",
+    "kind": 6
+  },
+  {
     "content": "I use en_GB-alba-medium\nIt's definitwly not high quality tho, but I get used to it.",
     "timestamp": "1768332345",
     "date": "1/13/2026, 7:25:45 PM",
