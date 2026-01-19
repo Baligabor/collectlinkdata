@@ -1,5 +1,68 @@
 [
   {
+    "content": "Cool, makes sense with relay gating.",
+    "timestamp": "1768738648",
+    "date": "1/18/2026, 12:17:28 PM",
+    "id": "d06521bdd035df9f17197be07354562f08ba4152eceecc6f0ce511113587e52b",
+    "kind": 1
+  },
+  {
+    "content": "That's weird. Seems to be an issue with your client, its just a regular reply kind.",
+    "timestamp": "1768738543",
+    "date": "1/18/2026, 12:15:43 PM",
+    "id": "ab58adbf63fa92260f4f34a404a01e350eb7c00c1dfc529c6d28977a4aa72aa5",
+    "kind": 1
+  },
+  {
+    "content": "\"If you have a certain amount of time to spend on advancing the cause of greater personal privacy, can you do it better by using the time to learn about cryptography and develop the tools to protect privacy, or by convincing your government not to invade your privacy?\"\n\n— Wei Dai (Cypherpunks mailing list, 1995)\n\n#privacy #cryptography",
+    "timestamp": "1768734538",
+    "date": "1/18/2026, 11:08:58 AM",
+    "id": "7b8c596cef43378b3cd8649616130483065556ba7106e5ac76d2b23c567e8362",
+    "kind": 6
+  },
+  {
+    "content": "Is there a global marketplace app for this?\nThere seems to be more than a dozen apps that do this in different regions. Pooling liquidity would be a great unlock.",
+    "timestamp": "1768730255",
+    "date": "1/18/2026, 9:57:35 AM",
+    "id": "bcdb5abaaa5aa7616401b5393b6fc2f5d4c39d361e55c831bbef8c74abf2ac1e",
+    "kind": 1
+  },
+  {
+    "content": "🌐 Bridge Bitchat + MeshCore: Odolná komunikácia, keď infraštruktúra zlyháva\n\nBitchat = Bluetooth mesh na telefónoch, čo už máte (~100m dosah)\nMeshCore = LoRa long-range mesh (km+ s lacným hardwarom)\n\nBridge ich prepája. Váš telefón komunikuje s celomestskou mesh sieťou.\nIdeálne pri katastrofách, protestoch, výpadkoch internetu.\n\nKód: https://github.com/jooray/MeshCore/tree/feature/bitchat-bridge\n\nRelease: https://github.com/jooray/MeshCore/releases\n\nViac: https://juraj.bednar.io/blog/2026/01/18/prepojenie-bitchat-a-meshcore/\n\nhttps://juraj.bednar.io/wp-content/uploads/2026/01/MeshCoreBitchat-1200x1224.jpg \n\n",
+    "timestamp": "1768729998",
+    "date": "1/18/2026, 9:53:18 AM",
+    "id": "00c4984ab1d2799437dbdacafb8806a794a43bd22adc615c40a30215cf654217",
+    "kind": 6
+  },
+  {
+    "content": "Nice!\nBut how is this different from NIP29? Messages are also just stored in a single server there, but that is a relay...\nAlso do you handle removing a member of an encrypted group at all?",
+    "timestamp": "1768729976",
+    "date": "1/18/2026, 9:52:56 AM",
+    "id": "0c2b059afc1aa3e13ec1f4f1acf34fe31d5e7928d4b93d3a96be2005ba4cbd65",
+    "kind": 1
+  },
+  {
+    "content": "Link to those curious: https://plebqr.com/",
+    "timestamp": "1768729771",
+    "date": "1/18/2026, 9:49:31 AM",
+    "id": "0a1ac7a6a80c5427d2dfe0a0f2f0bc33d1e23c719a6f85fcf4ab49c1ba78b7da",
+    "kind": 1
+  },
+  {
+    "content": "You simply don't know how good PlebQR is. I've been basically living on Bitcoin for the past couple of weeks and purchasing food, drinks, clothes, tickets with the sats I earn by shitposting on Nostr.\n\nPlebQR is an unstoppable peer-to-peer Bitcoin to fiat on and off-ramp. Every Bitcoiner deserves to have this. Read on and maybe it'll inspire you to create something similar for your region too.\n\nIn Thailand, like in many other places in the world, especially in Asia, the most common digital payment methods aren't credit cards, they're QR codes. All sorts of QR codes from many different fiat payment providers. Shitty ones, good ones, it doesn't matter. As long as it's a QR code, it'll work for us.\n\nHere's  where PlebQR comes in. PlebQR is what I would call a Let-me-pay-for-you app. It matches you, the person who wants to pay for a drink with Bitcoin, with a random stranger on the internet who wants your Bitcoin and pay your fiat QR bill in return!\n\nThe UX is straightforward: You scan the QR code at the store, pay a Lightning invoice, and wait for the payment. No sign up needed and with incredible privacy.\n\nIt works best when you're not in a hurry and when there isn't a line of people waiting behind you. Those cases are surprisingly common, think restaurant bill, or at the flea market. Right now, it usually takes a minute or two for the payment to clear but it'll get faster as more people use it. \n\nThe best part though isn't that it just enables Bitcoin payments for basically everything and everywhere. It's that it represents a different, more natural form of decentralized trading that can't be stopped, and that isn't about buying and selling Bitcoin, but about spending it.\n\nI wish you could try it out some time.\n\nPure magic Internet money ✨\nhttps://blossom.primal.net/f9ce752794e7d7218ff1c7f309404364323e2bdb99d9c6cfb100c284c70c4bc6.jpg",
+    "timestamp": "1768729610",
+    "date": "1/18/2026, 9:46:50 AM",
+    "id": "dc51f755432d9b3ab0194233f68280d99ee9719fdf1185795d96fc9f919b6245",
+    "kind": 6
+  },
+  {
+    "content": "\"The invitation stands before each reader: not to await some revolutionary moment that will never arrive, but to begin creating spaces of freedom wherever opportunity allows. A garage where neighbors fix cars without ASE certification requirements. A kitchen where grandmothers teach cooking without health department interference. A workshop where electronics get repaired despite manufacturers' legal threats. A garden where food grows without agricultural department permission. Each tiny zone of autonomy teaches lessons, builds networks, and demonstrates possibilities that inspire others to claim their own freedoms.\"  \nnostr:naddr1qqgrqc3exqcrqwr9xajk2wphxe3rvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wchwchp",
+    "timestamp": "1768729450",
+    "date": "1/18/2026, 9:44:10 AM",
+    "id": "111333ba11f500d87820eb8f68776b709fa4e2d5d6ac53cecc3e9fb178c91878",
+    "kind": 6
+  },
+  {
     "content": "Yes they're great, and were an inspiration for using existing beautiful artwork as a backdrop, it makes so much sense.",
     "timestamp": "1768685236",
     "date": "1/17/2026, 9:27:16 PM",
