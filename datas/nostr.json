@@ -1,10 +1,38 @@
 [
   {
+    "content": "Looks like a happy puppy",
+    "timestamp": "1768949430",
+    "date": "1/20/2026, 10:50:30 PM",
+    "id": "85d4d856017737f2d98aec74537c3b44ddcaf0c1bfe7d0d2c6996bae77cb27ca",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #5 \n\nThis edition covers Bitchat's professional security audit by Cure53, the same firm that audited Signal and NIP-44, with 17+ PRs already merged addressing critical findings. We explore NIP-71's addressable video events and the post-quantum cryptography proposal for future-proofing Nostr. Plus our NIP deep dive explains NIP-51 bookmark lists and NIP-65 relay metadata.\n\nhttps://blossom.primal.net/a184e517cdb2a9dc6c6a5d3784b93ed65f97e5c8c8fd5b6e7a2a4386d0700f4d.mp3 \n\n#podcast \nnostr:naddr1qqgrjepjxuurgepkvvekgcmrxpnxzq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wd7svcx",
+    "timestamp": "1768934529",
+    "date": "1/20/2026, 6:42:09 PM",
+    "id": "59929db4f7046ebc429a558ace818a429c352b79362a98956695ba6f67e9840b",
+    "kind": 6
+  },
+  {
+    "content": "Look, if you want privacy, you have to do the work. Governments won't grant it. Corporations won't sell it. It’s on us to code it.\n\nLet’s get to work.\n\nhttps://blossom.primal.net/2711d733424581fbbac3e1aad448c34809cbbc5d78559673e7d2b5dfc83bd392.png ",
+    "timestamp": "1768931945",
+    "date": "1/20/2026, 5:59:05 PM",
+    "id": "8cfce14d18246ac7cbbacef4eeb1279174bdc5dd76d820648d3390b4f2a6f583",
+    "kind": 6
+  },
+  {
     "content": "The modern web isn’t designed for the user. It’s designed for the advertiser. They track your cursor’s hesitation to predict your weakness.\n\nYou aren't the client. You are the inventory.\n\nhttps://blossom.primal.net/49174d44854d9db46f980c9e057a88b047fa3f168d39e5e91d6e272d9885b70d.mp4 ",
     "timestamp": "1768847900",
     "date": "1/19/2026, 6:38:20 PM",
     "id": "c7ce2a81a187bbb89b39ddec981d0bab298b51365cc08af0dd533d7513b527fd",
     "kind": 6
+  },
+  {
+    "content": "The productive class has always lived in two worlds. There is the official economy of permissions and taxes, where value flows upward to those who produce nothing, and there is the real economy of voluntary exchange, where those who create value find each other despite every obstacle. When the official system spits you out, it does you the inadvertent favor of revealing which economy actually sustains human flourishing. \nnostr:naddr1qqgryerxxguxgvtzxvckycf5vvcxvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65ww63gry",
+    "timestamp": "1768847785",
+    "date": "1/19/2026, 6:36:25 PM",
+    "id": "f49c13093c5b0c836ca9d3e0299ce7ce031eda3bbde13a98835e5ff68697b806",
+    "kind": 1
   },
   {
     "content": "I wrote it as a reply under his article, here a dedicated blog.\nnostr:naddr1qqgx2v33vd3xxd33xu6rserpvdnxvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wueggf4",
