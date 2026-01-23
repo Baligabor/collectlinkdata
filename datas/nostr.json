@@ -1,5 +1,12 @@
 [
   {
+    "content": "# Nostr Compass #6\n\nNostr infrastructure levels up this week. Bitchat migrates to Rust's Arti for memory-safe Tor, eliminating crashes and battery drain. nostrdb-rs adds streaming queries for zero-allocation database ops. Listr returns after a year dormant with NDK 3 beta and pagination. Zeus merges 17 NWC fixes while Primal Android ships wallet backups and NIP-92 media dimensions.\n\nDraft NIP for Trusted Relay Assertions proposes scoring relays 0-100 across reliability, quality, and accessibility metrics. NIP-11 self-reported relay docs combine with NIP-66 independent monitoring (kind 30166 events) for informed relay selection beyond hardcoded defaults.\n\nOpen PRs signal major architectural shifts: Damus embeds Arti for native Tor, implements Negentropy for efficient sync (megabytes to kilobytes), and adds Low Data Mode. Marmot's MIP-03 solves distributed chat race conditions with deterministic commit ordering.\n\nFull newsletter: \nnostr:naddr1qqgx2vtyxuuxve3jvsergdt9v43rsq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65w8agv4a",
+    "timestamp": "1769117146",
+    "date": "1/22/2026, 9:25:46 PM",
+    "id": "e41d2339fafa5d8799a4a6786fc22d36957cdfb78eb21550fc7b13a810eb3a44",
+    "kind": 6
+  },
+  {
     "content": "The only way to win is to leave the table. Exit to Bitcoin. Move to Nostr. \n\nnostr:nprofile1qyvhwue69uhkyat8d4skutndva6hjtnwv46r5dpcxsuqz9nhwden5te0vfjhgcfwdehhxarjd9kzucmpd5qzqxvfqd89dw8kqmrjfaz6zt8gfggcg93p4tm3s2slv4jrszuugfmt74rjkj nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e \n\nhttps://blossom.primal.net/9e398a62381b287a5a96c0430fba2e85562ddebe7dc8c8744bf0d798fdcb1e67.mp4 ",
     "timestamp": "1768996617",
     "date": "1/21/2026, 11:56:57 AM",
