@@ -1,5 +1,12 @@
 [
   {
+    "content": "Bitcoin Optech newsletter #389 is here:\n\n- links to a paper on the study of payment channel networks\n- summarizes changes to services/client software including an Electrum server for testing silent payments and a BDK WASM library\n- Optech Newsletter #389 Podcast\nhttps://bitcoinops.org/en/newsletters/2026/01/23/\n\nRené Pickhardt posted to Delving Bitcoin about the publication of his new paper called “A Mathematical Theory of Payment Channel Network”...\nhttps://bitcoinops.org/en/newsletters/2026/01/23/#a-mathematical-theory-of-payment-channel-networks\n\nChanges to services and client software:\n- Electrum server for testing silent payments\n- BDK WASM library\nhttps://bitcoinops.org/en/newsletters/2026/01/23/#changes-to-services-and-client-software\n\nBitcoin Optech will host an audio recap discussion of this newsletter on http://Riverside.fm Tuesday at 17:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.com/studio/bitcoin-optech\n",
+    "timestamp": "1769167190",
+    "date": "1/23/2026, 11:19:50 AM",
+    "id": "638a9a07d0f2bbe1c1d9019911a42eaecbc66cd3be3dfd26734252644fce471e",
+    "kind": 6
+  },
+  {
     "content": "# Nostr Compass #6\n\nNostr infrastructure levels up this week. Bitchat migrates to Rust's Arti for memory-safe Tor, eliminating crashes and battery drain. nostrdb-rs adds streaming queries for zero-allocation database ops. Listr returns after a year dormant with NDK 3 beta and pagination. Zeus merges 17 NWC fixes while Primal Android ships wallet backups and NIP-92 media dimensions.\n\nDraft NIP for Trusted Relay Assertions proposes scoring relays 0-100 across reliability, quality, and accessibility metrics. NIP-11 self-reported relay docs combine with NIP-66 independent monitoring (kind 30166 events) for informed relay selection beyond hardcoded defaults.\n\nOpen PRs signal major architectural shifts: Damus embeds Arti for native Tor, implements Negentropy for efficient sync (megabytes to kilobytes), and adds Low Data Mode. Marmot's MIP-03 solves distributed chat race conditions with deterministic commit ordering.\n\nFull newsletter: \nnostr:naddr1qqgx2vtyxuuxve3jvsergdt9v43rsq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65w8agv4a",
     "timestamp": "1769117146",
     "date": "1/22/2026, 9:25:46 PM",
