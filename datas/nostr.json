@@ -1,5 +1,61 @@
 [
   {
+    "content": "If you appreciate well thought out, well written articles, follow Max. There is literally no second best writing thought provoking stuff on Nostr.\n\nnostr:naddr1qqgr2epkxyekgcfnv43nqef5vcervqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4pl3sp",
+    "timestamp": "1769293494",
+    "date": "1/24/2026, 10:24:54 PM",
+    "id": "06f0e84937f0b50324b4be8bda5602eab589d2dee33a30248f9d10f714d674d0",
+    "kind": 6
+  },
+  {
+    "content": "Yes, so many bugs!\nNext release will be epic tho, it'll still take us a couple weeks tho.",
+    "timestamp": "1769269494",
+    "date": "1/24/2026, 3:44:54 PM",
+    "id": "33e63889918c4dd6495cdb0b7f9416f1fd01efc0d28aff75a1830b312df8fe76",
+    "kind": 1
+  },
+  {
+    "content": "John Vervaeke's cognitive science reveals that true agency cannot be computed, only lived through caring organisms that realize relevance. This explains why Bitcoin's thermodynamic proof-of-work and Nostr's self-sovereign identity preserve human agency while algorithmic platforms capture and destroy it. The technologies that matter are those that protect the non-computational processes from which freedom emerges, transcending raw computational speed. \nnostr:naddr1qqgr2epkxyekgcfnv43nqef5vcervq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65ww72hrr",
+    "timestamp": "1769268952",
+    "date": "1/24/2026, 3:35:52 PM",
+    "id": "6b945f27f6e8a048c396cc68678b26ebd6c12f606668cc82a46cedd751f2815e",
+    "kind": 1
+  },
+  {
+    "content": "Mullvad & IVPN are good options, both support 2 hop routing.\nObscura is interesting with their 2 hop mode that goes through mullvad too.\nYou could configure this with wire guard as well.\n\nOrbot is another useful tool, and nym has a new VPN & mixnet app as well now.",
+    "timestamp": "1769245416",
+    "date": "1/24/2026, 9:03:36 AM",
+    "id": "4563ddbaa8ce2b7c1895f9b140488aa3b5a27fe691e3454b9f2751a549180b01",
+    "kind": 1
+  },
+  {
+    "content": "Nice.\nnostr:nprofile1qqstnem9g6aqv3tw6vqaneftcj06frns56lj9q470gdww228vysz8hqpz3mhxue69uhkzmr8duh82arcduhx7mn99uq3vamnwvaz7tm9v3jkutnwdaehgu3wd3skuep0qy88wumn8ghj7mn0wvhxcmmv9usrwrn5",
+    "timestamp": "1769242583",
+    "date": "1/24/2026, 8:16:23 AM",
+    "id": "713930b2f28bd45dc2168548d1a16b4765dfdcd5d74dc87e136bd98734918a7a",
+    "kind": 1
+  },
+  {
+    "content": "I love the moment I realised this had worked - lol wasn't expecting that 🤣 \n\nnostr:nprofile1qythwumn8ghj7ct5d3shxtnwdaehgu3wd3skuep0qyt8wumn8ghj7etyv4hzumn0wd68ytnvv9hxgtcqyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfx5ltf6v - you might be interested in this one. Syncthing but nostr :)\n\nNext steps...\n\nThis is probably enough for what I need, running over tailscale and syncing files ;) Will probably add iroh/quic for something remote and have a look at phones. \n\nThen maybe file syncing so you can have a p2p shared folder for shared folders. \n\n https://blossom.primal.net/d0d824d9a66a95cf17ea1d15458150641fc869ce53464e65ef15565b62adc454.mp4 ",
+    "timestamp": "1769242552",
+    "date": "1/24/2026, 8:15:52 AM",
+    "id": "1134641345da30e8f0ea630be778c2ad91e5f57125fc04e698184043832e825e",
+    "kind": 6
+  },
+  {
+    "content": "Can I just say how cool it is that on my shit posting app I get notified which parts of my book people really like.\nNostr is just awesome.\n\nnostr:nevent1qqstzev2j6uc6lpm5ppwhqcv6kgvj2ftk6m7ccl84ldu3xvdtunt5zspzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyrhthkzhz3xr2vlys5u2242yy3256hr6jw0jz8fxzxruyelcnj9wwqcyqqqzvjsyk65vj",
+    "timestamp": "1769242185",
+    "date": "1/24/2026, 8:09:45 AM",
+    "id": "0795841dcc2f1835a12e67bb20a20f9be51125d792c066d68e263541999fc3f8",
+    "kind": 1
+  },
+  {
+    "content": "Yes, also epub, towardsliberty.com/pop\nAnd of course also a dark mode pdf.",
+    "timestamp": "1769241770",
+    "date": "1/24/2026, 8:02:50 AM",
+    "id": "57e064e088e6b61571ca12817052f3a0be57154fcbaa90d182186d3bf531ead8",
+    "kind": 1
+  },
+  {
     "content": "Bitcoin Optech newsletter #389 is here:\n\n- links to a paper on the study of payment channel networks\n- summarizes changes to services/client software including an Electrum server for testing silent payments and a BDK WASM library\n- Optech Newsletter #389 Podcast\nhttps://bitcoinops.org/en/newsletters/2026/01/23/\n\nRené Pickhardt posted to Delving Bitcoin about the publication of his new paper called “A Mathematical Theory of Payment Channel Network”...\nhttps://bitcoinops.org/en/newsletters/2026/01/23/#a-mathematical-theory-of-payment-channel-networks\n\nChanges to services and client software:\n- Electrum server for testing silent payments\n- BDK WASM library\nhttps://bitcoinops.org/en/newsletters/2026/01/23/#changes-to-services-and-client-software\n\nBitcoin Optech will host an audio recap discussion of this newsletter on http://Riverside.fm Tuesday at 17:30 UTC. Join us to discuss or ask questions!\nhttps://riverside.com/studio/bitcoin-optech\n",
     "timestamp": "1769167190",
     "date": "1/23/2026, 11:19:50 AM",
