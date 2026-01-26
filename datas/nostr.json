@@ -1,5 +1,68 @@
 [
   {
+    "content": "https://github.com/variablefate/ridestr/blob/main/docs/protocol/NOSTR_EVENTS.md",
+    "timestamp": "1769378556",
+    "date": "1/25/2026, 10:02:36 PM",
+    "id": "478b8f7a443b0af9469e2382e84902c4dfad8b5827a1218c666b09621270ed8e",
+    "kind": 6
+  },
+  {
+    "content": "Small businesses face 41-57% rejection rates for basic trade finance while the same banks hold $192 trillion in derivatives positions. Basel III treats a letter of credit backing real goods as riskier than abstract financial instruments that produce nothing. The system works exactly as designed: extracting value from those who create it, denying credit to those who need it most. \nnostr:naddr1qqgryepexq6k2dpcvd3x2ctrxu6kvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w5mcueq",
+    "timestamp": "1769375102",
+    "date": "1/25/2026, 9:05:02 PM",
+    "id": "898163c078f5619653d0651ddf6828deada3b5326a97b12531f9695b8c20dbda",
+    "kind": 1
+  },
+  {
+    "content": "Nice, do you have a link to the spec?",
+    "timestamp": "1769373178",
+    "date": "1/25/2026, 8:32:58 PM",
+    "id": "998369b2bb6c96f1741a04ddad06d61de1271443c8a41b6bbda1f38733f86173",
+    "kind": 1
+  },
+  {
+    "content": "Nice, a ride sharing app powered by nostr just hit nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhxetpwf3kstnwdaejuar0v3shjtc3uszjr by nostr:nprofile1qqsqc0ctux0mlrcut24vff7skc769z4z8sntccqhe8yfr5ksam89hmspremhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet59uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcppemhxue69uhkummn9ekx7mp0w8dnwc\n\nhttps://zapstore.dev/apps/naddr1qqgkxmmd9eexjer9wd68ytnjd9jx2uszyqxr7zlpn7lc78z64tz2059k8k3g4g3uy67xq97fezga958weed7uqcyqqq8uzc254xpx",
+    "timestamp": "1769342739",
+    "date": "1/25/2026, 12:05:39 PM",
+    "id": "9c5fc6c61486318f1a3f55318c3a141bb6c4c32f2423fcbbaad4a63256a34b90",
+    "kind": 1
+  },
+  {
+    "content": "What ya cooking?",
+    "timestamp": "1769341330",
+    "date": "1/25/2026, 11:42:10 AM",
+    "id": "3c579ad9437989488c262c2b554f85800dd767b099cd2717629c7fab5e7ab822",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, the bitVM rabbit hole goes deep quick...",
+    "timestamp": "1769341112",
+    "date": "1/25/2026, 11:38:32 AM",
+    "id": "9b6ceb2b55e23776adb9d488aa90fe2f647960db182328b7901c63f50e0fff0e",
+    "kind": 1
+  },
+  {
+    "content": "For fifteen years, Bitcoin has faced a fundamental limitation: most attempts to extend its functionality required trusting custodians without unilateral exit. Exchanges hold your keys. Wrapped bitcoin protocols control the underlying assets. Early sidechains trapped funds behind federation signatures. Each custodial solution creates honeypots that attract both hackers and regulators, with users having no recourse when trust fails. Lightning improved this with unilateral exit mechanisms, yet remained limited to payment channels between specific parties. The search for trustless bridges with arbitrary computation became Bitcoin's holy grail, pursued by brilliant minds yet always remaining just out of reach. \nnostr:naddr1qqgxgcfs8psnjwf5vcmkgwfcvenx2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65ws00ne7",
+    "timestamp": "1769336742",
+    "date": "1/25/2026, 10:25:42 AM",
+    "id": "cf684d52e4a91c6035a449af28a1337f932e33913a73ae7ddc9d8a58129ddfaf",
+    "kind": 1
+  },
+  {
+    "content": "I wasn't happy with nostr:nprofile1qqsq36k72r04rkj2gt6acpz7xkehrypwqmt2spfpt0kr6ukudp7vkpqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpzpmhxue69uhkummnw3ezumt0d5hsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0v2l6t9 loading speed and limited customization, so I vibed my own Nostr website.\n\nAll my notes and articles sync to a local cache and build as static pages. Loads instantly and has client-side search.\n\nCheck it out: towardsliberty.com",
+    "timestamp": "1769335811",
+    "date": "1/25/2026, 10:10:11 AM",
+    "id": "9843deac229703bf98bfdc4ca4c4f490a4e1c46b9fa138671ee88c48f69066fb",
+    "kind": 1
+  },
+  {
+    "content": "Love learning new stuff. Here's an excerpt on the OODA loop  from nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap08pu8g0's book \"Praxeology of Privacy\". #study #privacy #freedomtech \n\n\n\nhttps://blossom.primal.net/01a71ce67769807265487d8149165b6994b8b923b178f7bbf44091ffd90fa2c2.mp4",
+    "timestamp": "1769331593",
+    "date": "1/25/2026, 8:59:53 AM",
+    "id": "e74e451dab5e42eda6d025647c27cad08332edf726c893aa174dcbd85d7dd3b5",
+    "kind": 6
+  },
+  {
     "content": "If you appreciate well thought out, well written articles, follow Max. There is literally no second best writing thought provoking stuff on Nostr.\n\nnostr:naddr1qqgr2epkxyekgcfnv43nqef5vcervqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4pl3sp",
     "timestamp": "1769293494",
     "date": "1/24/2026, 10:24:54 PM",
