@@ -1,5 +1,33 @@
 [
   {
+    "content": "Studying with him must have been a pleasure!",
+    "timestamp": "1769469013",
+    "date": "1/26/2026, 11:10:13 PM",
+    "id": "a0304a63e3280cfb36e750377507c4d226dab7cff7c9c06f1d9dd8f136b3904e",
+    "kind": 1
+  },
+  {
+    "content": "The last time you were robbed? Probably five seconds ago.\n\nWe accept a 100% tax on our digital lives. We feed the algorithm our thoughts, our networks, and our time. In return, we get served ads.  \n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e  \n\nhttps://blossom.primal.net/6edaf94708418f267652e3416a67131489f2c3a9c91b2ed823054359ad099e3d.mp4 ",
+    "timestamp": "1769451829",
+    "date": "1/26/2026, 6:23:49 PM",
+    "id": "0a4ec3e0ef8fba902e5ced929ebce1876c6b47d17908b9f3a1b280dd71d0b8fd",
+    "kind": 6
+  },
+  {
+    "content": "So I made a Nostr Rideshare Protocol, and two apps: Ridestr and Drivestr\n\nIt relies on no company and no proprietary servers. All communication and synchronization is Nostr. All ride fares are calculated locally by your phone using routing map data delivered via blossom on first launch, and It uses the locally running android geocoder and or GrapheneOS geocoder for name to address search experience. Default payment method is Cashu over Bitcoin/Lightning, but I plan to expand with Nostr Wallet Connect options, as well as a pay in cash option (that drivers can filter out if they don't want to deal with it). Wallets are synced via NIP-60 nostr wallets for cashu. All other app profile features are synced cleanly with nostr.\n\nI will be open sourcing it of course when it's ready to launch. Android only so far, but I fully plan to make an IOS version if people like the idea.\n\nThe cashu implementation has been buggy, so I'm working through the bugs on that one day at a time, but let me know if you wanna see it!",
+    "timestamp": "1769415646",
+    "date": "1/26/2026, 8:20:46 AM",
+    "id": "7b163b223d2128d3b2ddc436bc9ca896c64b4146cbbb41ea12da3cda69f58656",
+    "kind": 6
+  },
+  {
+    "content": "It's not worth the paper it's printed on.",
+    "timestamp": "1769415427",
+    "date": "1/26/2026, 8:17:07 AM",
+    "id": "72ffb59f8414675313a3d5ac5e4b111e1d22f000c5a2bb359b5c39752ff4d99e",
+    "kind": 1
+  },
+  {
     "content": "https://github.com/variablefate/ridestr/blob/main/docs/protocol/NOSTR_EVENTS.md",
     "timestamp": "1769378556",
     "date": "1/25/2026, 10:02:36 PM",
