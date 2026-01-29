@@ -1,5 +1,40 @@
 [
   {
+    "content": "We've migrated out podcast over to podstr.org \n\nNow you can listen to the episodes on podcast.nostrcompass.org or subscribe to our RSS feed in any podcasting app on podcast.nostrcompass.org/rss.xml",
+    "timestamp": "1769621797",
+    "date": "1/28/2026, 5:36:37 PM",
+    "id": "83c412531caf288b08f0cecfcfdfb37764d65a937af2d105fdb9b69fe7bb0248",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass #7 is out. \n\nThis week: someone's actually building Uber on Nostr: Ridestr uses Cashu escrow for trustless rides. Damus finally fixes those missing DMs with negentropy sync. We also traced Nostr's full journey every January from 7 relays and a Hacker News thread in 2021 to audited infrastructure today. \nnostr:naddr1qqgrsvt9v4jrzdfexq6rwvtrv3jxxq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wqra22k",
+    "timestamp": "1769621220",
+    "date": "1/28/2026, 5:27:00 PM",
+    "id": "620fe4df500f7af0b1e7657b1c5649c72e16b855511a0770133c3294cd4e7d55",
+    "kind": 6
+  },
+  {
+    "content": "Now up across all platforms.\n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e  joins me to discuss NOSTR, White Noise, The Sovereign Engineering Cohort, Privacy, and why you're not building shit!?\n\nhttps://fountain.fm/episode/s9lAITUK8QCatkKKKxhm\n",
+    "timestamp": "1769608484",
+    "date": "1/28/2026, 1:54:44 PM",
+    "id": "c50b20d23f3ae7c46141d3dd366b64008eeb98e3e7b5c423a2589ca4f988dd1d",
+    "kind": 6
+  },
+  {
+    "content": "Narrator: \"the decision was not tough after all.\"",
+    "timestamp": "1769605318",
+    "date": "1/28/2026, 1:01:58 PM",
+    "id": "f4dee3042499c37dba1b817c37519c7fd13599001ea02ec4acbc170c3422ed9d",
+    "kind": 1
+  },
+  {
+    "content": "Drivechains at least requires a softfork, what gets me excited about bitVM is that it doesnt.",
+    "timestamp": "1769604375",
+    "date": "1/28/2026, 12:46:15 PM",
+    "id": "369f5159463f9ba98d5376404f19e8fde5c62dc07b122e411aebed303574f576",
+    "kind": 1
+  },
+  {
     "content": "Now up on nostr:nprofile1qyd8wumn8ghj7enpdenxzun9wvhxummnw3erztnrdakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uqzp47czz0wgdjhees9dtdyv5cqdwakg8e3u58g2fpks8p8y3g8sy0vf86jar \n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e joins me on the Once Bitten Podcast to talk about 'just building things!'\n\nhttps://api.fanfares.live/s/rLz6nc",
     "timestamp": "1769527175",
     "date": "1/27/2026, 3:19:35 PM",
