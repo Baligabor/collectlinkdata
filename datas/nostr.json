@@ -1,5 +1,40 @@
 [
   {
+    "content": "Pushed an amazing update to NIP-82 Software Applications (draft).\n\nNow covers ~98% of device platforms worldwide. Added proper support for MacOS, Linux, Windows, FreeBSD, WASM, VS Code extensions, Chrome extensions and Web Bundles (PWA).\nAs well as an explicit non-goal of supporting generic archives (zip, tar) or dynamic dependencies.\n\nAt nostr:npub10r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7stjt2p8 our current focus is Android, PWA, and iOS in that order. But when we work on other platforms, hope to converge with other developers on the same spec.\n\nDevelopers, give me your thoughts!\n\nhttps://github.com/franzaps/nips/blob/applications/82.md\n\n#devstr",
+    "timestamp": "1769779861",
+    "date": "1/30/2026, 1:31:01 PM",
+    "id": "baf8ceb776e53f7944f8d0d7ab6b242d95ed20d28d4a11a47bb02374b0453fd0",
+    "kind": 6
+  },
+  {
+    "content": "It's really nice how these three major redactors all aligned together, will be a massive release.",
+    "timestamp": "1769779816",
+    "date": "1/30/2026, 1:30:16 PM",
+    "id": "bbf6b5476fedb70f000f209cc3e756f3f046bf7640aca32fcaa6a686f2797f2e",
+    "kind": 1
+  },
+  {
+    "content": "Over the past 6 weeks we've been rebuilding the White Noise flutter app from scratch.\n\nWe use flutter_rust_bridge to keep all core logic and crypto in Rust. But trying to follow Flutter \"best practices\" led to too many providers, unclear state ownership, and caching at too many layers.\n\nWhen we were in Costa Rica back in late November, we took a hard look at what we had and decided to do a spike based on a collection of ideas that nostr:nprofile1qy28wumn8ghj7un9d3shjtnyv9kh2uewd9hsqgqwgvr62zhyrccsuq4tmkfmtn73f8dunqj0pq5mycx37pzfwfwrh5qqujyn had. That spike quickly showed a lot of promise and we've combined it with a beautiful new design from nostr:nprofile1qqs9c5x6zv55073m736eawtc67zdky4645wrukm22a2ppt4k233ekjcpn3xzs \n\nThe new approach (codename Sloth 🦥):\n\n- Hooks for local/ephemeral state, not stateful widgets\n- Providers only for shared app state\n- whitenoise-rs crate is the source of truth, no Flutter-side caching\n- 99.7% test coverage\n\nSimpler patterns, faster iteration, way easier to reason about.\n\nSloths might be slow but they're the most efficient animals on the planet! This has also given us a chance to incorporate all the security audit feedback into MDK and whitenoise-rs so not only will the app be faster and more beautiful, it'll also be more secure!\n\nI'm getting excited to launch the new White Noise in just a few weeks!",
+    "timestamp": "1769779753",
+    "date": "1/30/2026, 1:29:13 PM",
+    "id": "f45c446e3df3ab7a8d3e15245bfa5f7c5fbf340fa9fbb2b080c975ca602508ca",
+    "kind": 6
+  },
+  {
+    "content": "Private chat. Join me on White Noise. No phone number. No surveillance. Just real privacy. Download here:\nhttps://www.whitenoise.chat/download",
+    "timestamp": "1769767424",
+    "date": "1/30/2026, 10:03:44 AM",
+    "id": "d8e267265d45a643274b69dca1f207096fe4081d583ba6fac45932f107336311",
+    "kind": 6
+  },
+  {
+    "content": "Bitcoin Optech newsletter #390 is here:\n\n- summarizes a more efficient approach to garbled circuits\n- links to an LN-Symmetry update\n- summarizes popular Q&A from Stack Exchange\n- Optech Newsletter #390 Podcast\nhttps://bitcoinops.org/en/newsletters/2026/01/30/\n\nRobin Linus posted to Delving Bitcoin about a new paper by Liam Eagen and Ying Tong Lai describing a technique that will enable 1000 times more efficient garbled locks...\nhttps://bitcoinops.org/en/newsletters/2026/01/30/#argo-a-garbled-circuits-scheme-with-more-efficient-off-chain-computation\n\nGregory Sanders posted an update to Delving Bitcoin about his previous work on LN-Symmetry...\nhttps://bitcoinops.org/en/newsletters/2026/01/30/#ln-symmetry-update\n\nSelected Q&A from Bitcoin Stack Exchange\n- What is stored in dbcache and with what priority?\n- Can one do a coinjoin in Shielded CSV?\n- In Bitcoin Core, how to use Tor for broadcasting new transactions only?\n- Brassard-Høyer-Tapp (BHT) algorithm and Bitcoin (BIP360)\n- Why does BitHash alternate sha256 and ripmed160?\nhttps://bitcoinops.org/en/newsletters/2026/01/30/#selected-qa-from-bitcoin-stack-exchange\n\nBitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 17:30 UTC.",
+    "timestamp": "1769764205",
+    "date": "1/30/2026, 9:10:05 AM",
+    "id": "8436e0f876ddfdaff7387251cc0b9b2d3df968c7e78c479bafcfcda05a27d876",
+    "kind": 6
+  },
+  {
     "content": "Its in test flight right now, get it on whitenoise.chat",
     "timestamp": "1769724763",
     "date": "1/29/2026, 10:12:43 PM",
