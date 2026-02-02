@@ -1,5 +1,40 @@
 [
   {
+    "content": "With \"white noise npub\" do you mean the separate MLS keypackage, or a throwaway npub you created yo sign in?",
+    "timestamp": "1769953248",
+    "date": "2/1/2026, 1:40:48 PM",
+    "id": "21d6bfb9cb011d989732285477a352d574cf979e37950ce6c4e82a94c6d1ce37",
+    "kind": 1
+  },
+  {
+    "content": "Glad you like it!",
+    "timestamp": "1769934628",
+    "date": "2/1/2026, 8:30:28 AM",
+    "id": "0c58fa8faa95143f2a0a518bb3cb60d46a6ac37129154ab32f2e4c947d241c74",
+    "kind": 1
+  },
+  {
+    "content": "NGL\nIf you haven’t read nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcppemhxue69uhkummn9ekx7mp0gf8npz ‘s book https://towardsliberty.com/pop\n\nYou are missing out!\n\nThis is one to study, so you can implement!!\nhttps://blossom.primal.net/eeabc99645c592affe414935213e067b393e541a52a4fb1746abb730993da6b9.png",
+    "timestamp": "1769934624",
+    "date": "2/1/2026, 8:30:24 AM",
+    "id": "db67d31c0f73d55dcd8a2621fa362585d30580354847c5efa36ce8b051a60a34",
+    "kind": 6
+  },
+  {
+    "content": "Next release will have amber & a bunch of improvements.",
+    "timestamp": "1769934611",
+    "date": "2/1/2026, 8:30:11 AM",
+    "id": "6f5ed111bd0ee1f22f4a5705d6e87549854d820b37d018ae3803f4359f11fbc3",
+    "kind": 1
+  },
+  {
+    "content": "It might be a too large follow list. Or some advanced outbox model config, not sure. ",
+    "timestamp": "1769934575",
+    "date": "2/1/2026, 8:29:35 AM",
+    "id": "97ee0ce1c87ea7567df34630a739499d724e520ee86230b053838db30cca5c86",
+    "kind": 1
+  },
+  {
     "content": "Pushed an amazing update to NIP-82 Software Applications (draft).\n\nNow covers ~98% of device platforms worldwide. Added proper support for MacOS, Linux, Windows, FreeBSD, WASM, VS Code extensions, Chrome extensions and Web Bundles (PWA).\nAs well as an explicit non-goal of supporting generic archives (zip, tar) or dynamic dependencies.\n\nAt nostr:npub10r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7stjt2p8 our current focus is Android, PWA, and iOS in that order. But when we work on other platforms, hope to converge with other developers on the same spec.\n\nDevelopers, give me your thoughts!\n\nhttps://github.com/franzaps/nips/blob/applications/82.md\n\n#devstr",
     "timestamp": "1769779861",
     "date": "1/30/2026, 1:31:01 PM",
