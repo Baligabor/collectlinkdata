@@ -1,5 +1,110 @@
 [
   {
+    "content": "Yes.\nMonero has worse technical scalability, and different cryptographic security assumptions tho.",
+    "timestamp": "1770055028",
+    "date": "2/2/2026, 5:57:08 PM",
+    "id": "09f1b5a384f6d88a432ba5b6ea33f568706823f56dcfb715110e99fc16841969",
+    "kind": 1
+  },
+  {
+    "content": "I guess the bottom should have blossom too?",
+    "timestamp": "1770047161",
+    "date": "2/2/2026, 3:46:01 PM",
+    "id": "c0d5cfd66baadccd92535c26fcae7bf7f839326759a64112ba493b837989fce6",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqswacu3amp428kj8wtpqf77yd2upukcn2ft4aycmxm5scmh359e0ssppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uvt9vcv support merged to nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp rust!\nhttps://github.com/marmot-protocol/whitenoise-rs/pull/418",
+    "timestamp": "1770046893",
+    "date": "2/2/2026, 3:41:33 PM",
+    "id": "15ebf1a710237b81c89756e2a55e23580fcb8b9e9402f6aa5ba317671a4eeddf",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin is mainly superior in its monetary properties like saleableness.",
+    "timestamp": "1770045731",
+    "date": "2/2/2026, 3:22:11 PM",
+    "id": "6e52814757e3bee854d71f828e33290f634daa872b665448f2f065103b42c6a0",
+    "kind": 1
+  },
+  {
+    "content": "GM 🌞\n\nLast week we shipped a large update in MDK to ensure that we're handling commit race conditions properly. We now also have a way to store state snapshots and rollback state to apply the right commit if they arrive out of order. 😮‍💨\n\nGetting excited to cut a pile of releases soon! \n\nWhat's everyone else building?",
+    "timestamp": "1770041312",
+    "date": "2/2/2026, 2:08:32 PM",
+    "id": "a625b81859e8babe54636fc20f40958feac1a8c4f2d39c7e45ec0356dcd960ac",
+    "kind": 6
+  },
+  {
+    "content": "A clear calendar works wonders. Here is what we shipped in January.\n\nnostr:naddr1qvzqqqr4gupzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhqy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqz5mtpwfkk7apdwpex7ar0vdhkcttddah8g6rv0ykhyetrv9cz66npde6kzune95erqv3kq52u8w",
+    "timestamp": "1770036082",
+    "date": "2/2/2026, 12:41:22 PM",
+    "id": "d3ee184e325cc13cd8f05664a1658a5936fd443efc399119f47450a8883b384c",
+    "kind": 6
+  },
+  {
+    "content": "I usually prefer Tor, but for high bandwidth applications VPNs are better.\nQubesOS & different GrapheneOS profiles are great for different personas, they'll make sure you have full network level separation.",
+    "timestamp": "1770029746",
+    "date": "2/2/2026, 10:55:46 AM",
+    "id": "bc087b642cec3d1389af42898f442bf8dbdc4da5eaf8585399e312dc21e355ae",
+    "kind": 1
+  },
+  {
+    "content": "Glad you like it, thanks!",
+    "timestamp": "1770029508",
+    "date": "2/2/2026, 10:51:48 AM",
+    "id": "2b8f3c4fbd29ac7fc06d426f4fe76bc4642d2942ede2a685924265823578823d",
+    "kind": 1
+  },
+  {
+    "content": "Amazing discussion, and very important topics! nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap08pu8g0 explains #Nostr #Freedom and #FOSS like nobody else. Crystal clear, felt a bit like listening to Andreas explaining #Bitcoin but with so much positivity and hope!\nThe kind of episode you can easily share with anyone including complete normies 👍 \n\nnostr:nevent1qqsxa968w36cew63vlj355cv3jm82yq2nhphnk4fm2hj2f9q5wqpnlgprpmhxue69uhkummnw3ezucmgv95k6cfwd9hxvme0qgst5teefqektpr4aytgpwyclxlq78v9q9nvd2pem0sgf5pxdttwyzsrqsqqqqqp5tsyye",
+    "timestamp": "1770029479",
+    "date": "2/2/2026, 10:51:19 AM",
+    "id": "f6122663c7d5d0d94fe493a3b774775487cb49ad429b014f0d1abec7051c4cd9",
+    "kind": 6
+  },
+  {
+    "content": "No, will do an audio book with v3 when it goes in print.",
+    "timestamp": "1770020141",
+    "date": "2/2/2026, 8:15:41 AM",
+    "id": "a50f5227154a5e5cb554abf2623fa2b5c5efda401d8c76bf952dd2485ef14eb4",
+    "kind": 1
+  },
+  {
+    "content": "Fixed, thanks for notifying me!",
+    "timestamp": "1770020118",
+    "date": "2/2/2026, 8:15:18 AM",
+    "id": "bad0f95b809439933bb54c61921667e7d0d22190c7ef75044a9d3e7977f0abfb",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, I'd love to have a way to see which npubs are on marmot, we'll implement that in the future.\n\nNo, you just need to share your regular npub, a client can then look up your keypackage and encrypt messages there.",
+    "timestamp": "1770020063",
+    "date": "2/2/2026, 8:14:23 AM",
+    "id": "2f3e137a7e2f5bb7f3c01f9ee690f001885f0f800065878d0b334499df4b7db0",
+    "kind": 1
+  },
+  {
+    "content": "We abandoned that codebase in favor of a rewrite, it will be merged back into main when we have it feature complete. \nhttps://github.com/marmot-protocol/sloth\n\nMajor release this month",
+    "timestamp": "1770020003",
+    "date": "2/2/2026, 8:13:23 AM",
+    "id": "df7141765697687badaf533569256077674a3f8ef24708e1d93424bdf04e6493",
+    "kind": 1
+  },
+  {
+    "content": "I'm happy you find meaning in them!",
+    "timestamp": "1770019916",
+    "date": "2/2/2026, 8:11:56 AM",
+    "id": "8a860ab30ced36baa54b4e94ee1762f86324fa9656daaf1e4aa2ed1e371251f2",
+    "kind": 1
+  },
+  {
+    "content": "Thank you @Max for your great way to explain what I could not yet form into words.\nYour texts are literal gold to me and I hope more people will profit from this lyrical wealth you create.\n\nGreat text about voluntary acts. To me this text is something like the salt march of Mahatma Ghandi. Only this time it is the free people around the world which begin to march.\n\nNot one ethnie, not one nation, but one humanity, united in our values 🙌🫵\nnostr:naddr1qvzqqqr4gupzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqpqen9venrgerrxf3k2c3exuukycce5jqgk",
+    "timestamp": "1770019907",
+    "date": "2/2/2026, 8:11:47 AM",
+    "id": "ab7056b75e7d076f97321360e44f4db5bbbb4933ac1b0ddd498a430fe9b76d76",
+    "kind": 6
+  },
+  {
     "content": "With \"white noise npub\" do you mean the separate MLS keypackage, or a throwaway npub you created yo sign in?",
     "timestamp": "1769953248",
     "date": "2/1/2026, 1:40:48 PM",
