@@ -1,5 +1,75 @@
 [
   {
+    "content": "That's a good point, but any speaker is a magnet, so you'd need these \"air tubes\" that place the speaker much lower in the cable.\n\nThe ones I found there are horrendous audio and mic quality...",
+    "timestamp": "1770143025",
+    "date": "2/3/2026, 6:23:45 PM",
+    "id": "13ccdeecc031bd6a12fb3d7dc4e4e6ed8d7d91b5379fcb81265849dd3b4ef1a9",
+    "kind": 1
+  },
+  {
+    "content": "I usually leave my phone on the table and walk around the room, so wired is annoying on that point.\nIt also looks worse on camera.\nPlus I haven't found one with an actually great mic.",
+    "timestamp": "1770142784",
+    "date": "2/3/2026, 6:19:44 PM",
+    "id": "f43b2d4cedf2eb9747dcfa8c178f487763b17817f9c7d8f815272ac3f8098da5",
+    "kind": 1
+  },
+  {
+    "content": "I spent years testing mobile podcast setups on GrapheneOS and every option failed: Bluetooth earbuds have terrible mic quality, wired splitter setups are tethered and clunky, and USB-C wireless mics like the DJI Mic don't work for calls because Android won't route audio back to them. \nThe solution is the Yealink BH71 Bluetooth headset with its 4-mic beamforming array. Simplicity beats complexity for mobile content creation.\nIf you know of something better, please share! \nnostr:naddr1qqgrjdrpx5mrycmpx93r2cekvc6kyq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wj5yq96",
+    "timestamp": "1770142588",
+    "date": "2/3/2026, 6:16:28 PM",
+    "id": "d1e19d5714106bb2907a43274e182375004856e6b24c960e295f5fc7be5f15b5",
+    "kind": 1
+  },
+  {
+    "content": "Yes I think so, works fine when you deny that permission.\nThis is super early and unpolished, will improve soon!",
+    "timestamp": "1770125351",
+    "date": "2/3/2026, 1:29:11 PM",
+    "id": "d15703f3f9174e74015b97af35fb77cd99fe954e9c0f7202fe11cafcd98b5936",
+    "kind": 1
+  },
+  {
+    "content": "Marmot demo app in the browser!\n\nhttps://marmot-protocol.github.io/marmot-ts/\n\nnostr:nprofile1qqsypwwgtll74lqu4huvxzjwtjyxvrlkujt35rw8y026ke6ttesmg5gpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qg6waehxw309aex2mrp0yhxummnw3exx6r9vd4jumt99uptc9xg & nostr:nprofile1qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszythwden5te0dehhxarj9emkjmn99uq35amnwvaz7tms09exzmtfvshxv6tpw34xze3wvdhk6tc4uevew did an amazing job getting this up and running.\n\n(Warning, it ain't pretty, but it works!)",
+    "timestamp": "1770124217",
+    "date": "2/3/2026, 1:10:17 PM",
+    "id": "f2224ed23b3aa6d0e0be990cfbb3ad932d71c9315e6cdbaae770a6227a51b487",
+    "kind": 1
+  },
+  {
+    "content": "Just get it on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzamhxue69uhhyetvv9ujumn0wvh8xmmrd9skctcegeg8f, better UX and more secure than f-droid.",
+    "timestamp": "1770121587",
+    "date": "2/3/2026, 12:26:27 PM",
+    "id": "4c618535ccb676c9ca42a6466cc621135f80b77484cb0748a80b592152d3621f",
+    "kind": 1
+  },
+  {
+    "content": "We finally have the technology to build our freedom. Money no one can stop. Words no one can delete.\n\n🫂 nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpqdg6es53r3hys9tk3n7aldgz4lx4ly8qu4zg468zwyl6smuhjjrvsm58xhx \n\nhttps://blossom.primal.net/f28f299fd87e1ea082aa6b21bc5dfcdc4b3e82415521c44dd6a315af86666411.mp4 ",
+    "timestamp": "1770118414",
+    "date": "2/3/2026, 11:33:34 AM",
+    "id": "cd14ca3873d9cf94c1ea38b888f8119ffeca26b1fb92888003573fd2b0e5a078",
+    "kind": 6
+  },
+  {
+    "content": "5",
+    "timestamp": "1770114729",
+    "date": "2/3/2026, 10:32:09 AM",
+    "id": "3dfa594f963b86b4bf758648e84f46be39566097df17ebe54df56a60cad73999",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin is alive and functioning because of the scattered yet resilient network of nodes. ⚡\n\nEvery Bitcoiner is an active social node impacting every pre-coiner around them. 🔆\n\nOn our 4th Angor Community Call we discuss two such incredible projects which focus on building the social layer of Bitcoin.\n\n⏰Time: 11:30AM, UK | 5:00PM, IST\n🗓️Date: 4th February, 2026\n\nhttps://i.nostr.build/xZHxolVEzN4eqYqw.jpg https://i.nostr.build/bw7l2l0oqjwJ3Ph2.jpg\n\nLink to the call: https://meet.fulmo.org/angor\n\nnostr:npub1hvqhft3p5m9vrg9fez62cm4lmftvu5tqtsc4kxpyju9uya0hywdq3ny4jq nostr:npub17mzfuxmmwyrty75gy493dlhqmq6lezk2rkmcu2svhx3l0zwyrtysal50aq nostr:npub1m495fdq2e8jleptdq6ruzpmz0esjttln2rjx7dxj9w4zvxs48y3q5pu22l nostr:npub1x0h85ugdd0kwwlqmf3sayngd4mmph7szps6myjc020v3ede59ljq3jehv0 nostr:npub1l65a54vtys62lpnuwpd47v2hgzak0dnesk2tfjyjqp2yc229detqhwsfth",
+    "timestamp": "1770113929",
+    "date": "2/3/2026, 10:18:49 AM",
+    "id": "61756a7e8d57e964f02262c75011493803851353536aa5f0904ecd22189d012c",
+    "kind": 6
+  },
+  {
+    "content": "In what regard to you mean low/high threat?",
+    "timestamp": "1770113061",
+    "date": "2/3/2026, 10:04:21 AM",
+    "id": "0d947c694450d118eef42cd4c2c6013437d09e0afd5b71cc37e8d63c340a04cc",
+    "kind": 1
+  },
+  {
     "content": "Yes.\nMonero has worse technical scalability, and different cryptographic security assumptions tho.",
     "timestamp": "1770055028",
     "date": "2/2/2026, 5:57:08 PM",
