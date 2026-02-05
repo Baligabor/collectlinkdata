@@ -1,5 +1,47 @@
 [
   {
+    "content": "Nostr Compass #8 is out!\n\nThis week:\n• rust-nostr ships major API redesign (21 PRs)\n• Nostria 3.0 launches with dual pane navigation\n• Vector adds SIMD acceleration (65x-184x speedups)\n• Frostr brings threshold signing to iOS\n• NIP-47 gets hold invoice support for escrow payments\n• NIP-74 proposes podcast standards\n• Pod21 launches decentralized 3D printing marketplace\n\nPlus: Damus NIP-19 relay hints, Primal NWC encryption, nostr-tools fixes, and 17 more project updates.\n\nRead the full issue:  \nnostr:naddr1qqgrsvp4xu6kxcnrxe3nzcfsvcmnzq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65whxmxh5",
+    "timestamp": "1770220751",
+    "date": "2/4/2026, 3:59:11 PM",
+    "id": "8cd61763ab9691fdb3a8e645bb81c40ece91f066f955ffc232c8e5ae33be0f54",
+    "kind": 6
+  },
+  {
+    "content": "Wen nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz3mhxue69uhhwmm59ehx7um5wghxuet59ufz3t92 release for nostr:nprofile1qqs8msutuusu385l6wpdzf2473d2zlh750yfayfseqwryr6mfazqvmgpy4mhxue69uhkvet9v3ejumn0wd68ytnzv9hxgtm0d4hxjh6lwejkuar4wfjhxqfswaehxw309a5hgcmg0ykkwmmvv3jkuun0vskkvatjvdhkuargdacxsct8w4ejuumrv9exzc3wd9kj7qfpwaehxw309ahx7um5wgkhyetvv9ujuar90pshx6r9v3nk2tnc09az7em0qzz android?",
+    "timestamp": "1770209252",
+    "date": "2/4/2026, 12:47:32 PM",
+    "id": "8c2a690d60ffed13cffe3dd2e1aeab160d8d248ee65caa7425b75ef1cafe3100",
+    "kind": 1
+  },
+  {
+    "content": "This is a tablet PC with Cellebrite UFED, a mobile forensics acquisition software. Users plug a target device into it where it then will attempt to extract as much data on the device as possible. The software on the laptop is Physical Analyser which is for forensic analysis.\n\nThis video is dated, and Cellebrite UFED's UI, logo and capabilities have changed a lot since the video was released. This tool is also not exclusive to UK law enforcement and there are also competitor solutions, which many countries around the world use plus the competitors.\n\nCellebrite sell a variant of this product named Cellebrite Premium. The difference to standard UFED and Premium is that Premium comes with wider device extraction support through zero-day exploits. As described it also allows extraction of vulnerable devices that are locked.\n\nhttps://blossom.primal.net/70c8041bacfdf399f99091a738b2e84f6a8be2f0b9cff4b497fd23ff2a153db9.jpg\n https://blossom.primal.net/9b70e3d06fb8614a14b3d0a60d336987797cd6ca1d1815debb31a3ab29daa9bb.jpg\n\nThis business model is not exclusive. XRY Pro (MSAB) and GrayKey (Magnet Forensics) are other exclusive forensic tools. Cellebrite are the second-oldest of the three companies (on joining the forensics market) but are one of the most capable thanks to their funding and location.\n\nHow and if these tools are able to extract your device's data depends on:\n\n- The device you are using\n- The installed OS and version\n- The lock state of the device\n- Configured security settings of the device\n- Strength of your phone's unlock credential\n\nFor a locked device exploiting security vulnerabilities is required to extract data almost all of the time. There are two different device lock states on Android and iOS: After first unlock (AFU, Hot) and before first unlock (BFU, Cold). This is due to how encryption works.\n\nModern Android and iOS encrypt all users' data by default with keys derived from the user's credentials. When a device is unlocked once, data is no longer encrypted at rest and is accessible during that boot session. When a device is BFU, all sensitive data is at rest.\n\nData not being at rest provides more OS attack surface to exploit bypassing lock screens or other measures and access to the data without needing the original PIN/password to decrypt it. For BFU devices brute forcing is required to decrypt data first and the only data not encrypted is a minimal footprint of the OS used for unlocking the device and global OS configuration and metadata.\n\nTo make extraction impossible make sure your device is powered off and you use a secure, high-entropy passphrase before seizure. GrapheneOS provides a configurable, automatic inactivity reboot feature.\n\nWe also provide several other countermeasures to these tools as well. GrapheneOS locked devices as a whole is unsupported by Cellebrite.\n\nIf you are an opposition activist in a high-risk country you should be concerned about potential attacks from such tools. They have been abused to target  activists in numerous countries like Serbia and Jordan.\n\nhttps://citizenlab.ca/research/from-protest-to-peril-cellebrite-used-against-jordanian-civil-society/\n\nhttps://www.amnesty.org/en/latest/news/2024/12/serbia-authorities-using-spyware-and-cellebrite-forensic-extraction-tools-to-hack-journalists-and-activists/\n\nDespite if a business claims this use of their product like this is unauthorised, it doesn't change the fact that they will be used like this again, that they don't know about it until after it has violated someone's rights and that the security vulnerabilities remain unpatched.\n\nGrapheneOS provides an auto-reboot to put data at rest, a USB-C port control to disable data transfer or the port entirely when booted into the OS, clearing sensitive data of memory and exploit protection features.\n\nnostr:nevent1qqsvtqpkju5rum3nunm4flx2eu3jddfsfg4cjnvmddqu44nu7aqrc7qpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzzmmdv8tcgnmnyefx95w33kgjvg9ms458rcz49tqlqxtdrn88t8yqcyqqqqqqgh0u038",
+    "timestamp": "1770204776",
+    "date": "2/4/2026, 11:32:56 AM",
+    "id": "91baebd1fe630d1ac17ed4d808a97b830cdc8947b6a1794b533834ca367146b8",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqst37fwv8n363vx4eh7d9c0w0wslkufqyy43830g9a773zmhw5jergpzpmhxue69uhkummnw3ezumt0d5hsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0qywhwumn8ghj7ctnd9sjuan9vd6x7unpwpczu6t09ahx7um5wgvyncn8 is a full fledged marmot client, nice!\n",
+    "timestamp": "1770201369",
+    "date": "2/4/2026, 10:36:09 AM",
+    "id": "4c1881ee2ff38711592b9a93bfa8edcb4bce596b5e7d44c029dca54f234d0466",
+    "kind": 1
+  },
+  {
+    "content": "Recently purple pilled a web3 dev who loves php, he got his mind blown sufficiently with what the nostr can do, and when I told him there's even a php library he totally freaked out.",
+    "timestamp": "1770191793",
+    "date": "2/4/2026, 7:56:33 AM",
+    "id": "e8b006f3678d6ba1b0fe37bc17c8aa709f1545c1aa5df2ad2091d7c7f49b8750",
+    "kind": 1
+  },
+  {
+    "content": "Excellent! Highly recommended! 🔥 💪 \n\nhttps://fountain.fm/episode/s9lAITUK8QCatkKKKxhm\n\n“So, the problem is us. We need to get more people involved. We need to run way harder than we are currently running. And just do more work. And do it fast. (--) We really have it in our hands to completely destroy this planet by not solving those problems fast enough. And, yeah, that kind of drives me nuts that I feel like we are all just not doing enough. And all of us have to do so much more, so much faster, and so much better, without fucking up and introducing new problems.” \n\n“You probably have a couple thousand people listening here that listen to a bunch of podcasts nonstop. But what are you guys doing with this information? Why do you think that you have the right to accumulate this information and then not act upon it? That is fundamentally a bad thing, right? To know that there is a problem and that it's a real, serious problem, and then not to go ahead and fix it with all the might that you have.” \n\nnpub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt on npub1hghnjjpnvkz8t6gkszuf37d7puwc2qtxc65rnklqsngzv6kkug9qhhfyz2 ‘s Once Bitten! podcast. \n\n#Bitcoin #BTC #Nostr #whitenoise #freedom #privacy",
+    "timestamp": "1770191280",
+    "date": "2/4/2026, 7:48:00 AM",
+    "id": "3724ad467f7c9c35129ec17009d7ea2ab931e1f38ec7cd4544b2cc5e3bc4dc06",
+    "kind": 6
+  },
+  {
     "content": "That's a good point, but any speaker is a magnet, so you'd need these \"air tubes\" that place the speaker much lower in the cable.\n\nThe ones I found there are horrendous audio and mic quality...",
     "timestamp": "1770143025",
     "date": "2/3/2026, 6:23:45 PM",
