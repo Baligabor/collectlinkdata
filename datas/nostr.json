@@ -1,5 +1,61 @@
 [
   {
+    "content": "Amazing! nostr:nprofile1qqs9c5x6zv55073m736eawtc67zdky4645wrukm22a2ppt4k233ekjcpzamhxue69uhkummnw3ezu6rfve5hx6pwdaexwtcppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj7urjv4kkjatd9ec8y6tdv9kzumn9wshsqhtwaa",
+    "timestamp": "1770293601",
+    "date": "2/5/2026, 12:13:21 PM",
+    "id": "1b1db9c01f672474e0aa3e56592a8c1f16beb4cd827f175a99b169f563040142",
+    "kind": 1
+  },
+  {
+    "content": "Thank you, brother! I enjoyed making them. Do a lot of pixel art when I'm not working on other designs, sweet nostalgia. I saw Marmot had the cute pixel marmot so I recreated him and animated him slightly.\n\nHere is another rendition from nprofile1qqspwwwexlwgcrrnwz4zwkze8rq3ncjug8mvgsd96dxx6wzs8ccndmc2ymgxf's post yesterday about Protocols > Platforms:\n\n https://image.nostr.build/8781a675e553269670cc5925538c22949339fe5d4b793de6f67066f4dd391fdf.gif",
+    "timestamp": "1770293577",
+    "date": "2/5/2026, 12:12:57 PM",
+    "id": "5ab771243f5a706990e2ea7c63882cd25223a8a87f4e702cbd5dcfd65cc3d4d4",
+    "kind": 6
+  },
+  {
+    "content": "Well said.\nWhat are some sources to study in this regard?",
+    "timestamp": "1770285047",
+    "date": "2/5/2026, 9:50:47 AM",
+    "id": "196958c950ea43968cf77b7314181cb97f9a51bed3ae0332a3a9cddb00c5c72f",
+    "kind": 1
+  },
+  {
+    "content": "I think the grand unifying theory of everything is computation theory based. Of course I'm guilty of bias, because that's what I understand most.\n\nFrom Wolfram's physics project, to understanding markets (and especially impossibility of effective central planning due to Wolfram's principle of computational irreducibility), to mind and consciousness, ...\n\nI'm not saying current computational theory explains everything, rather that in order to explain everything explainable (and especially in finding limits of what is and is not explainable), it will all have strong computational theory basis. We know a lot of computation. And computation is about the dynamics of systems. It's a theory of change and what change is possible. And how fast.\n\nIf you want to understand the world on a deep level, study informatics and computation. In addition to your field. But study it deeply. You're not aiming for knowing what it is about but in the details, because they matter. \n\n",
+    "timestamp": "1770285022",
+    "date": "2/5/2026, 9:50:22 AM",
+    "id": "2a209cc984660ba7a888205abc4e79e78c9092ec086cd9d7055181135494f27a",
+    "kind": 6
+  },
+  {
+    "content": "I guess stacking sats fits exactly what you're looking for.\nKnowledge of how to use freedom tech is another.",
+    "timestamp": "1770284666",
+    "date": "2/5/2026, 9:44:26 AM",
+    "id": "71ad1eb084d41ed39de21cb6e4c86bba61e2d36140c2d8498555d4ea760cb213",
+    "kind": 1
+  },
+  {
+    "content": "🟢 [ V E C T O R ] Open Beta v0.3.0\n\nThe first release of 2026 and it's going to be a difficult one to match. This is by far the biggest Vector release to date and we couldn't be more excited to share it with you all.\n\n🔰 https://vectorapp.io\n\n\nImportant: \nGroup Chats have undergone several breaking-changes, due to the lack of stability in our previous Alpha Group Chats implementation, and thereby their lack of usage; Group Chats will be reset when you download v0.3.0, please re-create any Groups you previously owned.\n\n\nNew:\n🧩 Mini Apps Platform: WebXDC-based games & apps within Vector with P2P Multiplayer (Yes, it plays DOOM!)\n🏪 The Nexus: discover and install Mini Apps from a secure, decentralized App Store, built for Vector\n🌐 Custom Relays: configure your own preferred relays for personalized connectivity\n🎨 New Themes: three additional themes, each with their own exotic takes, Keep it Purple, people\n🔔 Notification Sounds: audio notifications, with our homemade Prélude sound, custom sounds, and smart caching\n🖼️ GIF Picker & Inline Images: search and send GIFs directly from the chatbox, powered by GIFverse\n👋 Leave Group: ability to leave groups, with proper system event notifications for everyone else\n✏️ Message Editing: edit sent messages with full history tracking\n⌨️ Popup Shortcuts: Enter to confirm, Escape to close popups; ESC to cancel Reply/Edit\n\n\nImproved:\n🔐 MLS Overhaul: major messaging protocol improvements for reliability and security, based on the latest MDK\n📂 MIP-04 File Sharing: imeta attachment handling for MLS groups, built for compatibility with White Noise\n⚡ Memory Optimizations: reduced memory usage during image uploads (around 4x less!)\n🗄️ Database Performance: migration system overhaul with improved stability, safety and performance\n💬 Message Bubbles: refined corner rounding, grouping and a new \"Sending/Sent\" status\n🖼️ SVG Optimization: optimized vector graphics across the app (reduced app size!)\n\n\nFixed:\n🖼️ Profile Sync: avatars and banners now update correctly\n⏱️ Chat Timestamps: fixed timestamps disrupting avatar/message streaking\n💬 Typing Indicators: deduplicated indicators and optimized performance\n🔄 Reply Context: replies now display the latest edited content\n🔍 Search Box: fixed styling and typing indicator expiries\n\n\nhttps://blossom.primal.net/8a46bd1248ba0905bbb7e86ef706b8cd618d70111917e85d24ab80155e3099af.png",
+    "timestamp": "1770281964",
+    "date": "2/5/2026, 8:59:24 AM",
+    "id": "e6ae81c67b89cd94655d5724e1277b693837ed3b3b198b79a706b14b580f8b14",
+    "kind": 6
+  },
+  {
+    "content": "Really cool!",
+    "timestamp": "1770281921",
+    "date": "2/5/2026, 8:58:41 AM",
+    "id": "b70095f5b62335f7971a30ff1424e22e371e1481506934a937ecea365282e811",
+    "kind": 1
+  },
+  {
+    "content": "Fun day today working on these cute little pixel marmots, inspired from last nights community call from Marmot Protocol by WhiteNoise and nostr:nprofile1qqspwwwexlwgcrrnwz4zwkze8rq3ncjug8mvgsd96dxx6wzs8ccndmc2ymgxf Think we need some more pixel art here on Nostr, maybe I should ramp that up a bit haha.\n\nIf anyone is looking for a fun, free, and open-source pixel art app, highly recommend Piskel. I've been using them for years. There aren't as many design flow optimizations like with Aseprite, but if you're not a hardcore pixel artist it's a great place to start.\n\nhttps://image.nostr.build/93feec14d855ed19bbd102712ed7493a8ca82063a55c139bc3c823f525c30376.gif https://image.nostr.build/c03aea051c56bc6f2534a7b0b88b87d37af758a632f6db1e00a257ceba45dd5b.gif",
+    "timestamp": "1770281898",
+    "date": "2/5/2026, 8:58:18 AM",
+    "id": "521f245d0cea8d67c67d8cac809ac4f1a74ed1ba6660c33ff034698dd3c73af2",
+    "kind": 6
+  },
+  {
     "content": "Nostr Compass #8 is out!\n\nThis week:\n• rust-nostr ships major API redesign (21 PRs)\n• Nostria 3.0 launches with dual pane navigation\n• Vector adds SIMD acceleration (65x-184x speedups)\n• Frostr brings threshold signing to iOS\n• NIP-47 gets hold invoice support for escrow payments\n• NIP-74 proposes podcast standards\n• Pod21 launches decentralized 3D printing marketplace\n\nPlus: Damus NIP-19 relay hints, Primal NWC encryption, nostr-tools fixes, and 17 more project updates.\n\nRead the full issue:  \nnostr:naddr1qqgrsvp4xu6kxcnrxe3nzcfsvcmnzq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65whxmxh5",
     "timestamp": "1770220751",
     "date": "2/4/2026, 3:59:11 PM",
