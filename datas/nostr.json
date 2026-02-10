@@ -1,5 +1,26 @@
 [
   {
+    "content": "A new conversation with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e that is worth reading 🔥\n\nnostr:naddr1qvzqqqr4gupzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhqy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqyjcfdvduhq6r9wfc82mnt94mksmedv3hk2umwwskhwunfw3jj6cm0v3jj6ctw945kuar9wfmxjeth94mkjarg94mks6t5v5kk6ctc945xjmrvv438yctwvsq7fxk7",
+    "timestamp": "1770673941",
+    "date": "2/9/2026, 9:52:21 PM",
+    "id": "0352cb09257bc73b9700bd736612536883b3c5ad9aa68553d9e8c1bac630e878",
+    "kind": 6
+  },
+  {
+    "content": "Big plans...\nThis will be epic!\n\nnostr:nevent1qqsg02tdjufptl462g5rvxn9jvtw6f9f8qquk6u7h7yd607zmawalrgppamhxue69uh5qmn0wvhxcmmv9upzpkjkc494ue6f6eddqwxpjerc0990jnj05kjwlhpqkjvcre8v2ekrqvzqqqqqqyqxe8yh",
+    "timestamp": "1770673659",
+    "date": "2/9/2026, 9:47:39 PM",
+    "id": "696cb35c3ec880bfd0e014920979762be85326210bdc3b16c07e0cc7178a84a9",
+    "kind": 1
+  },
+  {
+    "content": "Very excited for this 🔥 CEP-8 payments are coming to ContextVM, with a reference implementation in our TypeScript SDK. It is shaping up nicely, with a clean design and implementation. The cool part is that nothing changes for operators; the transports will still work in the same way they do today, with no breaking changes. Payments are enabled through middlewares, so the inclusion of payments will not affect current consumers of the SDK in any way. There will be no performance degradation, no API-breaking changes, and maximum flexibility. \n\nSoon, we will release the new version including the new features, along with some guides on how to start monetizing your services. Stay tuned.\n\nIn the meantime, you can read the specification at https://github.com/ContextVM/contextvm-docs/pull/9 and follow the progress of the implementation in the SDK at https://github.com/ContextVM/sdk/pull/24 . \n\nFeel free to give us some feedback or ask any questions!",
+    "timestamp": "1770629716",
+    "date": "2/9/2026, 9:35:16 AM",
+    "id": "179c30d15fc0dd4e5029a90a9b2223dcf3528a887e364c53b012f4acf8c6ccc0",
+    "kind": 6
+  },
+  {
     "content": "Glad you enjoyed it, always good to chat with guy",
     "timestamp": "1770585480",
     "date": "2/8/2026, 9:18:00 PM",
