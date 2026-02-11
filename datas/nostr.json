@@ -1,5 +1,33 @@
 [
   {
+    "content": "Your code lives on GitHub and your binaries distribute through Google Play, with dependencies pulled from npm (also owned by Microsoft). Two corporations control the pipeline from source to installed application, and both have complied with government demands to remove software. \nThe Nostr protocol now provides a coherent set of developer tools that replaces each link in this chain with infrastructure authenticated by a single keypair you own. This post maps the practical migration path. \nnostr:naddr1qqgxgefkvyunsepex33rzephvdjrvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wx7pga7",
+    "timestamp": "1770764847",
+    "date": "2/10/2026, 11:07:27 PM",
+    "id": "631da29b5178e9ec6dc92c939c9c16d55ec1579103e8372efbc81e3e4262ca0a",
+    "kind": 1
+  },
+  {
+    "content": "The cat's out of the bag with the newest episode of TFTC - announcing here first on Nostr:\n\nSigbash v2 is live! We've switched to a new approach that  I've decided to call Oblivious Signing: thanks to the power of MuSig2, WebAssembly, and zero knowledge proofs, our signer never sees your signing key *or* the transactions you want us to sign.\n\ninstead, when you register a key, first you commit to a signing policy (anything - input and output amounts, destination addresses, time windows allowed for signing, you name it) - and we'll only sign transactions that match your policy. \n\nPolicies are as complex as you need and as private as we could possibly make them. Our beta is live on signet now at https://www.sigbash.com!\n\nhttps://blossom.primal.net/a3547a6eac116a5d96be4fda2eda4cb5cf47afdf6d17dcbb34d3c5a5e4861b97.mp4 ",
+    "timestamp": "1770713025",
+    "date": "2/10/2026, 8:43:45 AM",
+    "id": "14af43620f3f5b65c7b729b1e615f53495e00f52c173f71b0339b1b4f18214d6",
+    "kind": 6
+  },
+  {
+    "content": "Yes, the battery drain is because of the local notification system, next release will have big improvements for that.",
+    "timestamp": "1770712959",
+    "date": "2/10/2026, 8:42:39 AM",
+    "id": "ca7068545989e9bf2eb955f7eefc80cb7b921b8adb3cac0d0d9391d30bbcd208",
+    "kind": 1
+  },
+  {
+    "content": "“Building software is hard enough. But building software that doesn't spy on users, that doesn't steal from users, that doesn't trick users, that's a next-level effort.” nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qy0hwumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdakj7wq9cvu ",
+    "timestamp": "1770712893",
+    "date": "2/10/2026, 8:41:33 AM",
+    "id": "f3dca74828f6ee20cad3c4e28aa2786b5e7083f7cbae3984718ee38c050cda3a",
+    "kind": 6
+  },
+  {
     "content": "A new conversation with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e that is worth reading 🔥\n\nnostr:naddr1qvzqqqr4gupzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhqy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqyjcfdvduhq6r9wfc82mnt94mksmedv3hk2umwwskhwunfw3jj6cm0v3jj6ctw945kuar9wfmxjeth94mkjarg94mks6t5v5kk6ctc945xjmrvv438yctwvsq7fxk7",
     "timestamp": "1770673941",
     "date": "2/9/2026, 9:52:21 PM",
