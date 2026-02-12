@@ -1,5 +1,54 @@
 [
   {
+    "content": "Nostr Compass #9\n\nThe next edition of the newsletter is out, covering many development updates across Mostro beta: P2P Bitcoin trading on mobile after 3 years dev. Zapstore 1.0: Permissionless Android app store is stable. Antiprimal: Bridges Primal cache to standard NIPs\nNIP-45: HyperLogLog counting with 256 bytes \nnostr:naddr1qqgxvd33xpskyvn9v3jryvfcxycxvq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wl8g6ug",
+    "timestamp": "1770835925",
+    "date": "2/11/2026, 6:52:05 PM",
+    "id": "3b9ee1dbf23cc6417e6079a97f9cbadd18e8f5a95f03102a6a05e161ca18de89",
+    "kind": 6
+  },
+  {
+    "content": "Stop hurting yourself with broken systems. It’s time to exit.\n\nMax Hillebrand joins me on the show to break down the philosophy of the \"Second Realm\" and the mechanics of digital privacy. From White Noise to CoinJoin tech, we discuss how we are building a parallel economy right under the nose of surveillance.\n\nListen to A Quiet Global Resistance with Max Hillebrand on Bitcoin Audible, available on all major platforms:\n\n🔗 Fountain: https://fountain.fm/episode/db0Y8qZkrhZpjhj2vT0D\n🔗 YouTube: https://youtu.be/esj50B3EKpI\n🔗 Rumble: https://rumble.com/v75dbxm-chat-160-a-quiet-global-resistance-with-max-hillebrand.html\nhttps://blossom.primal.net/ae0f606b908247a032539338489e5cd211f02ae577df7e36ac3297614d95674b.mp4",
+    "timestamp": "1770835811",
+    "date": "2/11/2026, 6:50:11 PM",
+    "id": "d226bee5b2b3059de85cad98ca9468c2d32222cbab6c54dfcc605fcd74039020",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0 is indexing about 1 new app per second currently.",
+    "timestamp": "1770832208",
+    "date": "2/11/2026, 5:50:08 PM",
+    "id": "f13f699334c25a2e9fa13f837e6911f608faefe8ad5522862b7d93bb5d5d0688",
+    "kind": 1
+  },
+  {
+    "content": "Every bill of exchange in pre-1914 London carried a death date. Ninety-one days after acceptance, the consumer's gold payment for the delivered goods extinguished the credit that had financed the entire chain from production to sale. \nModern government debt carries no such mechanism. It rolls over perpetually, compounding interest on interest, until the arithmetic forces either default or debasement. \nnostr:naddr1qqgrxwtz8qmrzvr9xg6rqdmpvfjngq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w9pjs3t",
+    "timestamp": "1770811235",
+    "date": "2/11/2026, 12:00:35 PM",
+    "id": "c07069ae2f34692b15b4a2fa7220399c7cae2b775974e26a194c7492d60efe74",
+    "kind": 1
+  },
+  {
+    "content": "🚀 Zapstore for Android 1.0.0 now available!\n\nThis is a massive release consolidating almost a year of hard work:\n\n- Major UX refresh across all screens\n- Revamped app updates, with background downloading and checks, progress tracking\n- App Stacks and bookmarks editable from the app\n- Relay management for app catalogs\n- Security and performance improvements, and much more\n\nWe also built and migrated to an all-new relay and Blossom server backed by a CDN with assets distributed in 3 regions for faster and more reliable downloads.\n\nIn addition to that, our new publishing tool zsp v0.3.2 was also released today!\n\nAnd last but definitely not least... an amazing new webapp where we hint at what the future looks like (can't wait for Studio!).\n\nIncredibly bullish and grateful to nostr:npub176p7sup477k5738qhxx0hk2n0cty2k5je5uvalzvkvwmw4tltmeqw7vgup nostr:npub149p5act9a5qm9p47elp8w8h3wpwn2d7s2xecw2ygnrxqp4wgsklq9g722q nostr:npub1zafcms4xya5ap9zr7xxr0jlrtrattwlesytn2s42030lzu0dwlzqpd26k5 nostr:npub1y3yqdp44vg62ys8anqnjpx6cfprl848ev4lsmx5h4mznyz3xft9sen050hnostr:npub10pensatlcfwktnvjjw2dtem38n6rvw8g6fv73h84cuacxn4c28eqyfn34f nostr:npub17xvf49kht23cddxgw92rvfktkd3vqvjgkgsdexh9847wl0927tqsrhc9as nostr:npub1t5u3wp5kj78jwnuphpf5mhx00nwwtfwq56d6j8atnu89gd454wcs6aj4c2 and all our testers and supporters, thank you!\n\nUpdate from Zapstore, or download at https://zapstore.dev",
+    "timestamp": "1770809322",
+    "date": "2/11/2026, 11:28:42 AM",
+    "id": "4e98c3bc225149d69783e140dcbf378e525a6c7f3efe5649563899b0a1ad214f",
+    "kind": 6
+  },
+  {
+    "content": "Thanks man, I appreciate it, glad you enjoyed the conversation.",
+    "timestamp": "1770801491",
+    "date": "2/11/2026, 9:18:11 AM",
+    "id": "395d647f5807504bfe885ef19219642a9478f43352e3fe8bab401552367682e8",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp04rynpa and nostr:nprofile1qqstnem9g6aqv3tw6vqaneftcj06frns56lj9q470gdww228vysz8hqpp4mhxue69uhkummn9ekx7mqpramhxue69uhhyetvv9ujumn0v3jhyatwdejhyuewdejhgam0wf4s2hh06x riffing on marmot, nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0l2sp3z, nostr, Bitcoin, freedom, AI and all the spaces in between\n\nAbsolute baller of a rip 🧡\n\nhttps://pca.st/episode/c10ea351-6ce9-4bde-9f71-233b5a72df11",
+    "timestamp": "1770799674",
+    "date": "2/11/2026, 8:47:54 AM",
+    "id": "5d2569944e7a51387981c85e0b8ceb10cbd27a9795fd6322ad3d5744d8563c19",
+    "kind": 6
+  },
+  {
     "content": "Your code lives on GitHub and your binaries distribute through Google Play, with dependencies pulled from npm (also owned by Microsoft). Two corporations control the pipeline from source to installed application, and both have complied with government demands to remove software. \nThe Nostr protocol now provides a coherent set of developer tools that replaces each link in this chain with infrastructure authenticated by a single keypair you own. This post maps the practical migration path. \nnostr:naddr1qqgxgefkvyunsepex33rzephvdjrvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wx7pga7",
     "timestamp": "1770764847",
     "date": "2/10/2026, 11:07:27 PM",
