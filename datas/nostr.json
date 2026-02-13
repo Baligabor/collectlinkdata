@@ -1,5 +1,26 @@
 [
   {
+    "content": "“If you are one of those who would love to advance the cause but cannot code, that is not an excuse anymore.\" npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt #vibecoding \n\nMax and npub1h8nk2346qezka5cpm8jjh3yl5j88pf4ly2ptu7s6uu55wcfqy0wq36rpev casually talking for about three hours. 😂 \n\nhttps://fountain.fm/episode/db0Y8qZkrhZpjhj2vT0D\n\n#Bitcoin #btc #nostr #whitenoise #privacy #freedom #bitcoinaudible",
+    "timestamp": "1770930551",
+    "date": "2/12/2026, 9:09:11 PM",
+    "id": "ab2cfe8bdb7f2b6704ab8dd6a8434f42f060d5a3aa73670f12fb04bd745c2917",
+    "kind": 6
+  },
+  {
+    "content": "Private dispute resolution keeps reappearing across centuries and civilizations because the economic logic that produces it is the same logic that produces every other market. State courts exhibit every pathology economists predict from monopoly: high cost and zero accountability to the people who use them. \nThis post argues that merchant courts were the market default that states displaced, and that technology is now restoring them. \nnostr:naddr1qqgrwvm9xa3kxdtpxdjk2e3j8yunvq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w60mklr",
+    "timestamp": "1770929767",
+    "date": "2/12/2026, 8:56:07 PM",
+    "id": "a1a184268ffc52da08e724dc8dc3806d8c13b50aa7715f86046524a201b9a1bd",
+    "kind": 1
+  },
+  {
+    "content": "The final major piece I have added to #nostr #safebox - encrypted blob storage and transfer using Blossom. \n\nYou can see it in action below. \n\nI use Blossom servers to store and transfer the original records. They are encrypted before storage and during transit. Every blob has a randomly generated encryption key and ephemeral nsec as the author. The information gets passed between safebox instance using quantum-safe key agreement for encryption. Once the blob is transferred,  re-encrypted to a private record, the transfer blob is deleted. Also the hash is checked to make sure it's the same as the original record.\n\nThis whole scheme is agnostic to the blob type, it's just binary- for now I am supporting jpg png and pdf but it can be extended to any format. \n\nThis also is working with the nostr:nprofile1qqstu7l4mcrgc8vy9mf55lp8q5r7e9q0t6j3vuw06p32jh5ap9pq6zsppemhxue69uhkummn9ekx7mp0qywhwumn8ghj7mn0wd68ytnzd96xxmmfdejhytnnda3kjctv9uk5mhhr web of trust, so not only will you be sure you have an original record, but you will also be able to cryptographically link it to who issued it to you, and whether you trust them. \n\nFinally,  this is being designed to be totally decentralized, so no gatekeepers. You will be able to convey original records privately and decide who you trust on your own terms. \n\nOnward!\n \n\n\n\nhttps://blossom.primal.net/b076fc4954c186d116f0ef8c090b017e544ad2b523b2470d7f7e560a31d5a8c5.mp4",
+    "timestamp": "1770887961",
+    "date": "2/12/2026, 9:19:21 AM",
+    "id": "cdd458464a66de258d8f98fa13c0c53d8be2d617709e57d05281c4f323a616c0",
+    "kind": 6
+  },
+  {
     "content": "Nostr Compass #9\n\nThe next edition of the newsletter is out, covering many development updates across Mostro beta: P2P Bitcoin trading on mobile after 3 years dev. Zapstore 1.0: Permissionless Android app store is stable. Antiprimal: Bridges Primal cache to standard NIPs\nNIP-45: HyperLogLog counting with 256 bytes \nnostr:naddr1qqgxvd33xpskyvn9v3jryvfcxycxvq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wl8g6ug",
     "timestamp": "1770835925",
     "date": "2/11/2026, 6:52:05 PM",
