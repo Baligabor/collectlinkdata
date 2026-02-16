@@ -1,5 +1,47 @@
 [
   {
+    "content": "I’ve been gardening for years and every app I tried felt like it was made by someone who's never pulled a weed. So I built my own.\n\nPatternBase is a garden design tool for permaculture people — guild planting, climate matching, multi-year planning. The stuff nobody else bothers with because it's not sexy enough for Silicon Valley.\n\nNo investors. No ads. I don't sell your data. Accepts bitcoin through BTCPay because I'm not going to preach sovereignty and then make Stripe the only option.\n\n25% of what the platform earns goes into an Earth Care Fund — land projects, open research, community grants. Public ledger. Bitcoin treasury. It's not a campaign, it's how the business runs.\n\nTurns out food sovereignty and financial sovereignty are the same fight.\n\nWww.pattern-base.com\n",
+    "timestamp": "1771187404",
+    "date": "2/15/2026, 8:30:04 PM",
+    "id": "ac86f23d67f9d0e807924cc858646e5341044b83158b1fbd192b6b3688fd6614",
+    "kind": 6
+  },
+  {
+    "content": "Nice!",
+    "timestamp": "1771174642",
+    "date": "2/15/2026, 4:57:22 PM",
+    "id": "a4b3e0f58b537a03debf1919619eb868bd8cae4811c2b48e3216ff3a45322b90",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #8\n\nrust-nostr ships a massive SDK overhaul  \nNostria 3.0 delivers modern UI and list sync  \nFrostr hits iOS, Vector hits SIMD speeds  \nAnd we explore fresh NIP proposals  \n\nhttps://blossom.primal.net/ad85e46e66cad4d6e672e63573533cd67bbaea4206d8a4a6e5242af8bb53ca43.ogg \n\n#podcast #nostr",
+    "timestamp": "1771158097",
+    "date": "2/15/2026, 12:21:37 PM",
+    "id": "875152cb3d3820c69efa40a6d3e1d40e30b5c85da9850ab730ec235b300d1e38",
+    "kind": 6
+  },
+  {
+    "content": "Awesome, thanks!",
+    "timestamp": "1771142355",
+    "date": "2/15/2026, 7:59:15 AM",
+    "id": "11bd231587c614508003271cec209a2c45d03dd2ee9b448d451e838708cf8526",
+    "kind": 1
+  },
+  {
+    "content": "That's an Assange quote.",
+    "timestamp": "1771142266",
+    "date": "2/15/2026, 7:57:46 AM",
+    "id": "880ef66973d162685ab64cee8961dcaefe010bb680480bb39aefad51d0dc2f93",
+    "kind": 1
+  },
+  {
+    "content": "You got the signed markdown already, haha.",
+    "timestamp": "1771142130",
+    "date": "2/15/2026, 7:55:30 AM",
+    "id": "c69b5bde7e7793d8fe744dcc8d1c86e6dfba6fcf26c117c233fea073bdc017d8",
+    "kind": 1
+  },
+  {
     "content": "Great rip about privacy, might turn Tucker into a cypherpunk...\n\nThe Tucker Carlson Show: How to Stop the Government From Spying on You, Explained by a Digital Privacy Expert\n https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/384D27/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/traffic.megaphone.fm/TCN7874419550.mp3?updated=1771014910",
     "timestamp": "1771070692",
     "date": "2/14/2026, 12:04:52 PM",
@@ -19,6 +61,13 @@
     "date": "2/14/2026, 11:13:06 AM",
     "id": "de4472dc3b365fa8547792768e50c82946000f864d2a295f4ca47945b96b6e0d",
     "kind": 6
+  },
+  {
+    "content": "No clue about pre orders...\n\nJust keep giving reviews and ways that it can be improved, I'll do another rewrite.",
+    "timestamp": "1771067564",
+    "date": "2/14/2026, 11:12:44 AM",
+    "id": "08cb6e4dd26b69c11c53949d29576d72f79a47b52aeb647e3425cb490ce79aa5",
+    "kind": 1
   },
   {
     "content": "nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap06fen87 I cannot wait to hold and read \"The Praxeology of Privacy\" in hard cover version.\n\nWill there be pre-orders?\nWhat can we (as a community) do to help?",
