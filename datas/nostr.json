@@ -1,5 +1,12 @@
 [
   {
+    "content": "APK for Pika - encrypted messaging app using Marmot\n\n- Encrypted group chats\n- Encrypted audio calls over MOQ relays using Marmot keys\n- Can talk to OpenClaw via https://www.npmjs.com/package/@justinmoon/marmot\n- Vibecoded it ... don't trust it yet\n- Built on Rust Multiplatform\n\nhttps://github.com/sledtools/pika/releases",
+    "timestamp": "1771242478",
+    "date": "2/16/2026, 11:47:58 AM",
+    "id": "d642743708e82c5de9b9129492b1706ef1dc658112adc8311ec1e728a2d0e014",
+    "kind": 6
+  },
+  {
     "content": "I’ve been gardening for years and every app I tried felt like it was made by someone who's never pulled a weed. So I built my own.\n\nPatternBase is a garden design tool for permaculture people — guild planting, climate matching, multi-year planning. The stuff nobody else bothers with because it's not sexy enough for Silicon Valley.\n\nNo investors. No ads. I don't sell your data. Accepts bitcoin through BTCPay because I'm not going to preach sovereignty and then make Stripe the only option.\n\n25% of what the platform earns goes into an Earth Care Fund — land projects, open research, community grants. Public ledger. Bitcoin treasury. It's not a campaign, it's how the business runs.\n\nTurns out food sovereignty and financial sovereignty are the same fight.\n\nWww.pattern-base.com\n",
     "timestamp": "1771187404",
     "date": "2/15/2026, 8:30:04 PM",
