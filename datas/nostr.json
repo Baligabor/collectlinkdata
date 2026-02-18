@@ -1,5 +1,54 @@
 [
   {
+    "content": "Got a way to download them in bulk?",
+    "timestamp": "1771362833",
+    "date": "2/17/2026, 9:13:53 PM",
+    "id": "89da408c2b0e81a10a36099432052018073e2adf337f43308b929d853fafdc96",
+    "kind": 1
+  },
+  {
+    "content": "Got any book recommendations?",
+    "timestamp": "1771361677",
+    "date": "2/17/2026, 8:54:37 PM",
+    "id": "30d9a45ddd17d7028bc9a1ea5bc414f8db3d8458d74520ede3877fbed80c01ff",
+    "kind": 1
+  },
+  {
+    "content": "It really doesn't work for me on android...",
+    "timestamp": "1771330349",
+    "date": "2/17/2026, 12:12:29 PM",
+    "id": "6e387d9c15cb8fad47d3b8d935b71eacded3f1f18765cb35c43277d7fd35a9cd",
+    "kind": 1
+  },
+  {
+    "content": "Do we really still not have a decent nostr search engine?",
+    "timestamp": "1771329946",
+    "date": "2/17/2026, 12:05:46 PM",
+    "id": "675b4cc75a6aab435aef9662b478bb4bee750d35cf3ff5cb4ae8d99977918dba",
+    "kind": 1
+  },
+  {
+    "content": "Makes sense cor facebooks business model tho.\nThey're currently limited in growth by the global birth rate. If they want to keep growing their ad base, either produce more humans, or keep them posting after they die.",
+    "timestamp": "1771328339",
+    "date": "2/17/2026, 11:38:59 AM",
+    "id": "6c4b07c2db97e1479622e4d925681d9de952ea18b616c31e4bb6ba2b17e9168d",
+    "kind": 1
+  },
+  {
+    "content": "Slight correction, it's a blossom cache, not a full server, you can't upload to it directly.",
+    "timestamp": "1771324473",
+    "date": "2/17/2026, 10:34:33 AM",
+    "id": "96620443bfa2666f86230624ba01921dd37cdf7c17ef808c0a4a09090e875d8c",
+    "kind": 1
+  },
+  {
+    "content": "Aerith blossom manager.\n\n-Image labels\n-Bulk mirror, tag & delete.\n-Filter by label, file type & server.\n-Initial support for local blossom cache.\n\nhttps://github.com/hardran3/Aerith/releases/tag/v0.2\n#blossom",
+    "timestamp": "1771324258",
+    "date": "2/17/2026, 10:30:58 AM",
+    "id": "f028f2fe96f1ccd3d1c9dd6914b2c17cf04953986b1ebc7a529b9d922c858d8d",
+    "kind": 6
+  },
+  {
     "content": "APK for Pika - encrypted messaging app using Marmot\n\n- Encrypted group chats\n- Encrypted audio calls over MOQ relays using Marmot keys\n- Can talk to OpenClaw via https://www.npmjs.com/package/@justinmoon/marmot\n- Vibecoded it ... don't trust it yet\n- Built on Rust Multiplatform\n\nhttps://github.com/sledtools/pika/releases",
     "timestamp": "1771242478",
     "date": "2/16/2026, 11:47:58 AM",
