@@ -1,5 +1,68 @@
 [
   {
+    "content": "presenting doctor marmot\n\nhttps://image.nostr.build/627af60e81ed36bb0d225d1b96569efab93a91dc1580835f8830cb889cf628b8.jpg\n\ncoming soon (no seriously, this is real)",
+    "timestamp": "1771769186",
+    "date": "2/22/2026, 2:06:26 PM",
+    "id": "571d7644fa2e4cdc96b0360156d7aaef5c4d7a242c2b9ba8a3677d5a6402af60",
+    "kind": 6
+  },
+  {
+    "content": "Such retro, much wow.\n\nnostr:nprofile1qqsxve63trnr8rlgnldyrrjz5zlj573tzvjsfhf50uq45xyhrdjygvqpzemhxue69uhhyetvv9ujucm0d9hx7uewd9hj7qgewaehxw309ac8yetdd96k6tnswf5k6ctv9ehx2ap0qy88wumn8ghj7mn0wvhxcmmv9u4jmdmm wrote a tool to inspect your marmot key packages.\n\nNow we can just vibe beautiful debug tools!\n\nhttps://dr-marmot.pages.dev/",
+    "timestamp": "1771769125",
+    "date": "2/22/2026, 2:05:25 PM",
+    "id": "2cde76a6f02cb16a00b1e0bfd57ebf89462f60eee9909687cf620fcf645ce45a",
+    "kind": 1
+  },
+  {
+    "content": "Looks like we'll have the next nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp release tomorrow!\nThis is gonna be a big one, it'll finally \"just work\". nostr:nprofile1qqswacu3amp428kj8wtpqf77yd2upukcn2ft4aycmxm5scmh359e0ssppemhxue69uhkummn9ekx7mp0qyg8wumn8ghj7mn0wd68ytnddakj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09uvt9vcv support coming too!",
+    "timestamp": "1771762413",
+    "date": "2/22/2026, 12:13:33 PM",
+    "id": "a6443bbf8bcdf1df7aa9eb826916f37f01eac485ee01884a37c57cab224e5070",
+    "kind": 1
+  },
+  {
+    "content": "I don't remember exactly, but something like 450 inputs & 450 outputs. I think there's a standardness limit of 0.1 MB per transaction (it messes with mining transaction selection algorithm if larger).\n\nI don't think BIP110 has any changes in regards to coinjoin.",
+    "timestamp": "1771745487",
+    "date": "2/22/2026, 7:31:27 AM",
+    "id": "62ec1b4071d920d0605ed474fb80faf71f935154b4615e18f377cc27e32e8827",
+    "kind": 1
+  },
+  {
+    "content": "https://minaprotocol.com/\nhttps://ieeexplore.ieee.org/document/6547113\nhttps://arxiv.org/pdf/2401.15041",
+    "timestamp": "1771744957",
+    "date": "2/22/2026, 7:22:37 AM",
+    "id": "bab1e266d78f14313ffbe73884b2a1f9573e411d6745843756a4940b3bf313ec",
+    "kind": 1
+  },
+  {
+    "content": "There is coin shuffle, an actually decentralized coordination protocol (I don't think it was ever implemented tho)",
+    "timestamp": "1771744666",
+    "date": "2/22/2026, 7:17:46 AM",
+    "id": "d1c320af6167026425c65b26b4ece7220283ef015eb95fd8bde39b9751ed3c4b",
+    "kind": 1
+  },
+  {
+    "content": "\"Bitcoin functions for all the agents. My agent has eCash [and] can make purchases. That's crazy that you can deploy an entity to a random computer [that is] able to pay for itself and has the incentive to be productive so that it keeps alive.\"\n~ nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt \n\nListen to A Quiet Global Resistance with Max Hillebrand on Bitcoin Audible, available on all major platforms:\n\n🔗 Fountain: https://fountain.fm/episode/db0Y8qZkrhZpjhj2vT0D\n🔗 YouTube: https://youtu.be/esj50B3EKpI\n🔗 Rumble: https://rumble.com/v75dbxm-chat-160-a-quiet-global-resistance-with-max-hillebrand.html\nhttps://blossom.primal.net/23a5c56031febdc1d2a5c5df245326f701a1843cb4a22274cc8c87b9cd3a4c70.mp4",
+    "timestamp": "1771744611",
+    "date": "2/22/2026, 7:16:51 AM",
+    "id": "8599c8a8c3d2f30d83826ab189a64c320d16633e4645f697407e8253e94579b3",
+    "kind": 6
+  },
+  {
+    "content": "Nice, good to see the progress you made there, will try it out!",
+    "timestamp": "1771742815",
+    "date": "2/22/2026, 6:46:55 AM",
+    "id": "a625a03d95a7a93522c4e95a28bfd64cd1fd0af99b158999417c3b390404adfb",
+    "kind": 1
+  },
+  {
+    "content": "GM 🏃🏻\n\nNext month, I will release the public beta of the Nostr client I've been working on for over a year. \n\nI've been the only one building it. The UI/UX design is also done by me. I changed the architecture many times, redesigned the app many times, and learned a lot in the process. I want to bring in new developers during the beta phase.\n\nThe goal was to deliver a very fast experience without caching servers -- one that supports as many NIPs as possible while keeping the design clean and simple.\n\nRight now, I believe it's a fully functional and fast Nostr client that works 'almost' great, supporting a built-in wallet with one-tap activation and NWC, NIP-17 DMs, encrypted lists, follow packs, etc.\n\nqiqstr on GitHub: https://github.com/untreu2/qiqstr\nhttps://blossom.primal.net/a409f75770fbe2509d344a8668ea91a6f7388386a8aa890a44d465aee33c2b28.png ",
+    "timestamp": "1771742771",
+    "date": "2/22/2026, 6:46:11 AM",
+    "id": "be2ba699b8ee8c411287ae5bd7c4836ba3dbf800452031a7bab5d8c365f31a87",
+    "kind": 6
+  },
+  {
     "content": "Nice.",
     "timestamp": "1771620234",
     "date": "2/20/2026, 8:43:54 PM",
