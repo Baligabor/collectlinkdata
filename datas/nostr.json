@@ -1,5 +1,33 @@
 [
   {
+    "content": "Yeah, thanks for reporting, It's very helpful, devs are checking now.",
+    "timestamp": "1772201566",
+    "date": "2/27/2026, 2:12:46 PM",
+    "id": "6d5ed23adcf9ecba538ac2e486a7e9dd0e3eaae1cd6cd3c6aa9584c205068afa",
+    "kind": 1
+  },
+  {
+    "content": "This is so weird...\nPeople have wildly different battery usage stats, not sure how we can troubleshoot / reproduce this...\n\nI run two instances of White Noise and they use 8% & 2% in the last 48 hours.",
+    "timestamp": "1772201299",
+    "date": "2/27/2026, 2:08:19 PM",
+    "id": "ec922b60da3d9dd2bd0c7fd5977ea42a1c8c583fa444fe9f029527767b82842e",
+    "kind": 1
+  },
+  {
+    "content": "Really? On v0.3.0?",
+    "timestamp": "1772196946",
+    "date": "2/27/2026, 12:55:46 PM",
+    "id": "bc42dde92bf0864575a7182745060379d8e20cb3d6f5f320715bfafef0702598",
+    "kind": 1
+  },
+  {
+    "content": "hey man, great writing and I'm researching a building in a similar space. We actually always had private ordering and merchant law instruments (that in almost all countries are still legit under Bills of Exchange Acts or codes like UCC). Its just a matter of using the tools and clarifying delegation / capacity / standing. Its a fertile area, nice to see your writing! I'm building the architecture for an aspect of this here - https://siltcore.org/",
+    "timestamp": "1772164914",
+    "date": "2/27/2026, 4:01:54 AM",
+    "id": "9307f9b31a39c64aafa52fef17b6aa6d3e2340d5403a6510a61da6f6fc4ba1a2",
+    "kind": 6
+  },
+  {
     "content": "Everyone hypes openclaw, but I think PAI is 10x better...\nnostr:naddr1qqgxgvnpxscrzcnrvd3rgvmrxgmnsqglwaehxw309aex2mrp0yh8gmmhv9exgumvd93x2un50yhxxmmd9upzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gu80j9kp",
     "timestamp": "1772070807",
     "date": "2/26/2026, 1:53:27 AM",
