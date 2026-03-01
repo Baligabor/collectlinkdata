@@ -1,5 +1,54 @@
 [
   {
+    "content": "PSA: Update to the latest Zapstore, and tell your friends to do so!\n\nSoon, Zapstore 0.2.7 or earlier will stop receiving some app updates.\n\nWe have initiated our progressive migration process to the new NIP which is only supported by Zapstore 1.0.0 or later. It will likely take a few months until all developers are moved over.\n\nhttps://nostrhub.io/naddr1qvzqqqrcvypzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqqz8qeqp2qk5p",
+    "timestamp": "1772311545",
+    "date": "2/28/2026, 8:45:45 PM",
+    "id": "e2882e9dff9286d0f8e789aa10c3ce3db64bd0cc9baeb7cd903e1400964ae4b6",
+    "kind": 6
+  },
+  {
+    "content": "I think apt checks signatures.\nYou only need to be careful when adding a new repo to verify the pubkey there.",
+    "timestamp": "1772294257",
+    "date": "2/28/2026, 3:57:37 PM",
+    "id": "80f2114da562eec5b927449dace8852e37d66e11e32c360e2af5bf942caa7bb3",
+    "kind": 1
+  },
+  {
+    "content": "They're just asking for faster horses...\n\nBut to be fair, there's like 101 packet managers on Linux already.",
+    "timestamp": "1772293454",
+    "date": "2/28/2026, 3:44:14 PM",
+    "id": "90d5edfea2a12cba38f306d749b0351c3901c0c41853213ca982111c0239c762",
+    "kind": 1
+  },
+  {
+    "content": "Someone should do something about that...",
+    "timestamp": "1772290056",
+    "date": "2/28/2026, 2:47:36 PM",
+    "id": "01fed31a77bc0860e3c7df0447d05857885230b15405e15c88778e495c731e7e",
+    "kind": 1
+  },
+  {
+    "content": "Really looking forward to read that!",
+    "timestamp": "1772288925",
+    "date": "2/28/2026, 2:28:45 PM",
+    "id": "c41d5e063ef57e4952fb36eb5e40e8ab1fc1c27b7d14db86726e9243bcb34850",
+    "kind": 1
+  },
+  {
+    "content": "War dreams of itself.\n\nI wish I didn’t write a book so relevant.\n\nhttps://wastedblood.com/",
+    "timestamp": "1772288911",
+    "date": "2/28/2026, 2:28:31 PM",
+    "id": "905d803d32be8951ac5b456ec7f67ded2da4da59d8f300cc3c2833e5a9986286",
+    "kind": 6
+  },
+  {
+    "content": "Nice!",
+    "timestamp": "1772288245",
+    "date": "2/28/2026, 2:17:25 PM",
+    "id": "6ce5eeca184d386a42c20cba2fb599f99a406f8e083bc6a81e01eb4b36c9f12f",
+    "kind": 1
+  },
+  {
     "content": "Yeah, thanks for reporting, It's very helpful, devs are checking now.",
     "timestamp": "1772201566",
     "date": "2/27/2026, 2:12:46 PM",
