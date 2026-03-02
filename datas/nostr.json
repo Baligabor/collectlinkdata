@@ -1,5 +1,68 @@
 [
   {
+    "content": "nostr:npub1q3sle0kvfsehgsuexttt3ugjd8xdklxfwwkh559wxckmzddywnws6cd26p it also support links to https://webxdc.com apps inside the marmot group :D",
+    "timestamp": "1772396826",
+    "date": "3/1/2026, 8:27:06 PM",
+    "id": "5fea6724d62b3225546821d02a435f69a66a82aaf842eef1853bb70abd3e7f26",
+    "kind": 6
+  },
+  {
+    "content": "Terere > water",
+    "timestamp": "1772396295",
+    "date": "3/1/2026, 8:18:15 PM",
+    "id": "9fc5d85a6e73d299157605ae4dac3856ef1ebf3c4f122e66c86e670635c30983",
+    "kind": 1
+  },
+  {
+    "content": "It even runs hosted on GitHub pages, kinda incredible.\nhttps://github.com/marmot-protocol/marmots-web-chat\n\nnostr:nprofile1qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszythwden5te0dehhxarj9emkjmn99uq35amnwvaz7tms09exzmtfvshxv6tpw34xze3wvdhk6tc4uevew & nostr:nprofile1qqsypwwgtll74lqu4huvxzjwtjyxvrlkujt35rw8y026ke6ttesmg5gpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qg6waehxw309aex2mrp0yhxummnw3exx6r9vd4jumt99uptc9xg did an amazing job to get that working.",
+    "timestamp": "1772390199",
+    "date": "3/1/2026, 6:36:39 PM",
+    "id": "642a236e41a4d05bdfe2adea257217b213f3822b16241bdf2f78be3a248bd821",
+    "kind": 1
+  },
+  {
+    "content": "First messages delivered between nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp and Marmot-ts web app, interoperability achieved!",
+    "timestamp": "1772386595",
+    "date": "3/1/2026, 5:36:35 PM",
+    "id": "7b6b15c2689db16dd0fcc917fcb83eea82ce8d9c001c89f02eb8c3324e851861",
+    "kind": 1
+  },
+  {
+    "content": "A lot happened in February. Here's the full story 👇\n\nnostr:naddr1qvzqqqr4gupzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhqy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzkmtpwfkk7apdwpex7ar0vdhkcttddah8g6rv0ykhyetrv9cz6en9vfe82ctj0yknyvpjxc3gh6p9",
+    "timestamp": "1772381623",
+    "date": "3/1/2026, 4:13:43 PM",
+    "id": "4c38303f3bcd90c53f0933d7f8353004ae4748cbb9ceff000868ff8f652045be",
+    "kind": 6
+  },
+  {
+    "content": "Access Now documented 296 internet shutdowns across 54 countries in 2024. Encryption protects the message but not the wire it travels on, and governments that cannot read your traffic can still ensure you never send it. Mesh networking inverts this vulnerability by making every device both an endpoint and a relay, operating on unlicensed spectrum with no towers and no permission required. The economics of mesh convert communication infrastructure from a centralized public utility into a club good where each participant's contribution directly improves their own service. A $30 radio in a window is the minimum viable defense against a shutdown playbook that assumes the government controls the infrastructure. \nnostr:naddr1qqgx2vt9vcuxgd3kxqex2dfkxuek2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wuq4yzd",
+    "timestamp": "1772371475",
+    "date": "3/1/2026, 1:24:35 PM",
+    "id": "732210cd5252cc4fdc129c5c22b21e0dc0542fae4149f80774fe8b8ffb296501",
+    "kind": 1
+  },
+  {
+    "content": "Awesome, it really is a great harness. ",
+    "timestamp": "1772367501",
+    "date": "3/1/2026, 12:18:21 PM",
+    "id": "a227128418ff440738d807b5a5835f46237c4210c32074c1dcb642697e81d2ad",
+    "kind": 1
+  },
+  {
+    "content": "They made a big mistake with that move...\nYou got this brother, that's what all the training was good for.",
+    "timestamp": "1772362224",
+    "date": "3/1/2026, 10:50:24 AM",
+    "id": "f49d2e898ce92059e2c001d6bea3d103db1970f06f8acf0c2df7e7ba1ba86111",
+    "kind": 1
+  },
+  {
+    "content": "For $232 worth of bitcoin …\n\nPurchased by an agent on my old platform paxful 4 years ago, the DoJ had me kidnapped in Mexico and tried to get me detained into one of the worst prisons in the US for a few years hoping to break me so I would plead to bogus charges.\n\nThe War on Crypto never ended. My crime was making crypto useful for the common human. That is the one unforgivable sin.\n\nWho wants to see the NetFlix series ?",
+    "timestamp": "1772361940",
+    "date": "3/1/2026, 10:45:40 AM",
+    "id": "420a29b54b86d1cda820e4cd60bcbe561f887e591a96e1c80fe0dcce4bf003dd",
+    "kind": 6
+  },
+  {
     "content": "PSA: Update to the latest Zapstore, and tell your friends to do so!\n\nSoon, Zapstore 0.2.7 or earlier will stop receiving some app updates.\n\nWe have initiated our progressive migration process to the new NIP which is only supported by Zapstore 1.0.0 or later. It will likely take a few months until all developers are moved over.\n\nhttps://nostrhub.io/naddr1qvzqqqrcvypzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqy2hwumn8ghj7un9d3shjtnyd968gmewwp6kyqqz8qeqp2qk5p",
     "timestamp": "1772311545",
     "date": "2/28/2026, 8:45:45 PM",
