@@ -1,5 +1,68 @@
 [
   {
+    "content": "Yup",
+    "timestamp": "1772565248",
+    "date": "3/3/2026, 7:14:08 PM",
+    "id": "54f96571ed72d53f43a3f947fbf29b7d8ff9000db788bc3be85523535f6789a1",
+    "kind": 1
+  },
+  {
+    "content": "By far...",
+    "timestamp": "1772565236",
+    "date": "3/3/2026, 7:13:56 PM",
+    "id": "b25bcbcf67659bac8a8779d6ffa9e2000fd5d02f1837be87c8d1d1ab05391276",
+    "kind": 1
+  },
+  {
+    "content": "+1, it's 4 in a day now... Wut?!",
+    "timestamp": "1772565148",
+    "date": "3/3/2026, 7:12:28 PM",
+    "id": "b3874026f783c5665bc85c88de10e9a758d76c842bda68dfb90bc5504638fe83",
+    "kind": 1
+  },
+  {
+    "content": "nostr:npub1jgm0ntzjr03wuzj5788llhed7l6fst05um4ej2r86ueaa08etv6sgd669p looked at PAI, decided he could build it better, then rebuilt the entire thing from scratch with a cleaner codebase and first-class opencode support. He kept all five of PAI's structural primitives. That a ground-up rewrite preserves the same architecture is the strongest argument that the architecture is correct. \nnostr:naddr1qqgrxepsxycxyv3jxu6rgvrrvccx2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w7uv5y2",
+    "timestamp": "1772559028",
+    "date": "3/3/2026, 5:30:28 PM",
+    "id": "1d250d9dbf95053f4dfd362739bfab2c8d9bc008247270c86ba6258bc0964083",
+    "kind": 1
+  },
+  {
+    "content": "Honestly I can't even imagine that...",
+    "timestamp": "1772558779",
+    "date": "3/3/2026, 5:26:19 PM",
+    "id": "51be418ca21eda53f85f43f5ee1ebb65ab763c8ba1e038bd6cb26d2792c51531",
+    "kind": 1
+  },
+  {
+    "content": "Encrypted group messaging over nostr.",
+    "timestamp": "1772558764",
+    "date": "3/3/2026, 5:26:04 PM",
+    "id": "a83aea6dd5112a9d2f6211f7eb1506adca31aeb4d5d206dae95b0d5123c74c30",
+    "kind": 1
+  },
+  {
+    "content": "Desktop TUI for marmot groups!\nhttps://github.com/marmot-protocol/wn-tui\n\nBy nostr:nprofile1qqsfydhe43fphchwpf20rnllmukl0ayc9h6wd6ue9pnawv77hnu4kdgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7f4yxm3",
+    "timestamp": "1772558739",
+    "date": "3/3/2026, 5:25:39 PM",
+    "id": "44bd68fb6a602052450c944f97fafc1b505e3f3826e0ec3ad0ca68bb36a8895f",
+    "kind": 1
+  },
+  {
+    "content": "Today I learned about 3 new marmot clients.\n\nWe're at 7 interoperable clients now!\n\nBlows my mind.",
+    "timestamp": "1772555614",
+    "date": "3/3/2026, 4:33:34 PM",
+    "id": "5278d02107f2505c9c1cf9bb684b99bb91e13e54578e4323bf99f1b9cdec4716",
+    "kind": 1
+  },
+  {
+    "content": "That's awesome!",
+    "timestamp": "1772548276",
+    "date": "3/3/2026, 2:31:16 PM",
+    "id": "4a4052b97726c1187091e76584ed8b3b1bfa539ad00a9768166bce39d540a295",
+    "kind": 1
+  },
+  {
     "content": "1M+ nostr:nprofile1qydhwumn8ghj7mn0wd68yttsw43zuum9d45hxmmv9ejx2aspr4mhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet5qqsfzszrtw60ut24h28k0qy3cdyxhvpp2zx4lwyqzdfm7xwjsaxsj2qv20hur  users now have Lightning ⚡️\n\nInstant, self-custodial bitcoin. Value moving like information.\n\nPowered by the Breez SDK - Spark.\n https://blossom.primal.net/2a90e168dd2b854fd4d1afff5d53da472aa4a9afc03c2f1122714a50ceacde02.mp4 ",
     "timestamp": "1772477822",
     "date": "3/2/2026, 6:57:02 PM",
