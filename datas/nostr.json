@@ -1,5 +1,124 @@
 [
   {
+    "content": "Good point\n",
+    "timestamp": "1772667530",
+    "date": "3/4/2026, 11:38:50 PM",
+    "id": "b3208481a8619e928dfa6d25ff79fa9a8b189b38178008c5c55f645030209c7a",
+    "kind": 1
+  },
+  {
+    "content": "join #nostr 💜🧡🙂\nhttps://v.nostr.build/DUVAWGjGfbo7oqNO.mp4\nhttps://i.nostr.build/1ZgforOoLfiYbSF9.jpg\n#archjourney #freedom #AJstr #ajmix #nostrposter #poster #bitcoin #nostrgr #artstr #plebchain #grownostr #nostrdesign",
+    "timestamp": "1772662028",
+    "date": "3/4/2026, 10:07:08 PM",
+    "id": "cd87620bd62bdd05f8a8461a8a780f2d8d5921b500ba86410a69e1727beb825d",
+    "kind": 6
+  },
+  {
+    "content": "MDK v0.7.0 is out on crates ",
+    "timestamp": "1772656253",
+    "date": "3/4/2026, 8:30:53 PM",
+    "id": "3916a8099fb8b07d1aac2b11b41308b52a56363b95a4b870d1dddc7e97ebf133",
+    "kind": 1
+  },
+  {
+    "content": "Nice one!",
+    "timestamp": "1772653410",
+    "date": "3/4/2026, 7:43:30 PM",
+    "id": "1f1e3a65804be0c2f613b561c0aef5a4ab7a91ba4393cf4fc5a568d0997a7ea7",
+    "kind": 1
+  },
+  {
+    "content": "https://primalpaul1.github.io/paul-guides/",
+    "timestamp": "1772653407",
+    "date": "3/4/2026, 7:43:27 PM",
+    "id": "a88d1bd7122a4c4f65d573369aef189f2f4bc752442f2581c0b0cce5e58ac5b9",
+    "kind": 6
+  },
+  {
+    "content": "Audio book of Rothbard at 100:\n\nhttps://m.youtube.com/playlist?list=PLPsGN9FqHc8Ffe9arjt-t6ZEcg_ZBgxva\n\nhttps://cdn.nostrcheck.me/b7ed68b062de6b4a12e51fd5285c1e1e0ed0e5128cda93ab11b4150b55ed32fc/fdf840e12d49356654b783071b52a488c5ea6ff73e664780291ccb898e22be74.webp",
+    "timestamp": "1772646993",
+    "date": "3/4/2026, 5:56:33 PM",
+    "id": "5ff9c3578a0e4d4ac5d55c22f957f9048e3a5c70277e79082f3ed0e1ee5a58f6",
+    "kind": 1
+  },
+  {
+    "content": "Oh cool, gotta read that!",
+    "timestamp": "1772646811",
+    "date": "3/4/2026, 5:53:31 PM",
+    "id": "9490708f22576d71203e61352b173b3af840e1996724cf9fe945945024f2b972",
+    "kind": 1
+  },
+  {
+    "content": "Murray Rothbard’s 100th birthday \n\nhttps://image.nostr.build/5d1fbbd7d07129428eea2fc5e9e69a32811c59470aa6b5ef3e139959223bdf9d.jpg",
+    "timestamp": "1772646798",
+    "date": "3/4/2026, 5:53:18 PM",
+    "id": "7b33294641a8e7abc4029a4ace78e8765a47054288f3ce1bb9d5f2de2df0b02e",
+    "kind": 6
+  },
+  {
+    "content": "What if I told you that you could listen to both? \n(Click & Zoom for Details)\n\nJust having some fun with the \"Self-Sovereign Mix Tapes\" last night after the Marmot Community Call. Marmot + Nostr ecosystem is heatin' up! nostr:nprofile1qqst37fwv8n363vx4eh7d9c0w0wslkufqyy43830g9a773zmhw5jergut5jp4 nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04ac04xqkm \n\nhttps://image.nostr.build/66ae956d079d8a2fffc5fdbf3c4238ea6d7dae64e92f1343c77b7465f1320ca6.jpg\n https://image.nostr.build/6f78584af4a98e68622fe426a0ae4b729bffc0bb6cd1625e9d0ca02035b200b1.jpg",
+    "timestamp": "1772645478",
+    "date": "3/4/2026, 5:31:18 PM",
+    "id": "591e1a22187cd10000567f27bf71f1596bc6f7a5e7ce5f0185a437c16032dff6",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsy6j4hxl30hdd0pl2epd9harr0uakn5q4f0y000ldv7cqlneg04kqpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz8thwden5te0dehhxarj9e3hjurgv4e8qatwdvh8gmmyv9uj7qghwaehxw309ahx7um5wghxy6t5wp6ku6ewvekj7su0fdq will appreciate ",
+    "timestamp": "1772645470",
+    "date": "3/4/2026, 5:31:10 PM",
+    "id": "b78734df26b09c040123fb34a773d1ab231481416a6bf5c7f09d130068d17dc4",
+    "kind": 1
+  },
+  {
+    "content": "I am so bullish after the Marmot community 🦫 \n\n- 35 people joined\n- we learned about 3 new marmot based projects that we hadn't known about\n- we learned that someone has written a C# implementation\n- we demoed interoperability between three different MDK based clients (whitenoise, whitenoise-cli, Pika), and marmot-ts based web chat\n- we're releasing another White Noise version & another MDK version tomorrow\n- we'll release the whitenoise-cli + a super cool TUI later this week. this will be the best way to talk to your agents, bar none. e2ee, no phone number verification, and the best money on the planet, built right in.\n- we're starting on push notifications and multi-device support next week.",
+    "timestamp": "1772645375",
+    "date": "3/4/2026, 5:29:35 PM",
+    "id": "5c32065cf91ade6b3c13e48330db3f8904dd0a8b2a53d48fbcdf3fe12be8db6c",
+    "kind": 6
+  },
+  {
+    "content": "I never used the voice output, and always removed the status line, too much clutter for my taste ",
+    "timestamp": "1772640650",
+    "date": "3/4/2026, 4:10:50 PM",
+    "id": "46ba404f6568ac82ff9923aafab66c4e2f93da37f912620d07d2d9733db9dead",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass #12 is out. \n\nThe Marmot Development Kit shipped v0.6.0 as its first public release with encrypted media, multi-language bindings, and over 200 merged PRs. Nostrability published outbox model benchmarks testing 14 relay selection algorithms across 15 clients, finding that Thompson Sampling with dead relay filtering pushes event recall above 90%. Wisp, a new Android client, went from first alpha to beta in eight days with 19 releases, Tor support, and NIP-55 signing. This issue also covers NIP-91 (AND filters) merging, Vector v0.3.1's 15x performance gains, and a Five Years of Nostr Februaries retrospective tracing the protocol from three relays to mesh networking. \nnostr:naddr1qqgrwdnxvyukxdnpv3jnjcehxdnrvq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wem3n2q",
+    "timestamp": "1772633747",
+    "date": "3/4/2026, 2:15:47 PM",
+    "id": "3862932613c951036396226d83faf1d51bcdc8bfbb70388daa4e649e3ed1d306",
+    "kind": 6
+  },
+  {
+    "content": "Yeah, surprising",
+    "timestamp": "1772620946",
+    "date": "3/4/2026, 10:42:26 AM",
+    "id": "c98766a9d9c81371eaa7f212a8a907f04853641a48a2fa4f68a6818acee15267",
+    "kind": 1
+  },
+  {
+    "content": "Doing a webinar on how to secure your grapheneOS phone while traveling, March 5th 1700 UTC\n\nhttp://shopinbit.com/webinar",
+    "timestamp": "1772620897",
+    "date": "3/4/2026, 10:41:37 AM",
+    "id": "54cbf2d8d22e8a024cd5d4afbc942b6e0a3dba9e7cddd060ce8ba47db3af0c8c",
+    "kind": 1
+  },
+  {
+    "content": "462 inputs, 642 outputs.\n\nMassive coinjoin transaction!\n\nhttps://mempool.space/tx/c559ee0e19aa8ce15ee1191b611daf409e90ddb6eca1d887590806e04d4ebbe3?mode=details",
+    "timestamp": "1772593401",
+    "date": "3/4/2026, 3:03:21 AM",
+    "id": "c6f4f0980fc377381a19e62539e0ef3d3269c52979ae375312643a4183b4f6a3",
+    "kind": 1
+  },
+  {
+    "content": " https://blossom.primal.net/79c0a02caf6d78577ad1f4ef04dd90ca161a067f778a3f40a31e2a195e0f13a1.png \nLook at this beautiful new feature in master branch of Wasabi Wallet 🕶️\nTest it out with a round of https://coinjoin.nl ",
+    "timestamp": "1772593012",
+    "date": "3/4/2026, 2:56:52 AM",
+    "id": "73740c4b24644461cc2eb5d489942585b541fdd57208185d6c4c18453dc8f583",
+    "kind": 6
+  },
+  {
     "content": "Yup",
     "timestamp": "1772565248",
     "date": "3/3/2026, 7:14:08 PM",
