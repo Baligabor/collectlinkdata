@@ -1,5 +1,208 @@
 [
   {
+    "content": "I'd say marmot, but that's hard for now... ",
+    "timestamp": "1772751458",
+    "date": "3/5/2026, 10:57:38 PM",
+    "id": "516fc6f0273dce5a5acf1e4a98f27224eed0f09f86ce433ade5f9cc646dd594c",
+    "kind": 1
+  },
+  {
+    "content": "Yeah that's probably it.",
+    "timestamp": "1772748425",
+    "date": "3/5/2026, 10:07:05 PM",
+    "id": "16ec4142b5cb4414428322bdf3e62d8fa71c9fde0e63bdf799368a137e9c3370",
+    "kind": 1
+  },
+  {
+    "content": "Are you on latest version of zapstore?",
+    "timestamp": "1772747184",
+    "date": "3/5/2026, 9:46:24 PM",
+    "id": "e07d8f615aaeb7031466b6b42a0ef05b4b58bbc5c2fd0d39e9f00743e5021706",
+    "kind": 1
+  },
+  {
+    "content": "Go back and forth and it should show.",
+    "timestamp": "1772747162",
+    "date": "3/5/2026, 9:46:02 PM",
+    "id": "e96d7555cdcd62d5e21ab97440f3aad1561e56b0aec93b026976fea0ee5157a9",
+    "kind": 1
+  },
+  {
+    "content": "Ok ok, let's be real & stay humble, it's not really working, just less broken... 🙃\nnostr:nevent1qqs8ypvxawx0efav9plwyf7ncj5709vxmaz267nthmg4eeac8lduk8qpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgny0q2d",
+    "timestamp": "1772746836",
+    "date": "3/5/2026, 9:40:36 PM",
+    "id": "35c8f13c4d1aa5d99b3c34ea6ef5946c907bfbfce842f6c08dc1b05fec1295fd",
+    "kind": 1
+  },
+  {
+    "content": "Nope its actually not fixed... ",
+    "timestamp": "1772746574",
+    "date": "3/5/2026, 9:36:14 PM",
+    "id": "c6cd63e29db1340a4fae6f18eadf8c645c187bb9ec1c1ac4ee58540fde61cbf0",
+    "kind": 1
+  },
+  {
+    "content": "You're on 0.3.0 and that's incompatible with 2026.3.5",
+    "timestamp": "1772746380",
+    "date": "3/5/2026, 9:33:00 PM",
+    "id": "62db6a28f251e84eef4941af5f86da22ec3090da2b155e82048cb6944b7a81bf",
+    "kind": 1
+  },
+  {
+    "content": "I thought that's fixed in latest?",
+    "timestamp": "1772746342",
+    "date": "3/5/2026, 9:32:22 PM",
+    "id": "825ae82a1b705c10df8e1f6f1fbef84747755f025be1846a6d3b69c0b3b6c5af",
+    "kind": 1
+  },
+  {
+    "content": "Actually 2026.3.5, we switched to date based release versions.",
+    "timestamp": "1772746326",
+    "date": "3/5/2026, 9:32:06 PM",
+    "id": "2e7346c0efbdface6f79b8cbecb518c4f75a0bfd0938ab6546a10a2b9c582c2b",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #10 is out.\n\nThis week: Blossom local cache from 4 independent projects, competing AI agent NIPs from joelklabo and pablof7z, Alby's NWC sandbox, FROST threshold signing on Android, decentralized map tiles over Nostr, Mostro's built-in Lightning wallet, and deep dives into NIP-85 Trusted Assertions and NIP-52 Calendar Events.\n\nhttps://blossom.primal.net/193b251f8368b793351f9d37c23d725b4b9fcc532a444388f0e48fc775b53cd3.mp3\n\nhttps://podcast.nostrcompass.org/naddr1qvzqqqr4vcpzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqp7etsd9ek7er995cnwde38ymrydfexcmrzwpdv3cxumpe8pa8z7qvpm54w\n\n#podcast #nostr",
+    "timestamp": "1772746279",
+    "date": "3/5/2026, 9:31:19 PM",
+    "id": "0e02dfe26392c62e6537088de547180dd98784e97a39976bb855915d9c210b5e",
+    "kind": 6
+  },
+  {
+    "content": "Are you up to date?",
+    "timestamp": "1772744892",
+    "date": "3/5/2026, 9:08:12 PM",
+    "id": "f2c87dd381cabcc221a8dfbbf403af7f1263fec0f6a2c2fd22cbf85425800a1f",
+    "kind": 1
+  },
+  {
+    "content": "Well... Let's say it's less broken than the previous one...",
+    "timestamp": "1772744812",
+    "date": "3/5/2026, 9:06:52 PM",
+    "id": "834e35a4ef39713e5566a1fdd5aca4a10f39f93045ed2d4a1c61f4385450260c",
+    "kind": 1
+  },
+  {
+    "content": "Now with amber support I'm finally using White Noise on my main account, shoot me a DM please if you want to test!\nnostr:nevent1qqs8ypvxawx0efav9plwyf7ncj5709vxmaz267nthmg4eeac8lduk8qpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgny0q2d",
+    "timestamp": "1772743832",
+    "date": "3/5/2026, 8:50:32 PM",
+    "id": "6e040ea82fc673cd212363e6012ce628d983747ff651b24c84d2c96ed235bc6d",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, and the fact that it runs in the browser is still unbelievable to me...",
+    "timestamp": "1772743641",
+    "date": "3/5/2026, 8:47:21 PM",
+    "id": "c5efc31b87d667d82fe1436400950a4cb81b67868eba719682015552649e8430",
+    "kind": 1
+  },
+  {
+    "content": "Insane progress this week on nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhwp9puf! Way more stable, more real-time, better crypto. \n\nI know I've been working on this for nearly 2 years, but I still have trouble believing that we've managed to build a fully E2EE messenger with forward secrecy, post-compromise security, and FULL interoperability between completely different apps and clients. 🤯\n\nSo much more in the works too. 🔥\n\nDownload the app on nostr:nprofile1qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yhxummnw3ezucnpdejz7qpq0r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7s85uvay now and TestFlight very soon.",
+    "timestamp": "1772743602",
+    "date": "3/5/2026, 8:46:42 PM",
+    "id": "306bafaf3d91c0cd3a0dc7c5420ee4fffa6ef82767f1d828a556d46eb9f4a69b",
+    "kind": 6
+  },
+  {
+    "content": "Only out on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzfmhxue69uhkummnw3e82efwvdhk6tcjpdwyx for now.\nApple prisoners will get it when the guards allow us to send them a letter into the gulag.\nUse a real computer if you want to use the cool stuff.\nnostr:nevent1qqspy887tktmp286tw74xa2vfdzq9q7lmzraezafspl2y87t9cz5ejgppemhxue69uhkummn9ekx7mp0qgs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acrqsqqqqqp777sat",
+    "timestamp": "1772743437",
+    "date": "3/5/2026, 8:43:57 PM",
+    "id": "416297e6cf23551f3fae2e3e85a947553ba6a5df9dec6dd00c228e03afb8a768",
+    "kind": 1
+  },
+  {
+    "content": "We did it!\nnostr:nevent1qqspy887tktmp286tw74xa2vfdzq9q7lmzraezafspl2y87t9cz5ejgppemhxue69uhkummn9ekx7mp0qgs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acrqsqqqqqp777sat",
+    "timestamp": "1772743378",
+    "date": "3/5/2026, 8:42:58 PM",
+    "id": "d95a1119bfe7ca2ad1cf71b3dfc597d91c8d1fda9fda4bc8da342c8265c00557",
+    "kind": 1
+  },
+  {
+    "content": "Finally White Noise release is out!\nThis is the first release that I'm actually comfortable with to recommend to friends.\nInsanely proud of the team, so much work was done!\n\nnostr:naddr1qqfhw6rfw3jj6mn0d9ek2ttkxgcryd3nx5q3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59upzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhqvzqqqr4gux747xs\n\nWe also switched to date based release numbers.",
+    "timestamp": "1772743264",
+    "date": "3/5/2026, 8:41:04 PM",
+    "id": "720586eb8cfca7ac287ee227d3c4a9e79586df44ad7a6bbed15ce7b83fdbcb1c",
+    "kind": 1
+  },
+  {
+    "content": "You can remove the other two imo...",
+    "timestamp": "1772740849",
+    "date": "3/5/2026, 8:00:49 PM",
+    "id": "b76699ae312633df029364a5871e3dec1436a2f4624a6788602e3cdb7e87e79b",
+    "kind": 1
+  },
+  {
+    "content": "Nope, this is live only, join the next one!",
+    "timestamp": "1772740364",
+    "date": "3/5/2026, 7:52:44 PM",
+    "id": "e8c6ddf61fc0e4d143727b86e1baf2bcdfaf31be990cd953005a5fd8993a92d4",
+    "kind": 1
+  },
+  {
+    "content": "Just use nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpzfmhxue69uhkummnw3e82efwvdhk6tcjpdwyx, way better!",
+    "timestamp": "1772740341",
+    "date": "3/5/2026, 7:52:21 PM",
+    "id": "07828eec5896b38be4f8210ce8b1c1da5a5fef5d49d0cc50add15ea94bb1c2b7",
+    "kind": 1
+  },
+  {
+    "content": "About to go live, join and learn more about #GrapheneOS\nnostr:nevent1qqs9fjljmrfzazszfn2aftaujs4kuz3ah208ehwsvr8ghfrakwhserqppemhxue69uhkummn9ekx7mp0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqqqpv2mqwu",
+    "timestamp": "1772733347",
+    "date": "3/5/2026, 5:55:47 PM",
+    "id": "70477fd6249913117118a86a8f5392c3ff2a6fdb4b420855cec260a0745ffaf1",
+    "kind": 1
+  },
+  {
+    "content": "Done! Already with the last release.",
+    "timestamp": "1772729783",
+    "date": "3/5/2026, 4:56:23 PM",
+    "id": "c33a66fa1f0c32d67272c9744a40cab2387f0498966bff17b38fb0f5b5068d88",
+    "kind": 1
+  },
+  {
+    "content": "The next White Noise release will *actually* just work.\nI know I said that about the last couple releases too, but now it might actually be true!",
+    "timestamp": "1772728588",
+    "date": "3/5/2026, 4:36:28 PM",
+    "id": "11673d738d589e2065f86a29d70fd72dd72417902807f4d4de6e87be14f26f22",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp now has a command line interface for desktop!\nThis is perfect for your ai agent to learn how to send private messages.\n\nhttps://github.com/marmot-protocol/whitenoise-rs/pull/537\n\nnostr:nprofile1qqsfydhe43fphchwpf20rnllmukl0ayc9h6wd6ue9pnawv77hnu4kdgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7f4yxm3",
+    "timestamp": "1772722122",
+    "date": "3/5/2026, 2:48:42 PM",
+    "id": "b57dcd657ad13a856bf6f27d7be4d668424a3d06b6d7dd59540130e644ace975",
+    "kind": 1
+  },
+  {
+    "content": "Released: Route96 v0.5.1 (nostr.download)\n\nThis is a substantial release. The Axum migration alone was a significant undertaking, and on top of that there's perceptual hashing, video AI labeling, Lightning payments, and a lot of admin tooling. The server is much more capable than it was at v0.4.0.\n\nBackend:\n- Migrated HTTP backend from Rocket to Axum\n- Added perceptual image hashing (pHash) for similar image search\n- Added AI content labeling for video files, with auto-download of the ViT model from HuggingFace\n- Added EXIF metadata validation to reject uploads containing sensitive data like GPS coordinates\n- Added Lightning payment integration with per-user storage quotas\n- Added bulk admin endpoints for review, delete, and ban operations\n- Added mirror tool for replicating blobs across Blossom servers\n- Optimized SQL queries and added missing indexes\n- Fixed range request handling, auth timestamp window, and CORS headers\n- Fixed quota checks being applied when no payment config is present\n- Fixed deletion of banned files to preserve the hash record\nUI:\n- Rebuilt the frontend from scratch with a new theme\n- Removed NIP-96 upload in favour of Blossom-only with auto-upload and default compression\n- Added similar image search view in the admin panel\n- Added admin reporting UI and purge account functionality\n- Added mirror suggestions when browsing Blossom servers\n- Added upload progress bar with average speed display\n- Added storage quota display and payment flow\n- Fixed page buttons and MIME type filtering in the admin file list",
+    "timestamp": "1772720579",
+    "date": "3/5/2026, 2:22:59 PM",
+    "id": "cdc13def2f341b03d0337f4439ca713e24eaa0f101ebd1439fa99e6f1070d7f5",
+    "kind": 6
+  },
+  {
+    "content": "And now we have it!",
+    "timestamp": "1772720189",
+    "date": "3/5/2026, 2:16:29 PM",
+    "id": "f60e32490899618989f9e46fa49877dd6b7982dfc78488e95459a2de2fe69354",
+    "kind": 1
+  },
+  {
+    "content": "Would be cool of keychat joins the burrow.",
+    "timestamp": "1772715848",
+    "date": "3/5/2026, 1:04:08 PM",
+    "id": "e0fc225ce3d19d426a6cbda57b654f52dc6a9a7bdae60d9985148447905bbd4c",
+    "kind": 1
+  },
+  {
+    "content": "You can try it here:\nhttps://marmot-protocol.github.io/marmots-web-chat/",
+    "timestamp": "1772715822",
+    "date": "3/5/2026, 1:03:42 PM",
+    "id": "81a74686a18ba01041333bdb921c447fb5bb916be0a16cb99cc51467dee06ab6",
+    "kind": 1
+  },
+  {
     "content": "Good point\n",
     "timestamp": "1772667530",
     "date": "3/4/2026, 11:38:50 PM",
