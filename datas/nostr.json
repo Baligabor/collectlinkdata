@@ -1,5 +1,166 @@
 [
   {
+    "content": "We deliver shippable intermediaries.",
+    "timestamp": "1772844321",
+    "date": "3/7/2026, 12:45:21 AM",
+    "id": "bbec04a25264e0a2be0242b1dd481630101e619b992aef8e194bcd5a0d859b2c",
+    "kind": 1
+  },
+  {
+    "content": "Its there, just go back and forth and search for a second time, then you can chat.\nThat lookup bug should be fixed soon.",
+    "timestamp": "1772844235",
+    "date": "3/7/2026, 12:43:55 AM",
+    "id": "4b583739e7b6ca77cf89d0fb3a41c50c16056d7c82f8910f3389bc5a679984f5",
+    "kind": 1
+  },
+  {
+    "content": "Getting close to being able to release pomade to Flotilla users. Here's a boring video which showcases the UX:\n\nhttps://coracle-media.us-southeast-1.linodeobjects.com/pomade_demo_20260306.webm",
+    "timestamp": "1772841476",
+    "date": "3/6/2026, 11:57:56 PM",
+    "id": "c860b43a703d5c74a41ecddb37e9e4a47fe12ff5126256e1566a0144f24cb8d1",
+    "kind": 6
+  },
+  {
+    "content": "git hooks.",
+    "timestamp": "1772841453",
+    "date": "3/6/2026, 11:57:33 PM",
+    "id": "c2401feff3c65314ab26d759e31ed0efde4e0757c6180d41ebd0f8e9255fa4e7",
+    "kind": 1
+  },
+  {
+    "content": "Released ngit v2.3.0 which now supports issues, comments. Add the skill and ask ai to create a git nostr repo and explore the features.\nnpx -y skills add https://relay.ngit.dev/npub15qydau2hjma6ngxkl2cyar74wzyjshvl65za5k5rl69264ar2exs5cyejr/ngit.git",
+    "timestamp": "1772840184",
+    "date": "3/6/2026, 11:36:24 PM",
+    "id": "f07ac0b9930629c8dc2224d5b5bf6a62e4db115dd99a5b500f816ae6f7dc17f5",
+    "kind": 6
+  },
+  {
+    "content": "And it'll get soooo much better...",
+    "timestamp": "1772838504",
+    "date": "3/6/2026, 11:08:24 PM",
+    "id": "b96409630d40a658b2b4a713790c23ef2b20ccc580b5e34a44fdd9e4a478fa2d",
+    "kind": 1
+  },
+  {
+    "content": "The nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp app has been overhauled and it so good! I used to have to use nostr:nprofile1qqsfhcskzx35zsnwj9rz2lz5z70z95tchd75zphzglwl8eg8k7v956cpz4mhxue69uhhyetvv9ujuerfw36x7tnsw43qamhmyn becuase it was so glitchy but it’s so good now!",
+    "timestamp": "1772838493",
+    "date": "3/6/2026, 11:08:13 PM",
+    "id": "7b1f62e8342293cb4cf895a0bf386c3036c1c80ec2a7fefd20a3f0915ce12334",
+    "kind": 6
+  },
+  {
+    "content": "Announcement: Manent v1.0.0\n\nI can see you: you're a little embarrassed because you're still using Telegram's Saved Message to keep your notes and share them between devices, right? Or are you struggling with messy interface solutions and intermittent synchronization? I understand you perfectly, from experience. That's why I created Manent, a private, encrypted space for your ideas - built on Nostr, of course.\n\nhttps://chronicle.dtonon.com/279febf1fda0ab74cd9a90d12811e43d3c6369f2c5a4194daf020192301436a7.jpg\n\nWrite notes, attach images and files, edit them anytime, and access everything across your devices. A simple and clear chronological order, zero fuss.  No plaintext data at rest or in transit, everything (notes, files, metadata) is encrypted with NIP-44 before leaving your device.\n\nManent is multi-platform: Web, Android, Linux, macOS (iOS and Windows builds untested).\n\nDownload it now from https://github.com/dtonon/manent/releases\nA web instance is available at https://manent.dtonon.com",
+    "timestamp": "1772835110",
+    "date": "3/6/2026, 10:11:50 PM",
+    "id": "6a41f95d564dd09a7383116bd5dc8f202acbf3d56cf70d12bef340f4b5e4fda7",
+    "kind": 6
+  },
+  {
+    "content": "Yes me too...\nHopefully soon it'll work for those. We have a couple ideas on what's wrong and how to fix it, two weeks!",
+    "timestamp": "1772834715",
+    "date": "3/6/2026, 10:05:15 PM",
+    "id": "a0c344352a0c3a9a14b929b353cf4804265bd8ab01f369194693990ab0710220",
+    "kind": 1
+  },
+  {
+    "content": "You get their npubs in person or over a trusted existing channel.",
+    "timestamp": "1772834679",
+    "date": "3/6/2026, 10:04:39 PM",
+    "id": "9492e642764dee588578aa0aac15dfd1a57b70a9da9ae25486e65c12aa0e04e5",
+    "kind": 1
+  },
+  {
+    "content": "Or they just send you a DM from their main npub mentioning the new npub. Trust can be inherited this way.",
+    "timestamp": "1772832549",
+    "date": "3/6/2026, 9:29:09 PM",
+    "id": "d18928f707f7e921628b2b51ba2b3fcd0d4d6fb61c11023e79dfd4814f20d168",
+    "kind": 1
+  },
+  {
+    "content": "Just try with a new npub and it should work great.",
+    "timestamp": "1772832481",
+    "date": "3/6/2026, 9:28:01 PM",
+    "id": "751d39f05708801fa2b23a3c93300cf71d9538fd939b04cdbb71bc4bd75ff56f",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, we need better clean up tools",
+    "timestamp": "1772832467",
+    "date": "3/6/2026, 9:27:47 PM",
+    "id": "3469e4dc3e82db9640d86f18aadf574604b654d08c52d03ebf068b4902f256b4",
+    "kind": 1
+  },
+  {
+    "content": "Check DMs",
+    "timestamp": "1772810006",
+    "date": "3/6/2026, 3:13:26 PM",
+    "id": "9257f4a0ef4012c1307fbb34d894e590a7f35d8f421fb11015a027604f2ef1af",
+    "kind": 1
+  },
+  {
+    "content": "The latest nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp release works well for new npubs, but if you have a lot of follows, the app connects to too many relays and gets overwhelmed, messages don't get sent or received then. \nEven when you log out of that large account, the error will persist, so you'll have to wipe the storage completely and log in with a fresh of low follow count account.\nPlease have a bit of patience, the next release should fix that, sorry!",
+    "timestamp": "1772809952",
+    "date": "3/6/2026, 3:12:32 PM",
+    "id": "40e1814a61cd1c9d1257c8519278f481393da01a4eb7d55657b010512d2df952",
+    "kind": 1
+  },
+  {
+    "content": "Odd. The devs will investigate, thanks for the report!\nDo you see anything interesting in the logs? (Developer settings)",
+    "timestamp": "1772809789",
+    "date": "3/6/2026, 3:09:49 PM",
+    "id": "ae75654383abd972c3ad43ffa76ebf5f1c005d1005492f2bcfa2643a98243bff",
+    "kind": 1
+  },
+  {
+    "content": "The people whom you follow on your shitposting client will show up as follows in White Noise. \nLayer we'll add more WoT things to the app, like reputation scores etc.",
+    "timestamp": "1772809731",
+    "date": "3/6/2026, 3:08:51 PM",
+    "id": "62ae2c9d4e640d80aa500cec2bb6d2d6752b9fb36dd431d1ce456756272facca",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, my account has some issues because of too many follows, relay loading overwhelms the app... Next release should fix that hopefully.",
+    "timestamp": "1772809682",
+    "date": "3/6/2026, 3:08:02 PM",
+    "id": "1f624de61901a88f99cf610b41289a139f5a80bbfaa870e8894f154aa0aa4eac",
+    "kind": 1
+  },
+  {
+    "content": "Go back and try a second time, that's a known bug we'll fix soon",
+    "timestamp": "1772800373",
+    "date": "3/6/2026, 12:32:53 PM",
+    "id": "db746d3d340f7fcb4c7fbddcf4d6f2423b0e1f03b98d64f07ff03b201c10e7f9",
+    "kind": 1
+  },
+  {
+    "content": "Is the era of \"one-size-fits-all\" software coming to an end?\nToday, we are reading Max Hillebrand's fascinating take on how AI and the open source movement are teaming up to liberate users from modern SaaS bloated with telemetry.\nAre we truly ready for the era of hyper-personalized software?\n\nListen to Read_934 - The Code Liberation by nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsqzw64m on Bitcoin Audible, available on all major platforms:\n\n🔗 Fountain: https://fountain.fm/episode/ES2CKtjRnHfVmqBSWXHz\nhttps://blossom.primal.net/fcc727855efbf8616db618b2e37272542bbd32c9ef0e95d4c48b0c6b3c09c5ab.jpg",
+    "timestamp": "1772800271",
+    "date": "3/6/2026, 12:31:11 PM",
+    "id": "e5c4ce535aa31b2159e381f3ea4110d3823e5b41c7e16496ba2dcef9edd44cc6",
+    "kind": 6
+  },
+  {
+    "content": "GM\n\n“You don’t need to be a developer to help free software \n\nThere’s so much other stuff that need to be done, educating people about it, writing  documentation, marketing, going on stage, doing the product management.\n\nAll of the other stuff is essential”\n\nnostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0ych0a7 with nostr:nprofile1qqsx5dvc2g3cmjgz4mgelwlk5p2ln2ljrsw23y2ar38z0agd7tefpkgpxdmhxue69uhkuamr9ec8y6tdv9kzumn9wshkxdrfvguxsvnjwvmrycntd4kxkdrhw5mk5cntduuh2em3vfhqz9nhwden5te0daexzmn8v4cxjmrvv4ezummjvuwf32ff ",
+    "timestamp": "1772800237",
+    "date": "3/6/2026, 12:30:37 PM",
+    "id": "5618e4b3b03d6d6a1f0260eaca332758562a98b08c7242fadc117c964d6332cd",
+    "kind": 6
+  },
+  {
+    "content": "Nostr WOT fixes this way better.",
+    "timestamp": "1772800214",
+    "date": "3/6/2026, 12:30:14 PM",
+    "id": "360d0cd7ef98252332b8967d8f6ca05d5b2a503ff3a3a1afc43809ccc2c69571",
+    "kind": 1
+  },
+  {
+    "content": "Write Me here nostr:nprofile1qqsgpfv5evkhcfavfwmlzw2xwa4ahf3psknft5hhqk42uv60dfjfc2gsl22dj",
+    "timestamp": "1772800184",
+    "date": "3/6/2026, 12:29:44 PM",
+    "id": "76b9d8ac0bdf9a51bf56849b65d81fc9b0a1ea56063336b0edca03ed1a5f2db8",
+    "kind": 1
+  },
+  {
     "content": "I'd say marmot, but that's hard for now... ",
     "timestamp": "1772751458",
     "date": "3/5/2026, 10:57:38 PM",
