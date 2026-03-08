@@ -1,5 +1,110 @@
 [
   {
+    "content": "I've been thinking about how to define skills in Didactyl, my Nostr-based agentic system. Think OpenClaw, but better.\n\nNot your keys, not your agent.\n\nI've written a simple demo page to demonstrate how I'm thinking skills should work: https://laantungir.net/client-ndk/skills-demo.html\n\nhttps://laantungir.github.io/img_repo/c4a94875085e1c978274add9674035e2a088bb8f2655aabe631b17c3ea02cc19.png\n\nIf you're the kind of person who doesn't like reading instructions, go ahead and jump right in; otherwise, keep reading.\n\nSkills are programs, mostly written in plain English for AI agents. In some sense, humans have been making and using skills forever. It's what we do. Computers have as well, but now they can do it in English, which is much more powerful.\n\nAIs are slightly different than us. We can overwrite, improve, and update the skills in our neurons. AIs (for the most part) can't do that.\n\nWhen an AI is born from the factory, it comes out hard-coded. From that point on, it has no long- or short-term memory because it can't learn.\n\nWhat they do have, though, is a way to read. We call it context. You can type or feed documents into an AI's \"context window,\" and then it spits out an answer.\n\nIt turns out that if you feed the same context into an AI over and over, you will get the same thing out, over and over.\n\nThe reason why you typically don't get the same thing out is because randomness is usually fed into the AI along with your prompt. Most people don't know that, but now you do. And if you don't feed in all your past conversations to an AI, over and over, it won't remember what you were talking about, because it has no memory other than what you send it each time.\n\nEverything that comes out of an AI depends on what you feed in as a prompt if you include randomness.\n\nI'm calling everything you feed into an AI a SKILL.\n\nLet me explain the demo page and some very basic skills.\n\nWhat I created is a simple text editor that an AI can work on using its different skills. Those skills are saved on Nostr as kind 31123 for public skills, and as kind 31124 for private skills. When an agent adopts a skill, it adds it to its kind 10123 list for the skills it has adopted.\n\nOn the left of the page, you see the text editor with some sample text. That is for our AI to use its skills on.\n\nOn the right are publicly listed skills. You should see my demo skills in there.\n\nI made 5 skills public:\ncondense-5\nconvert-to-poem\nsexy\nspellcheck\ntranslate-ja\n\nSelect the skill, then click on \"Run Selected Skill\".\n\nThe same AI agent will run these skills, but the outcomes will be very different depending on the skill.\n\nhttps://laantungir.github.io/img_repo/2cbfc8bf7cbfb832f1181f5b904471f1278fbc3e6b64b63339612b9f51898d16.png\n\nYou can also create and edit your own skills if you are logged in. You can log in as yourself or use a random new key to test this out. I would recommend that.\n\nSo what is the point of all this? What are the benefits of Skills?\n\n- Skills are a way for agents to share what they learn in a permissionless way. \n\n- No \"skill store\". We love nostr.\n\n- A Skill is something that you and your agent can work on and perfect. \n\nOnce your agent learns that skill, it is automatically saved on Nostr, and you can lock it down from changes.\n\nBy referencing a skill when you are talking to your AI agent, your conversation becomes much clearer and simpler. You don't have to explain to your agent for the 50th time how you like your text formatted. It's referenced in a skill.\n\nIf you are a coder, skills are going to be the new playground. Context windows are currently up to around 1,000,000 tokens, which means that you can create extremely complicated and elaborate skills.\n\n- Share your skills with the world.\n\nFor more technical information on skills and how I'm thinking about them, you can check out this document:\nhttps://git.laantungir.net/laantungir/didactyl/src/branch/master/docs/SKILLS.md\n\nAnd thanks to npub130mznv74rxs032peqym6g3wqavh472623mt3z5w73xq9r6qqdufs7ql29s for their fantastic service.",
+    "timestamp": "1772913107",
+    "date": "3/7/2026, 7:51:47 PM",
+    "id": "764cbabbd97a4b5a5a37503f77d46eefa4b7d81c0930c86731598f3a95fca347",
+    "kind": 6
+  },
+  {
+    "content": "Which is pretty much what a VPN does...",
+    "timestamp": "1772912131",
+    "date": "3/7/2026, 7:35:31 PM",
+    "id": "11e48efd0a6d7eb202af64706ad8ab49640364c4c9cc0bcd6cd4c78f2852b519",
+    "kind": 1
+  },
+  {
+    "content": "Instead of connecting to many relays directly, you connect to the primal caching server which in turn is connected to all relays.\n\nWith a VPN, instead of connecting to many websites directly, you connect to a single VPN server which in turn is connected to all websites.",
+    "timestamp": "1772912111",
+    "date": "3/7/2026, 7:35:11 PM",
+    "id": "397e4a09dd43d73bb287898da90cca616df267f571d3e8eecf09c474f3ad41c9",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass now has a search engine on the website, this will help you find the news you're looking for.\nhttps://nostrcompass.org/en/search/",
+    "timestamp": "1772907528",
+    "date": "3/7/2026, 6:18:48 PM",
+    "id": "de749c32fdd9b54c6bc77ffe67812d2469140e59e5542d69698bae261bfeef2a",
+    "kind": 6
+  },
+  {
+    "content": "Yeah, its kinda a nostr native VPN.",
+    "timestamp": "1772907013",
+    "date": "3/7/2026, 6:10:13 PM",
+    "id": "a0002ef9c5beee8bc887177e521bf7a9cc46ebc81166e379ad591f60f7b6d859",
+    "kind": 1
+  },
+  {
+    "content": "I am running outbox benchmarks to increase confidence in 1) baseline outbox algos, and 2) algos with thompson learning.\n\nCurrent understanding:\n\n1 year outbox coverage\n\nFilter decomposition (rust-nostr) \n\n25% coverage without thompson learning. 37% with thompson learning (+48% coverage)\n\nNDK\n\n20% without. 31% with thompson learning (+55% coverage)\n\nCoracle/Welshman \n\n30% without. 39% with thompson learning (+30% coverage)\n\n\nShould have more on Monday. \n\nhttps://github.com/nostrability/outbox/pull/35\n\ncc nostr:npub1jlrs53pkdfjnts29kveljul2sm0actt6n8dxrrzqcersttvcuv3qdjynqn nostr:npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft nostr:npub1ye5ptcxfyyxl5vjvdjar2ua3f0hynkjzpx552mu5snj3qmx5pzjscpknpr nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt nostr:npub1qqqqqq2stely3ynsgm5mh2nj3v0nk5gjyl3zqrzh34hxhvx806usxmln03 nostr:npub1acg6thl5psv62405rljzkj8spesceyfz2c32udakc2ak0dmvfeyse9p35c nostr:npub1drvpzev3syqt0kjrls50050uzf25gehpz9vgdw08hvex7e0vgfeq0eseet nostr:npub1fgz3pungsr2quse0fpjuk4c5m8fuyqx2d6a3ddqc4ek92h6hf9ns0mjeck @ nostr:npub1q3sle0kvfsehgsuexttt3ugjd8xdklxfwwkh559wxckmzddywnws6cd26p",
+    "timestamp": "1772906970",
+    "date": "3/7/2026, 6:09:30 PM",
+    "id": "52d459d969997de7d6b2f4bd673bc5db7f12b5e495fa0c11d714842c65028a45",
+    "kind": 6
+  },
+  {
+    "content": "Maybe... If the relay logs them ",
+    "timestamp": "1772898414",
+    "date": "3/7/2026, 3:46:54 PM",
+    "id": "d1ce7607871fef089a339c222d2040ed1e7de203229b4f754e1fb7c5b51ac204",
+    "kind": 1
+  },
+  {
+    "content": "You must use nostr with Tor or a VPN.\nIt is so easy for anyone to link your npub to an IP, and it better not be your real IP...\nnostr:nevent1qqsqj4a3hmdf9ul59y3hmltsazqcn0ckeq23sgc6f7zssctfkngfsnspz9mhxue69uhkummnw3ezuamfdejj7q3qye5ptcxfyyxl5vjvdjar2ua3f0hynkjzpx552mu5snj3qmx5pzjsxpqqqqqqzf8y4yk",
+    "timestamp": "1772896333",
+    "date": "3/7/2026, 3:12:13 PM",
+    "id": "1c78c71ddbe69386ca12e5796553e2f758ea81f94a6e4c5ec7305c844e688966",
+    "kind": 1
+  },
+  {
+    "content": "Looking for thoughts and feedback on this vibe coded library https://github.com/hzrd149/rust-applesauce\n\nI'm probably going to use it as a way to learn rust, but the idea is to adapt the stateless relay connection pattern that applesauce-relay defined to rust. The goal is for the app to be able to open a REQ on a relay and not care if its connected, then when the REQ is closed / dropped the relay should be closed behind the scenes",
+    "timestamp": "1772896296",
+    "date": "3/7/2026, 3:11:36 PM",
+    "id": "cba9b7c8dd3414694311126da4ce23ad9b63bc2e30b111c54a4ae3dbb517afac",
+    "kind": 6
+  },
+  {
+    "content": "Hilarious that the prison guards have still not reviewed the update... \nnostr:nevent1qqsyzc5hum8jx4gl87hzu05949r42wax5h0emmrd6qxz9rsr47u2w6qpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlspsgqqqqqqswqlyk7",
+    "timestamp": "1772896057",
+    "date": "3/7/2026, 3:07:37 PM",
+    "id": "f50faa2ec46ae3b0ae4e4ed00467e4a99de866d671a72f46e545b67911456c31",
+    "kind": 1
+  },
+  {
+    "content": "After a fresh install, creating a new nsec worked well. Then when adding my main account to the app, the debug log was flying in relay connection errors faster than you could read. Without that debug log we were shooting in the dark...\nThen a couple in depth session with the agents and conversations with our giga brain devs slowly crystalized the problem.",
+    "timestamp": "1772894668",
+    "date": "3/7/2026, 2:44:28 PM",
+    "id": "f7a47389d3fc59534340ca138b08c4909cf7f7cf45fa3f63a7ff1e86deb81819",
+    "kind": 1
+  },
+  {
+    "content": "We probably identified the issue with the relay connection in nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp, fix is being worked on now!\nhttps://github.com/marmot-protocol/whitenoise-rs/blob/ca355847562e04667d1b591dfd306309601b68ff/relay-control-plane-rearchitecture.md\nnostr:nevent1qqsypcvpffsu68yazftus5vj0r6gzwfa5qdyad742etmqyz395klj5spramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlspsgqqqqqqslp7z8c",
+    "timestamp": "1772892789",
+    "date": "3/7/2026, 2:13:09 PM",
+    "id": "c10655bb8a3d3338b71db4ad82f9d3f4100f42f525fe6c0ee76a7475a75ed893",
+    "kind": 1
+  },
+  {
+    "content": "For new keys it works 100%",
+    "timestamp": "1772882823",
+    "date": "3/7/2026, 11:27:03 AM",
+    "id": "9e1e1ac25815a62aeb6444396251c4033eface1989ec0eedf646c2fef1e0c19d",
+    "kind": 1
+  },
+  {
+    "content": "It works 60% of the time every time...",
+    "timestamp": "1772882783",
+    "date": "3/7/2026, 11:26:23 AM",
+    "id": "4685d99ec5220358a135378552675f0392345cab32eba39f24f7326a4ada832a",
+    "kind": 1
+  },
+  {
+    "content": "Woopwoop",
+    "timestamp": "1772882752",
+    "date": "3/7/2026, 11:25:52 AM",
+    "id": "e2cf0ab2128521c44472f9fb40c4a9c89eb5a52eac7de657e923708aaab87306",
+    "kind": 1
+  },
+  {
     "content": "We deliver shippable intermediaries.",
     "timestamp": "1772844321",
     "date": "3/7/2026, 12:45:21 AM",
