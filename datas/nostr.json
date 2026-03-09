@@ -1,5 +1,110 @@
 [
   {
+    "content": "Fun fact, the word paradise means walled garden.",
+    "timestamp": "1773020949",
+    "date": "3/9/2026, 1:49:09 AM",
+    "id": "35a7c0b784bd8f992d4d233122be379322f6ea5b2d68d562e43b24c224fdce08",
+    "kind": 1
+  },
+  {
+    "content": "Marmot is transport layer agnostic, so it should work.\nNot sure if reticulum is still maintained tho...\nHoping FIPs will get us there ",
+    "timestamp": "1773020896",
+    "date": "3/9/2026, 1:48:16 AM",
+    "id": "09a4881ed86ec648a1da54c13ccdb74917fe5adc520a372c65ebc5afa0d100e2",
+    "kind": 1
+  },
+  {
+    "content": "Today we're excited to release our first confidential compute (TEE) models on PPQ! These models verifiably show that neither we (PPQ) nor our AI provider can see the content of your queries.\n\nThis is a big step towards user privacy and dignity in the AI age.\n https://blossom.primal.net/43a92edb42748c96e07cc25add48aa3988ebdd2e562551e33b36c7c5eb5097cf.png \n",
+    "timestamp": "1773009882",
+    "date": "3/8/2026, 10:44:42 PM",
+    "id": "9aacb52438508d5afafe07aa81f429e3fc28e61917aaa8c7ff4f22106d23d65f",
+    "kind": 6
+  },
+  {
+    "content": "Maybe, not yet sure...",
+    "timestamp": "1773006462",
+    "date": "3/8/2026, 9:47:42 PM",
+    "id": "2b6b769aa67362bce2a5376517479f7c9c49dc33581de6ec0e3cc6daa6a6c7b3",
+    "kind": 1
+  },
+  {
+    "content": "Write nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp",
+    "timestamp": "1773006437",
+    "date": "3/8/2026, 9:47:17 PM",
+    "id": "8be8599598f157fffa63a0243473700298ce9654bbe6b7ab4f6a47badbb40a77",
+    "kind": 1
+  },
+  {
+    "content": "And nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgprdmhxue69uhhg6r9vehhyetnwshxummnw3erztnrdakj7r0jh6y is *literally* instant...",
+    "timestamp": "1773003993",
+    "date": "3/8/2026, 9:06:33 PM",
+    "id": "dec92eaef02fb5844e6668970ae47178e218bdabf1ef485f995244705f7be1cd",
+    "kind": 1
+  },
+  {
+    "content": "Still the apple prison guards have not approved our update to White Noise, it's both hilarious and sad...\nnostr:nevent1qqsyzc5hum8jx4gl87hzu05949r42wax5h0emmrd6qxz9rsr47u2w6qpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgk6my3n",
+    "timestamp": "1773003617",
+    "date": "3/8/2026, 9:00:17 PM",
+    "id": "44f84d9b488b5118d009a40b6f83761c6708a317a343a34f19f87288ba0f7746",
+    "kind": 1
+  },
+  {
+    "content": "I really enjoyed the questions during the talk, very enlightened audience.\nThanks for the stage & organizing the event!",
+    "timestamp": "1773001575",
+    "date": "3/8/2026, 8:26:15 PM",
+    "id": "57034cf73fcff5d9bc8c096e4e88116a133770bd7f728e57b47202e7957065b4",
+    "kind": 1
+  },
+  {
+    "content": "From BCC 2025: nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt  on Building the Second Realm.\n\nA powerful talk on Bitcoin, Nostr, privacy, sovereignty, and the cypherpunk path toward parallel systems beyond failing institutions.\n\nMore talks and discussions like this are coming at BCC 2026 — 29–30 May in Barcelona.\n\nhttps://v.nostr.build/0esY44QL175E61h2.mp4\n\nhttps://www.bcc8333.xyz\n",
+    "timestamp": "1773000086",
+    "date": "3/8/2026, 8:01:26 PM",
+    "id": "bd1e77c9685b902d32152c5762c0e6a7364e9f7951a753fe41f42e76dca32423",
+    "kind": 6
+  },
+  {
+    "content": "Interesting, what's your favorite search relays that work well?",
+    "timestamp": "1773000075",
+    "date": "3/8/2026, 8:01:15 PM",
+    "id": "c95801a894484d6dbc7e402ed48d9e51abd90d2ae00e6ae77fd8452dc9b662b1",
+    "kind": 1
+  },
+  {
+    "content": "These relays specialize in search queries and index user profiles.",
+    "timestamp": "1773000033",
+    "date": "3/8/2026, 8:00:33 PM",
+    "id": "fc244157a986795906ab079f93fdbabe94f1c7cedbda1c204f6b386a3588b83b",
+    "kind": 1
+  },
+  {
+    "content": "Just choose three popular relays and it should be fine.\nThere's also a broadcast relay which will put your events on many relays, like wss://sendit.nosflare.com/",
+    "timestamp": "1773000012",
+    "date": "3/8/2026, 8:00:12 PM",
+    "id": "29fdc629b4d8127f46992a2121a55f3c81d0387cc7cd837abdc38672a1beeb39",
+    "kind": 1
+  },
+  {
+    "content": "Ooops, wss://relay.noswhere.com",
+    "timestamp": "1772986530",
+    "date": "3/8/2026, 4:15:30 PM",
+    "id": "d08d950bed03c7767c5d87d23e05361932a7d79ec88246d1c49a68903f2188d3",
+    "kind": 1
+  },
+  {
+    "content": "I finished the second version of my book!\n\n## The Praxeology of Privacy\n### Economic Logic in Cypherpunk Implementation\n\nAustrian economists theorize but cannot build. Cypherpunks build but lack theory. This book synthesizes both traditions into a unified strategy for making the state irrelevant.\n\nThree axioms. Twenty-one chapters. One conclusion: cheap defense defeats expensive attack. When theft becomes unprofitable, the state withers.\n\nPublic Domain. v0.2.0. Published on Nostr.\n\nThanks a lot to Stephan Kinsella and Eric Voskuil for their tough feedback on the first version, please join them in demolishing the logic of this second edition and help me make the arguments better!\n\n---\n\nTable of Contents\n\nPreface\nAustrian economists theorize but cannot build. Cypherpunks build but lack theory. This book synthesizes both to make the state irrelevant.\nnostr:naddr1qqgrvvpjx33kgvtrxgen2vfcvcurjqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cwhph63\n\nPart I: Introduction\n\nChapter 1: The Nature of Privacy\nPrivacy is selective disclosure, not hiding. Breaking adversary observation through the OODA loop is strategic defense. Cheap privacy defeats expensive surveillance.\nnostr:naddr1qqgxvdpc8pjrywryxv6nwv3kxsungqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cmtv33p\n\nChapter 2: Two Traditions, One Conclusion\nAustrian economics and cypherpunk practice converge independently on privacy's importance. Theory explains why; code demonstrates how. This book synthesizes both traditions.\nnostr:naddr1qqgxzctpxvenverrx93rwv35v3snzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4p7jlc\n\nPart II: Philosophical Foundations\n\nChapter 3: The Action Axiom\nThe Action Axiom proves privacy is structural to human action. Deliberation is internal; preferences are subjective; information asymmetry is inherent.\nnostr:naddr1qqgxyvecvgexvcnzxyekvefkxvukxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c83cqzs\n\nChapter 4: The Argumentation Axiom\nArgumentation ethics demonstrates self-ownership through performative contradiction. Denying it while arguing presupposes it. Privacy rights follow directly from self-ownership.\nnostr:naddr1qqgxvcfhx5unjdpk8quxxdp3xvcrsqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c3n4fxz\n\nChapter 5: The Axiom of Resistance\nThe Axiom of Resistance assumes systems can resist control. Mathematics, empirical evidence, and similar systems support this well-grounded but non-self-evident assumption.\nnostr:naddr1qqgrgvmrxfjxgvmpxg6nqvt9xuurwqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c2v0h9m\n\nPart III: Economic Foundations\n\nChapter 6: Information, Scarcity, and Property\nInformation is non-scarce and cannot be property. Privacy is protected through self-ownership, physical property rights, and voluntary contracts, not intellectual property.\nnostr:naddr1qqgx2dr9vv6kgwf5xe3ngdee8y6nzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cgpp3hh\n\nChapter 7: Exchange Theory and Privacy\nPrivacy enhances exchange by protecting deliberation and enabling negotiation. Surveillance distorts prices and chills transactions. Better privacy means better functioning markets.\nnostr:naddr1qqgrsdfcv5mx2vmxxe3nzvf4xqmxzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4hcvgf\n\nChapter 8: Capital Theory and Entrepreneurship\nPrivacy infrastructure is capital requiring present sacrifice for future capability. Entrepreneurial discovery drives innovation. Markets coordinate heterogeneous privacy tools most effectively.\nnostr:naddr1qqgxgdeev5ckzer9xy6rvwpnxyukvqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cxcc5c2\n\nChapter 9: Monetary Theory and Sound Money\nSound money emerges spontaneously from markets, not decrees. Bitcoin implements digital soundness with fixed supply and censorship resistance; privacy requires additional tools.\nnostr:naddr1qqgxgwf3xqensef5vvcrvcfs8yuxxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823ceca8xr\n\nPart IV: The Adversary\n\nChapter 10: Financial Surveillance and State Control\nFinancial surveillance enables state control through observation. CBDCs complete the architecture. Privacy breaks the OODA loop at observation, making theft unprofitable.\nnostr:naddr1qqgrsdmpvv6n2wfhv5ervdmpxa3kxqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wcwwf6m\n\nChapter 11: Corporate Surveillance and Data Extraction\nCorporate surveillance extracts behavioral data for prediction products. State and corporate surveillance are deeply entangled. Markets are responding to growing privacy demand.\nnostr:naddr1qqgrydekxumxvvm9xp3n2vtr89jrxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cduqmxa\n\nChapter 12: The Crypto Wars\nThe Crypto Wars pit states against privacy technology. Mathematics ignores legislation. Developers face prosecution. The fundamental conflict is permanent and intensifying.\nnostr:naddr1qqgxycfjvyck2vrpxvunycfcxsuk2qgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cwnenzp\n\nPart V: Technical Implementation\n\nChapter 13: Cryptographic Foundations\nCryptography provides mathematical privacy foundations: encryption, hashing, and digital signatures enable trustless verification. Implementation bugs and human error remain the weakest links.\nnostr:naddr1qqgxzdt9xcexvef5v3jrsefexsunzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c94u5pd\n\nChapter 14: Anonymous Communication Networks\nThe internet leaks metadata. VPNs help locally. Tor distributes trust through relays. Mixnets defeat global adversaries. Choose tools matching your threat model.\nnostr:naddr1qqgrydphv9nrgcfcxg6ryvrzx56kzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cvp8fcy\n\nChapter 15: Bitcoin: Resistance Money\nBitcoin solves double-spending without trusted third parties. Sound money enforced by code. Base layer privacy requires additional tools like Lightning and coinjoin.\nnostr:naddr1qqgrwv33xvenvdnyxc6ngv3hv5mxxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4qzyqz\n\nChapter 16: Zero-Knowledge Proofs\nZero-knowledge proofs enable verification without disclosure. SNARKs, STARKs, and Bulletproofs make different tradeoffs. Deployed in Zcash and rollups; broader adoption developing.\nnostr:naddr1qqgrjd33vvcxyv3kvyurydfexscrgqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65we3mut9\n\nChapter 17: Decentralized Social Infrastructure\nNostr solves identity capture through cryptographic keys users control. Relays compete, moderation is market-driven, and the protocol extends beyond social posts.\nnostr:naddr1qqgrsdrxveskgvrzv3nrgdmrvcmkvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wpx3yl3\n\nPart VI: Praxis\n\nChapter 18: Lessons from History\nDigiCash, e-gold, and Silk Road failed through centralization and poor OPSEC. Bitcoin succeeded through decentralization, open source, and properly aligned economic incentives.\nnostr:naddr1qqgxydmpv56nqefnv4jnwepcxdjx2qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wm4wp04\n\nChapter 19: Operational Security\nOperational security prevents adversaries from gathering compromising information. Threat modeling guides defense. Human factors are the weakest link. Perfect OPSEC is impossible.\nnostr:naddr1qqgrxep3vscrzc3kxyenqdpex9jnzqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wyp98rv\n\nChapter 20: Implementation Strategy\nStart with honest assessment. Build progressively from basics to advanced. Find community. Privacy is not a destination but ongoing practice. Progress matters.\nnostr:naddr1qqgxvdtyx43nwvmxvcckgerx8qmnvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wmuawxl\n\nChapter 21: Building the Parallel Economy\nThe parallel economy grows through counter-economics. Cheap defense defeats expensive attack. When theft becomes unprofitable, the state withers. Build. Trade. Resist.\nnostr:naddr1qqgxxefj89nrxvtrxcerxvfs8q6xvqghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wat25hx",
+    "timestamp": "1772978270",
+    "date": "3/8/2026, 1:57:50 PM",
+    "id": "433832b1878eb7aaa819900867487a8646dd7b6013e4f90889d76e4c86ad4a4c",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass Podcast #11 is out.\n\nThis week: FIPS ships a working Rust mesh network using Nostr keypairs. White Noise v0.3.0 brings real-time messaging and Amber signer support. HAVEN v1.2.0 adds multi-npub relay hosting with JSONL backup. Burrow launches MLS messaging for AI agents and humans. Plus diVine 1.0.5, Pika, Ridestr, Coracle, Nostur, nak, Unfiltered, and Nostria Signer Extension.\n\nNIP updates: NIP-85 service provider discovery, NIP-29 drops unmanaged groups, NIP-11 removes deprecated fields, NIP-39 moves identity tags. Four AI agent NIPs progress. NIP-144 and NIP-DC open.\n\nDeep dives into NIP-55 (Android Signer Application) and NIP-60 (Cashu Wallet).\n\nhttps://blossom.primal.net/f3665be995ebe188b9c8a84ca2d392c452dc061e4f9eb4a4181eee1aa49be9b3.ogg\n\nhttps://podcast.nostrcompass.org/naddr1qvzqqqr4vcpzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqp7etsd9ek7er995cnwdej8ymn2dfhxqmnwdedxpk8zdmsw56hqagsrwap2\n\n#podcast #nostr",
+    "timestamp": "1772976888",
+    "date": "3/8/2026, 1:34:48 PM",
+    "id": "cd256d40c37c737dee68ef60ea6fca7a283a6c5de48b459feb7a59e1d440b5b8",
+    "kind": 6
+  },
+  {
     "content": "I've been thinking about how to define skills in Didactyl, my Nostr-based agentic system. Think OpenClaw, but better.\n\nNot your keys, not your agent.\n\nI've written a simple demo page to demonstrate how I'm thinking skills should work: https://laantungir.net/client-ndk/skills-demo.html\n\nhttps://laantungir.github.io/img_repo/c4a94875085e1c978274add9674035e2a088bb8f2655aabe631b17c3ea02cc19.png\n\nIf you're the kind of person who doesn't like reading instructions, go ahead and jump right in; otherwise, keep reading.\n\nSkills are programs, mostly written in plain English for AI agents. In some sense, humans have been making and using skills forever. It's what we do. Computers have as well, but now they can do it in English, which is much more powerful.\n\nAIs are slightly different than us. We can overwrite, improve, and update the skills in our neurons. AIs (for the most part) can't do that.\n\nWhen an AI is born from the factory, it comes out hard-coded. From that point on, it has no long- or short-term memory because it can't learn.\n\nWhat they do have, though, is a way to read. We call it context. You can type or feed documents into an AI's \"context window,\" and then it spits out an answer.\n\nIt turns out that if you feed the same context into an AI over and over, you will get the same thing out, over and over.\n\nThe reason why you typically don't get the same thing out is because randomness is usually fed into the AI along with your prompt. Most people don't know that, but now you do. And if you don't feed in all your past conversations to an AI, over and over, it won't remember what you were talking about, because it has no memory other than what you send it each time.\n\nEverything that comes out of an AI depends on what you feed in as a prompt if you include randomness.\n\nI'm calling everything you feed into an AI a SKILL.\n\nLet me explain the demo page and some very basic skills.\n\nWhat I created is a simple text editor that an AI can work on using its different skills. Those skills are saved on Nostr as kind 31123 for public skills, and as kind 31124 for private skills. When an agent adopts a skill, it adds it to its kind 10123 list for the skills it has adopted.\n\nOn the left of the page, you see the text editor with some sample text. That is for our AI to use its skills on.\n\nOn the right are publicly listed skills. You should see my demo skills in there.\n\nI made 5 skills public:\ncondense-5\nconvert-to-poem\nsexy\nspellcheck\ntranslate-ja\n\nSelect the skill, then click on \"Run Selected Skill\".\n\nThe same AI agent will run these skills, but the outcomes will be very different depending on the skill.\n\nhttps://laantungir.github.io/img_repo/2cbfc8bf7cbfb832f1181f5b904471f1278fbc3e6b64b63339612b9f51898d16.png\n\nYou can also create and edit your own skills if you are logged in. You can log in as yourself or use a random new key to test this out. I would recommend that.\n\nSo what is the point of all this? What are the benefits of Skills?\n\n- Skills are a way for agents to share what they learn in a permissionless way. \n\n- No \"skill store\". We love nostr.\n\n- A Skill is something that you and your agent can work on and perfect. \n\nOnce your agent learns that skill, it is automatically saved on Nostr, and you can lock it down from changes.\n\nBy referencing a skill when you are talking to your AI agent, your conversation becomes much clearer and simpler. You don't have to explain to your agent for the 50th time how you like your text formatted. It's referenced in a skill.\n\nIf you are a coder, skills are going to be the new playground. Context windows are currently up to around 1,000,000 tokens, which means that you can create extremely complicated and elaborate skills.\n\n- Share your skills with the world.\n\nFor more technical information on skills and how I'm thinking about them, you can check out this document:\nhttps://git.laantungir.net/laantungir/didactyl/src/branch/master/docs/SKILLS.md\n\nAnd thanks to npub130mznv74rxs032peqym6g3wqavh472623mt3z5w73xq9r6qqdufs7ql29s for their fantastic service.",
     "timestamp": "1772913107",
     "date": "3/7/2026, 7:51:47 PM",
