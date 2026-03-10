@@ -1,5 +1,341 @@
 [
   {
+    "content": "Couldn't you use a relay that has a larger event size limit to make that work?",
+    "timestamp": "1773105229",
+    "date": "3/10/2026, 1:13:49 AM",
+    "id": "71277ca53f7e9da59dcc39a13898808267db1e9e0eecb18b2092338af74f0c54",
+    "kind": 1
+  },
+  {
+    "content": "At long last…\n\nPlebs vs. Zombies v0.8 is now testing NIP-46 remote signing! 💥\n\nThis has been a long journey to get working. There are still some limitations you should be aware of. If you have a massive follow list, over 900 follows, there's no guarantee the app will be able to sign events for you. This is a protocol limitation: NIP-44 encryption has a hard limit of 64KB, and there's no way around that. If you have a shit ton of zombies to purge, you’ll need to use a browser extension or sign in with your private key instead (which we now also offer as a last resort, stored locally in your browser and never shared).\n\nThe good news is, even when signed in with a remote signer, you can still back up your follows. We now handle compression and chunking to store them on your relays for you. You just won’t be able to purge follows directly through the remote signer if your follow list is too large.\n\nHope this makes it easier for many of you, and as always, happy hunting! 🪓\n\n#PlebsVsZombies 🏹🧟‍♀🔪🧟‍♂\n\nhttps://www.plebsvszombies.cc\nhttps://image.nostr.build/1bfd777074c54b6b9927ea7f482c0ddd1a89fde4fd0ae780b71ffcce24aacc46.gif",
+    "timestamp": "1773105214",
+    "date": "3/10/2026, 1:13:34 AM",
+    "id": "d10fb77d34d8b9a1e883ced2d705ebec248ca2f00a23b8421497e8e162acf3e7",
+    "kind": 6
+  },
+  {
+    "content": "Je rok 2026 a máme kryptoanarchiu (podcast s Wilderom o AI a kúl nových tech pre zvýšenie slobody)\n\nTechnológie na zvýšenie slobody a súkromia nazývame rôznymi označeniami. Cypherpunk technológie, freedom technológie a podobne. Koncom 1980-tych a začiatkom 1990-tych rokov skupinka ITčkarov rozmýšľala, ako by mohla vyzerať časť spoločnosti, ktorá by tieto technológie používala na asymetrické zvýšenie slobody a nezávislosti od štátov. Túto stratégiu nazvali kryptoanarchia a pustili sa do jej budovania. Rok 2026 je podľa mňa a Wildera rokom, kedy sú všetky základné technológie hotové a masovo používané. A to dokonca tak, že sa o tom pôvodným kryptoanarchistom ani nesnívalo.\n\nV prvej časti sa pozrieme na AI revolúciu a ňou spôsobené zmeny v našich životoch aj v spoločnosti, potom preberieme ďalšie technológie. Je to zhrnutie toho zajzaujímavejšieho, čo sme si v poslednej dobe všimli a toho, čo nás čaká tento rok.\n\nhttps://juraj.bednar.io/podcast/2026/03/09/je-rok-2026-a-mame-kryptoanarchiu-s-wilderom/\n\n https://blossom.primal.net/6d705c8c4eb68f9cd39c5afa75b18e75e67b83c2e17895501d3d6ce2bf390e22.jpg ",
+    "timestamp": "1773105163",
+    "date": "3/10/2026, 1:12:43 AM",
+    "id": "f150b726a8cba37184b8134f6a237f410672fc0f7741d1169b36e643e2c78b5d",
+    "kind": 6
+  },
+  {
+    "content": "The craftsmanship moves from building the code to building the product.",
+    "timestamp": "1773105061",
+    "date": "3/10/2026, 1:11:01 AM",
+    "id": "25c1ce4fd559ec3b16ea367d7bc7dc12d1ad61e2591781488c683f930cfb1ad1",
+    "kind": 1
+  },
+  {
+    "content": "I would definitely try with the White Noise CLI, try pointing your agent to https://github.com/marmot-protocol/whitenoise-rs/tree/master/src/cli\n\nIf you do it I'd be super interested to know how it goes!",
+    "timestamp": "1773104948",
+    "date": "3/10/2026, 1:09:08 AM",
+    "id": "b4e40c65c0b83f2dd6e5b8c14aaa59d5acb63b842439da3525b8180b170b0cc9",
+    "kind": 6
+  },
+  {
+    "content": "Shocking if true.\nnostr:naddr1qqgxywfsxccxgdmxxscngcnx8qcnyqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c7hd6dz",
+    "timestamp": "1773104902",
+    "date": "3/10/2026, 1:08:22 AM",
+    "id": "4f0157a58a5404009b4064b03437ae266f545be73b63feb5c8f7609c9d98bccc",
+    "kind": 1
+  },
+  {
+    "content": "You can check that test npub on https://dr-marmot.pages.dev it'll help troubleshoot.\n\nWe're just going hard on all fronts simultaneously.",
+    "timestamp": "1773104710",
+    "date": "3/10/2026, 1:05:10 AM",
+    "id": "e33e55ead46238caea68f037c2ca87ba8c923878d36f79c4b2d75aff88959074",
+    "kind": 1
+  },
+  {
+    "content": "Logging out deletes your chat history tho.",
+    "timestamp": "1773104160",
+    "date": "3/10/2026, 12:56:00 AM",
+    "id": "843a37ddd342f83e9b3efe87b47d884adb3197620ddc7f7f3ee82ca157205108",
+    "kind": 1
+  },
+  {
+    "content": "Looks like you don't have a keypackage relay list kind 10051, try to log out and back in.",
+    "timestamp": "1773104147",
+    "date": "3/10/2026, 12:55:47 AM",
+    "id": "112023f0e100766c08378b274946d4651bed9bdd06f9bb1dc98889b8b219b3ab",
+    "kind": 1
+  },
+  {
+    "content": "What exactly isnt working for you actually?\nWill investigate your npub...",
+    "timestamp": "1773104002",
+    "date": "3/10/2026, 12:53:22 AM",
+    "id": "1a104d997f0ca290ff400532c126fc034be342a327ed5d8027675d8a52217fd8",
+    "kind": 1
+  },
+  {
+    "content": "Marmot currently is capped at ~150 member groups, because nostr relay have an event size limit of 64KB.\nIf you want larger groups, gotta use a relay with higher limits.\n\nWe can also put welcome & commit events on blossom, that doesn't have that size constraint.",
+    "timestamp": "1773103254",
+    "date": "3/10/2026, 12:40:54 AM",
+    "id": "7a2cb64583c9261bc5894a2ad96f65010ee9b1409976eaf58ad4dd3feff87457",
+    "kind": 1
+  },
+  {
+    "content": "That's awesome, I'm kinda jealous, we set our goal to move dev comms fully to White Noise in about two months, it's still not there yet...",
+    "timestamp": "1773103177",
+    "date": "3/10/2026, 12:39:37 AM",
+    "id": "1cccac8c6844d214e8169b5a4c85df9fdf9c57b3cebbddef6f79cb5136bf19cf",
+    "kind": 1
+  },
+  {
+    "content": "Our team has started to use Vector daily and slowly progressing to replace both Discord and Telegram in their personal lives first. We're not claiming that it is anywhere near that level for adoption yet, but simply that it is our goal to have a true privacy messenger app that has all the features you would expect of mainstream messengers + more, without complicating or slowing down the UX. We welcome any honest critique and feedback. \n\nIf you'd like to just dig around a little more without downloading it first, you're welcome to check out our GitBook which has most of Vector Privacy's ecosystem documented: https://docs.vectorapp.io\n\nWe are also more than happy to address any questions you may have.",
+    "timestamp": "1773103096",
+    "date": "3/10/2026, 12:38:16 AM",
+    "id": "7f8a635ee07538912e32338c90d63bc31ef0693f992c7553dd53697fe9f6b80a",
+    "kind": 6
+  },
+  {
+    "content": "Wait a bit more until you drag your fam over, needs a lot more polish ",
+    "timestamp": "1773102915",
+    "date": "3/10/2026, 12:35:15 AM",
+    "id": "18e7ac145712c08239940fd730677f29ee8b7fec97f40d43b44c1cc18a376e33",
+    "kind": 1
+  },
+  {
+    "content": "Got media working on the nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec TUI\n\nhttps://cdn.nostrcheck.me/78bde8408a57277264e205260bd0c00cec2b5e43df84dedff863e235f3b8f99e.webp\n\nInline image rendering, media upload/download and previews, profile pictures, reactions, message deletion, reply previews, NSec export, logout, follow-checks, view user profiles, create groups with members.\n\nAll done by directly using the White Noise CLI.\n\nBTW you can point your agents to https://github.com/marmot-protocol/whitenoise-rs/tree/master/src/cli and tell them to try out the White Noise CLI. It works surprisingly well.",
+    "timestamp": "1773102698",
+    "date": "3/10/2026, 12:31:38 AM",
+    "id": "fe4c536ce833838f2616b03ede83e105ace088d0c332aeb97d2d217ba6b47569",
+    "kind": 6
+  },
+  {
+    "content": "Two PRs to NanoClaw for adding marmot support!\nhttps://github.com/qwibitai/nanoclaw/pull/858\nhttps://github.com/qwibitai/nanoclaw/pull/901",
+    "timestamp": "1773102572",
+    "date": "3/10/2026, 12:29:32 AM",
+    "id": "c58df7e2f9853cd0771cd718082948705e9e9f6f3c3553e19a77b137e7bad371",
+    "kind": 1
+  },
+  {
+    "content": "It works really well for accounts that have a small follow list. \nThe problem is the outbox model, so many relay hints are from dead relays, and that overwhelms the current release which caused freezes and message drops.\nCurrent master branch is finally working for my main account, so it seems its at least less broken now.",
+    "timestamp": "1773102421",
+    "date": "3/10/2026, 12:27:01 AM",
+    "id": "c238a089aeb8168b8b9e7f49b1fd065fefe254b5d14538f2ec97d73843e89024",
+    "kind": 1
+  },
+  {
+    "content": "You can turn off notification permission and put app battery usage to optimized, that should fix it for now.\nNext release will have relay connection improvements, and that should also improve battery performance.",
+    "timestamp": "1773100988",
+    "date": "3/10/2026, 12:03:08 AM",
+    "id": "bac63c2ea629037b96fcf0306aa3a852f8c36d024769fd85e61831be43977897",
+    "kind": 1
+  },
+  {
+    "content": "Your relay list looks good, and you don't even have many follows. Which might have been a reason for the drain.\nReally hard to reproduce that issue...",
+    "timestamp": "1773100877",
+    "date": "3/10/2026, 12:01:17 AM",
+    "id": "663cc893bcb6f3c2ec478cc78225d9d8bac43ac9190df763b0b9994f82c4415d",
+    "kind": 1
+  },
+  {
+    "content": "That's so weird... For me its < 2% with two White Noise apps (production and staging) since the last release...\n\nAre you logged in with this pubkey?",
+    "timestamp": "1773100755",
+    "date": "3/9/2026, 11:59:15 PM",
+    "id": "c00b6e0aefbe36f5c3c5ec527252a29c592a7b2c37178e6ad1e77720c752a156",
+    "kind": 1
+  },
+  {
+    "content": "Very true.",
+    "timestamp": "1773100239",
+    "date": "3/9/2026, 11:50:39 PM",
+    "id": "c2212317c8fcdd6cacd70d7da742cb967d0ea0a36aff3dc2c1ddcf02fc769317",
+    "kind": 1
+  },
+  {
+    "content": "Apple still hasn't approved our release in the last 4 days, that release probably fixed your issue already... \nIt sucks when your OS prevents you from getting updates to apps. Do you have an android?",
+    "timestamp": "1773100151",
+    "date": "3/9/2026, 11:49:11 PM",
+    "id": "8393854fa6b0bde703fdc2e4f806d7ae94e04967e659692c6e87f65b8ed40628",
+    "kind": 1
+  },
+  {
+    "content": "https://mibo.eu.nostria.app/c109219bf67c733eadca232fa1cfea7b6a802bff6b9b3f8b634e6357ac80d1a6.webp\n\nWell done nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcqyrgm6venxueae3q37rhgjwechpfzlsx7yfll73vanyzyemv7v4vpkz3dmep",
+    "timestamp": "1773097557",
+    "date": "3/9/2026, 11:05:57 PM",
+    "id": "08e62e5c576a905946637cd5a821f6b0a70b31f96e2ec727b7bf8de0dfd53fda",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgpz9mhxue69uhkummnw3ezuamfdejj7qg6waehxw309ac8junpd45kgtnxd9shg6npvchxxmmd9uq3zamnwvaz7tmwdaehgu3wd3skuep0unn4yx built this awesome view where you can see the latest key packages published by users, if you want someone to talk to on nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp this is a good way to find them!\n\nhttps://marmot-protocol.github.io/marmots-web-chat/contacts/explore",
+    "timestamp": "1773096514",
+    "date": "3/9/2026, 10:48:34 PM",
+    "id": "0784aa50f2e302663ec85b989817e9c5c1612b8d4ad9d3cf1ac5fa1e62ef5af7",
+    "kind": 1
+  },
+  {
+    "content": "Really amazing to see such a well developed feature rich marmot client this early on, it has more features than White Noise already, crazy!",
+    "timestamp": "1773093983",
+    "date": "3/9/2026, 10:06:23 PM",
+    "id": "b3a24223c6c106904d5d3f37b128c1fa419989c70c2bf27e747d4d4cd5ae54bf",
+    "kind": 1
+  },
+  {
+    "content": "No, they only get added to your follow list if you click \"add as contact\" on the profile view.",
+    "timestamp": "1773093683",
+    "date": "3/9/2026, 10:01:23 PM",
+    "id": "5b34befd4ec07c26b065fe4d83574161455d1dc210f6e30c0ab307030aeecc01",
+    "kind": 1
+  },
+  {
+    "content": "I don't think that's useful, easier to start from scratch, or just vibe-clone the UI...",
+    "timestamp": "1773091914",
+    "date": "3/9/2026, 9:31:54 PM",
+    "id": "44a5261754e327e3f80b09c060781caca37a81b751ac274562aa5ed44538a387",
+    "kind": 1
+  },
+  {
+    "content": "New long form client by nostr:nprofile1qqsywfmwk93lc49nwvunp26ul406j3585x2nsudgwwk5lthfr6997wqpz3mhxue69uhhyetvv9ukzcnvv5hx7un89uq35amnwvaz7tmnw3exvune9ehhqetwdphk7eny9ehxctcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtc3r3jqq\nVery smooth distraction free UI!\nhttps://samizdat.press/\nTry it and give feedback for what can be done better.",
+    "timestamp": "1773087233",
+    "date": "3/9/2026, 8:13:53 PM",
+    "id": "633cdf449e5115db18332379cf8dd1e80831e6e2e70600a7a1310bd18ebef3b2",
+    "kind": 1
+  },
+  {
+    "content": "I wrote a guide here:\nnostr:naddr1qqgrqetrxy6kzd3hxqckzcn9x9jkvqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823csz3jmq\nand here:\nnostr:naddr1qqgrvenp8qekgephvy6kvcmp8p3xzqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c4j0stc",
+    "timestamp": "1773086426",
+    "date": "3/9/2026, 8:00:26 PM",
+    "id": "21c58b174ed7cdd434b854930b7047626fc0fcbf980b5244e0b3fbe326c93d07",
+    "kind": 1
+  },
+  {
+    "content": "We were just thinking to run a reply bot to tell people if they have a dead relay in their outbox list... Someone should do that.",
+    "timestamp": "1773086134",
+    "date": "3/9/2026, 7:55:34 PM",
+    "id": "d88d037781386b3410673eb4bf11b4c8e2604157d082f66fa9dc1df851f4dbef",
+    "kind": 1
+  },
+  {
+    "content": "Check out nostr:nprofile1qqst37fwv8n363vx4eh7d9c0w0wslkufqyy43830g9a773zmhw5jergpzpmhxue69uhkummnw3ezumt0d5hsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0qywhwumn8ghj7ctnd9sjuan9vd6x7unpwpczu6t09ahx7um5wgvyncn8, a cool nostr chat app that also supports marmot. This release brings back interoperability with nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp & Pika & Burrow & Marmot-ts web app!\n\nnostr:naddr1qq2kyeesfc6rvsmhg3p9wnmcg339xdztd958wqg4waehxw309aex2mrp0yhxgctdw4eju6t09upzpw8e9es7w829s6hxle5hpaea6r7m3yqsjky79aqhhm6ytwa6jtydqvzqqqr4gu7d0m8x",
+    "timestamp": "1773085993",
+    "date": "3/9/2026, 7:53:13 PM",
+    "id": "66e2d15b6a15d93fdbe2583be9529566dc4db9f96a05e4e1392262a380b83ff2",
+    "kind": 1
+  },
+  {
+    "content": "Maybe have a staging version published on zapstore so you get more testers...",
+    "timestamp": "1773085390",
+    "date": "3/9/2026, 7:43:10 PM",
+    "id": "956fe1105a692facedf34a6501fd08dfc3939c4708022a1ac6dac6e96f053c6a",
+    "kind": 1
+  },
+  {
+    "content": "EFF's Cindy Cohn unboxes her new book, Privacy's Defender! It hits shelves TOMORROW, March 10th. Order your copy today and see if Cindy is coming to a city near you for the tour! https://www.eff.org/Privacys-Defender\n\nhttps://files.mastodon.social/media_attachments/files/116/200/842/281/359/362/original/2b09d75bdee50de0.mp4",
+    "timestamp": "1773085326",
+    "date": "3/9/2026, 7:42:06 PM",
+    "id": "d3e00e906f14c02751fc53ee846f52377ff54f0f2f1db5b4d74e8ac8cd307c88",
+    "kind": 6
+  },
+  {
+    "content": "I dont see the update on zapstore...",
+    "timestamp": "1773084938",
+    "date": "3/9/2026, 7:35:38 PM",
+    "id": "a5906afd1454eaa4812f0426956028ebfe229c8ba8690c475e5a7883bd745ee1",
+    "kind": 1
+  },
+  {
+    "content": "## Amber 4.1.3-pre4\n\n- Profile relays: Remove relay.nostr.band. Add user.kindpag.es, profiles.nostr1.com, directory.yabu.me\n- Better relay notification text\n- Fix relay icon when more than 10 relays\n- Hide icon and relay notification if not using apps that connect to relays\n- Change backup screen from icon buttons to text buttons to avoid confusion when using ncryptsec\n- Do not use strongBox when it's a mediatek device, it's breaking all the time\n- Use AlarmManager to start the service to see if it fixes the crash on graphene os restart app button press \n- Remove relay.nsec.app from defaults (it's not working properly sometimes)\n- Close profile subscriptions once receiving EOSE from relays\n- Fix icon size and themed icon\n- Show the account that is signing the event\n- Show a button to report unknown event kinds\n- Better relay connection management\n- Refactor start service\n- Use bottom sheet for requests instead of showing the full application\n- Display the \"Sign as\" widget in the multi event screen\n- Decrease the timeout of sending response to relays\n- Show rquest content in the activities screen\n- Client auth permissions by relay\n- Fix a crash when loading profile image\n- Do not group events when receiving multiple events\n\nDownload it with [Zapstore](https://zapstore.dev/apps/naddr1qvzqqqr7pvpzqateqake4lc2fn77lflzq30jfpk8uhvtccalc66989er8cdmljceqqdkxmmd9enhyet9deshyaphvvejumn0wd68yumfvahx2usx8zmj2), [Obtainium](https://github.com/ImranR98/Obtainium), [f-droid](https://f-droid.org/packages/com.greenart7c3.nostrsigner) or download it directly in the [releases page](https://github.com/greenart7c3/Amber/releases/tag/v4.1.3-pre4)\n\nIf you like my work consider making a [donation](https://greenart7c3.com)\n\n## Verifying the release\n\nIn order to verify the release, you'll need to have `gpg` or `gpg2` installed on your system. Once you've obtained a copy (and hopefully verified that as well), you'll first need to import the keys that have signed this release if you haven't done so already:\n\n``` bash\ngpg --keyserver hkps://keys.openpgp.org --recv-keys 44F0AAEB77F373747E3D5444885822EED3A26A6D\n```\n\nOnce you have his PGP key you can verify the release (assuming `manifest-v4.1.3-pre4.txt` and `manifest-v4.1.3-pre4.txt.sig` are in the current directory) with:\n\n``` bash\ngpg --verify manifest-v4.1.3-pre4.txt.sig manifest-v4.1.3-pre4.txt\n```\n\nYou should see the following if the verification was successful:\n\n``` bash\ngpg: Signature made Fri 13 Sep 2024 08:06:52 AM -03\ngpg:                using RSA key 44F0AAEB77F373747E3D5444885822EED3A26A6D\ngpg: Good signature from \"greenart7c3 <greenart7c3@proton.me>\"\n```\n\nThat will verify the signature on the main manifest page which ensures integrity and authenticity of the binaries you've downloaded locally. Next, depending on your operating system you should then re-calculate the sha256 sum of the binary, and compare that with the following hashes:\n\n``` bash\ncat manifest-v4.1.3-pre4.txt\n```\n\nOne can use the `shasum -a 256 <file name here>` tool in order to re-compute the `sha256` hash of the target binary for your operating system. The produced hash should be compared with the hashes listed above and they should match exactly.",
+    "timestamp": "1773084848",
+    "date": "3/9/2026, 7:34:08 PM",
+    "id": "117882e44ac7eecbc1850d34e9aff9a969f349237223077d65fecb5a63b5999d",
+    "kind": 6
+  },
+  {
+    "content": "Looks like we have fixed the outbox model relay connections in nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp, users with a large follow list now don't get overwhelmed with relay connections, which caused messages to not be delivered or received.\n\nWe still have more polishing to do, but next release will hopefully work for your existing npubs!",
+    "timestamp": "1773082679",
+    "date": "3/9/2026, 6:57:59 PM",
+    "id": "31f5dc717f94206b9479f46574e484b9d0bfcad4e9d61e87b1b89652bd87e86a",
+    "kind": 1
+  },
+  {
+    "content": "Interesting that this doesnt render the audio player in nostr:nprofile1qqs24yz8xftq8kkdf7q5yzf4v7tn2ek78v0zp2y427mj3sa7f34ggjcpzamhxue69uhhv6t5daezumn0wd68yvfwvdhk6tcpzpmhxue69uhkummnw3ezumt0d5hszrnhwden5te0dehhxtnvdakz769wywf nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpz9mhxue69uhkummnw3ezuamfdejj7qghwaehxw309amxjar0wghxummnw3erztnrdakj7qgswaehxw309ahx7um5wghx6mmd9ud62lxp",
+    "timestamp": "1773068179",
+    "date": "3/9/2026, 2:56:19 PM",
+    "id": "c90b9bcc46ac4fc82a46d70e57073da1bcdfaec5a3424a19e0ff4ac0f3b36518",
+    "kind": 1
+  },
+  {
+    "content": "This is a really cool idea!\nIt works\nnostr:nevent1qqsy5t02jjtjx6jvm3k57t4jauzz4gvy9usxqp7tx4l45nvss9a2fccprfmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9ukqygy9gzh8aadrz02apesvmfgfy2ydeyy0hxfph5cnj3g2ghceqx3tngpsgqqqqqqsd859hw",
+    "timestamp": "1773068124",
+    "date": "3/9/2026, 2:55:24 PM",
+    "id": "39cb2b8f2122f26e55b7b11c1d907f4115ca81e1aee1e62a5d00bd0b8b41865d",
+    "kind": 1
+  },
+  {
+    "content": "Murmured. 11m 19s of audio, ready for everyone.\n\nhttps://npub1s4q2ulh45vfat58xpnd9py3g3hys37ueyx7nzw29pfzlryq69wdqegqmtn.blossom.band/37d366fc3cfd0af68752cf655dcf13a189fd77c5a95905abbdf2712099c6cff6.mp3\n\nFunded by nostr:npub1kv5kygzhse6u8agga2fdfq07aav77p9k3p926h8ey9c26c84srdsj4dyyf",
+    "timestamp": "1773068109",
+    "date": "3/9/2026, 2:55:09 PM",
+    "id": "a9aee0a37ea76100a3d421072142eaef00bc3a4d169b7af46b380ffd8e097b56",
+    "kind": 6
+  },
+  {
+    "content": "Nostr is great for social. Terrible for private messages. Marmot protocol fixes this. \n\nhttps://blossom.primal.net/49754a0371445c4f22934bf80afea9ff0f84b05dfd051afea1dbd184097a2a24.mp4 ",
+    "timestamp": "1773066660",
+    "date": "3/9/2026, 2:31:00 PM",
+    "id": "92f731eb129ff3c9159cd1c41a2db9662edbf189ee6814892d535fe1573a0135",
+    "kind": 6
+  },
+  {
+    "content": "Week 10 @ Bitcredit\n\n• eBill v0.5.3 released with Wildcat compatibility fixes\n• New eBill API simplifies front-end logic and bill state \n• First true offline bill issuance implemented\n• Mint commitment scheme for non-custodial e-cash\n• Wallet upgrades: NFC + biometrics live",
+    "timestamp": "1773066397",
+    "date": "3/9/2026, 2:26:37 PM",
+    "id": "7b0240c75f8f18e04bc7e4ee15bda45135e0d0c4854b476fe88ea1394d736bf1",
+    "kind": 6
+  },
+  {
+    "content": "We currently dont support to add a third npub to a DM group.\nThat is a UX limit, technically that's possible under the hood.",
+    "timestamp": "1773066383",
+    "date": "3/9/2026, 2:26:23 PM",
+    "id": "646cbfe6e3028f198901452d7ef938ec5da1a32535135ac27983b6769258799c",
+    "kind": 1
+  },
+  {
+    "content": "Yes. DMs are a two client group.\nLater when we support multiple clients/devices for the same npub, a DM turns into a multiuser group, your laptop and your phone have full access to the group with separate keys generated on each device.",
+    "timestamp": "1773066328",
+    "date": "3/9/2026, 2:25:28 PM",
+    "id": "7750900a1276adbbe69072eec6ec17a49ee49851eddc7d93badb65a4ff5e8100",
+    "kind": 1
+  },
+  {
+    "content": "Nice!\nHave you seen nostr:nprofile1qqsd57gt5x8x8tnek9hpw2g8xqvsd9t6ghecauxf7gvapuqkatckz2qpz4mhxue69uhkzmn5d9c8y6tdv9kzumn9wshs3vyesk?",
+    "timestamp": "1773064230",
+    "date": "3/9/2026, 1:50:30 PM",
+    "id": "1862c914a89dc7bf7a8094e804a5e1c7ac0eb56cd26c22423676a802fb1511c5",
+    "kind": 1
+  },
+  {
+    "content": "Roadstr — a decentralized \"Waze\" integrated with OsmAnd and a web version. The spec allows sending events via MeshCore as well, otherwise it goes through Nostr. However, MeshCore is not yet implemented — for now, only the event format has been specified for MeshCore. Nostr is functioning. Pull requests welcome.\nhttps://github.com/jooray/roadstr\n https://blossom.primal.net/7e441f07a8b2f776b0af15fd43c0ebe69fdab8b114c2e19d13941a81725d379d.png  https://blossom.primal.net/a7d7bd80a9fd9ab484bb8550597f21829fb5bedcaa2bc513c646a5b31b8b04fb.png ",
+    "timestamp": "1773064190",
+    "date": "3/9/2026, 1:49:50 PM",
+    "id": "18c9e23166a7dd984ccb7b0782d2163c9e6781dbbb3a4563190e7dc5e0b7671f",
+    "kind": 6
+  },
+  {
+    "content": "Huh. Great idea, let's see how this works.",
+    "timestamp": "1773063875",
+    "date": "3/9/2026, 1:44:35 PM",
+    "id": "1641f4116a0af230cc35a21a1ca5a1ac2adc12d841fc7c84014bd1376748cd60",
+    "kind": 1
+  },
+  {
+    "content": "Comparative advantage is one of the most misunderstood principles in economics, and AI has made the confusion worse. Most people think it means comparing yourself to others, but the real logic is internal: you should focus on the task where your own opportunity cost is lowest. \nThis post follows that insight through the hardest question AI raises, what happens when a machine beats the weaker worker at everything, and arrives at conclusions that neither the doomers nor the optimists want to hear. \nnostr:naddr1qqgrwefsvgmkvwtpxg6kywt9v5ckyq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wcs75x6",
+    "timestamp": "1773063727",
+    "date": "3/9/2026, 1:42:07 PM",
+    "id": "afe86af1334974fbc19d690932a16844548281b7c261359e7682875216334082",
+    "kind": 1
+  },
+  {
+    "content": "It doesn't need to be fancy. \nIt just needs to be free.",
+    "timestamp": "1773021998",
+    "date": "3/9/2026, 2:06:38 AM",
+    "id": "ae2a8907b4c054448f1dbf41198f8d6c062016a22a867069407b4bfbfe3491da",
+    "kind": 1
+  },
+  {
     "content": "Fun fact, the word paradise means walled garden.",
     "timestamp": "1773020949",
     "date": "3/9/2026, 1:49:09 AM",
