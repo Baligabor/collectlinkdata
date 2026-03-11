@@ -1,5 +1,68 @@
 [
   {
+    "content": "I'm not really the guy to ask for that, I have very limited mining experience...\nBut it might be you are using the wrong observer, try mini.p2pool.observer",
+    "timestamp": "1773169715",
+    "date": "3/10/2026, 7:08:35 PM",
+    "id": "df21177cb7d6a464da19b157f324c7c055ec3646dd81cef7c4e5543ed793ddd3",
+    "kind": 1
+  },
+  {
+    "content": "🎉 Mostrod v0.16.4 is now available 🧌\n\nThis release introduces improvements to the reputation system, greater reliability in dev fee handling, and several fixes across the node logic.\n\nWhat’s new:\n\n• Rating events now include a days field and expiration\n• Mutation testing added to improve Rust code quality\n• Docker images now include the latest tag\n• Improved handling of order expiration\n• Fix to prevent duplicate dev fee payments\n• Disputes now close automatically when the seller releases funds\n\nIf you’re running a Mostro node, upgrading is recommended.\n\n📦 Release details:\nhttps://github.com/MostroP2P/mostro/releases/tag/v0.16.4\n\nRun your own node.\nStrengthen the network. \n\n",
+    "timestamp": "1773168209",
+    "date": "3/10/2026, 6:43:29 PM",
+    "id": "88557bceffaed49ca96d106b7a90e380d115ed67142cd9ad6d7df8e910151787",
+    "kind": 6
+  },
+  {
+    "content": "Flotilla 1.6.5 is out on web and on zapstore!\n\nThis release is NOT the big one. That's coming hopefully this week. However, this release is substantial:\n\n* Attempt to fix permission grant for notifications\n* Make sync logic more robust\n* Add unban/unallow support\n* Improve support for downloading/opening protected images\n* Add manual send/receive to wallet\n* Show wallet status when wallet is unreachable\n* Update nostr signer capacitor plugin\n* Fix some safe area insets\n* Update NIP 55 signer plugin (fixes Primal login)\n* Refine space join dialogs and discover page\n* Reopen the last DM that was open when navigating back to chat\n* Get rid of ChatEnable interstitial\n* Enable auth for relays we're publishing to\n* Drag and drop space icons\n* Add better muting support\n* Add back button to settings menu\n* Add page titles\n* Improve scroll to event behavior\n* Add in-memory search to rooms\n* Fix editing messages with html tags\n* Fix DM media detection\n* Clean up reporting dialogs\n* Improve room detail\n\nIf you experienced bugs, please try the new release and tell me about any new bugs. Voice rooms and email/password login coming very soon.",
+    "timestamp": "1773167841",
+    "date": "3/10/2026, 6:37:21 PM",
+    "id": "430e5024af09417a54110384ebba402ed29aca1b0fc9d7fa091494f946c35de0",
+    "kind": 6
+  },
+  {
+    "content": "Check now again, I had \"token distribution\" muted because of the spammers, but in the article it's a technical term, so I removed the mute word, maybe it affects your feed too...",
+    "timestamp": "1773160810",
+    "date": "3/10/2026, 4:40:10 PM",
+    "id": "36604bf013530cc219e45ea30558305932b4cf7a12ed3203e5879b9afb589140",
+    "kind": 1
+  },
+  {
+    "content": "Odd, it works for me.\nYou can get it here\nhttps://towardsliberty.com/articles/naddr1qvzqqqr4gupzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqqgxydpkv5un2enxxe3ryv35xpjng5j80sy",
+    "timestamp": "1773159756",
+    "date": "3/10/2026, 4:22:36 PM",
+    "id": "0b94b090ea5a6d9305c33dcca68ac70461ff0086b1796f70db232e48f07bed97",
+    "kind": 1
+  },
+  {
+    "content": "I hope apple will allow our release soon, we have the next one cooking, so maybe that will be faster.",
+    "timestamp": "1773154432",
+    "date": "3/10/2026, 2:53:52 PM",
+    "id": "fafb9a98c03fbc66c63fedfcbb761d67a493afc560de4636ad10e24ff986de77",
+    "kind": 1
+  },
+  {
+    "content": "Glad you enjoy them!\nThis one came out of a late night long rant with nostr:nprofile1qqsgkvshznxmeptsnl0k2tlp9fyp9ul4a3qv6cvfgfjk4h8fupdvmdcprdmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9ukz7da5uxh & nostr:nprofile1qqsfydhe43fphchwpf20rnllmukl0ayc9h6wd6ue9pnawv77hnu4kdgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7uj888d",
+    "timestamp": "1773154381",
+    "date": "3/10/2026, 2:53:01 PM",
+    "id": "c2348b4686c61bbd40faaef953fbc894d48a6fc29f67a414d725d131700c2fc2",
+    "kind": 1
+  },
+  {
+    "content": "Not sure if that would help... Let me check.",
+    "timestamp": "1773110471",
+    "date": "3/10/2026, 2:41:11 AM",
+    "id": "fb387171362efe3a9685ff7326f66c8e329a5244f3e9d1f820a6e140aed3bc78",
+    "kind": 1
+  },
+  {
+    "content": "Oh no... Why is that in the spec?\nWe just switched marmot outer encryption from nip44 to chacha20, maybe we can do the same for nip44?",
+    "timestamp": "1773110446",
+    "date": "3/10/2026, 2:40:46 AM",
+    "id": "02ed47d422aa03d879abf31f342360ad39708c122e45aaedbbd14a581160552c",
+    "kind": 1
+  },
+  {
     "content": "Couldn't you use a relay that has a larger event size limit to make that work?",
     "timestamp": "1773105229",
     "date": "3/10/2026, 1:13:49 AM",
