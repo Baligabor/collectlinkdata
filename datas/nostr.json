@@ -1,5 +1,47 @@
 [
   {
+    "content": "Go to the developer settings and see if you have one keypackage published, if not, delete all and create a new key package, and then try to start a chat again.",
+    "timestamp": "1773330412",
+    "date": "3/12/2026, 3:46:52 PM",
+    "id": "6b9059015ef5e6408fafbc2400f4eda8c9052e9bcccbeafe98b198d82edf5561",
+    "kind": 1
+  },
+  {
+    "content": "Is both android and IOS up to date?\nApple just approved our upgrade there.\n\nAre you trying to message your same npub on both devices? Multi device isn't yet implemented in the spec or apps.",
+    "timestamp": "1773329996",
+    "date": "3/12/2026, 3:39:56 PM",
+    "id": "41ba517138aa87e6541e5ec0519139bfc78e8b7f5848ae4e4297e7f96f776952",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsd54k9fd0xwjwkttgr3svkg7reftu5una95nhacg95nxq7fmzkdscpz4mhxue69uhkzmn5d9c8y6tdv9kzumn9wshsu0nvq8 had an *amazing* launch at chain camp. ",
+    "timestamp": "1773329795",
+    "date": "3/12/2026, 3:36:35 PM",
+    "id": "4fa628baa76787e243117d6987c5486daafb394e63a4c854d971230920614241",
+    "kind": 1
+  },
+  {
+    "content": "It just means version.",
+    "timestamp": "1773313019",
+    "date": "3/12/2026, 10:56:59 AM",
+    "id": "7b9659e46af12841510191ecdbf500533250052b13ab1906981e7e39581fe2c2",
+    "kind": 1
+  },
+  {
+    "content": "If someone finds your paper, you loose the secret.\nThe hardware wallet is secure even with physical access of the attacker.\nAlso a paper cannot produce a signature, so at some point you must import it to a computer, and that better be secure.",
+    "timestamp": "1773312992",
+    "date": "3/12/2026, 10:56:32 AM",
+    "id": "0e31d2980165ef71828a51971ac3b30aabeefe11e8cf5a565847a6e7bbd0055d",
+    "kind": 1
+  },
+  {
+    "content": "Smaller to travel with.\nI do prefer the Q tho.",
+    "timestamp": "1773312920",
+    "date": "3/12/2026, 10:55:20 AM",
+    "id": "a140c33af4a328a5cfb33893ac06bbe740fb0a152f8489a55391717b1dd43b7b",
+    "kind": 1
+  },
+  {
     "content": "Coldcard mk5 looks dope.\nGood to see the keyboard further improved, I still have PTSD from mk1...\n\nhttps://video.nostr.build/3e6c76a55db21c94cbdb5743e6120d7a5c0f2f0d0a32b48736c86999fb3ef5c1.mp4",
     "timestamp": "1773278815",
     "date": "3/12/2026, 1:26:55 AM",
