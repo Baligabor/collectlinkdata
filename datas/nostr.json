@@ -1,5 +1,19 @@
 [
   {
+    "content": "Ah I see, That's perfect.",
+    "timestamp": "1773416175",
+    "date": "3/13/2026, 3:36:15 PM",
+    "id": "08f07c0729bed0184df5e04b71529cb22835094343776ef3a497343040127ab2",
+    "kind": 1
+  },
+  {
+    "content": "Why not nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4?",
+    "timestamp": "1773414018",
+    "date": "3/13/2026, 3:00:18 PM",
+    "id": "e0adb3f307fb6947510d0695f18a08408dfb811016f5322889dfc8598aad1097",
+    "kind": 1
+  },
+  {
     "content": "Go to the developer settings and see if you have one keypackage published, if not, delete all and create a new key package, and then try to start a chat again.",
     "timestamp": "1773330412",
     "date": "3/12/2026, 3:46:52 PM",
