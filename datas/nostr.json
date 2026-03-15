@@ -1,5 +1,54 @@
 [
   {
+    "content": "Just mute the em dash.",
+    "timestamp": "1773514331",
+    "date": "3/14/2026, 6:52:11 PM",
+    "id": "e0eaf79cd6dbf165829d78db425af11b1bd6a9190d5f057c6fd058257976c922",
+    "kind": 1
+  },
+  {
+    "content": "Yeah I saw that, but why a separate screen, one is better. Every amount is also an input box.",
+    "timestamp": "1773509820",
+    "date": "3/14/2026, 5:37:00 PM",
+    "id": "7a0ec36d7acbc3fecc48bc4653c9e40f2865bc92a7cac22c4e4edc1d2e71e787",
+    "kind": 1
+  },
+  {
+    "content": "Nice.\nEvery fiat amount should be an input box too.\nI want to be able to easily type in any amount in any currency and see the corresponding amounts.",
+    "timestamp": "1773508504",
+    "date": "3/14/2026, 5:15:04 PM",
+    "id": "ed7ca056d38b94eda21d6e972b41e7272847a58a30c4c62ca659c3a2ca1fcb01",
+    "kind": 1
+  },
+  {
+    "content": "This.",
+    "timestamp": "1773505491",
+    "date": "3/14/2026, 4:24:51 PM",
+    "id": "29913eb36cb76b9e445c0f6779c37cd7fbeb45599f36a9b8764ea283027922f2",
+    "kind": 1
+  },
+  {
+    "content": "GM🌞\n\nApple has finally approved the latest version of nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhwp9puf for TestFlight. If you have the app already, it should auto-update. If not, just head to https://whitenoise.chat and you'll find the TestFlight invite link. ",
+    "timestamp": "1773502971",
+    "date": "3/14/2026, 3:42:51 PM",
+    "id": "a156bfff382c0df711c857310085af6f1f9127f513ff400899fe0db0e4cdf7cf",
+    "kind": 6
+  },
+  {
+    "content": "One of the reasons the latest White Noise release doesn't work for some accounts is that nostrs outbox model is suffering massively from bad data that some users have in their relay list. This is our attempt to improve the situation at least a bit.\nYou can run the doctor session for your friends and tell them about improving their setup!\nnostr:nevent1qqsg28l6tzcksc0z3h8a02hx7j8lg0kyusd7ktw4syjr0dpenks87xspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygqh88vn0hyvp3ehp238tpvn3sgeufwyrakygxjaxnrd8pgruvfkaupsgqqqqqqsrad94h",
+    "timestamp": "1773502814",
+    "date": "3/14/2026, 3:40:14 PM",
+    "id": "c497f479dc0e7e776f81f77466ece3a5a44277cb82aba73050f64a373e6aab07",
+    "kind": 1
+  },
+  {
+    "content": "Merchant courts showed that private dispute resolution outperforms the state monopoly. Victim-centered restitution showed that criminal justice worked for centuries without prosecutors or prisons. \nThis post completes the argument by showing how insurance, arbitration, restitution, and cryptographic enforcement compose into a single integrated legal system where each layer enables the others and no layer requires a monopolist. \nnostr:naddr1qqgr2d3cvvuk2wp5xcmkvc3jxvmkyq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wd0upwl",
+    "timestamp": "1773501630",
+    "date": "3/14/2026, 3:20:30 PM",
+    "id": "2cbee593b4c2ecb0251ade7bc321d703750e06776bed0254d7eea9faa6174a88",
+    "kind": 1
+  },
+  {
     "content": "Ah I see, That's perfect.",
     "timestamp": "1773416175",
     "date": "3/13/2026, 3:36:15 PM",
