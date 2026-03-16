@@ -1,5 +1,19 @@
 [
   {
+    "content": "Finally! Can't wait to finally see it.",
+    "timestamp": "1773591846",
+    "date": "3/15/2026, 4:24:06 PM",
+    "id": "0dd2a3b29493fa9d2ce80ebc76a08a30bc2b13a2d82da5730f156f080926b0b8",
+    "kind": 1
+  },
+  {
+    "content": "strfry 1.1.0 beta series:\n\nI'm working on a new release of strfry and there are some beta releases tagged in case anyone wants to give them a try. There are lots of changes in the queue. I'll write them up in more detail soon.\n\nFor now here's a small new feature in 1.1.0-beta4: --range option for sync. Basically it's a convenience feature for specifying since/until in your filter. Examples:\n\nstrfry sync wss://blah.com --range 1h-\n\n^^ sync just last hour of notes\n\nstrfry sync wss://blah.com --filter '{\"kinds\":[0]}' --range 1Y-6M\n\n^^ sync kind 0 events between 1Y and 6M old\n\nThis is especially useful for \"paginating\" big syncs. You can first do 2M-1M, then do 3M-2M, then 4M-3M, etc.",
+    "timestamp": "1773590802",
+    "date": "3/15/2026, 4:06:42 PM",
+    "id": "d33f1f978b893a49efad34e7b98580d436afad02e4cbbb59130936c56e88f796",
+    "kind": 6
+  },
+  {
     "content": "Just mute the em dash.",
     "timestamp": "1773514331",
     "date": "3/14/2026, 6:52:11 PM",
