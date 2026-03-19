@@ -1,5 +1,12 @@
 [
   {
+    "content": "Nostr Compass #14 is out.\nAmethyst expands NWC. Notedeck turns signed NIP-94 events into app updates. Relay routing gets sharper across Damus, Nostur, and Outbox. We also dig into NIP-94 and NIP-54.\nRead it here: \nnostr:naddr1qqgrje3jxejnvephvgcr2wpjvvcngq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wl6sckz",
+    "timestamp": "1773847745",
+    "date": "3/18/2026, 3:29:05 PM",
+    "id": "8e120480dfa2ff117994a27ddd8dcaf01138a2fd3a1badc6a88ea9abc895d806",
+    "kind": 6
+  },
+  {
     "content": "Meshtastic is more dynamic and self-organizing, so its stability heavily depends on node density. MeshCore is more dependent on planned, fixed repeaters and controlled networks, which makes it less flexible but generally more predictable and stable. ",
     "timestamp": "1773741599",
     "date": "3/17/2026, 9:59:59 AM",
