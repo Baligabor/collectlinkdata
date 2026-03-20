@@ -1,5 +1,12 @@
 [
   {
+    "content": "Ever tried gaming over Marmot? nostr:npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt \n\nDOOM as a self-contained WebXDC file using Nostr + Marmot for peer signalling and Iroh for the realtime encrypted multiplayer. 🤝 \nnostr:naddr1qq2ng66wwpckw4t60f49q3m3gddyknf4d4mrxq3qhrujuc08r4zcdtn0u6ts7u7apldcjqgftz0z7stmaaz9hwaf9jxsxpqqqp65w0779ra",
+    "timestamp": "1773908116",
+    "date": "3/19/2026, 8:15:16 AM",
+    "id": "5553bc6a3575de180b5b7f47ef34d195e4e8be34e448aaf1fa663299f94a26d5",
+    "kind": 6
+  },
+  {
     "content": "Nostr Compass #14 is out.\nAmethyst expands NWC. Notedeck turns signed NIP-94 events into app updates. Relay routing gets sharper across Damus, Nostur, and Outbox. We also dig into NIP-94 and NIP-54.\nRead it here: \nnostr:naddr1qqgrje3jxejnvephvgcr2wpjvvcngq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wl6sckz",
     "timestamp": "1773847745",
     "date": "3/18/2026, 3:29:05 PM",
