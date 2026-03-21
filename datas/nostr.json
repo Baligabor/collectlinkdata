@@ -1,5 +1,12 @@
 [
   {
+    "content": "Oh yeah, I had a brainfart conflating ringsig with multisig... Of course you're right.",
+    "timestamp": "1773991076",
+    "date": "3/20/2026, 7:17:56 AM",
+    "id": "4f7840c5e2b9b2e60fc5d2acabc8cfb826f2a23967e78d1f733a7ef0271fd601",
+    "kind": 1
+  },
+  {
     "content": "Ever tried gaming over Marmot? nostr:npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt \n\nDOOM as a self-contained WebXDC file using Nostr + Marmot for peer signalling and Iroh for the realtime encrypted multiplayer. 🤝 \nnostr:naddr1qq2ng66wwpckw4t60f49q3m3gddyknf4d4mrxq3qhrujuc08r4zcdtn0u6ts7u7apldcjqgftz0z7stmaaz9hwaf9jxsxpqqqp65w0779ra",
     "timestamp": "1773908116",
     "date": "3/19/2026, 8:15:16 AM",
