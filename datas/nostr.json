@@ -1,5 +1,26 @@
 [
   {
+    "content": "tldr is that there will be competing standards for compensation quantities in a evolving manner.\nI should profitably write some more on this specifically.",
+    "timestamp": "1774091044",
+    "date": "3/21/2026, 11:04:04 AM",
+    "id": "718759d35cb281c79fe4517a1d69703ac86d3aeb7ff4e32bb1a429d0d6e5874b",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #12 is out. We unpack outbox benchmarks, ContextVM's MCP, and MDK's public release. We also run through this week's releases and NIP updates. Then we trace five Februaries of Nostr from the 2021 rewrite to 2026 infrastructure growth. Read the issue at nostrcompass.org.\n\nhttps://blossom.primal.net/d2b742322a8f1a804adacaf863581b7d2b8cb138c21c5281d9bf529d620d23e2.ogg\n\nhttps://podcast.nostrcompass.org/naddr1qvzqqqr4vcpzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqp7etsd9ek7er995cnwde5xqurgwphxscnjwpdd4shjurp0q6x76sy36rd6\n\n#podcast #nostr",
+    "timestamp": "1774085341",
+    "date": "3/21/2026, 9:29:01 AM",
+    "id": "50b2bae4e7d6bf5eac206b8357c30cd2b23bc1c53edeaa95df11f7d84636c1c6",
+    "kind": 6
+  },
+  {
+    "content": "The industrial war machine was built on concentration, first of capital and command, then of targets. Cheap drones are tearing through that architecture because a low-cost weapon can now erase an asset that required years of budgets, contracts, and political theater to build. \nRothbard and Hoppe did not write about quadcopters, but they described the political and economic logic that made the old model brittle, and the battlefield is proving them right. \nnostr:naddr1qqgrxdpkxu6xvdfcvsmnye3h8q6kxq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wqwmuvs",
+    "timestamp": "1774083771",
+    "date": "3/21/2026, 9:02:51 AM",
+    "id": "2583334302673e8a72c3eb6b5de6e2ca811c8ce2ad3e07f3f5a1c48e04103628",
+    "kind": 1
+  },
+  {
     "content": "Oh yeah, I had a brainfart conflating ringsig with multisig... Of course you're right.",
     "timestamp": "1773991076",
     "date": "3/20/2026, 7:17:56 AM",
