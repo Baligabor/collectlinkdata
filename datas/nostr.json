@@ -1,5 +1,96 @@
 [
   {
+    "content": "No, latest is actually 1.0.1, you should update, maybe uninstall and download again from zapstore.dev",
+    "timestamp": "1774452910",
+    "date": "3/25/2026, 3:35:10 PM",
+    "id": "52fc27ca938957b3f46745144100a7f6d9d4d71a34f7d3d0ffbf95ab9a13a041",
+    "kind": 1
+  },
+  {
+    "content": "Yes exactly.\nWe just need to spec it out and build the libraries so that it works smoothly across clients.\nNot impossible, just takes time.",
+    "timestamp": "1774452866",
+    "date": "3/25/2026, 3:34:26 PM",
+    "id": "fbfeb80cf99dfc786f17061d15d692c4eb846abd51b2eb53da545a5c340450c5",
+    "kind": 1
+  },
+  {
+    "content": "Well marmot is a really sophisticated standard that solves a lot of issues and keeps evolving. For example we just now picked up work on the anonymous mobile native push notifications scheme. \nWe're hopefully soon at a point where there ate enough reliability and features to make the migration a nobrainer.",
+    "timestamp": "1774446660",
+    "date": "3/25/2026, 1:51:00 PM",
+    "id": "b1ee7001c715d7fa5b0b7b4528c3defc536a15e1435d500b86174b2da5339042",
+    "kind": 1
+  },
+  {
+    "content": "Is zapstore up to date?",
+    "timestamp": "1774446556",
+    "date": "3/25/2026, 1:49:16 PM",
+    "id": "412dc5fae1430c72517fb31445340b2a73893c241a86882f731532a3273df070",
+    "kind": 1
+  },
+  {
+    "content": "When you install nostr:nprofile1qqst37fwv8n363vx4eh7d9c0w0wslkufqyy43830g9a773zmhw5jergpzpmhxue69uhkummnw3ezumt0d5hsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0qywhwumn8ghj7ctnd9sjuan9vd6x7unpwpczu6t09ahx7um5wgvyncn8, make sure you use a different npub than in nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp, multi client support with the same npub is not yet speced out.\nnostr:nevent1qqsfgz88g6hfths2y2xzy4mjrmq2e8cv8aapw9lv2v584a22gam5uqgpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczypfm69vtqpqydg8qjh87smfa4t8083khqn885sjvgqppf89yfq305qcyqqqqqqgq97y8x",
+    "timestamp": "1774446006",
+    "date": "3/25/2026, 1:40:06 PM",
+    "id": "86ddc9039db8790bb99d7687446c055ff1e6153bb5527e3b2058702e70e0529d",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, it really sucks when we have to hardfork the spec...\nWe will still evolve the spec, and maybe another breaking change comes later, but we'll keep those to a minimum.",
+    "timestamp": "1774445104",
+    "date": "3/25/2026, 1:25:04 PM",
+    "id": "8b41966227b13796ef7fba8e7bc91aad99956e688474fa3d3f477a9f9a8529fd",
+    "kind": 1
+  },
+  {
+    "content": "Get it on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4",
+    "timestamp": "1774444938",
+    "date": "3/25/2026, 1:22:18 PM",
+    "id": "ebcc32b4c70081749ab1cc64ddec6f6fa03ca73178b330084fe1627ae7eb1674",
+    "kind": 1
+  },
+  {
+    "content": "Correct, 3.23 is the one you want to get.",
+    "timestamp": "1774444925",
+    "date": "3/25/2026, 1:22:05 PM",
+    "id": "acd4fbb3cde3444d44033b356c576db4d8b7111d0f468d22143864b8c508b8c7",
+    "kind": 1
+  },
+  {
+    "content": "Didn't get anything from your npub, and I can't message you either, are you using another npub?",
+    "timestamp": "1774444877",
+    "date": "3/25/2026, 1:21:17 PM",
+    "id": "ae07913a40c0fbe03a4e0cbeaff7baa8d54d84ce9d9c1c7bc286e018201124be",
+    "kind": 1
+  },
+  {
+    "content": "Then your app didn't find my keypackage, we have to fix some reliability there...\nClose the app and try again, that usually fixes this type of stuff.",
+    "timestamp": "1774444671",
+    "date": "3/25/2026, 1:17:51 PM",
+    "id": "36bd9d0e2157359d93b4d98a2c258096dfc06996f9b054ae48a8b08872dad647",
+    "kind": 1
+  },
+  {
+    "content": "You see every npub, and when you click on them and it says \"start a chat\" than they are on one of any of the available marmot clients. \nIf it says \"invite to White Noise\" then they have not published a key package event so they can't be added to a group.",
+    "timestamp": "1774444629",
+    "date": "3/25/2026, 1:17:09 PM",
+    "id": "f59de8cc80fe8115ccd67584b88143cd9d2af27999fcad535c3f1703f1f3e88e",
+    "kind": 1
+  },
+  {
+    "content": "Next attempt to get White Noise to finally work well for everyone. Now it finally works for my npub, so shoot me a message if you want to try!\nnostr:naddr1qq28w6rfw3jj6mn0d9ek2ttkxgcryd3nxgeszrnhwden5te0dehhxtnvdakz7q3qwhtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltmsxpqqqp65w8wcqny",
+    "timestamp": "1774437469",
+    "date": "3/25/2026, 11:17:49 AM",
+    "id": "446a0b29495dfb1607e23ab88fd6db0fde79255e814b49f9cb6b4543f5f5f913",
+    "kind": 1
+  },
+  {
+    "content": "Yup, its my consulting group.",
+    "timestamp": "1774433517",
+    "date": "3/25/2026, 10:11:57 AM",
+    "id": "e2e282bce15b06b5450a5ebcc7c432d66d318011378b2466a3e1589af25db78b",
+    "kind": 1
+  },
+  {
     "content": "nostr:nprofile1qqsw9n8heusyq0el9f99tveg7r0rhcu9tznatuekxt764m78ymqu36cpr3mhxue69uhhyetvv9ujucnfw33k76twwpshy6ewvdhk6tcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhs5gtkue seems like Wisp doesn't work when not giving DM decrypt permissions to Amber.",
     "timestamp": "1774348833",
     "date": "3/24/2026, 10:40:33 AM",
