@@ -1,5 +1,33 @@
 [
   {
+    "content": "Recap from Baltic Honeybadger 2025: White Noise for Dark Times with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3jamnwvaz7tmswfjk66t4d5h8qunfd4skctnwv46z7qpqzuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhs6un0n6 🦡  🔥 \n \nWhite Noise, a private, decentralized messenger built on the Marmot Protocol, combining Nostr, Blossom, and MLS. Jeff highlights the urgent need for private communication in a world of growing surveillance and centralized platforms, showing how White Noise works without servers, phone numbers, or corporate control.\n\nWatch the full video 👇\n\nhttps://youtu.be/yOPyDdGx4dY",
+    "timestamp": "1774617885",
+    "date": "3/27/2026, 1:24:45 PM",
+    "id": "6d86ba162290267573b88704f288cd192b84d3fd70dc06614ad2ea8e974edddd",
+    "kind": 6
+  },
+  {
+    "content": "Did you try with the latest release? It's less broken ",
+    "timestamp": "1774617796",
+    "date": "3/27/2026, 1:23:16 PM",
+    "id": "70a26c37bb2887696a5b0ba665054e3fded9975acd9eaab6a957951bb89ecac3",
+    "kind": 1
+  },
+  {
+    "content": "That's because many relays don't support auth, especially not in combination with protected events.\nThere is a big push to get that implemented and deployed to more relays in the last weeks.\n\nIn anycase, the security depends on the encryption to a large extend anyhow.",
+    "timestamp": "1774617645",
+    "date": "3/27/2026, 1:20:45 PM",
+    "id": "efd175e3c12b6d5d2c75cca25a828efb1f895f13a46fa4f4128508da3bdd67bb",
+    "kind": 1
+  },
+  {
+    "content": "Dev/Hack/Day + Cypherpunk Meetup = \nnostr:nprofile1qqsdw8j9rfn8jcsz4v9f3xr4637sfnrvxgu84v74jw3pkaf99pe7hrqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpz3mhxue69uhhyetvv9ukzcnvv5hx7un89uq3samnwvaz7tmwdaehgu3wdpjkkum5v4ezummjvuhss42za5\n\nIf you're coming to nostr:nprofile1qqsd0f68dvf98gvs9am9dp0lu0f4r7xzu2k89rm9tt448axf5tu6wlgpzemhxue69uhhyetvv9ujuerfw36x7tnsw43z7qgnwaehxw309ac82unsd3jhqct89ejhxtcpr9mhxue69uhk2umsv4kxsmewva5hy6twduhx7un89uj28er3, don't miss it.\n\nGet your early bird tickets at\nfreedomtechsummit.com",
+    "timestamp": "1774614595",
+    "date": "3/27/2026, 12:29:55 PM",
+    "id": "bfb8d8135571bf3a83393c905165783105b87901ff8f1b524c489791425559df",
+    "kind": 1
+  },
+  {
     "content": "No, latest is actually 1.0.1, you should update, maybe uninstall and download again from zapstore.dev",
     "timestamp": "1774452910",
     "date": "3/25/2026, 3:35:10 PM",
