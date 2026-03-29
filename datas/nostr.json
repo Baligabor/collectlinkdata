@@ -1,5 +1,19 @@
 [
   {
+    "content": "The v0.4.0 release of Aegis is out! \n\nWhat’s new:\n\n-Multiple bug fixes across QR scanning flows and scanning UI\n-Added authorization modes in Settings: Full / Selective\n-Improved language picker by showing native language names for easier discovery\n\nTestFlight: https://testflight.apple.com/join/DUzVMDMK\nAndroid APK: https://github.com/ZharlieW/Aegis/releases/tag/v0.4.0",
+    "timestamp": "1774685626",
+    "date": "3/28/2026, 8:13:46 AM",
+    "id": "c4f274bae45226d341745833d3e6ddc2abf09ad033554bfd1677661dd24b3cbb",
+    "kind": 6
+  },
+  {
+    "content": "I wanted to write you, but can't find you on White Noise, did you use a different npub?",
+    "timestamp": "1774685413",
+    "date": "3/28/2026, 8:10:13 AM",
+    "id": "a4f2bf5ef39799f255daad03ce2a77de3a350087131c9129f362d120b5796a4f",
+    "kind": 1
+  },
+  {
     "content": "Recap from Baltic Honeybadger 2025: White Noise for Dark Times with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3jamnwvaz7tmswfjk66t4d5h8qunfd4skctnwv46z7qpqzuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhs6un0n6 🦡  🔥 \n \nWhite Noise, a private, decentralized messenger built on the Marmot Protocol, combining Nostr, Blossom, and MLS. Jeff highlights the urgent need for private communication in a world of growing surveillance and centralized platforms, showing how White Noise works without servers, phone numbers, or corporate control.\n\nWatch the full video 👇\n\nhttps://youtu.be/yOPyDdGx4dY",
     "timestamp": "1774617885",
     "date": "3/27/2026, 1:24:45 PM",
