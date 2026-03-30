@@ -1,5 +1,19 @@
 [
   {
+    "content": "Multi-device support in an encrypted messenger is an authorization problem. It is not a sync problem, not a UX problem, not a storage problem. The question that must be answered before anything else can proceed is simple: how does a second device prove it belongs to the same person, in a way that every group member can independently verify, without any central authority vouching for the claim? Marmot PR #44 introduces MIP-06 to answer exactly this question for White Noise. \nnostr:naddr1qqgrjdeexyek2wf5xdjk2vfexqurwq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wxkk0rf",
+    "timestamp": "1774791893",
+    "date": "3/29/2026, 1:44:53 PM",
+    "id": "23adb50e7d1a8b37b5445c98b49e4da948e29a09be7ece6b8401c49c77341a5e",
+    "kind": 1
+  },
+  {
+    "content": "GrapheneOS just works. \n\nDon't cry about your fancy buttons or this super cool candy feature you can't live without. You can. And GrapheneOS is candy as well. But without a roofie in it. \n\nRemove the mental fog, be free. \nnostr:naddr1qqgxgv3hxf3njef4xvunqv33xumrjq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w9gck6x",
+    "timestamp": "1774770847",
+    "date": "3/29/2026, 7:54:07 AM",
+    "id": "6e62a4cf96fbf4103310c390c6820186ff29794ff485534762693461a846e8d1",
+    "kind": 6
+  },
+  {
     "content": "The v0.4.0 release of Aegis is out! \n\nWhat’s new:\n\n-Multiple bug fixes across QR scanning flows and scanning UI\n-Added authorization modes in Settings: Full / Selective\n-Improved language picker by showing native language names for easier discovery\n\nTestFlight: https://testflight.apple.com/join/DUzVMDMK\nAndroid APK: https://github.com/ZharlieW/Aegis/releases/tag/v0.4.0",
     "timestamp": "1774685626",
     "date": "3/28/2026, 8:13:46 AM",
