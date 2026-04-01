@@ -1,5 +1,124 @@
 [
   {
+    "content": "Flotilla is officially normie-friendly! I just released version 1.7.0 (and 1.7.1), which adds email/password login.\n\nThis is a terrible UX, but it's also familiar, and doesn't require users to know anything about keys. It keeps key material safe by creating a FROST multisig quorum and spreading key shares across multiple independently run signer servers.\n\nSo please! Share it with your non-cypherpunks and send them my way when things go wrong (or right, I won't argue).\n\nTo sweeten the deal, we've also added voice rooms (thanks to nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq35amnwvaz7tms09exzmtfvshxv6tpw34xze3wvdhk6tcpzamhxue69uhkummnw3ezumr0wfjkuar69e5hxtcpzamhxue69uhhyetvv9ujumn0wvh8xmmrd9skctcqyrg2rlacwcdewn8vfga73j7t96t2wzgdear9ll4vswd2fj3qexjeus2nyw8) powered by livekit for people making the exodus from Discord.\n\nAlso included are UI fixes and performance improvements. Thanks to nostr:nprofile1qydhwumn8ghj7un9d3shjtn0wpjkuun9wd5hxapwvdhk6tcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcqyz2mz76eqffu88ntl4ljg205p42qklhcgdssc0ddk6takgkl2d4mkuj8cmq for some great suggestions, and to everyone else who reported bugs. Android image uploads should be working now, and Primal/Amber should be smoother as well.\n\nIf you're interested in Flotilla or have bugs to report, please join the community at https://app.flotilla.social/join?r=meta.spaces.coracle.social&c=LE7S3IA2\n\nI've also been slowly building out the knowledge base at https://flotilla.social/articles so take a look there for tips on deploying a zooid relay or using Flotilla.",
+    "timestamp": "1774990120",
+    "date": "3/31/2026, 8:48:40 PM",
+    "id": "cd74a21246a7a657da62d2348e2fe3ed0ba703b955a3297de6a7d968a73edacb",
+    "kind": 6
+  },
+  {
+    "content": "Don't do this with your own app, sign it yourself instead!\nhttps://zapstore.dev/docs/publish",
+    "timestamp": "1774989510",
+    "date": "3/31/2026, 8:38:30 PM",
+    "id": "6558c435ee5c620fbdee0f3cf42ff398a96852d89964b7c47779604bed47ad82",
+    "kind": 1
+  },
+  {
+    "content": "Don't do this with your own app, sign it yourself instead!\nhttps://zapstore.dev/docs/publish\n nostr:nevent1qqsx7rtjja33h2xlz5uv08mudgyfllknhwfa7avljruk2gdpt6uskmspzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqg52runt",
+    "timestamp": "1774989493",
+    "date": "3/31/2026, 8:38:13 PM",
+    "id": "7addc09b5755683a1fff4dc4dd60351e0d7ed4a9b83b89c449352de2b7b2cc08",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #15 is published:\nPip, Abh3po, Pete and Max walk through the biggest stories from [Newsletter #15](https://nostrcompass.org/en/newsletters/2026-03-25-newsletter/), from Primal's new Follow Packs and BigBrotr's relay-scale nsec leak analysis to nostr-vpn, peer-to-peer DOOM, and a dense week of client and protocol releases.\n\nThe second half of the episode moves from weekly updates into a longer retrospective, tracing what happened in Nostr each March from 2021 through 2026. That arc runs from fiatjaf making two protocol commits in March 2021 to a March 2026 ecosystem where VPNs, games, signers, CI pipelines, and agent proposals all coexist on the same event-and-relay model.\n\nhttps://blossom.primal.net/f7556db630e4ac275a92ae3626056db317c505f0259b32ca5145c172c35bbde4.mp3\n\nhttps://podcast.nostrcompass.org/naddr1qvzqqqr4vcpzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqp7etsd9ek7er995cnwde58yurvdfhxymnzwpdvdh8seejx33hy6cx7jpaf\n\n#podcast #nostr",
+    "timestamp": "1774986809",
+    "date": "3/31/2026, 7:53:29 PM",
+    "id": "8b25dfc342a27b31187a2a3b476453fba66e1fe0ad49f2674348a1f19db4fedb",
+    "kind": 6
+  },
+  {
+    "content": "Dunno, nostr:nprofile1qqs8y6s7ycwvv36xwn5zsh3e2xemkyumaxnh85dv7jwus6xmscdpcygpz9mhxue69uhkummnw3ezumrpdejz76jympz?",
+    "timestamp": "1774984093",
+    "date": "3/31/2026, 7:08:13 PM",
+    "id": "52f613b2979070cfa0e2a7ad31d392e0111a5765cd425cf276d3c259119df0d5",
+    "kind": 1
+  },
+  {
+    "content": "Odd, this app is on zapstore already, nostr:nprofile1qqs8y6s7ycwvv36xwn5zsh3e2xemkyumaxnh85dv7jwus6xmscdpcygpz9mhxue69uhkummnw3ezumrpdejz76jympz you should resolve links to the app in the search box.\n\nFor adding to the index this is the ui you would see tho, it ain't pretty, but it'll work.",
+    "timestamp": "1774983829",
+    "date": "3/31/2026, 7:03:49 PM",
+    "id": "625e1cb63e87bb002fd40fe41b7be219bde107ba3494b932485663e3b406f1ef",
+    "kind": 1
+  },
+  {
+    "content": "Yet another awesome app discovered on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4\nA no-bullshit app store is so refreshing.\nnostr:nevent1qqs9dw0jydwqcen4u2g72glze6p3xzqr5k28tphngjrdh0ulxvk7fkgppemhxue69uhkummn9ekx7mp0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqqqpdk5lu8",
+    "timestamp": "1774983695",
+    "date": "3/31/2026, 7:01:35 PM",
+    "id": "9bbfbc6a2ea1bad966e20cfd0827cc6d8b04d2ed13448493d5190b657fa4348d",
+    "kind": 1
+  },
+  {
+    "content": "25+ languages downloaded in ~ 3GB, wild.\nIts super fast too.",
+    "timestamp": "1774983412",
+    "date": "3/31/2026, 6:56:52 PM",
+    "id": "60fd1300a161bba97baa9d98cc3fff05927788ab0c877d10999fa0344b8e3f17",
+    "kind": 1
+  },
+  {
+    "content": "Fully offline translator android app, nice!\nhttps://github.com/davidventura/firefox-translator",
+    "timestamp": "1774982546",
+    "date": "3/31/2026, 6:42:26 PM",
+    "id": "56b9f2235c0c6675e291e523e2ce83130803a5947586f34486dbbf9f332de4d9",
+    "kind": 1
+  },
+  {
+    "content": "Check now if the app showed up?\nIt's not a pretty ui at all, will be improved later.",
+    "timestamp": "1774981532",
+    "date": "3/31/2026, 6:25:32 PM",
+    "id": "035dc12d2cf935440bb15b31d8a56cad337c178ee82a9c9f9878ac114a53fe4f",
+    "kind": 1
+  },
+  {
+    "content": "Yes!",
+    "timestamp": "1774981511",
+    "date": "3/31/2026, 6:25:11 PM",
+    "id": "30575ee13398264635e4bcc58c71489d5864561c078da2eb2ab0ce4f0c0bb7ac",
+    "kind": 1
+  },
+  {
+    "content": "This turned into a long one...\nA comparative analysis of financial privacy across ten systems: Bitcoin's transparent baseline, WabiSabi CoinJoin, Lightning Network, Spark, Ark, shielded client-side validation, Monero RingCT, Monero's upcoming FCMP++, Zcash's Sapling and Orchard pools, and DarkFi's anonymous-everything architecture. \nEach system stakes its design on a different anonymity set, trust model, and architectural layer. The result is a spectrum from adequate plausible deniability to full untraceability, and your threat model determines which point on that spectrum you need. \nnostr:naddr1qqgxvde4xq6rgvnrxuurjep4xccnqq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w6t8aaj",
+    "timestamp": "1774981204",
+    "date": "3/31/2026, 6:20:04 PM",
+    "id": "1d29fb7cf138e7759b688778046fd0516bcf8ecba1ac416eb904f9e925f2ac42",
+    "kind": 1
+  },
+  {
+    "content": "In today’s update we cover the latest news from ContextVM. In particular, we have been chosen to mentor the next generation of open-source contributors through the Summer of Bitcoin internship program 🚀\nWe also cover our latest modification to the CVM website and the spam attack that recently hit our relays.\nRead the full article to learn everything going on in the CVM World!\nhttps://contextvm.substack.com/p/mentoring-the-next-generation-the\n\nnostr:naddr1qvzqqqr4gupzq6ehsrhjjuh885mshp9ru50842dwxjl5z2fcmnaan30k8v3pg9kgqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qg6waehxw309aex2mrp0yhxummnw3exx6r9vd4jumt99uq3vamnwvaz7tmhda68ytnjv4kxzarj9eu8j730qy88wumn8ghj7mn0wvhxcmmv9uqqkcmkd5khwmmjd3jz6dgp6gz9c",
+    "timestamp": "1774977696",
+    "date": "3/31/2026, 5:21:36 PM",
+    "id": "48bf6196700802f434aec1e84173385f1f537b82c7e1a9e6c047ecd88887a085",
+    "kind": 6
+  },
+  {
+    "content": "I was wondering when your sprint is over...",
+    "timestamp": "1774977410",
+    "date": "3/31/2026, 5:16:50 PM",
+    "id": "9a992616c179a41cecce831be2ff610fc39f0f89e01f2c404b2a50fc71bf3c42",
+    "kind": 1
+  },
+  {
+    "content": "Radical idea...",
+    "timestamp": "1774976165",
+    "date": "3/31/2026, 4:56:05 PM",
+    "id": "4ce45126de34a23fb7ffce29af599b3af5020e7cd136fd4ff8e2967228ac18fd",
+    "kind": 1
+  },
+  {
+    "content": "Want to install an app but it's not on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4?\nJust paste the GitHub repo link in the zapstore search bar, hit enter, and wait a couple minutes, it will be automagically indexed in the background!",
+    "timestamp": "1774976152",
+    "date": "3/31/2026, 4:55:52 PM",
+    "id": "6f0d7297631ba8df1538c79f7c6a089ffed3bb93df759f90f96521a15eb90b6e",
+    "kind": 1
+  },
+  {
+    "content": "nostr:npub1kpt95rv4q3mcz8e4lamwtxq7men6jprf49l7asfac9lnv2gda0lqdknhmz now supports NIP-50 search for profiles.\n\nAdd wss://relay.vertexlab.io to your relays, and enjoy the fastest and most accurate search in Nostr.\n\nYes, it's all free.",
+    "timestamp": "1774962474",
+    "date": "3/31/2026, 1:07:54 PM",
+    "id": "2e1f50e9a301e95ce1b4873b11a1f8e93ae53fde641d4235e5306a48e0fe0599",
+    "kind": 6
+  },
+  {
     "content": "Multi-device support in an encrypted messenger is an authorization problem. It is not a sync problem, not a UX problem, not a storage problem. The question that must be answered before anything else can proceed is simple: how does a second device prove it belongs to the same person, in a way that every group member can independently verify, without any central authority vouching for the claim? Marmot PR #44 introduces MIP-06 to answer exactly this question for White Noise. \nnostr:naddr1qqgrjdeexyek2wf5xdjk2vfexqurwq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wxkk0rf",
     "timestamp": "1774791893",
     "date": "3/29/2026, 1:44:53 PM",
