@@ -1,5 +1,82 @@
 [
   {
+    "content": "Huge, I hope this will work much better, arti is great.",
+    "timestamp": "1775078465",
+    "date": "4/1/2026, 9:21:05 PM",
+    "id": "592422fe2027bd5a470c3b8170e46f0e062031fa8a84feead2279e16afe0f637",
+    "kind": 1
+  },
+  {
+    "content": "New Tor lib is up 🚀 \n\nThis should solve most of the random crashing issues when coming back to the app after a while.\nnostr:nevent1qqstax0ger2d7r65k38tdjtfwmxt8zawagqeysm2r3hu30z7jvx6dvqpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsyg92jprny4srmtx5lq2zpy6k09e4vm0rk83q4z240degcwlyc65yfvpsgqqqqqqsvvsh06",
+    "timestamp": "1775078449",
+    "date": "4/1/2026, 9:20:49 PM",
+    "id": "a2cda9b3420df412e2f359d76da3988eafb02b8f2f97723ff1ee81045cd71c73",
+    "kind": 6
+  },
+  {
+    "content": "I'd love a crawler app on android that gets all my relevant events from other relays and puts them in the local relay, then the clients can always connect to the local relay, load feeds instantly and even offline.",
+    "timestamp": "1775078434",
+    "date": "4/1/2026, 9:20:34 PM",
+    "id": "c58ea5c2e3c5b3046583cf2b655d0ff40d956e06b6655ca7eea314d97e98b466",
+    "kind": 1
+  },
+  {
+    "content": "Bullet proofs is ancient zero knowledge tech.\nThere was an insane amount of improvement with generalized zk proof systems, recursive proofs, reduced trust assumptions, more efficient circuit construction etc.\n\nMaybe the best outcome of the shitcoin era is the reallocation of capital from meme chasers to cryptographers.",
+    "timestamp": "1775059944",
+    "date": "4/1/2026, 4:12:24 PM",
+    "id": "5a4ef0c1b023fe0ac612408ee13867e8eba501622e37a34b4a59ace556582380",
+    "kind": 1
+  },
+  {
+    "content": "You get the same verification guarantees in all these systems. \nThe cost lies in generating the proof (signing the transaction), transmitting the proof (block space cost), and validating the proof (running a node).\n\nHistorically zero knowledge cryptography was more expensive on all fronts.\nRecent advances reduced all those costs tho.",
+    "timestamp": "1775059379",
+    "date": "4/1/2026, 4:02:59 PM",
+    "id": "0d678450426b445f95ba47ecf62491f0e98fdaeb6e2ba893353e511d9e5c775a",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass #16 is out. \nAmethyst v1.07.0 through v1.07.5 adds pinned notes, NIP-86 relay management, and NIP-62 Request to Vanish support. Flotilla v1.7.0 ships voice rooms and email login, while Nymchat adopts the Marmot protocol for MLS-encrypted group chats with NIP-17 fallback. NIP-5A (Static Websites) merges into the NIPs repository, defining how to host websites under Nostr keypairs using Blossom storage. This issue digs into NIP-5A and NIP-62 (Request to Vanish). \nnostr:naddr1qqgrgvt98qmkvdfkx56r2c34xe3rgq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65w8vgwca",
+    "timestamp": "1775059171",
+    "date": "4/1/2026, 3:59:31 PM",
+    "id": "19650a8ed12346078dfad1e280a73ed45c7e6af340485e30842a956540dc4b14",
+    "kind": 6
+  },
+  {
+    "content": "Love it, thanks!",
+    "timestamp": "1775040056",
+    "date": "4/1/2026, 10:40:56 AM",
+    "id": "f041835d4a3dd80d761850d3fc03900f4660c704d9be54822552d4132a03a9ab",
+    "kind": 1
+  },
+  {
+    "content": "The Quiet Departure (by Max Hillebrand - Read by Bare Sounds)\n\nhttps://open.substack.com/pub/baresoundsproject/p/the-quiet-departure-by-max-hillebrand?r=6gj0tk&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+    "timestamp": "1775040051",
+    "date": "4/1/2026, 10:40:51 AM",
+    "id": "a90babe614a23aacccdbf124a447c0059a2f8170c011a4e4b93813f6c08d0464",
+    "kind": 6
+  },
+  {
+    "content": "Next marmot client joins the burrow!\nTest out nymchat.app\nnostr:nevent1qqs2sgdvu8fdl00w7fvslh9269mxa2ugu8v9xnez080g303mfc94w0spzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyr2f4ypr5gwm5xeusvrv5d5m7vjrmz6yhrctd5gevcrl0vyep75d7qcyqqqqqqg9swgag",
+    "timestamp": "1775039273",
+    "date": "4/1/2026, 10:27:53 AM",
+    "id": "5ca632d41e9efa7521111ce78dbcb555e6fedfa7f897de38dd3b067e3417c51c",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, interoperability is amazing!",
+    "timestamp": "1775039221",
+    "date": "4/1/2026, 10:27:01 AM",
+    "id": "8536f72aec17bed716be277cf94cc398dd447eb41df09fc49258ba1643e5c4b0",
+    "kind": 1
+  },
+  {
+    "content": "That's awesome! \nHow did it go with implementing this?\nAnything missing in the tooling?",
+    "timestamp": "1775038101",
+    "date": "4/1/2026, 10:08:21 AM",
+    "id": "a9d8786f0146b9b253a8c15c58f0b63065292646b612df94ff46c348a0e7e1db",
+    "kind": 1
+  },
+  {
     "content": "Flotilla is officially normie-friendly! I just released version 1.7.0 (and 1.7.1), which adds email/password login.\n\nThis is a terrible UX, but it's also familiar, and doesn't require users to know anything about keys. It keeps key material safe by creating a FROST multisig quorum and spreading key shares across multiple independently run signer servers.\n\nSo please! Share it with your non-cypherpunks and send them my way when things go wrong (or right, I won't argue).\n\nTo sweeten the deal, we've also added voice rooms (thanks to nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq35amnwvaz7tms09exzmtfvshxv6tpw34xze3wvdhk6tcpzamhxue69uhkummnw3ezumr0wfjkuar69e5hxtcpzamhxue69uhhyetvv9ujumn0wvh8xmmrd9skctcqyrg2rlacwcdewn8vfga73j7t96t2wzgdear9ll4vswd2fj3qexjeus2nyw8) powered by livekit for people making the exodus from Discord.\n\nAlso included are UI fixes and performance improvements. Thanks to nostr:nprofile1qydhwumn8ghj7un9d3shjtn0wpjkuun9wd5hxapwvdhk6tcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcqyz2mz76eqffu88ntl4ljg205p42qklhcgdssc0ddk6takgkl2d4mkuj8cmq for some great suggestions, and to everyone else who reported bugs. Android image uploads should be working now, and Primal/Amber should be smoother as well.\n\nIf you're interested in Flotilla or have bugs to report, please join the community at https://app.flotilla.social/join?r=meta.spaces.coracle.social&c=LE7S3IA2\n\nI've also been slowly building out the knowledge base at https://flotilla.social/articles so take a look there for tips on deploying a zooid relay or using Flotilla.",
     "timestamp": "1774990120",
     "date": "3/31/2026, 8:48:40 PM",
