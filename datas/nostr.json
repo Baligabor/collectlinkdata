@@ -1,5 +1,47 @@
 [
   {
+    "content": "As always a lot of great insight, Thanks!",
+    "timestamp": "1775313911",
+    "date": "4/4/2026, 2:45:11 PM",
+    "id": "e8e739e723d113096e9b240c59debe55ebdaf67a9646c54d97c05029e5014adf",
+    "kind": 1
+  },
+  {
+    "content": "Meh, that's mostly a mischaracterization I think. Bulletproofs as originally conceived was a valuable addition to the mix; it didn't have succinct verification so it couldn't *directly* compete with Groth16 and other pairing based schemes but it did have: no trusted setup and no assumptions outside of ECDLP. The other option was STARKs but the proof sizes were large. The verification scaling being bad was addressed in HALO and HALO2 with some rather clever tweaks, keeping the no-trusted-setup property while getting succinct verification. So nowadays it's a general class of algorithms see \"folding schemes\", \"inner product arguments\" and those can be flavours of zkSNARK; bulletproofs literally purely as originally written, yes, is rarely used, although perhaps occasionally still finds a use - an example is Curve Trees, which you mention. But it's also a paradigm which continues to be used in more sophisticated forms. Perhaps a confusion here is  you were thinking about 'bulletproofs for confidential transactions via range proofs' (still used in Monero) as opposed to 'bulletproofs as a general ZKP system' (which was in the original paper).",
+    "timestamp": "1775313858",
+    "date": "4/4/2026, 2:44:18 PM",
+    "id": "39024ecd9a14d8db77271d823488d628f96b14e4e042e034249dd7bfc7273d45",
+    "kind": 6
+  },
+  {
+    "content": "Vitor vibed it.\nIt turns amethyst into a marmot client, which can send messages interoperable to any other marmot client, including White Noise. \nAt the moment we don't have multi device support, so the same nsec shouldn't log into multiple clients. We'll fix that soon.\nBy the way, amethyst desktop is almost done.",
+    "timestamp": "1775291988",
+    "date": "4/4/2026, 8:39:48 AM",
+    "id": "e0f9b13a308bc9ea279002f2299c863fe4b18c1b364baf81a4a64043f38d6169",
+    "kind": 1
+  },
+  {
+    "content": "Not sure which will be default.\n\nIf one user has White Noise, the other has Amethyst, then they can send messages to each other.\n\nIf at the moment the same nsec logs in to multiple clients, things will probably start to break...\n\nWe're working on multi device now, should take a couple two weeks.",
+    "timestamp": "1775287550",
+    "date": "4/4/2026, 7:25:50 AM",
+    "id": "f1491e1d9107594e8f082ec01523a7800d8f1f8ba6976f181cd6ec89e4119970",
+    "kind": 1
+  },
+  {
+    "content": "It's really insane how fast you got that to work...",
+    "timestamp": "1775287444",
+    "date": "4/4/2026, 7:24:04 AM",
+    "id": "5d2ec36ea0330c6d1082a049eacd0edb05ba02b615244e6d8b90e4f5a1576b87",
+    "kind": 1
+  },
+  {
+    "content": "Fun fact, we are coding MLS/Marmot from scratch. \nnostr:nevent1qqsgs6pl6x2keungllezjtx6tvd0fzqlevd2dsnzk5yz64epsw56rzcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqg8u5qn2",
+    "timestamp": "1775287381",
+    "date": "4/4/2026, 7:23:01 AM",
+    "id": "98d7f48c135b75f9b06406817bc931a94f87c9e4d09464e69d967dc1eceb6545",
+    "kind": 6
+  },
+  {
     "content": "👀\nhttps://github.com/vitorpamplona/amethyst/pull/2106",
     "timestamp": "1775238351",
     "date": "4/3/2026, 5:45:51 PM",
