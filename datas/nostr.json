@@ -1,5 +1,33 @@
 [
   {
+    "content": "This sort of order actually increases entropy. It's a paradox. People leaving for \"work\" (=office) just in time for traffic jam, wasting time in their cars for hours a day, to satisfy the KPIs of the machines. People usually in bullshit jobs, >70% centrally planned.\n\nYet it is not that hard to build a parallel way that creates something useful. We live (again) in the best time to tame entropy. We got tech, tools, parallel ways are feasible again.\n\nThe biohacking community has a motto \"don't die\". Tamers of entropy should adopt: \"Don't waste your life\". In bullshit jobs, in bad relationships, in bed with governments, ...\n\nCreate! Your own way.\n\n(Picture by nostr:nprofile1qywhwumn8ghj7mn0wd68ytnr09cxsetjwp6ku6eww3hkgcte9uqs7amnwvaz7tmwdaehgu3wd4hk6qpqcpj87vr57s0wy9x2nr4y08z3y33t4xw23ue0h4ulpy43gmmq7ezsm8nm63 )\n\n https://blossom.primal.net/f23d7609047ddde225bdade2fe79f528de61bf57223ff2c012b0fae9d1c753ad.jpg ",
+    "timestamp": "1775383694",
+    "date": "4/5/2026, 10:08:14 AM",
+    "id": "6e46dcccc7cf03ef5001f71c9f082958caf80e917f9aaaf71d3772f488cef640",
+    "kind": 6
+  },
+  {
+    "content": "Bitcoin settles payments without counterparty permission, and Nostr coordinates action without censorship. Together they enable spot transactions and real-time coordination across the parallel economy. What they cannot do is create credit, and without credit, the parallel economy cannot finance production across time. \nnostr:naddr1qqgxvwfhxgurjdmxxd3rwcfhxcmrwq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w3yp8fm",
+    "timestamp": "1775381753",
+    "date": "4/5/2026, 9:35:53 AM",
+    "id": "be2529cfa94fa71c611a68bea4285e6a9012dd8ae3d555a39d4b9f7361493bf3",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass Podcast #16 is out.\n\nAmethyst ships six releases in three days, adding pinned notes, NIP-86 relay management, and NIP-62 Request to Vanish. NIP-5A merges, defining how to host static websites under Nostr keypairs using Blossom storage. White Noise fixes relay churn with quorum-based publishing and scoped ephemeral sessions. Flotilla adds voice rooms, email login, and proof-of-work DMs. Nymchat adopts Marmot for MLS-encrypted group chats with NIP-17 fallback. nospeak launches 1.0 as a no-signup encrypted messenger. Calendar by Form* reaches v1.0.0, Amber adds mnemonic recovery, and Schemata ships 21 PRs across four releases.\n\nPlus: Nostr VPN roster sync, Igloo FROST threshold signing on iOS, Nalgorithm relevance-ranked feeds, TENEX RAG vector stores, and 10 open NIP proposals including agent reputation, paid API announcements, and LNURL-auth key derivation.\n\nDeep dives into NIP-5A (Static Websites) and NIP-62 (Request to Vanish) with nostr:nprofile1qqsqddupn4l3cl65wggcyehd009g0pwuatsfudh28f90vewx68vrylqprdmhxue69uhhyetvv9ujuem9w3ekzen9vfhhstnpwpcz7qglwaehxw309ashgmrpwvhxummnw3ezumrpdejz76twwehkjcm9wvq3jamnwvaz7tm9wdcx2mrgduhxw6tjd9hx7tn0wfnj70wag7g , nostr:nprofile1qqsd73uwehl7j8deq356ankc6k3nal927afrrw6dw688zyvyf9gs0fcpr3mhxue69uhhyetvv9uju6n9wfek27tsd3jkyuewvdhk6tcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpr9mhxue69uhhqun9d45h2mfwwpexjmtpdshxuet59uyywp0q, nostr:nprofile1qqsza748zkamgmw4he4hm2xhwqpxd5gkwju38wqh3twmtshx8kv8xvgprpmhxue69uhhxurpw35kzttpwf3kzmnp9e3k7mf0qywhwumn8ghj7mn0wd68ytnrd3hh2epwwe5kumn90yh8s7t69uqsuamnwvaz7tmwdaejumr0dshsar36ag, nostr:nprofile1qqsf03c2gsmx5ef4c9zmxvlew04gdh7u94afnknp33qvv3c94kvwxgsppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj76rzwghxxmmjv93kcefwwdhkx6tpdshsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0sadgdk, nostr:nprofile1qqsdxm5qs0a8kdk6aejxew9nlx074g7cnedrjeggws0sq03p4s9khmqppemhxue69uhkummn9ekx7mp0qyt8wumn8ghj76rpwejkutnrv9k8vcfwv3jhvtcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcghfnjr, nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap06fen87 and nostr:nprofile1qqsgpyxelqdyzm7yn763xjnhmte4jt9dhqwlg2plszvaxgjgh0yg23gpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ehx7um5wghxyctwvshse8mexr. \n\nhttps://blossom.primal.net/b4d5028dd53ca10f4ca75ac2fafd47fdeaf253b92657b3aef1f4a34975fbb990.ogg\n\nhttps://podcast.nostrcompass.org/naddr1qvzqqqr4vcpzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqp7etsd9ek7er995cnwde4xvmnydf3xcunsded095hq7ngvaenxusjnh9wl\n\n#podcast #nostr",
+    "timestamp": "1775373622",
+    "date": "4/5/2026, 7:20:22 AM",
+    "id": "d52395f03f3c8827beacc9479a3e02f28f9419cb6e6ce8c9429b81de1e8fafea",
+    "kind": 6
+  },
+  {
+    "content": "Opting out of the System has never been easier. The tools to build your own freedomtech tools and contribute to others has never been simpler.\nThe time to take action and unchain yourself is now, don't live to regret missing out on the OptOut opportunity.\n\nIncrerdibly inspiring read from the incredible nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap08pu8g0 👌\n\nWhat a time to be alive!  \n\nnostr:naddr1qqgxvetxvc6xgcejvdjkywfh893xxq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wxs58dr",
+    "timestamp": "1775371743",
+    "date": "4/5/2026, 6:49:03 AM",
+    "id": "276671da6b0696800f05d8d8bd729f296f950106b3ecbba673b87f3785af0b4f",
+    "kind": 6
+  },
+  {
     "content": "As always a lot of great insight, Thanks!",
     "timestamp": "1775313911",
     "date": "4/4/2026, 2:45:11 PM",
