@@ -1,5 +1,40 @@
 [
   {
+    "content": "Multidevice possibility is something that simplex doesn't have\n\nAlso the fact you will have a choice of clients (including web) with Marmot\n\nRight now, Simplex is more stable / uses less battery / has voice & video etc but the project has a multiyear head start.  Marmot clients will catch up.\n\nAbout the no user id thing, not sure how it compares actually, assumption is that receive addresses / metadata are hidden to relays but could be wrong.  There is also the question of auth identity.  Would be a good question for todays call at 1600 UTC",
+    "timestamp": "1775575942",
+    "date": "4/7/2026, 3:32:22 PM",
+    "id": "921bc78d7b483aac3af6675ec852da157d864f9d89f9f132527e3d56cf42fcd0",
+    "kind": 6
+  },
+  {
+    "content": "It's possible, but unlikely.",
+    "timestamp": "1775575923",
+    "date": "4/7/2026, 3:32:03 PM",
+    "id": "b33a391247b3a64aa8c9447fa8850301f77b4a9dcf7be488f77e20a0b55b33fc",
+    "kind": 1
+  },
+  {
+    "content": "Just get it on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4 ",
+    "timestamp": "1775575891",
+    "date": "4/7/2026, 3:31:31 PM",
+    "id": "7561fd1fc7760a677e9bdbe88db12fdb13664eafd4a938a08051a7917883ab8e",
+    "kind": 1
+  },
+  {
+    "content": "GzD fürs 21magazin, ausgabe 5 «Bitcoin ist Freiheit», erteilt. Vorverkaufs-Start: 21.4./21:00 Uhr ... 👀\n\neinundzwanzig.shop\n\nauflage: 900 ex./ shop-verkauf: ~ 500 ex. <= don’t miss it ...!\n\nhttps://npub1z77juddgcul5la7jq578nsurpxh99633ccanngf863m4gh6gv2msm009sr.blossom.band/214fdeb67ff89f962480f065fe8d4994b7b4a9d8871e2ad91c9da5f00e947dbd.png",
+    "timestamp": "1775564076",
+    "date": "4/7/2026, 12:14:36 PM",
+    "id": "422067fba1747584f552edca7bb5bd8fdaa09d6faa0002578e485ae2c26467c8",
+    "kind": 6
+  },
+  {
+    "content": "What's this? The link doesnt work.",
+    "timestamp": "1775542430",
+    "date": "4/7/2026, 6:13:50 AM",
+    "id": "4120951e8256367d0c9aee7585b4f4fbc80c9d47718f515eadac201a493bbf65",
+    "kind": 1
+  },
+  {
     "content": "There is now an official internet standard that makes it possible for Tor onion services to get verified security certificates the same way any website does, automatically, for free. https://datatracker.ietf.org/doc/rfc9799/",
     "timestamp": "1775500539",
     "date": "4/6/2026, 6:35:39 PM",
