@@ -1,5 +1,26 @@
 [
   {
+    "content": "Nostr Compass #17 is out.\n\nAmethyst ships Arti Tor in v1.08.0 and writes a full Kotlin implementation of MLS and Marmot in its Quartz library, removing all native C/Rust dependencies and opening the door to iOS via Kotlin Multiplatform. Nymchat reverts from Marmot to enhanced NIP-17 with rotating ephemeral keys after multi-device sync issues. Titan v0.1.0 launches a native nsite:// browser resolving human-readable names via Bitcoin, Nostr relays, and Blossom servers. Nostr VPN ships exit node support across six releases. Snort ships a security audit with NIP-46 relay forgery protection. Primal Android adds wallet multi-account sharing. Bikel v1.5.0 adds native foreground service for de-Googled phones. Sprout (Block) adds NIP-01, NIP-23, and NIP-33 support.\n\nOpenSats announces 16th wave of Nostr grants: Amethyst Desktop, Nostr Mail, Nostrord, and Nurunuru.\n\nProtocol: NIP-58 badge kind migration and NIP-34 follow lists merged. NIP-AC (P2P calls), NIP-340 (FROST threshold signing), NIP-5D (web applets), NIP-5C (WASM scrolls) proposed.\n\nNIP deep dives: NIP-17 (Private DMs) and NIP-46 (Remote Signing). 30+ projects covered. \nnostr:naddr1qqgrsvrrvd3nzcf5xa3rxen9x5enjq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wuregv2",
+    "timestamp": "1775664733",
+    "date": "4/8/2026, 4:12:13 PM",
+    "id": "97d754e7f627b06b426b47918b351dfe1a26cb01f5c3ee960223de7a389ef29e",
+    "kind": 6
+  },
+  {
+    "content": "Looking good!",
+    "timestamp": "1775654931",
+    "date": "4/8/2026, 1:28:51 PM",
+    "id": "840713abd17d85c0b848bbcea9cfecc5f2a1287d52035213d39af5b8fb106982",
+    "kind": 1
+  },
+  {
+    "content": "We've just published our Q1 Report for 2026. Be sure to check it out, the beginning of the year is off to an epic start. So much accomplished, but even more planned for the road ahead. \n\nAlso, special thanks to the Marmot Community nostr:npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec yesterday for letting us do the first live demo ever for Vector. We are stoked to be building alongside many other great people, projects, and ideas. nostr:naddr1qvzqqqr4gupzpw8e9es7w829s6hxle5hpaea6r7m3yqsjky79aqhhm6ytwa6jtydqy08wumn8ghj7ctnd9sjuan9vd6x7unpwpczu6t09ahx7um5wghszyrhwden5te0dehhxarj9ekk7mf0qq24qumx0f69s3rrwe4xvdjp94mykkjetaarxpx4mf3",
+    "timestamp": "1775653880",
+    "date": "4/8/2026, 1:11:20 PM",
+    "id": "1302b2b98b2b1e9dbdbaee21f1f725f0ead9fca931e72b132280fba68aa21cee",
+    "kind": 6
+  },
+  {
     "content": "Multidevice possibility is something that simplex doesn't have\n\nAlso the fact you will have a choice of clients (including web) with Marmot\n\nRight now, Simplex is more stable / uses less battery / has voice & video etc but the project has a multiyear head start.  Marmot clients will catch up.\n\nAbout the no user id thing, not sure how it compares actually, assumption is that receive addresses / metadata are hidden to relays but could be wrong.  There is also the question of auth identity.  Would be a good question for todays call at 1600 UTC",
     "timestamp": "1775575942",
     "date": "4/7/2026, 3:32:22 PM",
