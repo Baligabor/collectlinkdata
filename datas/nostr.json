@@ -1,5 +1,26 @@
 [
   {
+    "content": "🚀 zsp 0.4.7 released\n\nAutomatically detects old zapstore.yaml config and migrates it! If you have an app you haven't published in a long time, this is the time to publish with the new format\n\nhttps://github.com/zapstore/zsp",
+    "timestamp": "1775918390",
+    "date": "4/11/2026, 2:39:50 PM",
+    "id": "e3b9619842076a8a4e7b302eacf25110c6de43a5fa3fbf6be92062d65d50cafc",
+    "kind": 6
+  },
+  {
+    "content": "400 optech editions, crazy!\nThanks a lot to all contributors!\nnostr:nevent1qqsr2tad7e67a0r74urz7662m4hyjxwv4khx80f6m76ucsgydyj2daqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyz7mj6knrtr27y3uw6pu24m4acsn3ks03uq3uwv5644zwfcwdyjh2qcyqqqqqqgplsry2",
+    "timestamp": "1775894816",
+    "date": "4/11/2026, 8:06:56 AM",
+    "id": "6411d728b972839f99efd002601ccff4ad1abff02004d575ada5c44a446cdd03",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsv7exgrnd0xd3gfhw5jl45596zuawudu39nzctk7vhxy58y4nr7mcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qg4waehxw309ahx7um5wghx77r5wghxgetk9udy524j ",
+    "timestamp": "1775892449",
+    "date": "4/11/2026, 7:27:29 AM",
+    "id": "71a79ed2f79089419817cb5e96eb43dc78a4246c862e399638cc43099bcc71ed",
+    "kind": 1
+  },
+  {
     "content": "Nostr Compass #17 is out.\n\nAmethyst ships Arti Tor in v1.08.0 and writes a full Kotlin implementation of MLS and Marmot in its Quartz library, removing all native C/Rust dependencies and opening the door to iOS via Kotlin Multiplatform. Nymchat reverts from Marmot to enhanced NIP-17 with rotating ephemeral keys after multi-device sync issues. Titan v0.1.0 launches a native nsite:// browser resolving human-readable names via Bitcoin, Nostr relays, and Blossom servers. Nostr VPN ships exit node support across six releases. Snort ships a security audit with NIP-46 relay forgery protection. Primal Android adds wallet multi-account sharing. Bikel v1.5.0 adds native foreground service for de-Googled phones. Sprout (Block) adds NIP-01, NIP-23, and NIP-33 support.\n\nOpenSats announces 16th wave of Nostr grants: Amethyst Desktop, Nostr Mail, Nostrord, and Nurunuru.\n\nProtocol: NIP-58 badge kind migration and NIP-34 follow lists merged. NIP-AC (P2P calls), NIP-340 (FROST threshold signing), NIP-5D (web applets), NIP-5C (WASM scrolls) proposed.\n\nNIP deep dives: NIP-17 (Private DMs) and NIP-46 (Remote Signing). 30+ projects covered. \nnostr:naddr1qqgrsvrrvd3nzcf5xa3rxen9x5enjq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wuregv2",
     "timestamp": "1775664733",
     "date": "4/8/2026, 4:12:13 PM",
