@@ -1,5 +1,33 @@
 [
   {
+    "content": "Mainly its a protocol and library first approach, so it's easier to build an app that's interoperable with others.\n\nThe underlying encryption protocol of Marmot is tailor made for group conversations, all those that you mention are primarily designed for 2 person chat, and groups are build on higher layers.",
+    "timestamp": "1776084318",
+    "date": "4/13/2026, 12:45:18 PM",
+    "id": "b99453db3b3b5608594ac3179e6e9c1dc298761fd651a9234bb6cdd1b06e2e48",
+    "kind": 1
+  },
+  {
+    "content": "Some things are meant to stay between two people. We're building the protocol for that.\n\nhttps://blossom.primal.net/a3b40d8f3823c18f7cfbbc6c20c09030b20d7b7230aa7afadf83650da92a814e.mp4 ",
+    "timestamp": "1776084199",
+    "date": "4/13/2026, 12:43:19 PM",
+    "id": "a0a079ea42519ddbe4102240c93deecfd4cffad5cbc1ca2882f5ca11ac71a316",
+    "kind": 6
+  },
+  {
+    "content": "🔥 Kann der Staat Bitcoin wirklich halten – oder ist die ganze \"Strategic Reserve\" am Ende nur ein Angriff auf Bitcoin?\n\nDiese Frage stellen Calso, Chris, Manu (Münzweg), Max Hillebrand und Zettizettler in einer neuen Buchclub-Runde auf Basis von Eric Voskuils \"Cryptoeconomics\".\n\nWas das Buch aufdeckt – und was uns alle wieder auf den Boden holt:\n\n⚙️ Seniorage ist der Kern des Geldsystems\nDer Staat gibt Monopolgeld aus, hortet die Reserve (Gold, morgen Bitcoin?) und emittiert mehr Geldsubstitute als Reserve vorhanden ist. Das ist keine Panne – das ist das Geschäftsmodell. Das Wort kommt vom Feudalherren, der Münzgewinn durch weniger Metallgehalt machte. Nichts hat sich geändert.\n\n📜 Bitcoin als Reservewährung bedeutet Bitcoin-Zertifikate für alle anderen\nWenn Staaten Bitcoin horten und BZ-Token ausgeben, verlieren wir genau das, was Bitcoin wertvoll macht: verifizierbare, dezentrale Knappheit. Der Großteil des Netzwerks wird nicht mehr validiert – und wer seine Node noch laufen lässt, könnte sich irgendwann auf einer Minderheits-Fork wiederfinden.\n\n🏦 \"Not your keys\" gilt nicht nur für Privatpersonen\nAuch Strategy, BlackRock und Co. können Bitcoin halten – rechtlich können diese aber trotzdem jemand anderem gehören. Niemand kann das wirklich verifizieren. Das gleiche Problem wie bei Gold in Fort Knox – nur digital verpackt.\n\n⛓️ Schwarzmarkt und Peer-to-Peer sind kein Randphänomen – sie sind der Kern\nNur selbstverwahrte, direkt gehandelte Bitcoin halten die kryptodynamischen Prinzipien aufrecht. Dezentralisierung ist keine Ideologie, sondern Security-Architektur. Weniger Validatoren = fragileres System.\n\n\"Wir müssen weg von diesem ganzen Geldreserve-Scheiß. Wir müssen wieder dahin zurück, wo Bitcoin eigentlich dafür da ist – für Dezentralisierung und das Aufrechterhalten dieser kryptodynamischen Prinzipien.\"\n– Chris, in dieser Folge\n\nDer überraschendste Punkt der Diskussion: Die staatliche Bitcoin-Reserve könnte kein Bullishes-Szenario sein, sondern ein gezielter Angriff – Bitcoin einkassieren, verrotten lassen, Seniorage retten. Und viele in der Community feiern gerade genau das.\n\nDiskussionsfrage an euch:\n\nIst die Bitcoin-Reserve-Diskussion für euch ein positiver Adoption-Schritt oder seht ihr das als Angriffsszenario auf die kryptodynamischen Prinzipien? Und nutzt ihr Bitcoin schon aktiv Peer-to-Peer – oder bleibt es bei Hodln auf der Exchange?\n\nVon und mit: Calso, Chris, Manu (Münzweg), Max Hillebrand und Zettizettler\n\n🎙️ Webseite: https://nodesignal.space/E276\n▶️ YouTube: https://youtu.be/6O5QdZgc-qo\n🎧 Alle Player: https://pod.link/aHR0cHM6Ly9zZXJ2ZS5wb2Rob21lLmZtL3Jzcy9lOGRmMGIxMy00N2RlLTU0NGEtOTliNy1lYzdjYmQ5NjBhMTY/episode/MjRjNmQ5OTYtZGY4NS00OGYxLThkZjYtNWY5YjI4YWMwNDk0\n\n#Bitcoin #Selfcustody #PeerToPeer\n\nFocus on the Signal, not on the noise!\nSchönes Wochenende euch allen 🧡",
+    "timestamp": "1776068020",
+    "date": "4/13/2026, 8:13:40 AM",
+    "id": "18d67a552fe18cca03054d70b97bfdee364b90ce6e04e760e095002ee852227f",
+    "kind": 6
+  },
+  {
+    "content": "Did you consider running this in a minimal template? \nhttps://doc.qubes-os.org/en/latest/user/templates/minimal-templates.html",
+    "timestamp": "1776060772",
+    "date": "4/13/2026, 6:12:52 AM",
+    "id": "83c1ea995772dca69abf2d78e4c8f7c93bdb2cc4d128ad163b1c5a553bc23f23",
+    "kind": 1
+  },
+  {
     "content": "🚀 zsp 0.4.7 released\n\nAutomatically detects old zapstore.yaml config and migrates it! If you have an app you haven't published in a long time, this is the time to publish with the new format\n\nhttps://github.com/zapstore/zsp",
     "timestamp": "1775918390",
     "date": "4/11/2026, 2:39:50 PM",
