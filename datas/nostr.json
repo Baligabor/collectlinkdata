@@ -1,5 +1,12 @@
 [
   {
+    "content": "Recently I've seen a lot of people saying that Claude got dumber. Maybe it did. I don't know and it doesn't matter, because it reminded me why I don't want my setup locked to one provider.\n\nShaka has supported Claude Code and Opencode from the start. Skills, learnings, agents, commands, workflows, all portable between them. Define them once and use them interchangeably.\n\nv0.10.0 adds even more optionality: Codex. Same skills, same learnings, same everything. Pick the best tool for the task and your setup comes with you.\n\nThree new agents ship here too: CodeReviewer, DevOpsEngineer and TechnicalWriter. The slop scanner picked up some additional patterns with tighter false-positive rules to make your writing even less robotic and soulless.\n\nv0.10.0       \n🤖 github.com/jgmontoya/shaka",
+    "timestamp": "1776148439",
+    "date": "4/14/2026, 6:33:59 AM",
+    "id": "5fb52ebcf90c4bd815aba2bf54ed70778e9ee9409e4bdfcfa0e500a25c3240b2",
+    "kind": 6
+  },
+  {
     "content": "Mainly its a protocol and library first approach, so it's easier to build an app that's interoperable with others.\n\nThe underlying encryption protocol of Marmot is tailor made for group conversations, all those that you mention are primarily designed for 2 person chat, and groups are build on higher layers.",
     "timestamp": "1776084318",
     "date": "4/13/2026, 12:45:18 PM",
