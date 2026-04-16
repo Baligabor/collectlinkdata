@@ -1,5 +1,26 @@
 [
   {
+    "content": "Nostr Compass #18 is out. \nAmethyst merges 29 PRs including desktop Tor support, a custom C secp256k1 implementation, WebRTC voice and video calls, and multi-wallet NWC. Snort ships v0.5.0 through v0.5.3 with a security audit, batched WASM verification, and a rewritten message system. nstrfy launches as a Nostr-native push notification app replacing Firebase with kind 7741 relay events. This week's deep dives cover NIP-29 (relay-based groups) and NIP-90 (data vending machines). \nnostr:naddr1qqgxydm989snxwrrxscnqdf4xu6ryq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wvqtetz",
+    "timestamp": "1776283462",
+    "date": "4/15/2026, 8:04:22 PM",
+    "id": "d2084f6e663399e4ac7d90c6a71618a77c1ad341e41480a610267ac5bcd08b61",
+    "kind": 6
+  },
+  {
+    "content": "Persistence is a different parameter to template OS choice, you can have a minimal fedora machine that is a standalone VM with full persistence. \n\nMinimals are a clean OS without Thunderbird & Firefox etc installed. Saves you on storage and reduces attack surface drastically.",
+    "timestamp": "1776246827",
+    "date": "4/15/2026, 9:53:47 AM",
+    "id": "308c442618d26d95bce709c6c26e6cecd7d4482b1ff8e8f645f448fc8bd6b316",
+    "kind": 1
+  },
+  {
+    "content": "That was the original idea of the nostr doctor actually!",
+    "timestamp": "1776246721",
+    "date": "4/15/2026, 9:52:01 AM",
+    "id": "650953c3ab596797ab90606386e96d9ea4801d8abd047cb5932380aa6d26d44a",
+    "kind": 1
+  },
+  {
     "content": "Recently I've seen a lot of people saying that Claude got dumber. Maybe it did. I don't know and it doesn't matter, because it reminded me why I don't want my setup locked to one provider.\n\nShaka has supported Claude Code and Opencode from the start. Skills, learnings, agents, commands, workflows, all portable between them. Define them once and use them interchangeably.\n\nv0.10.0 adds even more optionality: Codex. Same skills, same learnings, same everything. Pick the best tool for the task and your setup comes with you.\n\nThree new agents ship here too: CodeReviewer, DevOpsEngineer and TechnicalWriter. The slop scanner picked up some additional patterns with tighter false-positive rules to make your writing even less robotic and soulless.\n\nv0.10.0       \n🤖 github.com/jgmontoya/shaka",
     "timestamp": "1776148439",
     "date": "4/14/2026, 6:33:59 AM",
