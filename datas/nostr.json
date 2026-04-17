@@ -1,5 +1,26 @@
 [
   {
+    "content": "Nostr Compass Podcast #17 is out.\n\nAmethyst ships v1.08.0 \"Arti Tor,\" migrating from C Tor bindings to the Rust-based Arti implementation, and merges a full pure Kotlin MLS and Marmot stack into Quartz, opening the door to iOS. Amber v6.0.0-pre1 adds per-connection NIP-46 signing keys so a compromised client can't impersonate the signer elsewhere. NIP-58 Badges merge a kind migration: Profile Badges move to replaceable kind 10008, and Titan launches a native nsite:// desktop browser with Bitcoin name registration.\n\nPlus: Nostur video recording, Shosho Shows with OBS integration, Notedeck Zapstore self-update, Nostria native mobile, Nostr VPN exit nodes, Nymchat NIP-17 group chats with rotating keys, and 7 open NIP proposals including NIP-AC WebRTC calls, NIP-340 FROST Quorum, and ephemeral gift wraps. Deep dives into NIP-17 (Private Direct Messages) and NIP-46 (Nostr Remote Signing).\n\nhttps://blossom.primal.net/b482d9ce23c161bc943483b243e641f42c23d82f7a0d78a7eb503b8766a85c8b.ogg\n\nhttps://podcast.nostrcompass.org/naddr1qvzqqqr4vcpzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqp7etsd9ek7er995cnwdekxvmrxv3hxv6nxvfdxp4x7vrx89n8saqdexyh5\n\n#podcast #nostr",
+    "timestamp": "1776363449",
+    "date": "4/16/2026, 6:17:29 PM",
+    "id": "548b49264fab59adab09c343e9691934987410e9df230c2fde0662ef2bea5b3e",
+    "kind": 6
+  },
+  {
+    "content": "Working on making marmot transport layer agnostic.",
+    "timestamp": "1776349377",
+    "date": "4/16/2026, 2:22:57 PM",
+    "id": "1aa79bbb230a415a009eb3066810cd9259f9351a90b139736676ea8f7d20828a",
+    "kind": 1
+  },
+  {
+    "content": "\\o/  NEW RELEASE  \\o/\n\nMango - the confidential AI app. \n\nNo provider lock-in. No subscriptions. Own your data data. Bring your own key. Protect your chats. And delete them if forced to unlock the app. No tracking, no analytics. The app that serves you. \n\nSupports nostr:nprofile1qyxhwumn8ghj7mn0wvhxcmmvqy2hwumn8ghj7mn0wd68ytn00p68ytnyv4mz7qpq6g4umvwj2pduqc8kt2rv6heq2vhvtulyrsr2a20d4suldwnkl4hq62etsy  and Tinfoil.sh.\n\nmore about the app:\nhttps://disobey.dev/posts/mango-confidential-ai/\n\nzapstore:\nhttps://zapstore.dev/apps/dev.disobey.mango\n\ngithub:\nhttps://github.com/aljazceru/mango\n\n\n\n https://blossom.primal.net/3f786f0295ebcdba26b50a5706e599b0dd94f03fecd39a1e476f0c5e279a2146.png   https://blossom.primal.net/67c984ee260f8a91f9ab92cec2f69b53d58b770f3ad860fdeee038bb2cbbbb1d.png   \nhttps://blossom.primal.net/b7145aa6352bce459984a7bf94049c54b7986031713f4babbcc98cff6abfc855.png ",
+    "timestamp": "1776348738",
+    "date": "4/16/2026, 2:12:18 PM",
+    "id": "14bf253892a35914e78615188929186e85fbfa70965897693f0c1cdc94d5b62f",
+    "kind": 6
+  },
+  {
     "content": "Nostr Compass #18 is out. \nAmethyst merges 29 PRs including desktop Tor support, a custom C secp256k1 implementation, WebRTC voice and video calls, and multi-wallet NWC. Snort ships v0.5.0 through v0.5.3 with a security audit, batched WASM verification, and a rewritten message system. nstrfy launches as a Nostr-native push notification app replacing Firebase with kind 7741 relay events. This week's deep dives cover NIP-29 (relay-based groups) and NIP-90 (data vending machines). \nnostr:naddr1qqgxydm989snxwrrxscnqdf4xu6ryq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65wvqtetz",
     "timestamp": "1776283462",
     "date": "4/15/2026, 8:04:22 PM",
