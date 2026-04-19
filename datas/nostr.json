@@ -1,5 +1,12 @@
 [
   {
+    "content": "In theory yes, but in practice the code is all mangled with nostr deeply, specifically would be great to also support FIPS.\n\nHere's some thoughts on the new architecture. \nhttps://github.com/marmot-protocol/whitenoise-meta/blob/c387af9d1ad0d543112a9569ab04cac5fa188358/Engineering/marmot-architecture/target-architecture.md",
+    "timestamp": "1776407979",
+    "date": "4/17/2026, 6:39:39 AM",
+    "id": "79faacab03392c8e9a71f801568625abe96d33579f4d39f4c3008f190d1d9e66",
+    "kind": 1
+  },
+  {
     "content": "Nostr Compass Podcast #17 is out.\n\nAmethyst ships v1.08.0 \"Arti Tor,\" migrating from C Tor bindings to the Rust-based Arti implementation, and merges a full pure Kotlin MLS and Marmot stack into Quartz, opening the door to iOS. Amber v6.0.0-pre1 adds per-connection NIP-46 signing keys so a compromised client can't impersonate the signer elsewhere. NIP-58 Badges merge a kind migration: Profile Badges move to replaceable kind 10008, and Titan launches a native nsite:// desktop browser with Bitcoin name registration.\n\nPlus: Nostur video recording, Shosho Shows with OBS integration, Notedeck Zapstore self-update, Nostria native mobile, Nostr VPN exit nodes, Nymchat NIP-17 group chats with rotating keys, and 7 open NIP proposals including NIP-AC WebRTC calls, NIP-340 FROST Quorum, and ephemeral gift wraps. Deep dives into NIP-17 (Private Direct Messages) and NIP-46 (Nostr Remote Signing).\n\nhttps://blossom.primal.net/b482d9ce23c161bc943483b243e641f42c23d82f7a0d78a7eb503b8766a85c8b.ogg\n\nhttps://podcast.nostrcompass.org/naddr1qvzqqqr4vcpzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqp7etsd9ek7er995cnwdekxvmrxv3hxv6nxvfdxp4x7vrx89n8saqdexyh5\n\n#podcast #nostr",
     "timestamp": "1776363449",
     "date": "4/16/2026, 6:17:29 PM",
