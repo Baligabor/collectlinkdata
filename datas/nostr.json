@@ -1,5 +1,12 @@
 [
   {
+    "content": "Three architectural families have broken an assumption that was treated as a law of cloud architecture for two decades: that the machine running a computation must see the data the computation runs on. Homomorphic encryption operates on ciphertexts, secure multi-party computation distributes the work across non-colluding participants, and trusted execution environments isolate the work inside a hardware enclave opaque to the machine's owner. The privacy architecture of the next decade will be built on their compositions. \nnostr:naddr1qqgrscn9xpsk2vtyvdjrzdfnv4jxxq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wa4wja5",
+    "timestamp": "1776608753",
+    "date": "4/19/2026, 2:25:53 PM",
+    "id": "4bf240206ae7dcd8cda762eda964c055e493ea64bcbe178ad61526d739c11913",
+    "kind": 1
+  },
+  {
     "content": "In theory yes, but in practice the code is all mangled with nostr deeply, specifically would be great to also support FIPS.\n\nHere's some thoughts on the new architecture. \nhttps://github.com/marmot-protocol/whitenoise-meta/blob/c387af9d1ad0d543112a9569ab04cac5fa188358/Engineering/marmot-architecture/target-architecture.md",
     "timestamp": "1776407979",
     "date": "4/17/2026, 6:39:39 AM",
