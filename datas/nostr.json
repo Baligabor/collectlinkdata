@@ -1,5 +1,47 @@
 [
   {
+    "content": "Yes that one goes even further, wild.",
+    "timestamp": "1776694154",
+    "date": "4/20/2026, 2:09:14 PM",
+    "id": "fd3bda05688c7c161978cc5631f08514e5320109fbdc379ea54c6749a88e74d9",
+    "kind": 1
+  },
+  {
+    "content": "Excited to get this launched!",
+    "timestamp": "1776694109",
+    "date": "4/20/2026, 2:08:29 PM",
+    "id": "a57a0c7119546e7e2eef0946d333ac8768b49c4876f442b86c1efdfa22b8b453",
+    "kind": 1
+  },
+  {
+    "content": "Yes.\nMight be my #1 book recommendation for cypherpunks.",
+    "timestamp": "1776690045",
+    "date": "4/20/2026, 1:00:45 PM",
+    "id": "d77e6f9d05ff7ea9e7133a30f89d9b04188235dcae3512f623c92bcf3d3aaa75",
+    "kind": 1
+  },
+  {
+    "content": "Awesome, a rare find!\nThat looks to be the very first print edition, check if its the same text as this initial online edition. https://anarplex.sirion.io/hosted/files/A_Lodging_of_Wayfaring_Men.pdf",
+    "timestamp": "1776690004",
+    "date": "4/20/2026, 1:00:04 PM",
+    "id": "0749b6848213d0fe8eb31719204c6848af455f0c211e832f145b3aa94d1a8615",
+    "kind": 1
+  },
+  {
+    "content": "nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt look at this!!\n\nPicked it up at thrift books! 2002 publication date. That’s 5 years early than the Vera Vera publication. This one is self published with Tandem Press\n\nhttps://image.nostr.build/7f1d3b648a611f769679c56c6d416f3d25f14b01da24d81cac364f94de84e956.jpg",
+    "timestamp": "1776689884",
+    "date": "4/20/2026, 12:58:04 PM",
+    "id": "d7267816ebc8ee37f935c5acec809545f741afa2c8e1555f719286490376483e",
+    "kind": 6
+  },
+  {
+    "content": "Yeah, we're fat from running llms through homomorphic encryption.\nYou can now do wallet queries which is already impressive. Eventually I'd love to use it for nostr event queries, but that's also still far away.",
+    "timestamp": "1776662485",
+    "date": "4/20/2026, 5:21:25 AM",
+    "id": "e0a37309e66a9c7a798b2c973564c800bdbe7b913393f07fcee380ea4f6174af",
+    "kind": 1
+  },
+  {
     "content": "Three architectural families have broken an assumption that was treated as a law of cloud architecture for two decades: that the machine running a computation must see the data the computation runs on. Homomorphic encryption operates on ciphertexts, secure multi-party computation distributes the work across non-colluding participants, and trusted execution environments isolate the work inside a hardware enclave opaque to the machine's owner. The privacy architecture of the next decade will be built on their compositions. \nnostr:naddr1qqgrscn9xpsk2vtyvdjrzdfnv4jxxq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wa4wja5",
     "timestamp": "1776608753",
     "date": "4/19/2026, 2:25:53 PM",
