@@ -1,5 +1,33 @@
 [
   {
+    "content": "By the way, Appendix A in this edition is my favorite history of religion, very interesting framing.",
+    "timestamp": "1776775856",
+    "date": "4/21/2026, 12:50:56 PM",
+    "id": "535e501f6f0f19a83c84211170758dc8dbc0c19d4418ded538b831060b96a6e0",
+    "kind": 1
+  },
+  {
+    "content": "👋 We created nostr:nprofile1qqsf43e4s3kvrszx2s0x3esf20lzn2plk0fx4h3wwp2wcft59yeu0aqrwnfun so that we'd have a stable long-term home for the Marmot protocol, nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhwp9puf , and other projects in the privacy space that we're working on. \n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e, nostr:nprofile1qythwumn8ghj7etrd35hqum99ec82c30wfjkccteqy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqpqe0z776cpe0gllgktjk54fuzv8pdfxmq6smsmh8xd7t8s7n474n9s46upw4, and nostr:nprofile1qyxhwumn8ghj7mn0wvhxcmmvqyfhwumn8ghj7mn0wd68ytnpwdjxvtnd0qqzqrku9ar5fprkn0ym7m28r5vqun3gpv9u6uvmdknezqqmadeselcm4tcgxs are also on the board.\n\nWe'll be adding this (and more) to the website in the coming weeks but happy to answer questions in the meantime.",
+    "timestamp": "1776775687",
+    "date": "4/21/2026, 12:48:07 PM",
+    "id": "838a379f7244b4bef74c7f958b9dbddd8211d062b201937f4d5c01f22ce212bf",
+    "kind": 6
+  },
+  {
+    "content": "The usual covenant debate on Bitcoin starts with Script and soft forks. PIPEs v2 starts somewhere stranger: it asks whether a spend condition can be enforced by making the signing key itself unavailable until a proof exists. That move shifts the burden away from on-chain verification and into witness encryption, committee setup, a huge off-chain artifact, and the engineering needed to bind them together. \nThe result is one of the most interesting proposals in current Bitcoin research because it enlarges the design space without asking Bitcoin consensus to change. \nnostr:naddr1qqgrzdfex3jnverpxajnvenyv93nzq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65w73ce4x",
+    "timestamp": "1776774707",
+    "date": "4/21/2026, 12:31:47 PM",
+    "id": "ed285d661c64be26e3c1069f8f6e3d3cc2658e4d4189233a6b994a5bc8d3b888",
+    "kind": 1
+  },
+  {
+    "content": "The sign Nostr is winning? Users don't know they're using it. Think of Bitchat: clients finally stopped feeling like \"Nostr things\" and started feeling like actual apps. \n\nhttps://blossom.primal.net/6dde7e9eaa6ab2ebdff6abcefdbb9df5d1fd31ffd82a8ac8d88a46ab95553c68.mp4 ",
+    "timestamp": "1776753304",
+    "date": "4/21/2026, 6:35:04 AM",
+    "id": "3fcdea9044e0a61e3152ebf4bf53fcc76308eda6cbfabe38f3adb39cb09c92fe",
+    "kind": 6
+  },
+  {
     "content": "Yes that one goes even further, wild.",
     "timestamp": "1776694154",
     "date": "4/20/2026, 2:09:14 PM",
