@@ -1,5 +1,96 @@
 [
   {
+    "content": "It's edible... Once...",
+    "timestamp": "1776882698",
+    "date": "4/22/2026, 6:31:38 PM",
+    "id": "692ba36c2503fca8d8a6e4daa4905dce31e7bc46ff4071579190e6befe6f1b3f",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass #19 is out. \nAmethyst merges 57 PRs across Marmot MIP-00/01/05 compliance, first-class NIP-72 communities, NIP-75 zap goals on live streams, a new MoQ-transport audio rooms stack, and the Amy CLI for cross-client Marmot interop. TollGate v0.1.0 pins its spec set for pay-per-use internet access over Nostr and Cashu. nostream merges 53 PRs covering NIP-45 COUNT, NIP-62 vanish, complete NIP-11 parity, and query hardening. The Formstr suite (Pollerama, Formstr forms, Nostr Calendar) lands 26 PRs across security hardening and RRULE support. Forgesworn publishes a 29-repo cryptographic toolkit for Nostr covering signing, identity, attestations, web-of-trust, and paid-API discovery. This week's deep dives cover NIP-72 (moderated communities) and NIP-57 (zaps). \nnostr:naddr1qqgr2ef4vvunxdpjxumnzcmrxu6nvq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65w6rn9lp",
+    "timestamp": "1776874754",
+    "date": "4/22/2026, 4:19:14 PM",
+    "id": "542d6605682551eacca63f7bc2b80c81799ca66409e7c4cc69ba1957a521894f",
+    "kind": 6
+  },
+  {
+    "content": "I see that makes sense, thanks for working on this!",
+    "timestamp": "1776874534",
+    "date": "4/22/2026, 4:15:34 PM",
+    "id": "b05b2b61553ee4b3e57450d52d0d7fcf1b7877e2a2c6721e8c0fb24f01631c13",
+    "kind": 1
+  },
+  {
+    "content": "The only way to win is to leave the table. Exit to Bitcoin. Move to Nostr. \n\nnostr:nprofile1qyvhwue69uhkyat8d4skutndva6hjtnwv46r5dpcxsuqz9nhwden5te0vfjhgcfwdehhxarjd9kzucmpd5qzqxvfqd89dw8kqmrjfaz6zt8gfggcg93p4tm3s2slv4jrszuugfmt74rjkj nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e \n\nhttps://blossom.primal.net/9e398a62381b287a5a96c0430fba2e85562ddebe7dc8c8744bf0d798fdcb1e67.mp4 ",
+    "timestamp": "1776857627",
+    "date": "4/22/2026, 11:33:47 AM",
+    "id": "faa7cf3124bb286807dc7cb98a3eec63fa71b308a5097e589a0aa9f31a8b58b1",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass Podcast #18 is OUT\nProtocol and client updates across the ecosystem: Amethyst's Tor and C secp256k1 work, Snort v0.5.0-v0.5.3 security and performance changes, and NIP-34 plus NIP-63a progress, and MORE in the latest episode.\n\nhttps://blossom.primal.net/5fa4433c37d2671c88c4b323838d2630a5bc8c9d47de464f0715f9915822fb6a.ogg\nhttps://podcast.nostrcompass.org/naddr1qvzqqqr4vcpzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyt8wumn8ghj7un9d3shjtnwdaehgu3wvfskueqpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqp7etsd9ek7er995cnwdek8q6nyd33xycrzwpdvfhhsdmrvaskgwg4qh8dk\n\nGuests this week:\nTim Bouma \n(nostr:npub1q6mcr8tlr3l4gus3sfnw6772s7zae6hqncmw5wj27ejud5wcxf7q0nx7d5)\nVinney \n(nostr:npub19ma2w9dmk3kat0nt0k5dwuqzvmg3va9ezwup0zkakhpwv0vcwvcsg8axkl)\nJavier \n(nostr:npub1jgm0ntzjr03wuzj5788llhed7l6fst05um4ej2r86ueaa08etv6sgd669p)\nHodlbod \n(nostr:npub1jlrs53pkdfjnts29kveljul2sm0actt6n8dxrrzqcersttvcuv3qdjynqn)\nMax \n(nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt)\n\n#podcast #nostr",
+    "timestamp": "1776854556",
+    "date": "4/22/2026, 10:42:36 AM",
+    "id": "0af16f6f452d4cd333d9fa4801c2f59126182ff47a2231ea52efbdccc42df829",
+    "kind": 6
+  },
+  {
+    "content": "Theft.",
+    "timestamp": "1776854384",
+    "date": "4/22/2026, 10:39:44 AM",
+    "id": "cb8b437ed86cf0975dd33fea73ac1882a7efc912ecd5980396fbf9a42f3042af",
+    "kind": 1
+  },
+  {
+    "content": "https://npub1z77juddgcul5la7jq578nsurpxh99633ccanngf863m4gh6gv2msm009sr.blossom.band/3c375adb0724c86b8b9b477ff90c4665a51d7b08c0258158204342e8ee211687.png\n\nLeicht, schnell, günstig (wie noch nie) bestellen: 📨📫\nHier geht’s direkt zur Meetpup-Bestellung\n10 Exemplare, EUR 100.– (exkl. Versand) 🎯\n\nhttps://einundzwanzig.shop/p/ausgabe-5-meetup-10-exemplare/",
+    "timestamp": "1776854283",
+    "date": "4/22/2026, 10:38:03 AM",
+    "id": "f3808e7d96f00758d32b92db3f3ab0cee859865acdc70f82f424883a7d570f3a",
+    "kind": 6
+  },
+  {
+    "content": "btw, zaps to you are failing.",
+    "timestamp": "1776852895",
+    "date": "4/22/2026, 10:14:55 AM",
+    "id": "ab696d20f29e34ae2ca4890e3cc4ed4d7fcd86c34e7c5d4e3c304335863e2781",
+    "kind": 1
+  },
+  {
+    "content": "Thank you for your service sir!\nJoinmarket was pioneering in so many ways, you are an inspiration, and I learned so much from you!\nI hope the project continues to be maintained and used.\nCurious tho, why is it written in Python again?",
+    "timestamp": "1776852688",
+    "date": "4/22/2026, 10:11:28 AM",
+    "id": "577b0d4abe0283110e1ffd822c41b219eb79cef9b45174475e02c46036bea7e7",
+    "kind": 1
+  },
+  {
+    "content": "We might add it.\nBut aren't you promoting your investment right now? 🙃",
+    "timestamp": "1776851909",
+    "date": "4/22/2026, 9:58:29 AM",
+    "id": "87887b917768a7b5f83f6e5c8f9c1b4534b06da02832e7b97b59272f18bf277c",
+    "kind": 1
+  },
+  {
+    "content": "Your relay list is messed up btw.",
+    "timestamp": "1776846372",
+    "date": "4/22/2026, 8:26:12 AM",
+    "id": "686f369c503f71c18950f71ff9e5f87d9d49d5673129278689a5bf504fe3862a",
+    "kind": 1
+  },
+  {
+    "content": "That's a cool idea.",
+    "timestamp": "1776846174",
+    "date": "4/22/2026, 8:22:54 AM",
+    "id": "cb097b0b43e1bbeea0b6d7b6b992daba4c9d6f209cca2ae6b15f40358feada72",
+    "kind": 1
+  },
+  {
+    "content": "Lightning sender privacy is great, and just use Wasabi for onchain payments.",
+    "timestamp": "1776845854",
+    "date": "4/22/2026, 8:17:34 AM",
+    "id": "36e712516cbeb3ddc9087983f8407e9323e4021e005b49a3048ecbb087d490ed",
+    "kind": 1
+  },
+  {
     "content": "By the way, Appendix A in this edition is my favorite history of religion, very interesting framing.",
     "timestamp": "1776775856",
     "date": "4/21/2026, 12:50:56 PM",
