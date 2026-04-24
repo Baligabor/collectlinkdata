@@ -1,5 +1,82 @@
 [
   {
+    "content": "Thats a good idea actually nostr:nprofile1qqs8y6s7ycwvv36xwn5zsh3e2xemkyumaxnh85dv7jwus6xmscdpcygpz9mhxue69uhkummnw3ezumrpdejz76jympz ",
+    "timestamp": "1776947386",
+    "date": "4/23/2026, 12:29:46 PM",
+    "id": "06ce6057519f89c37b0e3ff10af71d3838a5bd7704cbd81bf7aef75766c6eea1",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, but who's gonna trust GitHub for app distribution...",
+    "timestamp": "1776942139",
+    "date": "4/23/2026, 11:02:19 AM",
+    "id": "e8c22599dfe2f26bf810da7fb2c209b89760bf6eba9f4f2661d47ccab21c7253",
+    "kind": 1
+  },
+  {
+    "content": "You build an app. Then you realize someone, somewhere, could used it to change their life. That never gets old.\n\nSuch a great chat between nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsz93elc and nostr:nprofile1qqsvh300dvquh50l5t9et2257pxrsk5ndsdgdcdmnnxl9nc0f6l2ejcpzamhxue69uhk2cmvd9c8xefwwp6kytmjv4kxz7gpz3mhxue69uhhyetvv9ujuerpd46hxtnfduzv3shw 🫂\nhttps://blossom.primal.net/018f816b274123e7412537fddcaa4c1d2c8afe8bbfc4d12baa743957f4ed1e46.mp4",
+    "timestamp": "1776942110",
+    "date": "4/23/2026, 11:01:50 AM",
+    "id": "0d8fa5af63f596c2f4f42c7659019e6a913b84d2920165963c0f0d3167e35d78",
+    "kind": 6
+  },
+  {
+    "content": "Awesome!",
+    "timestamp": "1776942054",
+    "date": "4/23/2026, 11:00:54 AM",
+    "id": "3af8301885e567e7afba2f2c37071256db6aafc63ed7159c2c65eed7ab8a133b",
+    "kind": 1
+  },
+  {
+    "content": "Woah, why?",
+    "timestamp": "1776939265",
+    "date": "4/23/2026, 10:14:25 AM",
+    "id": "0b6b3e2f4fac396b71b530c811e93ed3286fb7072ae0df322b32edb3fae59bbc",
+    "kind": 1
+  },
+  {
+    "content": "The reminder worked...",
+    "timestamp": "1776939193",
+    "date": "4/23/2026, 10:13:13 AM",
+    "id": "443a14a06180c8b1992e45e2d7cf917baa634ef2161cac898ac630d14c7a676d",
+    "kind": 1
+  },
+  {
+    "content": "#smesh stage 1 is now live!\n\nhttps://npub1fjqqy4a93z5zsjwsfxqhc2764kvykfdyttvldkkkdera8dr78vhsmmleku.blossom.band/15d083d523fec27fbe88852c16963b39f63cd32ccd8d03a9b76f50cd96394330.png\n\nhttps://smesh.lol you can access using firefox or librewolf or other firefox fork on desktop. \n\ninstall the signer that is linked on the landing page, and create your vault for the signer, nsec (one or more) or if you want to test out the HD keychain identity system. if you have used plebeian-signer, the vault format is the same and the password you used for it will also work.\n\nhttps://git.smesh.lol/felice/raw/fenix-artwork/ic_logo_wordmark_normal.svg\n\non mobile, the main option is to use felice, my fork of the fennec-fdroid browser, rebranded and reconfigured to permit you to install extensions that haven't got mozilla's signature on.\n\nonce you install felice, when you open it, it goes straight to smesh.lol and then tap on the extension download link and felice will download the extension (300kb) and install it, and then you can tap \"login using extension\" and same process as on the desktop version\n\nfelice will allow anyone to deploy extensions and web apps to android devices, without the mozilla blessing ceremony. proper sovereign technology.\n\nhttps://git.smesh.lol is where all the sauce lives, for all the things.\n\nenjoy!",
+    "timestamp": "1776939188",
+    "date": "4/23/2026, 10:13:08 AM",
+    "id": "2acd82f72dfcd6c8b3ac296a712eed1be76e24a86ca898620359f8be15dc7eeb",
+    "kind": 6
+  },
+  {
+    "content": "I'm curious, how did you find nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4?\nWere you a nostrich before already, or are you new to the space?",
+    "timestamp": "1776925738",
+    "date": "4/23/2026, 6:28:58 AM",
+    "id": "38bf3789eefad24221d1c80bc60a4bca7063cc54240b0a07d14e63eed4956088",
+    "kind": 1
+  },
+  {
+    "content": "Honestly, it's the only app store that just works, especially for devs.",
+    "timestamp": "1776925579",
+    "date": "4/23/2026, 6:26:19 AM",
+    "id": "ac9c503274d3d65316c929f9284032e10ba7d78f64ba95cb6efb7003e00a6514",
+    "kind": 1
+  },
+  {
+    "content": "I see more and more non-nostr apps publishing on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4!\nLike nostr:nprofile1qqswwksctsqe6zgyn40ukr3f5txfhlgpdmq0dkyjljv0dllqrqdysrgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9nhwden5te0wfjkccte9ejxjar5duh8qatz9uq3uamnwvaz7tmwdaehgu3dwp6kytnhv4kxcmmjv3jhytnwv46z7s88teg, a climbing app, which recommends zapstore as best place to get the app, and use nostr DMs for feedback.\nhttps://zapstore.dev/apps/naddr1qq2kxmmd9e3hyatcvdhkzcmg9eskuerjda5kgqgcwaehxw309aex2mrp0yh85ctswd6x7un99ejx2aszyrn45xzuqxwsjpyatl9su2dzejdl6qtwcrmd3yhunrm0lcqcrfyq6qcyqqq8uzch789f5",
+    "timestamp": "1776923733",
+    "date": "4/23/2026, 5:55:33 AM",
+    "id": "53ae8f3eeb2910465e01cd9fbbf37c6fa73374e885087d2451fd5c3f3d6f93b4",
+    "kind": 1
+  },
+  {
+    "content": "Basically, a group of people create a public key, such that only if a complex program returns valid does someone get the private key.\nIt's really a powerful building block.",
+    "timestamp": "1776923100",
+    "date": "4/23/2026, 5:45:00 AM",
+    "id": "fbbbb91f70958f4568b0c3c864b6eddd03b7d5e043d42b3833891c89a8ce2d5e",
+    "kind": 1
+  },
+  {
     "content": "It's edible... Once...",
     "timestamp": "1776882698",
     "date": "4/22/2026, 6:31:38 PM",
