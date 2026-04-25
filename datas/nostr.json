@@ -1,5 +1,61 @@
 [
   {
+    "content": "Bitcoin Optech newsletter #402 is here:\n\n- describes work on a declarative executable specification of consensus rules\n- summarizes a discussion about onion message jamming in the Lightning Network\n- summarizes popular Q&A from Stack Exchange\n- Optech Newsletter #402 Podcast\nhttps://bitcoinops.org/en/newsletters/2026/04/24/\n\nToby Sharp posted to Delving Bitcoin and the Bitcoin-Dev mailing list an update on the Hornet node project...\nhttps://bitcoinops.org/en/newsletters/2026/04/24/#hornet-node-s-declarative-executable-specification-of-bitcoin-consensus-rules\n\nErick Cestari posted to Delving Bitcoin about the onion message jamming problem affecting the Lightning Network...\nhttps://bitcoinops.org/en/newsletters/2026/04/24/#onion-message-jamming-in-the-lightning-network\n\nSelected Q&A from Bitcoin Stack Exchange\n- Why did BIP342 replace CHECKMULTISIG with a new opcode, instead of just removing FindAndDelete from it?\n- Does SIGHASH_ANYPREVOUT commit to the tapleaf hash or the full taproot merkle path?\n- What does the BIP86 tweak guarantee in a MuSig2 Lightning channel, beyond address format?\nhttps://bitcoinops.org/en/newsletters/2026/04/24/#selected-qa-from-bitcoin-stack-exchange\n\nBitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.",
+    "timestamp": "1777047850",
+    "date": "4/24/2026, 4:24:10 PM",
+    "id": "58c3dbc302b070100b630267ff03dc3d2c0a40f4551803253956282291a8fe40",
+    "kind": 6
+  },
+  {
+    "content": "April 17, 2026, Melaka, Malaysia 🇲🇾\n\nIn unlikely twist, police rescued a South Korean crypto kidnapping victim after 4 days of captivity, who turns out to be an Interpol-wanted fugitive\n\nhttps://stats.gart.io/#attack-432\n\n https://blossom.primal.net/31a49521dd55b144f40a02304b2ada6a010ee2d26484b348a7df97bc7e16d67f.png \n\n#wrenchattack #security #opsec #crypto",
+    "timestamp": "1777047777",
+    "date": "4/24/2026, 4:22:57 PM",
+    "id": "940dd5bf4ebabd438b0316bce2aa0d55c1c3e7554dac06f7f1c900882ca53dc0",
+    "kind": 6
+  },
+  {
+    "content": "I'm a simple man.\nI see a fridge full of meat, I follow the npub.",
+    "timestamp": "1777047612",
+    "date": "4/24/2026, 4:20:12 PM",
+    "id": "cbe7964f372b23a9aa1f0125e0c4ecab140a62065070864294d7e0b95b187128",
+    "kind": 1
+  },
+  {
+    "content": "Can someone please make riverside obsolete?\n\nNostr login, MOQ audio/video calls, local recording and streamed to a blossom server for each participant.",
+    "timestamp": "1777047514",
+    "date": "4/24/2026, 4:18:34 PM",
+    "id": "1d9fbd116358ad31669f9ca938a9901f1426dbac04b558633925b0d94a609198",
+    "kind": 1
+  },
+  {
+    "content": "Sending text mainly.",
+    "timestamp": "1777047367",
+    "date": "4/24/2026, 4:16:07 PM",
+    "id": "eaee65b58b774b5204a95acd053965310f4cd51177d093669a2456fd1ce27f61",
+    "kind": 1
+  },
+  {
+    "content": "To quote nostr:nprofile1qqsthdwa5rs42euhnuz5xsrmmssr84hshwes7uj392vpeldj7z0zw3cppemhxue69uhkummn9ekx7mp0qyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhscs6htm:\n\"though technically true, this only applies to the ipv6 shim, which forces a 1280 minimum MTU + FIPS overhead.\nWhen using the FIPS native API, that number will be much lower.\"",
+    "timestamp": "1777047267",
+    "date": "4/24/2026, 4:14:27 PM",
+    "id": "b843603af64e7bb1d24e2e770dd957ec2b62e590f1064a73d9b239e38a81f7b0",
+    "kind": 1
+  },
+  {
+    "content": "Tell that to nostr:nprofile1qqsyvrp9u6p0mfur9dfdru3d853tx9mdjuhkphxuxgfwmryja7zsvhqpz9mhxue69uhkummnw3ezuamfdejj7qghwaehxw309amxjar0wghxummnw3erztnrdakj7qgswaehxw309ahx7um5wghx6mmd9ud62lxp, lol",
+    "timestamp": "1777047189",
+    "date": "4/24/2026, 4:13:09 PM",
+    "id": "1296188f5abb7df4145a5e196c67068d38da4481ec780160678d1032c1ed375d",
+    "kind": 1
+  },
+  {
+    "content": "Two projects aim at the same goal of unstoppable networks for human beings, and they arrive at radically different solutions. Reticulum strips addressing and ports from the protocol entirely and optimizes for radio links so slow that five bits per second counts as usable bandwidth, then builds its own parallel universe of applications on top. nostr:npub1y0gja7r4re0wyelmvdqa03qmjs62rwvcd8szzt4nf4t2hd43969qj000ly takes the opposite bet, keeping IPv6 semantics alive through a TUN adapter so that unmodified SSH and curl can cross a mesh of Nostr identities. This post walks both stacks from the wire up, then shows where their design choices force different tradeoffs. \nnostr:naddr1qqgrvdtpxycr2dpevsurzc3kxgersq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqp65wmrgwgh",
+    "timestamp": "1777022674",
+    "date": "4/24/2026, 9:24:34 AM",
+    "id": "301861c3c17ae2658f28447a73bbe860d93d2dec4d2980a56e474ac0e733c8e1",
+    "kind": 1
+  },
+  {
     "content": "Thats a good idea actually nostr:nprofile1qqs8y6s7ycwvv36xwn5zsh3e2xemkyumaxnh85dv7jwus6xmscdpcygpz9mhxue69uhkummnw3ezumrpdejz76jympz ",
     "timestamp": "1776947386",
     "date": "4/23/2026, 12:29:46 PM",
