@@ -1,5 +1,75 @@
 [
   {
+    "content": "Yes, at least similar, cross fork decoy selection doesnt seem trivial at all.",
+    "timestamp": "1777143335",
+    "date": "4/25/2026, 6:55:35 PM",
+    "id": "a47e7b285df8d42aba883e24ef2219e648c30b1c620dc440fc44885f8dd6d78d",
+    "kind": 1
+  },
+  {
+    "content": "Thanks!\nOh and individual audio tracks for each participant is important.",
+    "timestamp": "1777142203",
+    "date": "4/25/2026, 6:36:43 PM",
+    "id": "6c0e60fc5ed76c89df1411cab62c9d54b174b8f2aecf773c0e9df63ec0c06cc7",
+    "kind": 1
+  },
+  {
+    "content": "So good, thanks for doing this!",
+    "timestamp": "1777136456",
+    "date": "4/25/2026, 5:00:56 PM",
+    "id": "f2f7ec81e5dce2aa58371cc0c468e1fab2bd1862c14d355f09450e3d9af3cf2c",
+    "kind": 1
+  },
+  {
+    "content": "Massive improvement, try it out!\nThe best way to anonymously ship your vibed apps.\nnostr:nevent1qqs94jnkqwdwjr22p8eynx7y0a7jnnht8vpyrpgz2nr49lthgwg58acppemhxue69uhkummn9ekx7mp0qgs2qzx779ted7af5rt04vzw3l2hpzfgtk0a2pw6t2plaz4d2734vngrqsqqqqqp4g3jwd",
+    "timestamp": "1777136436",
+    "date": "4/25/2026, 5:00:36 PM",
+    "id": "2a7505e58c42bf16b27b827c1332dad3fe8c90e8e011bd26750fd641c6a3380d",
+    "kind": 1
+  },
+  {
+    "content": "Yes, same issue with consolidation.",
+    "timestamp": "1777135161",
+    "date": "4/25/2026, 4:39:21 PM",
+    "id": "907e871f4efe00329719104e297d6ff33f1d082e64401ff9e5634f1aacd68536",
+    "kind": 1
+  },
+  {
+    "content": "Send them one by one with multiple days in between for reduced timing attacks.",
+    "timestamp": "1777131567",
+    "date": "4/25/2026, 3:39:27 PM",
+    "id": "e985e794b6cd481691feb8fd73ca319c019cd238a037441efabb4b733e404751",
+    "kind": 1
+  },
+  {
+    "content": "Let's say you use nostr:nprofile1qqsf80gvdu7vhtj88z9srtrvuzevqyc3fh9yczxkufcj6nlhzsz68scppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0qyg8wumn8ghj7um0d3hkxmewdekz7q6gldk and have 10 private utxos nobody knows they are yours.\n\nNow you go to the forked chain and send all 10 coins to the exchange in a single transaction, now everyone knows that the 10 unspent coins on bitcoin belong to the same person. Wasabi can't even know this and still assumes these coins are private when they actually are not.",
+    "timestamp": "1777131541",
+    "date": "4/25/2026, 3:39:01 PM",
+    "id": "96badd0cb6d38f0b5ce76feda0246bfdc3a925f7edc094b3c623ac99a563643b",
+    "kind": 1
+  },
+  {
+    "content": "Remember, when you move utxos on a forked chain you link common coin ownership on the parent chain.\nDon't fuck up your privacy for picking up pennies in front of the train.",
+    "timestamp": "1777130329",
+    "date": "4/25/2026, 3:18:49 PM",
+    "id": "390a0438d26290b7887ded4848d42fe6b3c80cbb51200defdce61c3820085208",
+    "kind": 1
+  },
+  {
+    "content": "It does. Not historically, but for the last update.",
+    "timestamp": "1777118940",
+    "date": "4/25/2026, 12:09:00 PM",
+    "id": "e9a04e90ee4ee526b06559af0a3d965ac55cd3d225ad272e5531605b4ece8772",
+    "kind": 1
+  },
+  {
+    "content": "Big mute button, raise hand, seeing who is in the call, no google play services, great recording quality.\nStability is more important than other features.\nFat zap if you make it work!",
+    "timestamp": "1777102038",
+    "date": "4/25/2026, 7:27:18 AM",
+    "id": "6b1c8318a28c1ad2be22bf0d62a76e9f0343f214dcb8cccaa12f35d439c15358",
+    "kind": 1
+  },
+  {
     "content": "Bitcoin Optech newsletter #402 is here:\n\n- describes work on a declarative executable specification of consensus rules\n- summarizes a discussion about onion message jamming in the Lightning Network\n- summarizes popular Q&A from Stack Exchange\n- Optech Newsletter #402 Podcast\nhttps://bitcoinops.org/en/newsletters/2026/04/24/\n\nToby Sharp posted to Delving Bitcoin and the Bitcoin-Dev mailing list an update on the Hornet node project...\nhttps://bitcoinops.org/en/newsletters/2026/04/24/#hornet-node-s-declarative-executable-specification-of-bitcoin-consensus-rules\n\nErick Cestari posted to Delving Bitcoin about the onion message jamming problem affecting the Lightning Network...\nhttps://bitcoinops.org/en/newsletters/2026/04/24/#onion-message-jamming-in-the-lightning-network\n\nSelected Q&A from Bitcoin Stack Exchange\n- Why did BIP342 replace CHECKMULTISIG with a new opcode, instead of just removing FindAndDelete from it?\n- Does SIGHASH_ANYPREVOUT commit to the tapleaf hash or the full taproot merkle path?\n- What does the BIP86 tweak guarantee in a MuSig2 Lightning channel, beyond address format?\nhttps://bitcoinops.org/en/newsletters/2026/04/24/#selected-qa-from-bitcoin-stack-exchange\n\nBitcoin Optech will host an audio recap discussion of this newsletter streaming live on X/Twitter Tuesday at 16:30 UTC.",
     "timestamp": "1777047850",
     "date": "4/24/2026, 4:24:10 PM",
