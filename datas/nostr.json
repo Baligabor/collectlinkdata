@@ -1,5 +1,131 @@
 [
   {
+    "content": "Thats a cool site!",
+    "timestamp": "1777318473",
+    "date": "4/27/2026, 7:34:33 PM",
+    "id": "62809002611cda0cd0ec67bdaa85696817efab6774a65e0ba0c03b97a193007d",
+    "kind": 1
+  },
+  {
+    "content": "Definitely give Tamers of Entropy a read, we don't have nearly enough cypherpunk fiction, and this is a great one!\nnostr:nevent1qqs8k386qaqdy03gmfdjpmw4napde3j2vvzrrl23djkdvmzfaqkgpcspzamhxue69uhhwmm59eeksctkd9hxwtntd9mkjtczyzf7adtvkfzrt0rq3je994fh7d8jrvpychwtaerfxrd9cmv5d83e5qcyqqqqqqgtuxryg",
+    "timestamp": "1777318364",
+    "date": "4/27/2026, 7:32:44 PM",
+    "id": "46aa09bbc9d62743a01bbc1fb2a7d68fae66047032e7b79ea06394e605e3a93e",
+    "kind": 1
+  },
+  {
+    "content": "Made some improvements to towardsliberty.com.\nAll pictures get pulled from local blossom server and search is fuzzy now.",
+    "timestamp": "1777318297",
+    "date": "4/27/2026, 7:31:37 PM",
+    "id": "b45334ca434efcd2fa1cb8feb4d2d23cd62e8badd145c25bb367ac3ac7dfda3f",
+    "kind": 1
+  },
+  {
+    "content": "Finding Home Episode 4 – The Bittersweet Alchemist – is live on nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpqah55ex8qs07t8nvwsuk7gv8s92lh6a9w2hf259wjdrh3873ll9wqkzgf22 \n\nI spent five days with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3qamnwvaz7tmwdaehgu3wd4hk6tcqypceq9nx7fljl9ff4cz4ju9q689memfnm9vtx8gcu5mt5v8rd52qzxw2jjt  across London and Manchester. From the Bank of England to the Cyphermunk House. From a cold London pub to the neon heat of the Curry Mile. From a deportation story that'll make your blood run cold to a chocolate workshop that made a room full of kids sit still for an hour.\n\nRoger is a musician, a chocolatier, and a man who was told by the state that he didn't belong. What he built in response is the whole episode.\n\nPost production by nostr:nprofile1qye8wumn8ghj7mrwvf5hguewwpshqetjwdshguewd9hj7mn0wd68ycmvd9jkuap0v9cxjtmkxyhhyetvv9usz9rhwden5te0dehhxarj9ehx2cn4w5hxccgqyqj8hd6eed2x5w8pqgx82yyrrpfx99uuympcxmkxgz9k2hklg8te7pq0y72 \n\nWatch here:\nhttps://indeehub.studio/film/finding-home/season/1/episode/4 https://blossom.primal.net/3c223de8cd73b54b5f53593f8762154c2622ad397898723143b31a071bfe8bf6.jpg ",
+    "timestamp": "1777317220",
+    "date": "4/27/2026, 7:13:40 PM",
+    "id": "3f31a88ecdb450c7c5227b41ec4080ec1fc96d103c810cd775a5113078983798",
+    "kind": 6
+  },
+  {
+    "content": "\"Where Bitcoin lives, is with the living.\" 🔥",
+    "timestamp": "1777317175",
+    "date": "4/27/2026, 7:12:55 PM",
+    "id": "5e51f6761740599af7ff5fe7ae5c18e355a01a8434b247498aed139ef60353bd",
+    "kind": 1
+  },
+  {
+    "content": "Is home a line on a government ledger that says you belong? Or is it the resonance of a community?\n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3qamnwvaz7tmwdaehgu3wd4hk6tcqypceq9nx7fljl9ff4cz4ju9q689memfnm9vtx8gcu5mt5v8rd52qzxw2jjt  joins me on this journey through London's mythology and Manchester's industrial grit to help me answer that question.\n\nFull episode available on nostr:nprofile1qy2hwumn8ghj7etyv4hzumn0wd68ytnvv9hxgqgdwaehxw309ahx7uewd3hkcqpqah55ex8qs07t8nvwsuk7gv8s92lh6a9w2hf259wjdrh3873ll9wqkzgf22 \n\nhttps://blossom.primal.net/0387b72e1b28a8d03512db96846e8333f1960e1ddffb3097e008c37976e2b162.mp4\n\nhttps://indeehub.studio/film/finding-home/season/1/episode/4\n",
+    "timestamp": "1777317027",
+    "date": "4/27/2026, 7:10:27 PM",
+    "id": "7d9417628f275765a21f3898c29eb232ede18a9d7a7b7fda983c262d5b62b7b3",
+    "kind": 6
+  },
+  {
+    "content": "Useful!",
+    "timestamp": "1777317000",
+    "date": "4/27/2026, 7:10:00 PM",
+    "id": "1c5819610afd356d38841862d41401fdadadc8234d33b23f0793a39292d1caf0",
+    "kind": 1
+  },
+  {
+    "content": "Created this small GitHub action to publish an nsite to the legacy web.\n\nhttps://github.com/Origami74/deploy-nsite-to-pages\n\nUsed for a FIPS awesome page, access here:\n\n- https://awesome.fips.network/\n- https://0w4xyjzjvin291zg5x3wovsid760fa83doypa3wxtiy96l74ayawesome.nsite.lol/\n- http://0w4xyjzjvin291zg5x3wovsid760fa83doypa3wxtiy96l74ayawesome.nsite (if you have nsite-deck installed)\n\nCC nostr:nprofile1qywhwumn8ghj7mr4de3kscn00qh8xctwv3mkjcmg9enxzund9uqsuamnwvaz7tmwdaejumr0dshsqg88wxhskpwga90umah7kdgq23xjlvwv6wz83r5lfy9m8m3garkkduy3ntru nostr:nprofile1qyv8wumn8ghj76twvfhhstnjv4kxz7tn9ekxzmny9uqsuamnwvaz7tmwdaejumr0dshsqgpxdq27pjfppharynrvhg6h8v2taeya5ssf49zkl9yyu5gxe4qg5502tfpf \n",
+    "timestamp": "1777316956",
+    "date": "4/27/2026, 7:09:16 PM",
+    "id": "d20fee083926e85953069b49dd8450ab255fe9c0086275ba03e16e84b735f23b",
+    "kind": 6
+  },
+  {
+    "content": "These are legally binding contracts, so you should be able to show them at customs.",
+    "timestamp": "1777316719",
+    "date": "4/27/2026, 7:05:19 PM",
+    "id": "ee8fcf1e5adb782f2c47b1eca6a04b7bc4604030cf0c623373904b504fdf6769",
+    "kind": 1
+  },
+  {
+    "content": "Ui, nice!",
+    "timestamp": "1777313479",
+    "date": "4/27/2026, 6:11:19 PM",
+    "id": "bfbd222f853f5f278420589fdf338efff65e4adf742fa4bdc0e828dbadcb61ab",
+    "kind": 1
+  },
+  {
+    "content": "Well, we can try...",
+    "timestamp": "1777312930",
+    "date": "4/27/2026, 6:02:10 PM",
+    "id": "a481a191625df3ac08fd24a4619f23c44cb0134dc07f054187576988d47f2fb5",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, but its not complete either.",
+    "timestamp": "1777309788",
+    "date": "4/27/2026, 5:09:48 PM",
+    "id": "ae19cf6ae768aed734cadc4748b0117de1287961116bd938e2d38d7b36c7dfa9",
+    "kind": 1
+  },
+  {
+    "content": "Its definitely not complete, many missing.",
+    "timestamp": "1777309758",
+    "date": "4/27/2026, 5:09:18 PM",
+    "id": "34476dd6142ac3079f93094b930eb9e26e4a2b5cba4a4bf7023de3d90bd7f862",
+    "kind": 1
+  },
+  {
+    "content": "Apps can include themselves in the client tag of any note. Many do that, but not all...",
+    "timestamp": "1777303767",
+    "date": "4/27/2026, 3:29:27 PM",
+    "id": "d2c55dc7bc591cde2eb54caa7787106180f6ee921bc488541867d6cb27da31d5",
+    "kind": 1
+  },
+  {
+    "content": "What's the most complete list of nostr apps?",
+    "timestamp": "1777303315",
+    "date": "4/27/2026, 3:21:55 PM",
+    "id": "303331ed317fc458c4af7b3ed8439cb3fd19ca677b28e780ad4c6cd17b926a21",
+    "kind": 1
+  },
+  {
+    "content": "After several posts analyzing what bills of exchange did, how governments killed them in 1914, what the parallel economy lacks without them, and what the engineering template for reconstruction looks like, it is time to name the project building it. Bitcredit runs electronic bills of exchange on Bitcoin, with a Chaumian ecash mint layer, a guarantee asset, and Nostr transport. This post maps the architecture. The series that follows will work through each component in detail.\n\nnostr:nevent1qqsf9yyulcykgkzqhc3f4tjuvhyepfgt4943tt22l5yz47dc7fpdrlgpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qyg8wumn8ghj7mn0wd68ytnhd9hx2q3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qe7n6nk",
+    "timestamp": "1777296403",
+    "date": "4/27/2026, 1:26:43 PM",
+    "id": "b6bb7cca3794c6273f05d5bb3f157eb0a278786ccdd7b9cb9efceac2f6151dba",
+    "kind": 1
+  },
+  {
+    "content": "Anyone interested in a serious review of v3 of my book The Praxeology of Privacy before it goes to print?",
+    "timestamp": "1777195715",
+    "date": "4/26/2026, 9:28:35 AM",
+    "id": "d2435743ae1411c1098b930dce10068d0e5eb603a59ec5d138b951d06c2713e3",
+    "kind": 1
+  },
+  {
+    "content": "It would indirectly kyc your main chain coin.",
+    "timestamp": "1777190886",
+    "date": "4/26/2026, 8:08:06 AM",
+    "id": "18bf85b3ef3791a897d2d173eac6410604555dfbca9402790c0e38a9815104c8",
+    "kind": 1
+  },
+  {
     "content": "Yes, at least similar, cross fork decoy selection doesnt seem trivial at all.",
     "timestamp": "1777143335",
     "date": "4/25/2026, 6:55:35 PM",
