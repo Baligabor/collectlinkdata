@@ -1,5 +1,117 @@
 [
   {
+    "content": "Looking forward to see you there.",
+    "timestamp": "1777389566",
+    "date": "4/28/2026, 3:19:26 PM",
+    "id": "c413bd3167727c8e7743929e75f346e6d4339ccef5c490a0c3aef8be381d0221",
+    "kind": 1
+  },
+  {
+    "content": "June 9 2026, just 2 days before nostr:npub167n5w6cj2wseqtmk26zllc7n28uv9c4vw28k2kht206vnghe5a7stgzu3r we are organizing a whole day Gart training designed to improve physical security for bitcoiners. \n\nYou will leave with: \n* personal threat model\n* extended OpSec checklist\n* custom response protocol\n* new mindset & operational habits\n* confidence to be able to act if a situation requires it.\n\nFor program breakdown and booking go to https://gart.io/event/gart-training-btc-prague-2026-3/register",
+    "timestamp": "1777381280",
+    "date": "4/28/2026, 1:01:20 PM",
+    "id": "c245cae2323ff56e6d68b9e2924306d14c313c77a380543d323c1564c2581e7e",
+    "kind": 6
+  },
+  {
+    "content": "What's the repo for the client?",
+    "timestamp": "1777378124",
+    "date": "4/28/2026, 12:08:44 PM",
+    "id": "5a5aa5e7042934559d619e481e78fb2efacecf9b7f80d170681ccdc2b608b833",
+    "kind": 1
+  },
+  {
+    "content": "There's a weird naming between published and created at, published is the original date, created is the last edit.\nSuper confusing.\nI think I created those events correct (tell me if not) so maybe its a bug on your client.",
+    "timestamp": "1777367758",
+    "date": "4/28/2026, 9:15:58 AM",
+    "id": "755b0f8ccaf25131f8aec4b4fcf09a5f9ba32fa2fd12e2f6bc1d113493908775",
+    "kind": 1
+  },
+  {
+    "content": "Yes, great library!",
+    "timestamp": "1777364529",
+    "date": "4/28/2026, 8:22:09 AM",
+    "id": "e4934be95e2137e532e90886d9c6e04f2bafa83d5a9afaadf504ffeadee5cc64",
+    "kind": 1
+  },
+  {
+    "content": "And why do they show up in the notes view at all? These are all nip23s",
+    "timestamp": "1777364331",
+    "date": "4/28/2026, 8:18:51 AM",
+    "id": "7df8847381c99acc929beaa589befceef5a94c026774b0928ece2de4b40f9b8f",
+    "kind": 1
+  },
+  {
+    "content": "ngit fixes this :)",
+    "timestamp": "1777364303",
+    "date": "4/28/2026, 8:18:23 AM",
+    "id": "f09fb8d548f20e6a8d3c08d2df04547cb8daaa1120ec204646cf49cdb1d77992",
+    "kind": 1
+  },
+  {
+    "content": "Yes.\nThese are all edits to the articles, I would have expected that it doesnt show edits in the feed...",
+    "timestamp": "1777364245",
+    "date": "4/28/2026, 8:17:25 AM",
+    "id": "1fb0c4e3ddf83584862fb02e1e58b28b8f24b78c529ce061669619f189c3206d",
+    "kind": 1
+  },
+  {
+    "content": "And tell me if I fucked up with incorrect edit workflow...",
+    "timestamp": "1777362262",
+    "date": "4/28/2026, 7:44:22 AM",
+    "id": "e5942581b5bd165dd6c665fd4f5cc38fbbf661886d9a25598e6d3f2f39827f43",
+    "kind": 1
+  },
+  {
+    "content": "Sorry for breaking your stuff and you're welcome, I guess?",
+    "timestamp": "1777362210",
+    "date": "4/28/2026, 7:43:30 AM",
+    "id": "8c8cb385f334a5a7ee1e2781881e75710a4ccdf194c3ca3cbdeb3e6ab7e113b6",
+    "kind": 1
+  },
+  {
+    "content": "did it spam you?\nShould only be edits to existing ones without coming back up in the time line.",
+    "timestamp": "1777362110",
+    "date": "4/28/2026, 7:41:50 AM",
+    "id": "3e1fd3fe6c97b2048957627758a8ed3f78459c04c1b1b888852d2a52defd5ea1",
+    "kind": 1
+  },
+  {
+    "content": "Yes adding hashtags ",
+    "timestamp": "1777362087",
+    "date": "4/28/2026, 7:41:27 AM",
+    "id": "29ac5f8bcb6505b29929ca8eade601c8760553dc0171ef38e28fafd2ec595ad7",
+    "kind": 1
+  },
+  {
+    "content": "Yours had a bunch that I didnt know about. added to my existing list here. Thanks!\nnostr:nevent1qqsp4vu4rfmkmcrmypkn6ne97yxp7a5lpwqkefkmana7xcwejrctd3gpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgt8e8fx",
+    "timestamp": "1777362068",
+    "date": "4/28/2026, 7:41:08 AM",
+    "id": "55179098ba9b5093159f96d47dad366fbf3ff070233ca9a0e22b046e3738999f",
+    "kind": 1
+  },
+  {
+    "content": "Consolidated all those suggestions in the comments with the other ones I know about, now we got an impressive list.\n\nnostr:nevent1qqsrns9fg8t2xp63j8sr06esnsfw2e6v9jm9chp63sst2p2cmfz0pjgpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczypm4j48hx9q3yjy6fg57c6ftwguxl4sten4sxzx5yvgpa2tec4agqqcyqqqqqqgcczlcv",
+    "timestamp": "1777362038",
+    "date": "4/28/2026, 7:40:38 AM",
+    "id": "1ab3951a776de07b206d3d4f25f10c1f769f0b816ca6dbecfbe361d990f0b6c5",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass is now tracking 752 nostr projects.\n\nThis is an impressive list of awesome tools, now exposed on the website so people can find them.\n\nhttps://nostrcompass.org/en/projects/",
+    "timestamp": "1777361767",
+    "date": "4/28/2026, 7:36:07 AM",
+    "id": "177682c0e9bcdd8e64c056137ec638b2e628569ba2fd29fc42bff1ff0ea9ddc9",
+    "kind": 6
+  },
+  {
+    "content": "We’re in Las Vegas. Go find nostr:npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc \nhttps://blossom.primal.net/c55cc774f71dadf5d4c975507cd5e2d233caec9d0cb32a3c066fe33c73752950.jpg",
+    "timestamp": "1777352641",
+    "date": "4/28/2026, 5:04:01 AM",
+    "id": "2d7d422fd36e060a4815e7cdfee41361fdfa93674e1c98b1b05d66e09be94de5",
+    "kind": 6
+  },
+  {
     "content": "Thats a cool site!",
     "timestamp": "1777318473",
     "date": "4/27/2026, 7:34:33 PM",
