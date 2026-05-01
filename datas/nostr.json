@@ -1,5 +1,61 @@
 [
   {
+    "content": "I've been editing my old articles and giving them more consistent hashtags. \nThis seems to have surfaced a bug in a bunch of clients that sort articles by created_at timestamp (which is the last edited time) when in fact they should sort by published_at (which is the original first time seen date)",
+    "timestamp": "1777567688",
+    "date": "4/30/2026, 4:48:08 PM",
+    "id": "1c8583605e8a541937ca47646600e817762c585ffed361d83bffa9d443a00aee",
+    "kind": 1
+  },
+  {
+    "content": "I got countless mp3s that are not labeled to tagged at all, which forces me to just play shuffle through all of them, and I kinda enjoy that chaos.",
+    "timestamp": "1777534724",
+    "date": "4/30/2026, 7:38:44 AM",
+    "id": "aa9916f03f7cb663bdaf9ff7dc319dbb9fe3fa9ecd022e8e8799e9b33f868d85",
+    "kind": 1
+  },
+  {
+    "content": "Got you bro\nhttps://zapstore.dev/apps/naddr1qq2xxmmd9ejxgvmzda5zumm4w3jhyar4dejszxrhwden5te0wfjkccte9eaxzurnw3hhyefwv3jhvq3q0r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7sxpqqqplqkem7fvm",
+    "timestamp": "1777527975",
+    "date": "4/30/2026, 5:46:15 AM",
+    "id": "36be31ffd1212306da7a2cffefdcbf1272854d061d8a0b3a90bd150d2bb71d86",
+    "kind": 1
+  },
+  {
+    "content": "Nostr Compass #20 is out. GitWorkshop ships an in-browser PR merge button, Stars and repository following, a bandwidth-efficient git explorer, and kind 1111 inline code review comments. Routstrd launches a local daemon that routes inference requests across Nostr providers and settles with Cashu. Tagged releases: ngit v2.4.2, Wisp v1.0.0, grain v0.5.2/v0.5.3, Mostro Core v0.10.0, Mostro Mobile v1.2.5, marmot-ts v0.5.0, CruxCoach v0.1.3, Meiso v1.3.0, applesauce 6.0.0, NoorNote, Nostria, and more. Unreleased work covers Amethyst Nests MoQ interop, nostream NIP-65/NWC, FIPS udp:nat bootstrap, strfry observability, Sprout owner attestations, and Zap Cooking recipe packs. The issue closes with Six Nostr Aprils, a retrospective from 2021 through 2026.\n\nhttps://nostrcompass.org/en/newsletters/2026-04-29-newsletter/\n\nnostr:naddr1qqgxummnw3ez6cm0d4cxzumn95erqq3qwav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qqxpqqqp65w4lwmut",
+    "timestamp": "1777485138",
+    "date": "4/29/2026, 5:52:18 PM",
+    "id": "2bc0aacb4ae19cd109ad76b3eb99526ff71cb06b0e46a4a9bb34f200981d2898",
+    "kind": 6
+  },
+  {
+    "content": "Started to record the audio book of The Praxeology of Privacy, it's a great opportunity for a final edit before it goes to print!",
+    "timestamp": "1777480914",
+    "date": "4/29/2026, 4:41:54 PM",
+    "id": "6ee1dea10a5d810dd90d83fcb741393dc349d43bc548f4e808cb0f3501988d4e",
+    "kind": 1
+  },
+  {
+    "content": "Yes, patience improves privacy substantially  ",
+    "timestamp": "1777458833",
+    "date": "4/29/2026, 10:33:53 AM",
+    "id": "810b1fd1175f0922fafb747fec3e7c83842bb52a391a8014c18266b581bb6505",
+    "kind": 1
+  },
+  {
+    "content": "Iris by nostr:nprofile1qqsy2ga7trfetvd3j65m3jptqw9k39wtq2mg85xz2w542p5dhg06e5qppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z75uptz7 does too I think.\nMarmot soon.",
+    "timestamp": "1777445982",
+    "date": "4/29/2026, 6:59:42 AM",
+    "id": "800a13d1ebddbd941560705c441a9ac55e801582f714ab852d681cd3c5ead0e6",
+    "kind": 1
+  },
+  {
+    "content": "Check out nostr:nprofile1qqsrrtsvcg6q8cwwhuea7cnyfelpfh5m9zncns8sza8a0pjylt6cazcpzdmhxue69uhhqatjwpkx2urpvuhx2ue0qyvhwumn8ghj7cm0vfexzen4d4sjucm0d5hhyetvv9uszgnhwden5te0d46kcarfwpkx27r9wghxsatn0fhkuet80yh8wmmjd3jz7uhmnef, a non-nostr app published on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4 ",
+    "timestamp": "1777445549",
+    "date": "4/29/2026, 6:52:29 AM",
+    "id": "c72144299e3e0eb1a4ddc0c0c56c42177abbcf7007963b24253986fea70feac8",
+    "kind": 1
+  },
+  {
     "content": "Looking forward to see you there.",
     "timestamp": "1777389566",
     "date": "4/28/2026, 3:19:26 PM",
