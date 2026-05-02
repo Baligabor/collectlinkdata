@@ -1,5 +1,47 @@
 [
   {
+    "content": "Murray Rothbard produced more rigorous, integrated work across more domains than any other libertarian thinker of the 20th century. His books span monetary theory, political philosophy, revisionist history, and economic thought, and they hold together because they all flow from the same foundational axioms. This guide maps a reading order through his major works, from the accessible entry points through to the advanced systematic treatises, with a summary of each book's argument and what it adds to the whole.\n\nnostr:nevent1qqs90uqxsp7v9l3zd9zreelul7y3jrx0pvuthxtdjhpd0u4qjv6c46gpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qyvhwumn8ghj7um9dejxjapwdehhxenvv9ex2tnrdaksyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlsahguk8",
+    "timestamp": "1777658877",
+    "date": "5/1/2026, 6:07:57 PM",
+    "id": "a747a4a9f3000bad68b351a3631caa0953ec49219020c00b3e18f25d182f6ff8",
+    "kind": 1
+  },
+  {
+    "content": "Yes that would be huge.\nBut the operator can still destroy the money by pulling the plug on the computer.",
+    "timestamp": "1777628579",
+    "date": "5/1/2026, 9:42:59 AM",
+    "id": "a15526ab1841aa6f97ff22dcb1a1f89d39da0eceeb4cadd6311d37cbf9091c1b",
+    "kind": 1
+  },
+  {
+    "content": "Another non-nostr app on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4 !\n\nhttps://zapstore.dev/apps/naddr1qqtxxmmd9eek7mrpwf5h5ety9enxjun9v3hhwmsprpmhxue69uhhyetvv9uju7npwpehgmmjv5hxgetkqgstd4g3dmu93dcxnzu5rs6p5k7xtvjdvknc3ncwd0zxamr3vwgm5fsrqsqqqlst20nge2\n\nnostr:nprofile1qqstd4g3dmu93dcxnzu5rs6p5k7xtvjdvknc3ncwd0zxamr3vwgm5fspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qg4waehxw309ahx7um5wghx77r5wghxgetk9u7ux9ly ",
+    "timestamp": "1777622644",
+    "date": "5/1/2026, 8:04:04 AM",
+    "id": "a7f69673c3f3da7293d9aa81925e661702188e155a071ee3cb8b27eeee374d00",
+    "kind": 1
+  },
+  {
+    "content": "Thats true that key compromise is the same.",
+    "timestamp": "1777619945",
+    "date": "5/1/2026, 7:19:05 AM",
+    "id": "6b7a7a650414f5a53493a0f6c5f5242e578f985615fc310e2d52e9533c46434d",
+    "kind": 1
+  },
+  {
+    "content": "Long form articles are replaceable / addressable events in the spec, so not acknowledging the edits is just wrong...",
+    "timestamp": "1777619923",
+    "date": "5/1/2026, 7:18:43 AM",
+    "id": "99c9e2a26cce09581b0feef4236d8193e8cd53ab62db4a770f833aaa06f24022",
+    "kind": 1
+  },
+  {
+    "content": "Makes sense, worth the extra effort.",
+    "timestamp": "1777614866",
+    "date": "5/1/2026, 5:54:26 AM",
+    "id": "f8bc5548741898d62deb380267460bf0172b3de1676cf931652bb514358990aa",
+    "kind": 1
+  },
+  {
     "content": "I've been editing my old articles and giving them more consistent hashtags. \nThis seems to have surfaced a bug in a bunch of clients that sort articles by created_at timestamp (which is the last edited time) when in fact they should sort by published_at (which is the original first time seen date)",
     "timestamp": "1777567688",
     "date": "4/30/2026, 4:48:08 PM",
