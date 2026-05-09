@@ -1,5 +1,75 @@
 [
   {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp 2 person chats work very smooth now.\nBut groups are still flaky. We'll address that hopefully by the next release.",
+    "timestamp": "1778267839",
+    "date": "5/8/2026, 7:17:19 PM",
+    "id": "6236209050d6f573a4141c7341c21911bf76c2aedacb81edc21e31a21c522bcf",
+    "kind": 1
+  },
+  {
+    "content": "Awesome work! I hope this gets some use",
+    "timestamp": "1778251277",
+    "date": "5/8/2026, 2:41:17 PM",
+    "id": "66b8da273124a51e54f8a3b1e6423741396771b99463ef7c7ba8a8a9964816ae",
+    "kind": 1
+  },
+  {
+    "content": "🔥 Great news! 🔥 \n\nWe’ve just released the Rust SDK for CVM: https://github.com/ContextVM/rs-sdk  \n\nThis is a big step forward for the ecosystem. Until now, the TypeScript SDK, our reference implementation, has been the only one available. With Rust, CVM now expands into native development, opening the door to new use cases, better performance, and future bindings for other languages.  \n\nThe Rust SDK follows the same architectural principles as the TypeScript SDK. It builds on the underlying RMCP SDK for protocol compliance and adds a Nostr transport on top.  \n\nThe 0.1.x release lands with the core spec in place and support for CEP‑4 Encryption, CEP‑6 Server Announcements, CEP‑19 Ephemeral Gift Wraps, and CEP‑35 Stateless Session Discovery and Capability Learning.  \n\nThis release also sharpens the SDK strategy: TypeScript remains the reference implementation for web and desktop, while Rust becomes the foundation for native development and future FFI bindings. The repository already includes docs and examples, with skills, and more documentation coming soon to docs.contextvm.org.  \n\nIt also ships with a strong test suite and interoperability coverage between the TypeScript and Rust SDKs, so it already feels robust.  \n\nThat said, this is still a beta release, and we’ll keep testing and pushing it further. You can follow the current parity status between both SDKs here: https://github.com/ContextVM/rs-sdk/issues/64  \n\n🧑‍💻 Install it with `cargo add contextvm-sdk`.  \n\nHuge shout out to our students from Summer of Bitcoin, nostr:npub1knd6ntdf2np403eclre6tx8a9gpz4tdv3uyzqs9ngt32zjra2d8sl3cqxa who leaded the development of this release, and nostr:npub10hxj6t55vxczyz8etdyr7zehdmahyfq8a6z8298ryv377zqqfjusfawtt6 , also to nostr:npub1zc6ts76lel22d38l9uk7zazsen8yd7dtuzcz5uv8d3vkast9hlks4725sl for putting together the very first version. We’re grateful for the community effort behind this 🫶\n\nWe hope this SDK unlocks a new wave of development across the CVM ecosystem. Now let’s keep building 🚀🚀\n\nRepo docs: https://github.com/ContextVM/rs-sdk/tree/main/docs\nRepo examples: https://github.com/ContextVM/rs-sdk/tree/main/examples",
+    "timestamp": "1778251189",
+    "date": "5/8/2026, 2:39:49 PM",
+    "id": "7f6836b8d47cf1341f6c5d9d575f83672618c1562d773039388081550a5a9e23",
+    "kind": 6
+  },
+  {
+    "content": "Yes, and then keep open optionality and have established fallback locations. \nI think that's the best we can do for now.",
+    "timestamp": "1778248378",
+    "date": "5/8/2026, 1:52:58 PM",
+    "id": "053652413b194a3ebbb0149efc1a9f43a1db513bcffc5672dfbf7b28a36ad19f",
+    "kind": 1
+  },
+  {
+    "content": "And by the way, here is my take on those principles.\nnostr:naddr1qqgrgven8p3rjvecxucrwefcv4nrxqgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c7kqq0y",
+    "timestamp": "1778222722",
+    "date": "5/8/2026, 6:45:22 AM",
+    "id": "a03137b3f7978f29fa02985afb02161eaf09b86fcf80e09aa719b0bb89f32914",
+    "kind": 1
+  },
+  {
+    "content": "That makes nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp compatible with nostr:nprofile1qqsrgtm763cvepn02aejwp9t8chxnr6jgqg2zyllt9mhqcwcsksjwwqprdmhxue69uhhsmtj9e5hg6r4wf68xamgv4hxjupwv4jj7qg5waehxw309aex2mrp09skymr99ehhyee0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0vzchvx , thats great!",
+    "timestamp": "1778185781",
+    "date": "5/7/2026, 8:29:41 PM",
+    "id": "6c2edd2495b18ef28e033a8e38e780bdab6d60aaac4c1e2a369b2d3ce23d2049",
+    "kind": 1
+  },
+  {
+    "content": "The next White Noise release is out.\n\nEnd-to-end encrypted video in every chat. Blocking that works everywhere. Database encrypted at rest. Three MDK security issues, closed.\n\nStill building. Still shipping. Read more👇\n\nnostr:naddr1qvzqqqr4gupzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhqy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqpsamgd96x2ttwda5hxefddejhsapdwfjkcetpwdjsynt948",
+    "timestamp": "1778185723",
+    "date": "5/7/2026, 8:28:43 PM",
+    "id": "c6ffb1ea5f4d3c47a49a623b9c998fe2945e76d9d39911abb23edd967451bb48",
+    "kind": 6
+  },
+  {
+    "content": "I think only this one and the declaration of separation are verbatim copies that just had to exist on nostr.",
+    "timestamp": "1778185714",
+    "date": "5/7/2026, 8:28:34 PM",
+    "id": "faf7bba17bbda55dd47c8712767029d3ea329e22a07824c88527ed5756a2d0c2",
+    "kind": 1
+  },
+  {
+    "content": "New nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp is out!\nUpdate for much more reliable experience.",
+    "timestamp": "1778167274",
+    "date": "5/7/2026, 3:21:14 PM",
+    "id": "f3a1b4aed8ab01be97b67b35de9bcd1c3aaa45a105b1c46394a3706a84b4c9ee",
+    "kind": 1
+  },
+  {
+    "content": "No single country seems all around great for the long term, so I'm nomading for years now.",
+    "timestamp": "1778151862",
+    "date": "5/7/2026, 11:04:22 AM",
+    "id": "56f884a2b5715445f8644becf964d130a5dd8def4e9bd7e2aa5b5fb13cad196b",
+    "kind": 1
+  },
+  {
     "content": "A new post on a distinction usually dismissed as semantic nitpicking that turns out to explain why Bitcoin works. Complicated systems are intricate yet knowable. Complex systems are emergent and resist top-down control. The interesting question is which kind of problem each layer of a monetary system should be, and Bitcoin's answer reshapes how we should think about protocol design.\n\nnostr:nevent1qqs8zhhp8m8x500j5vx4g2tyt9keanu40lkztl9pmhy2w0qem95u8xcpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qyvhwumn8ghj7um9dejxjapwdehhxenvv9ex2tnrdaksyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlsnamypl",
     "timestamp": "1778069924",
     "date": "5/6/2026, 12:18:44 PM",
