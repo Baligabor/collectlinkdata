@@ -1,5 +1,61 @@
 [
   {
+    "content": "Skip the first 45 minutes, and fast forward through the rants.\nI'm not yet through it all.",
+    "timestamp": "1778321501",
+    "date": "5/9/2026, 10:11:41 AM",
+    "id": "2f571c50f6ba1cb0fcc4c1b1976d31f3d7d40d948c7cb3e7cca912412c464de3",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, the initial 45 minutes are classic Passio preamble, he does that, I usually skip it.\nThe heart of the contents is usually worth it tho.",
+    "timestamp": "1778321445",
+    "date": "5/9/2026, 10:10:45 AM",
+    "id": "f9f9529cc21da48d2fead94d20fd4136e6ff7153b1ae2d18b9afedeb78a956fb",
+    "kind": 1
+  },
+  {
+    "content": "He also just released a new seminar\nnostr:nevent1qqs0d0un7rxsd3tdyjkmmm4ke6kwd02kelq5q4v7pyfh4vmk3ztqq7gpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgr6puu5",
+    "timestamp": "1778317095",
+    "date": "5/9/2026, 8:58:15 AM",
+    "id": "0ad10abaf4f766d52407ce9ef59d0eddd3787baeb4fba15e7b6ad1f1bda6531f",
+    "kind": 1
+  },
+  {
+    "content": "Any seminar by Mark Passion is a much watch.\nHe just released this new one, check it out.\nhttps://www.youtube.com/watch?v=Iouo8LQKoLQ",
+    "timestamp": "1778317073",
+    "date": "5/9/2026, 8:57:53 AM",
+    "id": "f6bf93f0cd06c56d24adbdeeb6ceace6bd56cfc140559e09137ab37688960079",
+    "kind": 1
+  },
+  {
+    "content": "Precisely.",
+    "timestamp": "1778314075",
+    "date": "5/9/2026, 8:07:55 AM",
+    "id": "4700f8dd22be509d5f4eb67dd85df7d9324f4740ce4d2f9f182e815bb30df8d2",
+    "kind": 1
+  },
+  {
+    "content": "Great read towards more building. I am quiet sure our generation will build things. Maby they are small. Maby they are different from eachother. But it is clear. When we go on building more and more are going to see it rising.\n\nAnd many will think, we are nerds. Many may think we are weird.\n\nBut many of us already accepted all those names. Then let us be proud nerds, proud weirdos.\n\nAll that matters is what we do. What we are depends on the perspective. For me builders, writers, doers, painters, sportsmen (abd women), activists are first and formost a great source of inspiration.\n\nnostr:naddr1qqgxzceevenrgcnzvf3r2epsvsur2qgwwaehxw309ahx7uewd3hkctczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823c9lcxu7",
+    "timestamp": "1778314057",
+    "date": "5/9/2026, 8:07:37 AM",
+    "id": "562751c5bbc18763f540814e96f3f11c0951a65b6a63ab16ce898fa05329eec4",
+    "kind": 6
+  },
+  {
+    "content": "The best lecture on the topic. An absolute must watch:\nhttps://www.youtube.com/watch?v=ChgCh2Gui5M",
+    "timestamp": "1778312715",
+    "date": "5/9/2026, 7:45:15 AM",
+    "id": "7fbe31ed70bcb9e6af83c1dd5455525c9fad6188dee1e9d920f5289c829a8940",
+    "kind": 1
+  },
+  {
+    "content": "Yes, we keep web sockets to relays open in the background.\n\niOS and google notifications are in the works, we've minimized what apple and google learn through these, but they still go through enemy infrastructure, so direct relay connections are better. They just don't work on iOS at all cause its GulagOS",
+    "timestamp": "1778307341",
+    "date": "5/9/2026, 6:15:41 AM",
+    "id": "a35ddc5df1cb6201ffcabacd2e931ef5a84a0fcce967c7276fdef33a7e28d71c",
+    "kind": 1
+  },
+  {
     "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp 2 person chats work very smooth now.\nBut groups are still flaky. We'll address that hopefully by the next release.",
     "timestamp": "1778267839",
     "date": "5/8/2026, 7:17:19 PM",
