@@ -1,5 +1,68 @@
 [
   {
+    "content": "And even with manual approvals, its hard to check the actual content that is signed or encrypted, so most just click approve when it pops up.\nThat verification ux needs improvement ",
+    "timestamp": "1778530042",
+    "date": "5/11/2026, 8:07:22 PM",
+    "id": "e4e941382262f44ba0d12222d8dacfa388f60ac5a3726ecf77ebd52af8b95404",
+    "kind": 1
+  },
+  {
+    "content": "Have a bit of patients, prints should be ready in two weeks or so.",
+    "timestamp": "1778527918",
+    "date": "5/11/2026, 7:31:58 PM",
+    "id": "f56053ec6228e8b757f500fefba6d9239d42892ac8d784feb131e0af0f737203",
+    "kind": 1
+  },
+  {
+    "content": "Thanks man!\nYou finished just in time to read the third edition, haha",
+    "timestamp": "1778524087",
+    "date": "5/11/2026, 6:28:07 PM",
+    "id": "809f6569cea058fd1f87edcc94f318b7fc4336883cc88a22d04171aba9bf072d",
+    "kind": 1
+  },
+  {
+    "content": "Just finished reading nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap08pu8g0's book The Praxeology of Privacy. \n\nWhat an incredible read, and thank you nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap08pu8g0 for all your efforts in sharing such valuable insights and high signal to help individuals all over the world reclaim their privacy and live a sovereign life.\n\nIf you value your privacy I highly recommend you give this book a read and share it with other who are seeking better privacy online and offline.  \n\nnostr:nevent1qqsx7y0m5hwtf9xprhejay64yegerpql69gxzwgdjkwzhf0xlxh72dcpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgq3qklkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qxpqqqqqqzsexagm",
+    "timestamp": "1778524071",
+    "date": "5/11/2026, 6:27:51 PM",
+    "id": "10741ec4121e7eef21f2df54c925819de017068c426587cf80ea1d8948a16474",
+    "kind": 6
+  },
+  {
+    "content": "Just finished recording the audio book of the third edition of The Praxeology of Privacy.\nWill send it to print soon, and start publishing those chapter to Nostr as well.\nThis edition got a lot more detail and better explanations.\nThanks to all those that helped review!",
+    "timestamp": "1778520147",
+    "date": "5/11/2026, 5:22:27 PM",
+    "id": "5aff8b11c07b4c8f2d804210049c7569f1d05026f3b97d755a04f9cb77236330",
+    "kind": 1
+  },
+  {
+    "content": "Come and get the hottest cypherpunk talks before BTCPrague\nnostr:nevent1qqswka6hkfr2w57wfzxmwwxs9k7ev8dpecsq4x74ea9qw842w9af2qcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyrt3u3g6veukyq4tp2vfsaw505zvcmpj8pat84vn5gdh2ffgw04ccqcyqqqqqqg5qztte",
+    "timestamp": "1778508522",
+    "date": "5/11/2026, 2:08:42 PM",
+    "id": "a7d414be8006bfd5e0699f3b3d392792d1428e5085ee2b45a7b5b52b677d64f0",
+    "kind": 1
+  },
+  {
+    "content": "I got to read and review an early version of the book, and I highly recommend it!\nTalks not only about how you can defend your own bitcoin, but also what must be done to defend the broader Bitcoin network.\nnostr:nevent1qqsxtzvqlj9a7m8f987uxzfa3mm7hya2uf7g0gjdfsn25rr6mf8nl7spr9mhxue69uhhqun9d45h2mfwwpexjmtpdshxuet59upzqnv005sw9wjku03uz3659y602z5yt2tcrfl3zqm30k2etk7pakuaqvzqqqqqqyk0c4h2",
+    "timestamp": "1778508472",
+    "date": "5/11/2026, 2:07:52 PM",
+    "id": "19e8075a65a19f15ed5a3cce8675f6abff3d7475370427c9bb491782d6d4089f",
+    "kind": 1
+  },
+  {
+    "content": "🏝️ Was passiert, wenn 21 Bitcoin-Builder für 6 Wochen auf einer Insel einfach bauen – ohne Wettbewerb, ohne Pitchdeck, ohne Bullshit?\n\nGenau das ist Sovereign Engineering. Und die achte Kohorte startet am 20. Juli auf Madeira.\n\n---\n\nThorsten hat in E280 mit drei Alumni gesprochen, die dabei waren: Egge, Max Hillebrand und Thomas. Hier ist, was mich wirklich überrascht hat:\n\n🔄 Kein klassischer Hackathon-Druck\nWöchentlicher Loop: Walks, Talks, Workshops, Friday-Demo-Day. Wer nichts Lauffähiges zeigt, zeigt das Problem und den Ansatz. Beides zählt. Das ist ein fundamentaler Unterschied zu jedem Accelerator, den ich kenne.\n\n🛠️ Reale Projekte mit echtem Impact\nBlossom, ZapStore, npub.cash, das Marmot-Protokoll – und FIPS: ein Mesh-Netzwerk-Protokoll, das IP-Adressen und DNS durch Nostr-Keys ersetzt. Thomas beschreibt es als \"so revolutionär wie das Internet vor 30 Jahren\". Keine Übertreibung, wenn man es versteht.\n\n🤖 Nicht-Entwickler ausdrücklich willkommen\nMit heutigen Vibe-Coding-Tools ist ein funktionaler Proof-of-Concept in Stunden machbar. Die Bewerbungsaufgabe für SEC-08 – einen Nostr-Webclient bauen und deployen – laut Max in 15 Minuten lösbar.\n\n🟠 Madeira ist bitcoin-nativ – ernster als du denkst\nMax war zwei Monate dort und hat genau zweimal mit Fiat bezahlt. Einmal für Diesel. Über 180 Merchants akzeptieren Bitcoin: Supermärkte, Autovermietungen, Apartments. Das ist kein Pilotprojekt. Das ist gelebte Realität.\n\n🌐 Das Alumni-Netzwerk als unterschätzter Hebel\nÜber 80 ehemalige Teilnehmer bleiben aktiv verbunden. Das ist kein LinkedIn-Kontakt-Friedhof, sondern ein aktives Builder-Netzwerk.\n\n\nDirekt nach SEC-08 findet auf Madeira die BTC++-Konferenz statt. Wer sowieso überlegt hinzufahren: Die Frage ist eigentlich nur, warum man es nicht tun sollte.\n\nBewerbung läuft: sovereignengineering.typeform.com/SEC-08\n\n---\n\n🎙️ Von und mit: Thorsten, Egge, Max Hillebrand und Thomas\n\n---\n\n💬 Meine Frage an euch: FIPS – Nostr-Keys statt IP-Adressen und DNS. Ist das der fehlende Layer, über den wir noch nicht laut genug reden? Oder zu früh, zu experimentell?\n\n---\n\nWeitere Links:\n🌐 https://nodesignal.space/E280\n▶️ https://youtu.be/ZcIISHNTuxc\n🎧 https://pod.link/aHR0cHM6Ly9zZXJ2ZS5wb2Rob21lLmZtL3Jzcy9lOGRmMGIxMy00N2RlLTU0NGEtOTliNy1lYzdjYmQ5NjBhMTY/episode/ZDZiNmYzNDQtZWEyMi00Y2MwLThiOTctNGUxMzkyNDc1ZTdk\n🔗 https://sovereignengineering.io/\n\n#Bitcoin #Nostr #SovereignEngineering\n\n---\n\nFocus on the Signal, not the noise!\nSchönes Wochenende euch allen 🧡",
+    "timestamp": "1778481231",
+    "date": "5/11/2026, 6:33:51 AM",
+    "id": "2e315cb5c7fe09f8a7cbac38ad6d4d153485dc06560c90c6f96f03ad66d511a0",
+    "kind": 6
+  },
+  {
+    "content": "Glad that you enjoy them!\nYou might just install a nostr app directly on your e-reader?",
+    "timestamp": "1778478878",
+    "date": "5/11/2026, 5:54:38 AM",
+    "id": "4c967db80eb2c90d56360d6bf22e76425c42cbdbd0b16f2c113679d59a695ef9",
+    "kind": 1
+  },
+  {
     "content": "Skip the first 45 minutes, and fast forward through the rants.\nI'm not yet through it all.",
     "timestamp": "1778321501",
     "date": "5/9/2026, 10:11:41 AM",
