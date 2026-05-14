@@ -1,5 +1,201 @@
 [
   {
+    "content": "My book got a shoutout on Kinsella's website. Nice.\nDefinitely check out his site and work, Amazing thinker!\nhttps://stephankinsella.com/2026/05/max-hillebrand-the-praxeology-of-privacy/",
+    "timestamp": "1778695598",
+    "date": "5/13/2026, 6:06:38 PM",
+    "id": "e4a6cf6d19a9c42d950c15ccd0339f03be64c5d4866f743faa4ff8ba68983bd6",
+    "kind": 1
+  },
+  {
+    "content": "Works for me, try again please ",
+    "timestamp": "1778694260",
+    "date": "5/13/2026, 5:44:20 PM",
+    "id": "23fafd05e3529f31d202583ecbcb2ad6bcbb31e2ea192da9a5e68909bc90177e",
+    "kind": 1
+  },
+  {
+    "content": "\"Privacy is control over disclosure, not concealment of guilt.\" So well put! ",
+    "timestamp": "1778692006",
+    "date": "5/13/2026, 5:06:46 PM",
+    "id": "68db6bbdf6898cf75be9ee9cac97d26d68cbf7562493c7985eb315fcb92a8115",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass #22 is out.\n\nNostr VPN ships eight releases culminating in v4.0.10, swapping to BoringSSL ChaCha20-Poly1305 for a 2.5x TCP throughput jump and adding sendmmsg batching and a full device-pairing UX overhaul. FIPS v0.3.0 goes cross-platform with Nostr-mediated peer discovery, NIP-59 gift-wrap NAT hole-punching, and a new gateway binary for unmodified LANs. Grain v0.6.0 lands NIP-40, NIP-50, NIP-70, and NIP-45 in one milestone; Amethyst merges 78 PRs including scheduled posts, NIP-9A community rule enforcement, and an embedded desktop relay; Flotilla 1.8.0 ships video calls and email rendering; Calendar by Formstr adds appointment scheduling. The NIP deep dives cover NIP-78 (app-specific data) and NIP-98 (HTTP Auth).\n\nhttps://nostrcompass.org/en/newsletters/2026-05-13-newsletter/\n\nnostr:naddr1qqgxummnw3ez6cm0d4cxzumn95eryqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyxhwumn8ghj7mn0wvhxcmmvqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqzypm4j48hx9q3yjy6fg57c6ftwguxl4sten4sxzx5yvgpa2tec4agqqcyqqq823cvznrgu",
+    "timestamp": "1778690064",
+    "date": "5/13/2026, 4:34:24 PM",
+    "id": "bb1c3685b5e61366053e6730764dcf21c130c4de64d7b2a4709426882d7b4e15",
+    "kind": 6
+  },
+  {
+    "content": "The 'nothing to hide' line works by smuggling in a false definition. Privacy is control over disclosure, not concealment of guilt. Once that is fixed, secrecy and anonymity separate from privacy proper, and the surveillance argument loses its grip.\n\nObservation is the first move of every targeted intervention. A key pair costs nearly nothing while a national surveillance program runs into billions. The asymmetry is the cypherpunk case.\n\nnostr:naddr1qqy8qmms943ksvp3qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gufslgd5",
+    "timestamp": "1778688000",
+    "date": "5/13/2026, 4:00:00 PM",
+    "id": "2f2232de28c58973ec929b373e6366b8b84de9050d01e1cd50fc226c9d6c5a69",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqsdjx9yymrv7q50cwt2zm076q732lwzx4tz0za5rjg3hzqaxcearaspzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz79lc9uc  webinar starting now about how content creators can defend against the 5$ wrench attack:\nhttps://us06web.zoom.us/j/87988397996",
+    "timestamp": "1778680811",
+    "date": "5/13/2026, 2:00:11 PM",
+    "id": "7fc31b6c54c1ca7afe8c87259182b4ace2e13f8981639f2a26e44e6dd0f24194",
+    "kind": 1
+  },
+  {
+    "content": "Combining Austrian Economics with Cypherpunk code to explain privacy and teach how to protect it.",
+    "timestamp": "1778678945",
+    "date": "5/13/2026, 1:29:05 PM",
+    "id": "78441f3fada162caea358d24a850e72f223ac959f97599e5e32ad44e3e779c1a",
+    "kind": 1
+  },
+  {
+    "content": "Oh wait, it went to my wallet, not to the freedom tech summit wallet, cause none is configured.\nI'll forward it, Thanks!",
+    "timestamp": "1778678905",
+    "date": "5/13/2026, 1:28:25 PM",
+    "id": "4e3e7e1b8265acd389dd676bfe103848dd9307d1b983fed03c44bd77507af637",
+    "kind": 1
+  },
+  {
+    "content": "It worked, I think, thanks!",
+    "timestamp": "1778678869",
+    "date": "5/13/2026, 1:27:49 PM",
+    "id": "f42eb7957e0ad9426e9f722bf6c3960887cbbe87640817daa030dc772c04d6c2",
+    "kind": 1
+  },
+  {
+    "content": "Its on the website.\nTowardsliberty.com/pop\n\nWhich is down for maintenance atm, should be back up soon.",
+    "timestamp": "1778678410",
+    "date": "5/13/2026, 1:20:10 PM",
+    "id": "0abe46c6bac6c39684b7e91e53e44c486372ddc4e27ad0e57ca6e393fdf3957f",
+    "kind": 1
+  },
+  {
+    "content": "FYI, the above is the print edition that has shorter endnotes.\nTowardsliberty.com/pop has another PDF with 90 pages of extra content in the endnotes.",
+    "timestamp": "1778675630",
+    "date": "5/13/2026, 12:33:50 PM",
+    "id": "11bd2c2fa73fb1ffd4821f71c4152645aa812edf97ffec2905c0ae1a0452a627",
+    "kind": 1
+  },
+  {
+    "content": "Yes, the pdf (only light mode for now) is on the website. \nEpub & darkmode will come later.",
+    "timestamp": "1778673552",
+    "date": "5/13/2026, 11:59:12 AM",
+    "id": "62e3c483449c5161ba2f956b3ec8646dbeeee94248d45499b3990e1875cef83b",
+    "kind": 1
+  },
+  {
+    "content": "Are you joining nostr:nprofile1qqsdjx9yymrv7q50cwt2zm076q732lwzx4tz0za5rjg3hzqaxcearaspzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz79lc9uc  physical security webinar today? In 3 hours we start.\n https://gart.io/event/personal-security-webinar-2/register",
+    "timestamp": "1778670047",
+    "date": "5/13/2026, 11:00:47 AM",
+    "id": "2b5472f80af61e78557030d8a9d898584256c14ed89939e631b45ea1fdefe006",
+    "kind": 6
+  },
+  {
+    "content": "Testing nostr:nprofile1qqsqw0xcx664020ac2nzcfehxfea5rz4dfcqsa3l0u8zklegaf65l4spz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qgewaehxw309amk2mrrdakk2tnwdaehgu3wwa5kuef0urz46u  appointment booking tool, please book a time!\nhttps://calendar.formstr.app/schedule/naddr1qvzqqqrukupzp6vv6yn2duvfj6w7g402r4dehmcla7qy984v45deq5mrggeahhkwqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgdwaehxw309ahx7uewd3hkcqg7waehxw309aex2mrp0yhxummnw3ezuamfwfjkgmn9wshx5up0qyw8wumn8ghj7mn0wd68ytfsxyh8jcttd95x7mnwv5hxxmmdqyv8wumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdsq3zamnwvaz7tmwdaehgu3jxyhxxmmdqq0rzwpkvgcnwcfjvy6xzvejxuun2etpxp3kyetzv5ckgdtxxs6qppwmt2?viewKey=197d19fee17515c170b5dbf75e5d1e8dd6bb208e47414bcfe80f6938bf26de07",
+    "timestamp": "1778669663",
+    "date": "5/13/2026, 10:54:23 AM",
+    "id": "eb2b8b5240178ad137d6e3f868d631795f8ac675c9b1d2a7ba69e65aa9428aaa",
+    "kind": 1
+  },
+  {
+    "content": "Sure that sounds great, thanks!",
+    "timestamp": "1778667480",
+    "date": "5/13/2026, 10:18:00 AM",
+    "id": "446b989e1370b1ab7563473c2db9f01f925bc8fd657ca2bb0ef2f53c1c6206bb",
+    "kind": 1
+  },
+  {
+    "content": "We're still short on funding for nostr:nprofile1qqsdw8j9rfn8jcsz4v9f3xr4637sfnrvxgu84v74jw3pkaf99pe7hrqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpz3mhxue69uhhyetvv9ukzcnvv5hx7un89uq3samnwvaz7tmwdaehgu3wdpjkkum5v4ezummjvuhss42za5 \nIf you wanna support a gathering of cypherpunks, zap this note or DM me for sponsorship details.",
+    "timestamp": "1778666486",
+    "date": "5/13/2026, 10:01:26 AM",
+    "id": "e2dd22c041cd8cf15c987b46ae7c61f47baa4e55bd993e5ecd8c1286d1962743",
+    "kind": 1
+  },
+  {
+    "content": "Yes! Super grateful for his review on the topic, he was key to many improvements since v2.",
+    "timestamp": "1778665909",
+    "date": "5/13/2026, 9:51:49 AM",
+    "id": "d5fd1a48cda9a983c0c77ab2e950cf88a4493cd5c026e6edb5efaafad42e14fe",
+    "kind": 1
+  },
+  {
+    "content": "Now it works again.",
+    "timestamp": "1778665866",
+    "date": "5/13/2026, 9:51:06 AM",
+    "id": "9964d1ccee73de97dd840b3174a926e532449572699525596abaf84596f17ed3",
+    "kind": 1
+  },
+  {
+    "content": "What other books?\nThis is my first standalone book.",
+    "timestamp": "1778665827",
+    "date": "5/13/2026, 9:50:27 AM",
+    "id": "7aa04642e264606128e75894bb71aed2e9f223daf857e83e2dd68efa1103831c",
+    "kind": 1
+  },
+  {
+    "content": "Ooops, I'll fix that blossom link, here's legacy\nhttps://towardsliberty.com/book/pop-light.pdf",
+    "timestamp": "1778665795",
+    "date": "5/13/2026, 9:49:55 AM",
+    "id": "20658f6a5d0d656e6bdc264c24e3afa8ec226a56316de804d655989fc0c2d0c4",
+    "kind": 1
+  },
+  {
+    "content": "\n[NEW] The #Praxeology of #Privacy by Max Hillebrand by nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt (Author)\n\n https://blossom.primal.net/ced3f7832890fc61f61d3ca42a2880a08a684a528e17fed9174b65c492c4450f.jpg \nCONTACT SELLER AT https://stacker.news/items/1489281/r/AG0RA\n\nECONOMIC LOGIC IN CYPHERPUNK IMPLEMENTATION \n\nPrivacy is not merely a preference, a legal claim, or a way to hide. It is a condition for human action: for thinking, choosing, exchanging, building, and resisting control. \n\nThis book brings together Austrian praxeology and cypherpunk practice to show why privacy matters, how surveillance distorts economic and social life, and how cryptographic tools can build parallel systems beyond observation and coercion. \n\nFrom first principles to practical implementation, this book maps privacy as theory, strategy, and action.\n\n#BITCOIN #BTCACCEPTED #MARKETPLACE #AGORA #P2P #BOOKS #PRIVACY #ANON ",
+    "timestamp": "1778665728",
+    "date": "5/13/2026, 9:48:48 AM",
+    "id": "1802dad6681cbdede1b7d5e0eafe97576e525608a962c1190abbbd6617cf3bfa",
+    "kind": 6
+  },
+  {
+    "content": "Here's the pdf of my book The Praxeology of Privacy:\nhttps://relay.towardsliberty.com/460734c54e8b08b655cdbcb62561a50c6cbb5c7b5bbad1d949db2a0f1150204d.pdf\n\nIt's published in the public domain. \nPrint it, sell it, share it.",
+    "timestamp": "1778660301",
+    "date": "5/13/2026, 8:18:21 AM",
+    "id": "9e7a761440b183ecac3d1f4a3ea5e3e7ab4414ba0d7117ea49f0455b5fdc777a",
+    "kind": 1
+  },
+  {
+    "content": "Thanks man!",
+    "timestamp": "1778656417",
+    "date": "5/13/2026, 7:13:37 AM",
+    "id": "02935aadb16d631921a9340d46f9d3748aca04a73841e24c0afa51906d3b7391",
+    "kind": 1
+  },
+  {
+    "content": "For sure!",
+    "timestamp": "1778656139",
+    "date": "5/13/2026, 7:08:59 AM",
+    "id": "63900b39407880035575cdc7154ac3519e32ad4f0b2b10b7869ff7393322b31d",
+    "kind": 1
+  },
+  {
+    "content": "A whole bunch has changed since the first edition, in hindsight I'm kinda embarrassed how bad v1 was...\nSo I'd definitely abandon that and check out the new one.",
+    "timestamp": "1778656068",
+    "date": "5/13/2026, 7:07:48 AM",
+    "id": "8e9392b0ca55c680e19f0f16c4706a41523cbc94116645fdae95216dc66b6a2f",
+    "kind": 1
+  },
+  {
+    "content": "Get it on amazon here\nhttps://www.amazon.com/dp/B0H1L1H1GM\n\nNext week comes the Bitcoin edition, after that the audio book.",
+    "timestamp": "1778655960",
+    "date": "5/13/2026, 7:06:00 AM",
+    "id": "586a55583d58f2614251108601b983082b524a7979565489e315686125690df4",
+    "kind": 1
+  },
+  {
+    "content": "Yes that'll come end of the week or so.",
+    "timestamp": "1778655826",
+    "date": "5/13/2026, 7:03:46 AM",
+    "id": "fc7a7d74968ae8b2d597478d4bf2e7db6c216b791baa950f78a24655aa9bd4ab",
+    "kind": 1
+  },
+  {
+    "content": "And my book is available in print now on amazon.\nIf you get it there, please leave a review.\nSoon it'll be available for bitcoin as well.\n\nhttps://www.amazon.com/dp/B0H1L1H1GM\nnostr:nevent1qqs22jds0a3j59p4sg56yzr9z62v8dxmxhqgq6kvgw753u49q3tekgcpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgmndgrq",
+    "timestamp": "1778655024",
+    "date": "5/13/2026, 6:50:24 AM",
+    "id": "e121776e1b3d8367b23e24b5d7b3d13fd52695ce32323a0ee5705c9386a6593b",
+    "kind": 1
+  },
+  {
     "content": "And another! nostr:nprofile1qqstd4g3dmu93dcxnzu5rs6p5k7xtvjdvknc3ncwd0zxamr3vwgm5fspz4mhxue69uhkummnw3ezummcw3ezuer9wchszrnhwden5te0dehhxtnvdakz7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcp993dv\nhttps://github.com/solarizeddev/firedown",
     "timestamp": "1778610604",
     "date": "5/12/2026, 6:30:04 PM",
@@ -75,6 +271,13 @@
     "date": "5/12/2026, 3:19:20 PM",
     "id": "42e96dd7963e0a2bdf39133e5085f7809387d9ff3558940fda55dba77efb8f8e",
     "kind": 6
+  },
+  {
+    "content": "Migrating ~ 1000 videos and podcasts of mine over to nostr and blossom.\nBeautiful that it just works, no other platform can do that so smooth.",
+    "timestamp": "1778599049",
+    "date": "5/12/2026, 3:17:29 PM",
+    "id": "c1d8d588893b52dbe57a8c812ecbb14252b3332022c4651aa3574a327095585c",
+    "kind": 1
   },
   {
     "content": "Human babies are a different case, since they grow up to adults who can argue properly, and every human adult was once a baby so denying babies rights is equally a performative contradiction.",
