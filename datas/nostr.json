@@ -1,5 +1,54 @@
 [
   {
+    "content": "Anyone who argues has already presupposed exclusive control over body and mind. You cannot make a case while mind-controlled, and you cannot push back against a claim if your speech is dictated.\n\nSelf-ownership extends into property through original appropriation, and the Non-Aggression Principle follows. Coerced surveillance falls inside the same frame: a regime that strips cognitive privacy has destroyed the conditions under which its subjects could be parties to any normative argument.\n\nnostr:naddr1qqy8qmms943ksvp5qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4guu70rs0",
+    "timestamp": "1778947200",
+    "date": "5/16/2026, 4:00:00 PM",
+    "id": "c1dc2ab28d9b3168e48ed252a12daf822128caca2b8819b3e9d40b8b760b908d",
+    "kind": 1
+  },
+  {
+    "content": "idk, maybe, but worth the opportunity cost?",
+    "timestamp": "1778938071",
+    "date": "5/16/2026, 1:27:51 PM",
+    "id": "c5db39c03d25d266c2d99fcd29c84790c3f27a6e2ae222888d29c7037979253d",
+    "kind": 1
+  },
+  {
+    "content": "That's a good point.",
+    "timestamp": "1778935856",
+    "date": "5/16/2026, 12:50:56 PM",
+    "id": "663a4cd6a594f69bef1552950bf22515a5b246d57aeb620b7991f63d12e7724c",
+    "kind": 1
+  },
+  {
+    "content": "What you describe sound like engineering to me, not sure if programming language syntax is required for that.",
+    "timestamp": "1778935122",
+    "date": "5/16/2026, 12:38:42 PM",
+    "id": "d43a7d5f067eb5aa93d3d112f73632038cd9aa79911feedd5566616680003b36",
+    "kind": 1
+  },
+  {
+    "content": "I was wondering for a decade if I should learn to code.\nI'm so glad that I didnt.\n\nEngineering >> Coding",
+    "timestamp": "1778934931",
+    "date": "5/16/2026, 12:35:31 PM",
+    "id": "a93f10a5aa58cf72ffea5e7d12386e8ae2054af37abb1b8038ea7cbf3674397c",
+    "kind": 1
+  },
+  {
+    "content": "PSA: do not expand this note.\nIt does not end.\n\nMarmot support lands in Amethyst! So dope!!\n\nnostr:nevent1qqstrwga0msvtk5apqw35568qfywu3v9kpvtzx4rfl3gcr37q7kpuzspzpmhxue69uhkummnw3ezumt0d5hsyg92jprny4srmtx5lq2zpy6k09e4vm0rk83q4z240degcwlyc65yfvpsgqqqqqqsck8txm",
+    "timestamp": "1778919813",
+    "date": "5/16/2026, 8:23:33 AM",
+    "id": "49db1e359f18184802f166d7e033d87dfdc4e4de95e78abb2dd0513467543496",
+    "kind": 1
+  },
+  {
+    "content": "Don't forget to try Marmot group chats (+ on Messages). Now every Amethyst user has a KeyPacksge ready for WhiteNoise and other Marmot chat clients. ",
+    "timestamp": "1778919666",
+    "date": "5/16/2026, 8:21:06 AM",
+    "id": "0f8ad364a07f896970a399a1995e7821f8c3782ef54da01e8c42172d5625800d",
+    "kind": 6
+  },
+  {
     "content": "Why?",
     "timestamp": "1778853323",
     "date": "5/15/2026, 1:55:23 PM",
@@ -96,6 +145,13 @@
     "date": "5/14/2026, 3:10:40 PM",
     "id": "80a7949abca1b9792011dfa7c677473e495683f3d56268acae3d3f34c32925d2",
     "kind": 6
+  },
+  {
+    "content": "We gotta ship freedom tech 10x faster.",
+    "timestamp": "1778767398",
+    "date": "5/14/2026, 2:03:18 PM",
+    "id": "f1cad9e005fad6811373c1902c7487e59cbb32895a421140847bc60f9d5a4d9e",
+    "kind": 1
   },
   {
     "content": "You need a file system ontop of blossom, its possible nostr:nprofile1qqsy2ga7trfetvd3j65m3jptqw9k39wtq2mg85xz2w542p5dhg06e5qppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z75uptz7 is working on this.",
