@@ -1,5 +1,12 @@
 [
   {
+    "content": "Privacy infrastructure is capital in the Austrian sense. It demands present sacrifice for future capability, and like any capital good it compounds across uses.\n\nBohm-Bawerk's roundabout production explains why building cryptographic tools outperforms reliance on institutional promises. The direct route depends on goodwill from authorities the user cannot control. The indirect route builds mathematics whose protection holds whether institutions cooperate or not.\n\nnostr:naddr1qqy8qmms943ksvpcqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gu73pq4z",
+    "timestamp": "1779292800",
+    "date": "5/20/2026, 4:00:00 PM",
+    "id": "ccda3c22e1c2aff02f63e964b542b6be4485c94995d9a0102f250c0234974fa2",
+    "kind": 1
+  },
+  {
     "content": "Yes, in fact its possible to scan the NFC chip in your passport with your phone and create the proof on the phone, no government interaction needed.",
     "timestamp": "1779226499",
     "date": "5/19/2026, 9:34:59 PM",
