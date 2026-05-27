@@ -1,5 +1,61 @@
 [
   {
+    "content": "Interesting...",
+    "timestamp": "1779831303",
+    "date": "5/26/2026, 9:35:03 PM",
+    "id": "9537e51ce6506a883cfddad8f386d8dac607c04502f139dbe6c789c8a307e7e9",
+    "kind": 1
+  },
+  {
+    "content": "De-anonymization in cashu\n\nLink cashu tokens with wallets using keyset and Etag\n\nhttps://uncensoredtech.substack.com/p/de-anonymize-cashu-transactions",
+    "timestamp": "1779831295",
+    "date": "5/26/2026, 9:34:55 PM",
+    "id": "916b8a90b82da87acabb40185da38a84ca35466a38430c64a5eee0c8ba099408",
+    "kind": 6
+  },
+  {
+    "content": "#WatchmanPrivacy with Gabriel Custodiet and guest nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt \n\nhttps://fountain.fm/episode/x6nJcO7PIQVqJcpu4qzX",
+    "timestamp": "1779831255",
+    "date": "5/26/2026, 9:34:15 PM",
+    "id": "383290b18cf090cb7c5c00b0fec173852a3205327769baf294850d020ea990fb",
+    "kind": 6
+  },
+  {
+    "content": "Apparently battery should last years, its not rechargeable tho...",
+    "timestamp": "1779831241",
+    "date": "5/26/2026, 9:34:01 PM",
+    "id": "6c18ec93d6217bd0addc2da864c9f72e412dd1cea640c0f39a41b7a6d128cbbd",
+    "kind": 1
+  },
+  {
+    "content": "No, he added to the intro that he still didn't make the move. A shame...",
+    "timestamp": "1779831201",
+    "date": "5/26/2026, 9:33:21 PM",
+    "id": "5a31d5f0b821e7a0c22cd59d463d01591dd4ce0169f4a02e0c943d6a9b0cdeea",
+    "kind": 1
+  },
+  {
+    "content": "Checkout vector, its a cool project!\nnostr:nevent1qqsycn04u0wsfq6f5chygk9jwerqkh8cgr4re8xu8qewmy5qu5cy9vspz9mhxue69uhkummnw3ezuamfdejj7q3q6ye7evyevwnl0fc9hujsxf9zym72e063awn0pvde0huvpyec5nyqxpqqqqqqz9ypecn",
+    "timestamp": "1779831152",
+    "date": "5/26/2026, 9:32:32 PM",
+    "id": "42a78505f7878ea3be5cf4d0fc954570b1db5e60c2a09e6519e12a8258fd29c5",
+    "kind": 1
+  },
+  {
+    "content": "I always preferred the narrative of \"if you have nothing to hide, you're just a very boring person\"",
+    "timestamp": "1779831128",
+    "date": "5/26/2026, 9:32:08 PM",
+    "id": "190e1a9be7dc311c4a3a870215b4a986011f589d2b881806c0a08f7e7e0ce455",
+    "kind": 1
+  },
+  {
+    "content": "Traditional systems require trusting intermediaries. Cryptographic systems trust computational hardness assumptions tested by decades of failed attacks. That shift is the foundation everything later in the book stands on.\n\nMathematics replaces some trust requirements and leaves others standing. Key authenticity needs an out-of-band channel. Implementations fail more often than algorithms. The post-quantum transition has shipped in NIST standards, Signal PQXDH, and iMessage PQ3.\n\nnostr:naddr1qqy8qmms943ksvf5qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gunt58y7",
+    "timestamp": "1779811200",
+    "date": "5/26/2026, 4:00:00 PM",
+    "id": "1758a0665268c7e3794a0ce246f1daaed77400de9c07dda52ebc753a254a52f6",
+    "kind": 1
+  },
+  {
     "content": "GM! The authors at Bitcoin Ireland 📚\nnostr:nprofile1qqsf9jl9scw0c5snmkylpfhkppzgd7z7dupul6ms5yl52kfcz9jr8wqpz3mhxue69uhhyetvv9ukzcnvv5hx7un89uq36amnwvaz7tmwdaehgu3dxqcju7tpdd5ksmmwdejjucm0d5hs2pwg0r \nnostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshs79atvg \nnostr:nprofile1qqsw756zdga5pmx5rqtff0zqjqpvznehagd72zqgs202phzy06vgs5gprfmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9ukqzxthwden5te0wfjkcctexghxummnw3exx6rpwshxjmcka082l \nnostr:nprofile1qqstqpkk3p0arf598fhehujzff5agdhd4sna6w4u43f80xqzf58psmcpg4mhxue69uhkkdnywp3kjmm80q6xvctzde5hq6m4xemkccm9x3ex5a3nvenx56rkxenkxatwv33hsancdcm8qmm9wyexscmwxd5kgtn0de5k7m30qyg8wumn8ghj7mn0wd68ytnhd9hx2u5wtad \nnostr:nprofile1qqst5teefqektpr4aytgpwyclxlq78v9q9nvd2pem0sgf5pxdttwyzsprpmhxue69uhkummnw3ezucmgv95k6cfwd9hxvme0qydhwumn8ghj7un9d3shjtndd9hxguewvdhk6tmwdaehgus64h3vk \nnostr:nprofile1qqsv7hr8q0k703r3enhewydfagcvjfnshvlajaa70pk4a9905e0wajspzamhxue69uhhv6t5daezuun9d3shj6twvuhxjmcpzdmhxue69uhk6mfwwd6h5at3dyhxxmmdqnc8yz \nhttps://blossom.primal.net/d14409488fa9d1597c4ab561bfad8c56c93661e9ec0c6b399347f4dfdb6101d6.jpg",
     "timestamp": "1779640725",
     "date": "5/24/2026, 4:38:45 PM",
