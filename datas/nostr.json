@@ -1,5 +1,19 @@
 [
   {
+    "content": "Verification has traditionally required disclosure. Show the document, expose the birthdate, hand over the transaction history. Zero-knowledge proofs cut that link by letting one party prove a statement is true while revealing nothing beyond its truth.\n\nThe taxonomy splits along three axes: proof size, trusted setup, and proving cost. SNARKs produce tiny proofs after setup. STARKs drop the setup and add quantum resistance. Zcash, validity rollups, and Sui zkLogin carry real load today.\n\nnostr:naddr1qqy8qmms943ksvf4qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gulqed6e",
+    "timestamp": "1779897600",
+    "date": "5/27/2026, 4:00:00 PM",
+    "id": "76f9b36dd9ef613d6cf85f7c5fbbe0f191a4f3ada0a0c6f3a425b7d76e74b9d1",
+    "kind": 1
+  },
+  {
+    "content": "Recently I migrated all my ~1000 videos and podcasts to nostr & blossom.\nNow you can also see them as a podcast here:\nhttps://towardsliberty.com/podcast.xml",
+    "timestamp": "1779856720",
+    "date": "5/27/2026, 4:38:40 AM",
+    "id": "63a84edfdf20bcb35d995fde8476cc1fabaa24be1b98c8f6d90da005a07b8d35",
+    "kind": 1
+  },
+  {
     "content": "Interesting...",
     "timestamp": "1779831303",
     "date": "5/26/2026, 9:35:03 PM",
