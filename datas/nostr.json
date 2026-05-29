@@ -1,5 +1,54 @@
 [
   {
+    "content": "Really enjoyed that conf!",
+    "timestamp": "1780006355",
+    "date": "5/28/2026, 10:12:35 PM",
+    "id": "307d2fe27bda7efa9558b9e3c396c2746557a947b3db778b70f6c6ec4481f304",
+    "kind": 1
+  },
+  {
+    "content": "“Cypherpunks wants to reduce the cost of defense, to make resistance easier and profitable” — nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt, Day 2 of nostr:npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52 Vienna\n\nhttps://image.nostr.build/31527bdc9664d620a3587d433c793d8b92c3dda9db152cd473265174968ccd1f.jpg",
+    "timestamp": "1780006333",
+    "date": "5/28/2026, 10:12:13 PM",
+    "id": "3421d06f5728d994761269dc7a098b841841eaa331b0fe8078396557849172a3",
+    "kind": 6
+  },
+  {
+    "content": "As of now prints only on amazon for dirty fiat (sorry) or meet me at a conference and I'll gladly take proper money. \nWe'll have it available for online order payable in bitcoin hopefully soon, sorry for the delay.",
+    "timestamp": "1780006312",
+    "date": "5/28/2026, 10:11:52 PM",
+    "id": "5a9952c35c5ecd2c747392f9f7cd6ec4465d05b4ff19765fc81583c2aba2a3e4",
+    "kind": 1
+  },
+  {
+    "content": "Thanks bro, I appreciate it a lot!\nNow I can't wait to read your manifesto one day...",
+    "timestamp": "1780006240",
+    "date": "5/28/2026, 10:10:40 PM",
+    "id": "fa71dd230ebed1f48e389f52f34fb8f10411992002ee31916f0674d9f9be503c",
+    "kind": 1
+  },
+  {
+    "content": "Thanks. I hope you like it!",
+    "timestamp": "1780006170",
+    "date": "5/28/2026, 10:09:30 PM",
+    "id": "bf5a19e6b55fee40710c54669ad9a8d184cfdbc5ba73dbd0e7b3e74d02de572d",
+    "kind": 1
+  },
+  {
+    "content": "Yes, I'll bring a bunch and will sign them there.",
+    "timestamp": "1780006117",
+    "date": "5/28/2026, 10:08:37 PM",
+    "id": "ff49fbb5dea28700014bedd0e5685fb6ce067e6bdfe1ca45f57adb5d69c5a295",
+    "kind": 1
+  },
+  {
+    "content": "A computation can be performed when no participant is permitted to see the inputs. Three architectures have reached production in the past decade.\n\nFully homomorphic encryption operates on ciphertext directly; Gentry's 2009 construction was a billion times slower than plaintext, and fifteen years of engineering have cut four orders of magnitude off that overhead. Secure multi-party computation splits inputs across parties, as MuSig2 and FROST do for Schnorr signatures on Bitcoin.\n\nnostr:naddr1qqy8qmms943ksvfkqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gutawn3s",
+    "timestamp": "1779984000",
+    "date": "5/28/2026, 4:00:00 PM",
+    "id": "b11d5b0dd742cae01b954c158ef30a45c11ac472d126e6536b9bcca1e7ee1e3b",
+    "kind": 1
+  },
+  {
     "content": "Verification has traditionally required disclosure. Show the document, expose the birthdate, hand over the transaction history. Zero-knowledge proofs cut that link by letting one party prove a statement is true while revealing nothing beyond its truth.\n\nThe taxonomy splits along three axes: proof size, trusted setup, and proving cost. SNARKs produce tiny proofs after setup. STARKs drop the setup and add quantum resistance. Zcash, validity rollups, and Sui zkLogin carry real load today.\n\nnostr:naddr1qqy8qmms943ksvf4qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gulqed6e",
     "timestamp": "1779897600",
     "date": "5/27/2026, 4:00:00 PM",
