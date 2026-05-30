@@ -1,5 +1,61 @@
 [
   {
+    "content": "A class of fraud that powers entire black markets on legacy platforms is structurally absent from Nostr. Aged accounts with established reputations cannot be bought and resold to scammers, because the cryptography refuses to enforce the handoff. Below is the argument for why this property emerges from the nature of an nsec, why hardware almost solves it but doesn't, and what it means for the kinds of trust the protocol can sustain.\n\nnostr:nevent1qqs8xca54nfvuhpf98wa9wdlm25anfupygrk272ywc0xsj4klu7m82spz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qyvhwumn8ghj7um9dejxjapwdehhxenvv9ex2tnrdaksyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlsv5tp3a",
+    "timestamp": "1780089803",
+    "date": "5/29/2026, 9:23:23 PM",
+    "id": "91c4d25226f63321a12abffa20f2de135e4078ed26f7c2ecf87a95190098dea4",
+    "kind": 1
+  },
+  {
+    "content": "Huge milestone for Cashu.\n\nAfter 3 years of work, we finally have unruggable mints.\n\nI'm testing the first on-chain Cashu mint running inside a Trusted Execution Environment (TEE), where the mint keys are generated entirely within the enclave and remain unknown to the operator.\n\nThat means the operator cannot inflate the ecash supply and cannot access the Bitcoin reserves backing it.\n\nWe've moved from trusting operators to relying on hardware-enforced cryptographic guarantees.\n\nThere's still work to do, but the path forward is clear. This is an incredibly exciting step toward trust-minimized ecash.\nhttps://blossom.primal.net/a510372832726c01c9c66224fd1507e8d49fbf5bcf4458e4f6004f2e0e83d539.jpg",
+    "timestamp": "1780089189",
+    "date": "5/29/2026, 9:13:09 PM",
+    "id": "5cd08a14d8622510deaee9f7ecb862646fa6cc8046e0d3f6f66446e6d5f3cd2e",
+    "kind": 6
+  },
+  {
+    "content": "Awesome, let me know what you think!",
+    "timestamp": "1780088684",
+    "date": "5/29/2026, 9:04:44 PM",
+    "id": "e67597bc4b2ee87c73fd0a3137866cf057644282c9ad59f07d373e50b9baf0f5",
+    "kind": 1
+  },
+  {
+    "content": "Fervently reading this. Thanks nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e\n\nhttps://blossom.primal.net/8db7b88ac9e97c9580dc82fb136f3bb3560066ceae452d6cee132d5bfd4e18dc.jpg ",
+    "timestamp": "1780088673",
+    "date": "5/29/2026, 9:04:33 PM",
+    "id": "b431a523840d11eeaaee7d08882ed7748a9247d6b1f102f820143bebb3203dc3",
+    "kind": 6
+  },
+  {
+    "content": "Encrypted messaging hides content. The fact of communication, its frequency, its timing, and the parties involved stay visible to observers. Hayden was on record about acting on that data.\n\nTransport architectures sit on a latency-anonymity tradeoff. A VPN relocates trust to one provider in exchange for speed. Tor distributes trust across multiple relays so no single hop learns both endpoints, and mixnets defeat timing correlation through batching and reordering at a higher latency cost.\n\nnostr:naddr1qqy8qmms943ksvfhqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gu8kre0h",
+    "timestamp": "1780070400",
+    "date": "5/29/2026, 4:00:00 PM",
+    "id": "7321afd8a84485c43c4aa4df5b37e6d396991d721eab891fc178e4c77a58b027",
+    "kind": 1
+  },
+  {
+    "content": "Finally, a copy I can hold, and I know I'll read. And one for nostr:nprofile1qqst32wlsgvqsnjfpkygxs4f6jyt0nc0kg935xdevwlv668dd26uh0gpz9mhxue69uhkummnw3ezumrpdejz7qfqwaehxw309ahx7um5wghx26tww4hxg7nhv9h856t89eehqctrv5hszrnhwden5te0dehhxtnvdakz7lf6cvx too\n\nThank you nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap06fen87\n https://npub1xff8z42r7mjrhcyxgegjnvps637hdnuvat28nrjgsezk8seh2zpseqt6y0.blossom.band/81adf8d99e5936758e4424546fd80c0f14b573bef9a63d03fc5d5f6088d5fd46.jpg",
+    "timestamp": "1780070213",
+    "date": "5/29/2026, 3:56:53 PM",
+    "id": "7b085c39a55d0e004ee12a285911d18bba31e3ffb0f86175ca4364644c6b118b",
+    "kind": 6
+  },
+  {
+    "content": "Thanks. I hope you'll enjoy it!",
+    "timestamp": "1780033903",
+    "date": "5/29/2026, 5:51:43 AM",
+    "id": "e196ee0f19e49cd3e4a901f83e569d6ee68b9d5d273ffa0692ebb6e567877fe4",
+    "kind": 1
+  },
+  {
+    "content": "haha, I'm just a dude, you can do even better.",
+    "timestamp": "1780033888",
+    "date": "5/29/2026, 5:51:28 AM",
+    "id": "ef50336b13bfa4e32e8339dc8cd6cf5e29882ee0f166c96ab7e87ec725f89397",
+    "kind": 1
+  },
+  {
     "content": "Really enjoyed that conf!",
     "timestamp": "1780006355",
     "date": "5/28/2026, 10:12:35 PM",
@@ -38813,5 +38869,12 @@
     "date": "7/8/2024, 7:26:59 AM",
     "id": "63baa049cb1def31d12df301dee712416effd49712bd437e17b0b4bb53cb44cd",
     "kind": 6
+  },
+  {
+    "content": "# A Declaration of Separation\n\n## To The Governments & People of Earth:\n\nWe claim the right to exist, and we will defend it. We do not seek to overthrow anything. We do not seek to control anything. We/merely wish to be left alone.\n\nAll we ever wanted was to live in peace with our friends and neighbors. For a long, long time we bore insults to our liberty; we took blows, we did what we could to avoid injury and we worked through the system to get the offenses to stop. That has now changed. \n\nWe no longer see any benefit in working through the world?s systems. At some point, working within a system becomes cowardly and immoral; for us, that point has arrived.\n\nRegardless of the parties in power, their governments have continued to restrict, restrain and punish us. We hereby reject them all. We hereby withdraw from them all. We hold the ruling states of this world and all that appertains to them to be self-serving and opposed to humanity. We now withdraw our obedience and reclaim the right to strike back when struck. We will not initiate force, but we do reserve the right to answer it. We did not choose this ? it was forced upon us.\n\n## To The Governments of Earth:\n\nYou are building cages for all that is human. In the name of protection, you have intruded into all areas of human life, far exceeding the reach of any Caesar. You claim ultimate control of our property and our decisions, of our travels and even our identities. You claim ownership of humanity far beyond the dreams of any Emperor of any previous era.\n\nUnderstand clearly: We reject your authority and we reject your legitimacy. We do not believe that you have any right to do the things you do. You have massive power, but no right to impose it upon us and no legitimacy. We have forsaken you. We are no longer your citizens or your subjects. Your systems are inherently anti-human, even if all their operators are not. We are not merely angry young people. We are fathers and mothers; aunts, uncles and grandparents; we are business owners and trusted employees; we are mechanics and engineers and farmers. We are nurses and accountants and students and executives.\n\nWe are on every continent.\n\nThis is not a burst of outrage; this is a sober declaration that we no longer accept unearned suffering as our role in life. \n\nFor long decades we sat quietly, hoping that things would turn around. We took no actions; we suffered along with everyone else. But after having our limits pushed back again and again, we have given up on your systems. If our fellow inhabitants of this planet wish to accept your rule, they are free to do so. \n\nWe will not try to stop them. We, however, will no longer accept your constraints upon us. \n\nFrom now on, when you hurt us, we will bite back. If you leave us alone we will leave you alone and you can continue to rule your subjects. We are happy to live quietly. But if you come after us, there will be consequences. You caused this because of your fetish for control and power. The chief men and women among you are pathologically driven to control everyone and everything that moves upon this planet. You have made yourselves the judge of every human activity. No god-king of the ancient world ever had the power that your systems do.\n\nYou have created a world where only the neutered are safe and where only outlaws are free.\n\n## To The People of Earth:\n\nWe seek nothing from you. We do not want to rule you and we do not want to control you.\n\nAll we wish is to live on earth in peace. As always, we will be helpful neighbors and generous acquaintances. We will remain honest business partners and trustworthy employees. We will continue to be loving parents and respectful children.\n\nWe will not, however, be sacrificial animals. We reject the idea that others have a right to our lives and our property. We will not demand anything from you, and we will no longer acquiesce to any demands upon us. We have left that game. We reject all obligations to any person or organization beyond honesty, fair dealing and a respect for human life. \n\nWe will shortly explain what we believe, but we are not demanding that you agree with us. All we ask is that you do not try to stop us. Continue to play the game if you wish; we will not try to disrupt it. We have merely walked away from it. \n\nWe wish you peace. \n\n## To Those Who Will Condemn Us: \n\nWe will ignore you. \n\nWe welcome and seek the verdict of a just God, before whom we are willing to expose our innermost thoughts. Are you similarly willing? We would stand openly before all mankind if it were not suicidal. Perhaps some day we will have to accept slaughter for our crime of independence, but not yet. \n\nYour criticism and your malice are much deeper than mere disagreements of strategy or philosophy. You do not oppose our philosophy, you oppose our existence. Our presence in the world means that your precious ideals are false. Some of you would rather kill us than face the loss of your ideologies, just as those like you have either hated or killed every sufficiently independent human. \n\nYou present yourselves to the world as compassionate, tolerant and enlightened, but we know that your smooth words are costumes. Oh yes, we know you, servant of the state; don't forget, we were raised with you. We played with you in the schoolyard, we sat next to you in the classroom. Some of us studied at the same elite universities. We watched as you had your first tastes of power. We were the boys and girls standing next to you. Some of us were your first victims. We are not fooled by your carefully crafted public image. \n\n## What We Believe\n\n1: Many humans resent the responsibilities that are implied by consciousness. We accept those responsibilities and we embrace consciousness. Rather than letting things happen to us (avoiding consciousness), we accept consciousness and choose to act in our own interest. We do not seek the refuge of blaming others, neither do we take refuge in crowds. We are willing to act on our personal judgment, and we are willing to accept the consequences thereof. \n\n2: We believe in negative rights for all: That all humans should be free to do whatever they wish, as long as they do not intrude upon others; that no man has a right to the life, liberty or property of another; that we oppose aggression, fraud and coercion. \n\n3: We do not believe that our way of life, or any other, will make life perfect or trouble-free. We expect crime and disagreements and ugliness, and we are prepared to deal with them. We do not seek a strongman to step in and solve problems for us. We agree to see to them ourselves.\n\n4: We believe in free and unhindered commerce. So long as exchanges are voluntary and honest, no other party has a right to intervene before, during or after. \n\n5: We believe that all individuals should keep their agreements. \n\n6: We believe that honestly obtained property is fully legitimate and absolute. \n\n7: We believe that some humans are evil and that they must be faced and dealt with. We accept the fact that this is a difficult area of life. \n\n8: We believe that humans can self-organize effectively. We expect them to cooperate. We reject impositions of hierarchy and organization. \n\n9: We believe that all humans are to be held as equals in all matters regarding justice. \n\n10: We believe that the more a man or woman cares about right and wrong, the more of a threat he or she is perceived to be by governments. \n\n11: We believe that there are only two true classes of human beings: Those who wish to exercise power upon others either directly or through intermediaries and those who have no such desires. \n\n12: Large organizations and centralization are inherently anti-human. They must rely upon rules rather than principles, treating humans within the organization as obedient tools.\n\n## Our Plans:\n\n(We are building our own society. We will supplement traditional tools with networking, cryptography, sound money, digital currency and anonymous messaging. Our society will not be centrally controlled. It will rely solely\non voluntary arrangements. \n\nWe welcome others to join us. We are looking for people who are independent creators of value, people who act more than talk, and people who do the right thing because it is the right thing. \n\nWe will develop our own methods of dealing with injustice, built on the principles of negative rights, restitution, integrity and equal justice. We do not forbid anyone from having one foot in each realm - ours and the old realm - although we demand that they do no damage to our realm. We are fully opposed to any use of our realm to facilitate crime in the old realm, such as the hiding of criminal proceeds. \n\nWe expect to be loudly condemned, libeled and slandered by the authorities of the old regime. We expect them to defend their power and their image of legitimacy with all means available to them. We expect that many gullible and servile people will believe these lies, at least at first. We will consider traps laid for us to be criminal offenses. Any who wish to join us are encouraged to distribute this declaration, to act in furtherance of our new society, to voluntarily excel in virtues and to communicate and cooperate with other members of the new society. \n\nFree, unashamed men cannot be ruled. \n\n# We are The Free and The Unashamed.",
+    "timestamp": "1703343416",
+    "date": "12/23/2023, 2:56:56 PM",
+    "id": "7803e5691512530441f4f9e3da67d735543802e6af06cdad1a41ccb9f2a03483",
+    "kind": 1
   }
 ]
