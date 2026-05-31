@@ -1,5 +1,33 @@
 [
   {
+    "content": "Digital money failed for years on two unsolved problems. Double-spending seemed to require a central operator, and most digital currencies were claims on issuers and not money proper.\n\nChaum's DigiCash threaded privacy and double-spending through blind signatures, then collapsed in 1998 when its operator went bankrupt. Nakamoto joined a permissionless ledger to consensus rules each operator enforces locally, with chain selection by accumulated work. Holders possess the units themselves.\n\nnostr:naddr1qqy8qmms943ksvfcqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gu3y6ypn",
+    "timestamp": "1780156800",
+    "date": "5/30/2026, 4:00:00 PM",
+    "id": "af52dc0145b19c08eec0d5ce62075fb26ebd9650b9811cf703ffcc470b2965c8",
+    "kind": 1
+  },
+  {
+    "content": "Yes exactly, no trustless transfers.",
+    "timestamp": "1780129170",
+    "date": "5/30/2026, 8:19:30 AM",
+    "id": "26a1412653aea38835c48f675116528a014d59e6b129191b022d42321862d9d9",
+    "kind": 1
+  },
+  {
+    "content": "It was awesome to finally meet you, and I thoroughly enjoyed our conversation, looking forward to the next one!",
+    "timestamp": "1780128978",
+    "date": "5/30/2026, 8:16:18 AM",
+    "id": "539b557ccf925fc63aaaf3e0d360ca28698192b425cec1c8cad1973e4b7a5435",
+    "kind": 1
+  },
+  {
+    "content": "Leaving Austria and heading to the Oslo Freedom Forum.\n\nHad a great few days at nostr:npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52 Vienna. Taking with me new ideas, new friendships, and some fascinating conversations.\n\nI also got hold of a copy of The Praxeology of Privacy, Max Hillebrand’s new book. What a treat.\n\nIf nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hszrnhwden5te0dehhxtnvdakz7caszuu himself is any indication, I expect this book to be a fountain of knowledge, where Austrian economics meets the cypherpunk ethos.\n\nWe just sat down for a long conversation and Max combines deep knowledge with genuine generosity.\n\nThis interview is going to take us a little while to publish because we want to do it justice and make it beautiful.\nhttps://blossom.primal.net/a4e58bc18dbee7f5ec47c140c3c812e44f7141b64d480f7a1d548df436b793c4.jpg\nhttps://blossom.primal.net/71c367f2c083998e0615e5c171eb53ad79b3f1ec566b5494ec9de666ec011e05.jpg",
+    "timestamp": "1780128944",
+    "date": "5/30/2026, 8:15:44 AM",
+    "id": "e16b501a6787c0e189e044019f3b06e4c63b9015481cfdbd757d28b0e980b191",
+    "kind": 6
+  },
+  {
     "content": "A class of fraud that powers entire black markets on legacy platforms is structurally absent from Nostr. Aged accounts with established reputations cannot be bought and resold to scammers, because the cryptography refuses to enforce the handoff. Below is the argument for why this property emerges from the nature of an nsec, why hardware almost solves it but doesn't, and what it means for the kinds of trust the protocol can sustain.\n\nnostr:nevent1qqs8xca54nfvuhpf98wa9wdlm25anfupygrk272ywc0xsj4klu7m82spz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qyvhwumn8ghj7um9dejxjapwdehhxenvv9ex2tnrdaksyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlsv5tp3a",
     "timestamp": "1780089803",
     "date": "5/29/2026, 9:23:23 PM",
