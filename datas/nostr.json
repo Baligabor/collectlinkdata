@@ -1,5 +1,19 @@
 [
   {
+    "content": "Bitcoin's base layer is transparent. A surveillance industry has spent over a decade building tools to read it. Address reuse anchors clusters, the common-input-ownership heuristic extends them, and KYC touchpoints at exchanges map the result onto real people.\n\nPrivacy on Bitcoin is an architectural achievement on that base. CoinJoin, PayJoin, and CoinSwap improve on-chain privacy. Lightning moves payments off-chain with unilateral exit. Ecash and Liquid trade custody for confidentiality.\n\nnostr:naddr1qqy8qmms943ksv3sqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gumcd2jc",
+    "timestamp": "1780329600",
+    "date": "6/1/2026, 4:00:00 PM",
+    "id": "0de7d8551b37e220f3580c1cee066ce37e277d371fbd0084c1f98618d65e2610",
+    "kind": 1
+  },
+  {
+    "content": "27: Separation of Business from State w/ gsovereignty\nhttps://haven.dergigi.com/974fed8b88a2bc7117c7ddd924f098cf479b9ab1d0e06b1f6c1d056e73cb8d15.m4a\n#NoSolutions",
+    "timestamp": "1780294940",
+    "date": "6/1/2026, 6:22:20 AM",
+    "id": "e63e9f7f9b217a4a3fdb2090a7c0cf5cac50293529b198e0ffd18ee478673b87",
+    "kind": 6
+  },
+  {
     "content": "Spätestens morgen gibt es das 'Hörspielkrimi auch hier zu lesen und hören. https://image.nostr.build/4685a3c2c61c8128a11a41609c1349b9d26841a44ebb9ceee4ddd38ead98fd97.png\nSchon mal ein Danke an nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqv6g2cl und dass ich sein Buch als ein Leitfaden für einer Folge nehmen durfte. Eins sei gesagt, das Buch ist interessanter und wichtiger als dieses #Hörspiel-Krimi. https://www.amazon.com/dp/B0H1L1H1GM\n(https://towardsliberty.com/)\n\nBis dahin ein bisschen Spaß mit einem Song auf..\nhttps://nostria.app/a/naddr1qvzqqqy0kvpzqjlzw3rdcwly3rsgyvkfnw8hp2xxpqe9xjgzm9uangl3wxstyq9sqy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcqzd68yctrdvknzdecxqcnxwfnxyuryd3nt9st2g",
     "timestamp": "1780267009",
     "date": "5/31/2026, 10:36:49 PM",
