@@ -1,5 +1,26 @@
 [
   {
+    "content": "Centralized platforms own the identity layer. When two firms control the social graph for most U.S. internet users, a ban does not restrict speech, it deletes the audience a creator spent years building.\n\nNostr inverts the arrangement. Identity is a keypair the user generates; relays store and forward signed events without holding authority over the account. Exit becomes possible without losing followers or history. Long-form articles, marketplaces, and encrypted messages ride the same format.\n\nnostr:naddr1qqy8qmms943ksv33qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4guhnqqvl",
+    "timestamp": "1780416000",
+    "date": "6/2/2026, 4:00:00 PM",
+    "id": "3fc64b0a876c93ed17937ff0a47441cd1e1f2eb9e6a5dccbc6070280ba323f4a",
+    "kind": 1
+  },
+  {
+    "content": "This is great.\nGot a link to the spec/code?",
+    "timestamp": "1780387807",
+    "date": "6/2/2026, 8:10:07 AM",
+    "id": "372fc2a95b7e61bdb2fcdaf516958c1eebde2101032bf8f916da74607ffb58b3",
+    "kind": 1
+  },
+  {
+    "content": "Why can't Jonny encrypt? Here's .my answer. Tell me if you think I'm wrong.\n\nhttps://zsubmesh.net/essays/johnny-can.html\n \n\n",
+    "timestamp": "1780387785",
+    "date": "6/2/2026, 8:09:45 AM",
+    "id": "63434eec80ae57412fe560d9bccb4a63dc0e5f4d78f1a36213c00d3d69f3908a",
+    "kind": 6
+  },
+  {
     "content": "Bitcoin's base layer is transparent. A surveillance industry has spent over a decade building tools to read it. Address reuse anchors clusters, the common-input-ownership heuristic extends them, and KYC touchpoints at exchanges map the result onto real people.\n\nPrivacy on Bitcoin is an architectural achievement on that base. CoinJoin, PayJoin, and CoinSwap improve on-chain privacy. Lightning moves payments off-chain with unilateral exit. Ecash and Liquid trade custody for confidentiality.\n\nnostr:naddr1qqy8qmms943ksv3sqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gumcd2jc",
     "timestamp": "1780329600",
     "date": "6/1/2026, 4:00:00 PM",
