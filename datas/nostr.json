@@ -1,5 +1,12 @@
 [
   {
+    "content": "Encryption protecting your messages is worthless if you post the same content publicly under your real name. Tor does not help if you log into personal accounts through it.\n\nSecurity is always relative to a specific adversary. The OODA framework gives the strategic guide: break the adversary cycle at observation, where prevention is cheapest. Compartmentalization enforces the principle, and once two identities are linked, the correlation cannot be undone.\n\nnostr:naddr1qqy8qmms943ksv3jqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gurwh78k",
+    "timestamp": "1780502400",
+    "date": "6/3/2026, 4:00:00 PM",
+    "id": "199555ca427f665ec5705c936639e146f6500c1b470d25ce33a1dfb4b7d6b66b",
+    "kind": 1
+  },
+  {
     "content": "Centralized platforms own the identity layer. When two firms control the social graph for most U.S. internet users, a ban does not restrict speech, it deletes the audience a creator spent years building.\n\nNostr inverts the arrangement. Identity is a keypair the user generates; relays store and forward signed events without holding authority over the account. Exit becomes possible without losing followers or history. Long-form articles, marketplaces, and encrypted messages ride the same format.\n\nnostr:naddr1qqy8qmms943ksv33qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4guhnqqvl",
     "timestamp": "1780416000",
     "date": "6/2/2026, 4:00:00 PM",
