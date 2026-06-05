@@ -1,5 +1,12 @@
 [
   {
+    "content": "Perfect privacy is unachievable. Pursuing it produces paralysis or burnout, so the practical goal is continuous improvement from wherever you are now.\n\nThe foundation tier addresses automated credential theft through password managers, hardware keys, encrypted messaging, and device encryption. The intermediate tier resists financial surveillance and platform aggregation. The advanced tier reaches Tor, Qubes, GrapheneOS, and per-identity hardware.\n\nnostr:naddr1qqy8qmms943ksv3nqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gu0965e3",
+    "timestamp": "1780588800",
+    "date": "6/4/2026, 4:00:00 PM",
+    "id": "d1075d70983ca3376159927166791b4085e733fd20e81ad782dd9542d09351b5",
+    "kind": 1
+  },
+  {
     "content": "Encryption protecting your messages is worthless if you post the same content publicly under your real name. Tor does not help if you log into personal accounts through it.\n\nSecurity is always relative to a specific adversary. The OODA framework gives the strategic guide: break the adversary cycle at observation, where prevention is cheapest. Compartmentalization enforces the principle, and once two identities are linked, the correlation cannot be undone.\n\nnostr:naddr1qqy8qmms943ksv3jqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gurwh78k",
     "timestamp": "1780502400",
     "date": "6/3/2026, 4:00:00 PM",
