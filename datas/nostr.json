@@ -1,5 +1,12 @@
 [
   {
+    "content": "Encryption, Bitcoin, and Nostr solve transport, identity, and settlement. They do not establish reliability across time or adjudicate what happened when a deal fails. Those are institutional functions.\n\nReputation under pseudonymity is the starting point. A persistent key with two years of public history has something to lose if its holder cheats. Most transactions need a narrow fact, and zero-knowledge credentials extend selective disclosure without handing over the underlying record.\n\nnostr:naddr1qqy8qmms943ksv35qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4guzast3y",
+    "timestamp": "1780675200",
+    "date": "6/5/2026, 4:00:00 PM",
+    "id": "239c9b1ba412606312356e84c294e4c1c1f24cfe0dda35c000c46536cc5d350d",
+    "kind": 1
+  },
+  {
     "content": "Perfect privacy is unachievable. Pursuing it produces paralysis or burnout, so the practical goal is continuous improvement from wherever you are now.\n\nThe foundation tier addresses automated credential theft through password managers, hardware keys, encrypted messaging, and device encryption. The intermediate tier resists financial surveillance and platform aggregation. The advanced tier reaches Tor, Qubes, GrapheneOS, and per-identity hardware.\n\nnostr:naddr1qqy8qmms943ksv3nqy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4gu0965e3",
     "timestamp": "1780588800",
     "date": "6/4/2026, 4:00:00 PM",
