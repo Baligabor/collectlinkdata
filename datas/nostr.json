@@ -1,5 +1,12 @@
 [
   {
+    "content": "The book opened with a challenge: if you have nothing to hide, you have nothing to fear. The argument closes by joining three axioms with the working stack.\n\nThe Action Axiom places privacy inside the structure of human action. The Argumentation Axiom shows that denying privacy requires the autonomy denial would erase. The Axiom of Resistance holds that designed systems can raise the cost of control sharply, and Bitcoin, Tor, and Signal at consumer scale support the claim.\n\nnostr:naddr1qqy8qmms943ksv34qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4guwkap0r",
+    "timestamp": "1780761600",
+    "date": "6/6/2026, 4:00:00 PM",
+    "id": "127986f0d33d6a7b0447c9dda679a1b2d713a274bfa051d3f9ef2e6bf2acb7d4",
+    "kind": 1
+  },
+  {
     "content": "Encryption, Bitcoin, and Nostr solve transport, identity, and settlement. They do not establish reliability across time or adjudicate what happened when a deal fails. Those are institutional functions.\n\nReputation under pseudonymity is the starting point. A persistent key with two years of public history has something to lose if its holder cheats. Most transactions need a narrow fact, and zero-knowledge credentials extend selective disclosure without handing over the underlying record.\n\nnostr:naddr1qqy8qmms943ksv35qy08wumn8ghj7un9d3shjtn5damkzunywdkxjcn9wf68jtnrdaksz9nhwden5te0wfjkccte9ec8y6tdv9kzumn9wsqs6amnwvaz7tmwdaejumr0dspzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4guzast3y",
     "timestamp": "1780675200",
     "date": "6/5/2026, 4:00:00 PM",
@@ -46,6 +53,13 @@
     "timestamp": "1780329600",
     "date": "6/1/2026, 4:00:00 PM",
     "id": "0de7d8551b37e220f3580c1cee066ce37e277d371fbd0084c1f98618d65e2610",
+    "kind": 1
+  },
+  {
+    "content": "The Praxeology of Privacy with Max Hillebrand | Bitcoin Infinity Show #205\n\nhttps://relay.towardsliberty.com/e84566dcc443626222995e93b82aaa68ccfe9cb3241a379a54cd8215f8f9e180.mp3",
+    "timestamp": "1780306556",
+    "date": "6/1/2026, 9:35:56 AM",
+    "id": "9b3b95fb423750af48261cc15a017caf535274dab7a1ab6f0b7c475c5d6dcb80",
     "kind": 1
   },
   {
@@ -38973,6 +38987,13 @@
     "timestamp": "1703343416",
     "date": "12/23/2023, 2:56:56 PM",
     "id": "7803e5691512530441f4f9e3da67d735543802e6af06cdad1a41ccb9f2a03483",
+    "kind": 1
+  },
+  {
+    "content": "A Lodging of Wayfaring Men · Chapter 4 · Paul Rosenberg\n\nhttps://relay.towardsliberty.com/748291500e5698c8a6b7a550da87acbd298254ae63e459697f36808bb6b652de.mp3",
+    "timestamp": "1700345601",
+    "date": "11/18/2023, 10:13:21 PM",
+    "id": "e4771ff7214eea741ca93b156dee930241a7f1781a2ffb45db4c5c0370d83a4e",
     "kind": 1
   }
 ]
