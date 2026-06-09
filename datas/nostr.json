@@ -1,5 +1,68 @@
 [
   {
+    "content": "Yes.",
+    "timestamp": "1780948902",
+    "date": "6/8/2026, 8:01:42 PM",
+    "id": "5db0ad3d7d9c6d948b3a586a331ee5da791211c9a0706ee079fbb8cf2799caf8",
+    "kind": 1
+  },
+  {
+    "content": "The privacy of such a swap service depends on the number of users and their volumes. \nYou're probably much more private by just using Wasabi.",
+    "timestamp": "1780948813",
+    "date": "6/8/2026, 8:00:13 PM",
+    "id": "6378545b4ab9fde8dde393d7e856d969b3d9ceaa4dd29238eb51dc7abc7ee4f7",
+    "kind": 1
+  },
+  {
+    "content": "Yes, one of Satoshis mistakes, all tho to be fair a spec would have been nearly impossible back then, too hard to pin down.",
+    "timestamp": "1780948757",
+    "date": "6/8/2026, 7:59:17 PM",
+    "id": "9143df07151128e8eb2c4caa57ff184cdef729a817c9f8ed1c32ecbcc33f2453",
+    "kind": 1
+  },
+  {
+    "content": "Rogers book is great, check it out\nnostr:nevent1qqsz6lx0z9x2na5q0qkg7tm486vqqe4upqaradp2n03maxh944h5jrcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygr3jqtxdunl972jnts9t9c2p5wthnkn8k2ckvw33efkhgcwxmg5qypsgqqqqqqs2epfqd",
+    "timestamp": "1780948700",
+    "date": "6/8/2026, 7:58:20 PM",
+    "id": "298e46782835a840ec15e84136ca5a6a2187b9544a92d8582e0b3bc9d3122dcf",
+    "kind": 1
+  },
+  {
+    "content": "Can recommend Tamers of Entropy, refreshing cypherpunk fiction, we dont have nearly enough of those.",
+    "timestamp": "1780927941",
+    "date": "6/8/2026, 2:12:21 PM",
+    "id": "230d56b4019f993e4cd301be6964825e4d7966d9415459767d64a6c0d6851f6d",
+    "kind": 1
+  },
+  {
+    "content": "It'll come out in a bit after review... Stay tuned!",
+    "timestamp": "1780927903",
+    "date": "6/8/2026, 2:11:43 PM",
+    "id": "2ac3dabe8df53c93e550b5e7f1a6d54d3ac685ccaeb2a6fd45eeea8b12ca665e",
+    "kind": 1
+  },
+  {
+    "content": "I think the issue is that primal doesnt show long form edits? Not sure...",
+    "timestamp": "1780927832",
+    "date": "6/8/2026, 2:10:32 PM",
+    "id": "a3401c65a040c0f3478f605fcc8f4a80f2b3feca37b5bb00ed975763e59e064f",
+    "kind": 1
+  },
+  {
+    "content": "It will be legendary (again)\nJoin us\nnostr:nevent1qqs8xmr8f4cea6h3ejpx5lqptw25eqkdxu4vf4t9dy97jhgkfz4w5ncpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyrt3u3g6veukyq4tp2vfsaw505zvcmpj8pat84vn5gdh2ffgw04ccqcyqqqqqqg03fzjq",
+    "timestamp": "1780927783",
+    "date": "6/8/2026, 2:09:43 PM",
+    "id": "f1f570bf60e32151f8caf5299820cf26a23a595ef6a50b44d9bbaa2d5f93da8f",
+    "kind": 1
+  },
+  {
+    "content": "A post about an architectural error I helped make and the strategy I am now building around to avoid repeating it. The short version is that the parts of Wasabi we built protocol-first survived the regulatory pressure that killed our coordinator company, and the parts we ran as a single operator did not. The longer version is below, written for anyone building freedom technology who would prefer to learn the lesson from someone else's scar tissue.\n\nnostr:nevent1qqsfcejr8vwra8w02rqk9xprmt2q9d9sx0zd6t0vm6x5f4253rw6aqcpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qyvhwumn8ghj7um9dejxjapwdehhxenvv9ex2tnrdaksyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjls0j5xcj",
+    "timestamp": "1780917895",
+    "date": "6/8/2026, 11:24:55 AM",
+    "id": "dc1b5c7ac4d78e0a9d29b00cd235dca3f15def94699d59913a2a6e4f19d2a1f8",
+    "kind": 1
+  },
+  {
     "content": "Bro, how did you edit this so fast?!\nEven with Wagner in the background, hat tip to you, Sir!",
     "timestamp": "1780864191",
     "date": "6/7/2026, 8:29:51 PM",
