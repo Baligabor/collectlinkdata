@@ -1,5 +1,26 @@
 [
   {
+    "content": "To some extend that's what lib kernel works towards.",
+    "timestamp": "1781117240",
+    "date": "6/10/2026, 6:47:20 PM",
+    "id": "46df21bb75cfb21cc7cc3705336dfcc8e8e55ed7dad6d4e77ef260eb438f5a06",
+    "kind": 1
+  },
+  {
+    "content": "Today, I'm happy to announce Noah. ⛵\n\nIt's a Bitcoin wallet that nostr:nprofile1qqsqy8t77740cq623lhm5n0qwc3d0r7nd803uhua6l2pmsk0lf62uqspz4mhxue69uhk2er9dchxummnw3ezumrpdejqzymhwden5te0d45hxumtv4ujucmvda6kg6uj67u and I have been working on, using the Bitcoin Ark protocol via nostr:nprofile1qqswmvhjnyd9je5aygggwd73hwlvk8m94ykjfg9kfuzmg4tu5pjj26gpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhhyetvv9ujuerpd46hxtnfdu2hy3vf.\n\nNoah and the Ark protocol allow easy onboarding, Lightning Address support, easy backups, fast payments, and much more, while staying trust-minimized.\n\nWith Noah, you can easily pay and receive via Lightning without dealing with channel management and inbound/outbound liquidity constraints.\n\nOnboarding is as easy as receiving a Lightning payment. When you onboard, you get an Ark VTXO (akin to a UTXO but offchain) instead of a channel.\nYou can also onboard via onchain and internal Ark payments.\n\nEach Noah user gets a Lightning Address that they can use to receive, even offline for Noah->Noah payments.\n\nYou can restore the wallet securely with just your seed phrase.\n\nNoah is available now on mainnet! Please give it a shot and let us know what you think. ⚡️\n\nDownload Noah here: https://beta.noahwallet.io\n\n   \n\n\n\nhttps://blossom.primal.net/94bddcc9ee02e647f65e177482aa8dc3fa5997849688b86539bba9a000959c39.png",
+    "timestamp": "1781116973",
+    "date": "6/10/2026, 6:42:53 PM",
+    "id": "f2752c61cb83ecbe3519bae73a2cdd3848d6a7e314eaf7525d3e8f9910cd5aa6",
+    "kind": 6
+  },
+  {
+    "content": "Now my Nostr relay @ towardsliberty.com is exposed via nostr:nprofile1qqsz85fwlp63uhhzvlakxswhcsdegd9phxvxncpp96e5644tk6cjazspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9nhwden5te0wfjkccte9ejxjar5duh8qatz9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59u3mthe5 \nws://npub1v5fmkz5s8ygrrzw2rtje8eej7gt69sysllytwh93vjk47mvu9eqqjw05pz.fips:3355",
+    "timestamp": "1781114368",
+    "date": "6/10/2026, 5:59:28 PM",
+    "id": "80597f3e0da10b4272d8a6ae366a2c7ad35e9fe0a6589befe2609c3694842fb6",
+    "kind": 1
+  },
+  {
     "content": "Dont buy it, earn it.\nOffer proxy merchant services. \nBuy stuff for fiat for other bitcoiners.",
     "timestamp": "1781036917",
     "date": "6/9/2026, 8:28:37 PM",
