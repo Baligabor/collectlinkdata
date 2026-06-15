@@ -1,5 +1,75 @@
 [
   {
+    "content": "So cool!",
+    "timestamp": "1781464896",
+    "date": "6/14/2026, 7:21:36 PM",
+    "id": "898e07584c7af331e935a4a37c4c0a7119ebecaed6a77e96b66cee88ab6783b4",
+    "kind": 1
+  },
+  {
+    "content": "Already done, sir, nostr:nprofile1qqsd4dkxqewy8xum47ctpu0ltgxxsfemeewpjkdyzk9ddfcg286s0dsppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z79s4dda got you.\n\nnostr:nevent1qqsw63yrs08sfdqwrlf87ew7ry48vpf5m4gghw3lwy8a0xcwglkettccz6lhk",
+    "timestamp": "1781340012",
+    "date": "6/13/2026, 8:40:12 AM",
+    "id": "672ef6cfb86515af0209df09050b1e352b7f414dd4b36ba9dbb274f1590b5b69",
+    "kind": 1
+  },
+  {
+    "content": "That's pretty, where do you generate those graphs?",
+    "timestamp": "1781339861",
+    "date": "6/13/2026, 8:37:41 AM",
+    "id": "06479d036568069e3cf08bf5e83204162f4ec4813d78528669bc9740b0b421f2",
+    "kind": 1
+  },
+  {
+    "content": "Fun fact, this scene wasn't in the script. \nHarrison Ford was sick that day, and didn't feel like actually fighting that guy as was planned. So he improvised and shot him to have less work.",
+    "timestamp": "1781339216",
+    "date": "6/13/2026, 8:26:56 AM",
+    "id": "406d0979d04dc049f021ed184645963d7f72a9c51d89a4a1752d8902ad277e56",
+    "kind": 1
+  },
+  {
+    "content": "Best Nostr desktop client?\n#asknostr",
+    "timestamp": "1781338846",
+    "date": "6/13/2026, 8:20:46 AM",
+    "id": "e357403c356009b5c61d687715e6d7cb8d2cd9bce69495756fa3636fd53ac4c8",
+    "kind": 1
+  },
+  {
+    "content": "\"The cypherpunks were troublemakers: controversial, radical, unrelenting, but also practical. They made things.\"\n\n— Jamie Bartlett (Cypherpunks Write Code, American Scientist)\n\n#cypherpunk #code",
+    "timestamp": "1781338789",
+    "date": "6/13/2026, 8:19:49 AM",
+    "id": "eef779925dd3cf3690181d7386fd5ab976134ed5130595149a654b19d051226a",
+    "kind": 6
+  },
+  {
+    "content": "We could print the hash and blossom server tho...",
+    "timestamp": "1781338482",
+    "date": "6/13/2026, 8:14:42 AM",
+    "id": "4ed787c21dd5f8526c0f4549b562d97b8e459f8f0803eeb11d6ab12c4db199a9",
+    "kind": 1
+  },
+  {
+    "content": "Gart for Android is live on Zapstore.\n\nIt took longer than we estimated, but it does what we set out to achieve.\n\nPrivacy-first emergency response for people who keep a low profile.\n\nAdd your trusted contacts. Prepare your alert message in advance. One tap to send alert. Peer-to-peer, end-to-end encrypted, no tracking. The alert button is dormant until you trigger it. Only the people you chose receive the  alert and your instructions.\n\nhttps://blossom.ditto.pub/df0e1561ac036c4f4da2788e600db87f1ebc4bbbfe301c58f9c4cbad927ddfdf.gif\n\nGart Beta Testers who join before Jun 15, lock in early-adopter perks for life. \n\nDownload Gart: https://gart.io/app\n\nPoke at it, pick it apart, tell us what's broken.\n\nRead our User Manual to find the Hows and Whys of using the app:\nhttps://gart.io/user-manual\n\n\nWhy build another safety app? \nBecause the popular ones watch you, sell you, or can be tricked into handing you over.\n\nOne has 98 million users and sold their location to data brokers within 20 minutes of collecting it.\n\nFull story: \nhttps://gart.io/blog/gart-blog-1/the-price-of-being-findable-10",
+    "timestamp": "1781337926",
+    "date": "6/13/2026, 8:05:26 AM",
+    "id": "7889f5501156e42725fcc4f34a62d859f7a2f6523638f7bb4f599c9d6b5b03a6",
+    "kind": 6
+  },
+  {
+    "content": "Books are meant to be free.\nIt's just the paper that has a price.",
+    "timestamp": "1781336817",
+    "date": "6/13/2026, 7:46:57 AM",
+    "id": "9d00dda0a1caf98784fbb9fc2bdf78440163713a4a39bead83fa655be3992509",
+    "kind": 1
+  },
+  {
+    "content": "The Praxeology of Privacy | bitcoin++ Vienna, economics edition\n\nhttps://relay.towardsliberty.com/627dbc7bbcac4cd912f0dc4e4c61bd2a78ec065aea8d8379349e1f96ddc205c6.mp4",
+    "timestamp": "1781265600",
+    "date": "6/12/2026, 12:00:00 PM",
+    "id": "ecbf110759ad065bdafad02edafb9d5341db8aa6c550bee28fc713ab08700b85",
+    "kind": 1
+  },
+  {
     "content": "Can't wait to hear that conversation, Paul is great.",
     "timestamp": "1781246610",
     "date": "6/12/2026, 6:43:30 AM",
@@ -81,6 +151,13 @@
     "timestamp": "1781208273",
     "date": "6/11/2026, 8:04:33 PM",
     "id": "ef3777baac4240ae599a1135752a9fe8c9cc952b81ea46ed989751dd0ed0b937",
+    "kind": 1
+  },
+  {
+    "content": "How The State Makes Us Poorer | Max Hillebrand\n\nhttps://relay.towardsliberty.com/0314768bab8e708cd58f0c7057e781e99f71ccde7781e5f6ad988c6d14763db1.mp4",
+    "timestamp": "1781179200",
+    "date": "6/11/2026, 12:00:00 PM",
+    "id": "f92b9a4e2ad4b645b6acef8a7eb57b36257b5b1d9f8b56fab685b721b7bd388c",
     "kind": 1
   },
   {
