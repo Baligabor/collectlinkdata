@@ -1,5 +1,40 @@
 [
   {
+    "content": "Every Bitcoin private key generated this decade can be written down on a steel plate that survives fire and flood, but Nostr keys still live mostly in password managers and iCloud screenshots. The math to bring the same physical-backup workflow to Nostr has been sitting in every Bitcoin library since 2013, hiding inside a step of BIP39 that the NIP-06 flow happens to skip past. Below is the case for a backwards-compatible 24-word encoding of any existing nsec, the cryptographic reason it cannot collide with a Bitcoin seed, and the NIP that needs writing.\n\nnostr:nevent1qqs0lphhnghhaaq4npcrf96gvz4r5kq35rzmtelkpsaz2wr2ct5mvpspz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qyvhwumn8ghj7um9dejxjapwdehhxenvv9ex2tnrdaksyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlsmyp7a0",
+    "timestamp": "1782153109",
+    "date": "6/22/2026, 6:31:49 PM",
+    "id": "092c914065aa6613f17b53817b3b94ade86172664578e53d096ac4c9282e8c1e",
+    "kind": 1
+  },
+  {
+    "content": "You can tough grass or work in a hammock, way better ",
+    "timestamp": "1782149613",
+    "date": "6/22/2026, 5:33:33 PM",
+    "id": "147a4b4fe17eaa422c3372860814dc01e214c54fed114574f552b3289426ac94",
+    "kind": 1
+  },
+  {
+    "content": "You see gems like this, the first digital ID app on zapstore:\nhttps://zapstore.dev/apps/naddr1qqdxxmmd9enk7an9wfhxj6m4wvhxzatnwajkjumpwpcryqgcwaehxw309aex2mrp0yh85ctswd6x7un99ejx2aszypuvuma2wgny8pegfej8hf5n3x2hxhkgcl2utfjhxlj4zv8sycc86qcyqqq8uzc78wmqr\nnostr:nevent1qqswurdev940am0udsldecye28drhpmx38nuuq2v0d2se2w8uz48vdgppemhxue69uhkummn9ekx7mp0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqqqpajurrk",
+    "timestamp": "1782149391",
+    "date": "6/22/2026, 5:29:51 PM",
+    "id": "fb3824e83438064883dd57670440f37c719eb1d96c85aaaefacfaf5cf111fe6b",
+    "kind": 1
+  },
+  {
+    "content": "My favorite Nostr feed algorithm is nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4 latest releases.",
+    "timestamp": "1782149139",
+    "date": "6/22/2026, 5:25:39 PM",
+    "id": "ee0db9616afeedfc6c3edce09951da3b876689e7ce014c7b550ca9c7e0aa7635",
+    "kind": 1
+  },
+  {
+    "content": "Just found nostr:nprofile1qqs8hhhhh3r83h3ptaha93c4ze3j57j9369kl56ajm8l0k0ayes9ttcpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7ppyt86 and I'm sad I didnt know of them before, awesome Nostr pod!",
+    "timestamp": "1782140118",
+    "date": "6/22/2026, 2:55:18 PM",
+    "id": "3abc8fae813ae084d38dbf147067fc57406bf3d13df1792ee22307999d94eb87",
+    "kind": 1
+  },
+  {
     "content": "Open Markets Foundation\nhttps://openmarkets.pub\n\n## Mission\n\nThe Open Markets Foundation exists to advance decentralized commerce by supporting open, interoperable, and permissionless marketplaces built on Nostr, Bitcoin, and sovereign digital infrastructure.\n\nOur mission is to help transform scattered experimentation into a coordinated movement: one where builders, merchants, developers, and users can gather around shared standards, open protocols, and practical tools for free and decentralized trade.\n\n## Purpose\n\nDecentralized commerce needs more than individual projects. It needs coordination, education, standards, credibility, and long-term stewardship.\n\nThe Open Markets Foundation aims to serve as a neutral home for that work.\n\nRather than acting as a controlling authority, the foundation’s role is to support the ecosystem around open markets. It exists to help align independent builders, encourage collaboration, promote shared specifications, and make decentralized commerce easier to build, understand, and adopt.\n\n## Vision\n\nWe believe the future of commerce should be open, global, censorship-resistant, and user-sovereign.\n\nMarkets should not depend on centralized platforms, closed payment rails, or permissioned infrastructure. Builders should be able to create merchant tools, marketplace clients, commerce protocols, and payment experiences that interoperate freely.\n\nThe Open Markets Foundation envisions an ecosystem where commerce applications can compete on user experience while cooperating on open standards.\n\nFollow on Nostr: npub1000000ke62wjupvvgmws686fe9el9vt3fmmuvkul4pc5hk5jkt8qmq6sym\n\nhttps://stacker.news/items/1511763",
     "timestamp": "1781960601",
     "date": "6/20/2026, 1:03:21 PM",
