@@ -1,5 +1,47 @@
 [
   {
+    "content": "The next nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp release will be substantial.\nSorry that it's taking so long, but we're making some radical changes to get everything 10x better.\nStay tuned.",
+    "timestamp": "1782713066",
+    "date": "6/29/2026, 6:04:26 AM",
+    "id": "0b8312152e525b253b2066d16728cd9b0823c0508d65aa17e4d0be4325ce7de1",
+    "kind": 1
+  },
+  {
+    "content": "I'm guessing critical bugs?",
+    "timestamp": "1782657424",
+    "date": "6/28/2026, 2:37:04 PM",
+    "id": "8327edc245f53f43487092b3c27268a33042e7532e1333caa38d0804545857e1",
+    "kind": 1
+  },
+  {
+    "content": "I was always surprised how roughly even at 1/3 download stats are.",
+    "timestamp": "1782657317",
+    "date": "6/28/2026, 2:35:17 PM",
+    "id": "04c80133d1005d902e6192a5975efbdcfeba335a5a09732739b3e57a95219d4e",
+    "kind": 1
+  },
+  {
+    "content": "Packaged Satori for StartOS 0.4.0+ if anyone wants to test out a self-hosted Nostr client. Privacy first so link tracking removal, media proxy, Tor, npub whitelisting, etc. Client is minimalist but feature-packed so check the settings page for all available options.\r\n\r\nhttps://github.com/Letdown2491/satori-startos\nhttps://blossom.primal.net/11220c22cee115acf75a756f5b142158cd9906240f5c65363123bdb0fb0cea2a.png",
+    "timestamp": "1782644023",
+    "date": "6/28/2026, 10:53:43 AM",
+    "id": "69e783a0e2c07bca13f0b6c1d2b280c9264dc2645d6a583802ed722c59b7dca7",
+    "kind": 6
+  },
+  {
+    "content": "Awesome.",
+    "timestamp": "1782643824",
+    "date": "6/28/2026, 10:50:24 AM",
+    "id": "493ae55102124a7991a495fc58d9894acfe18a5bcc405f1a1fac8977456d42ec",
+    "kind": 1
+  },
+  {
+    "content": "🚨 New release 2.8.0 is here\n\n⚙️ P2P synchronization for compact filters\n🚀 Pay in coinjoin\n♻️ Payment batching\n📎 Support for arm64 Linux, Tails, and Whonix\n📜 Scheme scripting language\n↘️ Sub-1 sat/vByte transaction fees\n🔑 Signet test network\n💀 Forward compatibility for Tor\n\n---\n\n## Feature Highlights\n\n⚙️ P2P synchronization for compact filters\n\nNo central server needed anymore — Wasabi now runs fully independently.\n\n🚀 Pay in CoinJoin\n\nMake payments straight from CoinJoin, so privacy is preserved in everyday use. (experimental)\n\n♻️ Payment batching\n\nBatch outputs into one transaction for lower costs and smarter blockspace use.\n\n📎 Support for arm64 Linux, Tails, and Whonix\n\nRenewed support for the privacy-preserving operating systems we should never have abandoned.\n\n📜 Scheme scripting language\n\nWasabi is now programmable what makes it easier to integrate with AI agents and tooling. (experimental) It doesn't have access to your money.\n\n↘️ Sub-1 sat/vByte transaction fees\n\nPay less; hodl more. Available for Wallet and Coordinators which can also use this to make coinjoins cheaper.\n\n🔑 Signet test network\n\nWhy not?\n\n💀 Forward compatibility for Tor\n\nThe trigger for this release. After Sept 1st Tor clients from 0.4.8 (included in previous versions of Wasabi) will stop working.\n\n📖 Read more here: https://github.com/WalletWasabi/WalletWasabi/releases/tag/v2.8.0",
+    "timestamp": "1782643809",
+    "date": "6/28/2026, 10:50:09 AM",
+    "id": "c1cd2778ffcdfe71363620a7c41635301ebf6c874e1c6172fc185021ed68d19e",
+    "kind": 6
+  },
+  {
     "content": "nostr:nprofile1qqs8nxvpg9shg0ez0yqx4vgvlkpm6vadlu3ushjan5y5nlwkp783jqgpr9mhxue69uhhqun9d45h2mfwwpexjmtpdshxuet59uq3samnwvaz7tmnw3exvune9euk66tj9e3kcmm4vshszxrhwden5te0vdhkuer4d96xcv3wvek8jtnyv4mz7zw7zgg nostr:nprofile1qqsz7y00wuma8jum86k7sxzx4n0dfz7aaa2l63fwqk903kv6y09uwxq4567y8 you were talking about historical shipping services on the nostr:nprofile1qqs8hhhhh3r83h3ptaha93c4ze3j57j9369kl56ajm8l0k0ayes9ttcpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7ppyt86, so this one is for you!",
     "timestamp": "1782204466",
     "date": "6/23/2026, 8:47:46 AM",
