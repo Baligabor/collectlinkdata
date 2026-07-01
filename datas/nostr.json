@@ -1,5 +1,47 @@
 [
   {
+    "content": "Most people pick a hardware signer like they pick a router. Brand, price, done.\n\nBut the right signer depends on what you're defending against.\n\nA remote attacker, a border crossing, someone at your door, an heir who has to recover it without you. Different threats call for different tools, and most setups never make that choice on purpose.\n\nJoin our free Cold Storage & Hardware Signers session, in partnership with and hosted by the Sound Money Solutions team, led by nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt Hillebrand.\n\nTomorrow, July 1st.\nLimited seats.\n\nRegister: https://gart.io/event/gart-webinar-cold-storage-hardware-signers-10/register",
+    "timestamp": "1782839804",
+    "date": "6/30/2026, 5:16:44 PM",
+    "id": "c1c8a337780a4d6749023ea45ab5ac7f5cd90345be9932b69590813283390d7c",
+    "kind": 6
+  },
+  {
+    "content": "This looks super cool actually.",
+    "timestamp": "1782804025",
+    "date": "6/30/2026, 7:20:25 AM",
+    "id": "f09fde682e2d568ca21336775a9ead20237aa979f0630b50ecab1b119fb97f2a",
+    "kind": 1
+  },
+  {
+    "content": "First release on the nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4 ! 🎉\nThis was essentially a first release test to link the signing keys, etc, and prepare the CI/CD for future releases.\nThis v0.1.10 is already useable as a NIP-46 signer but still to be considered as beta.\n\nhttps://zapstore.dev/apps/naddr1qqgkuet5wahhy6ewve3x7tnrw4ehgusprpmhxue69uhhyetvv9uju7npwpehgmmjv5hxgetkqgst4xzdkg809agzwcy2qus0grfluve0kcwypd0dvre3dw3qgzqnr6grqsqqqlstkfm589\n\n\n",
+    "timestamp": "1782804014",
+    "date": "6/30/2026, 7:20:14 AM",
+    "id": "704a75d942c6d6339c1fc67c4c2ef8b51a7cf73d521705fc60a15e158dd031ee",
+    "kind": 6
+  },
+  {
+    "content": "Building freedom tech too hard, are you?",
+    "timestamp": "1782803053",
+    "date": "6/30/2026, 7:04:13 AM",
+    "id": "5add0ebf0ce9b63ab25ba896dd53acb8778e3d140f7354af384cd92a2a45da17",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, got DMs from nostr:nprofile1qqsyk3zlkkuj57r6y9m7x0msgpwa50caca9ll93p8kfjs406pn003kcpr4mhxue69uhkummnw3ez6vp39eukz6mfdphkumn99e3k7mf0qyg8wumn8ghj7mn0wd68ytnddakj7qgkwaehxw309aex2mrp0yhx6mmnw3ezuur4vghsqhat5u too.\nSeems like a first, congrats on your success, I guess?",
+    "timestamp": "1782802949",
+    "date": "6/30/2026, 7:02:29 AM",
+    "id": "aea5eb3a6385ddef7065c217dc2956081e6c9fff5c0238c3d507d06d4df5e9e4",
+    "kind": 1
+  },
+  {
+    "content": "All of them.",
+    "timestamp": "1782802786",
+    "date": "6/30/2026, 6:59:46 AM",
+    "id": "f41d5c9c41cc61807ac940e62cdde675a09cfefcb4e65d1da8cec2278210c89f",
+    "kind": 1
+  },
+  {
     "content": "The next nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp release will be substantial.\nSorry that it's taking so long, but we're making some radical changes to get everything 10x better.\nStay tuned.",
     "timestamp": "1782713066",
     "date": "6/29/2026, 6:04:26 AM",
