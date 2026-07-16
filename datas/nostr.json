@@ -1,5 +1,40 @@
 [
   {
+    "content": "So true, we have to make it super seamless to send money from users to devs.",
+    "timestamp": "1784040266",
+    "date": "7/14/2026, 2:44:26 PM",
+    "id": "7cb6e95458b8c04b38be15c7fbfc434f5a7fe7c92a4f76882b6832615ecb2296",
+    "kind": 1
+  },
+  {
+    "content": "The FOSS community is very fragile.\n\nFirst and foremost, this is because many FOSS developers have a mental block about making money from their projects.\n\nAnother group of FOSS developers either fears cryptocurrencies or despises them for religious/political reasons.\n\nAs a result, we have great FOSS that survives on a bowl of rice (without butter - that's for the bourgeoisie) and a slice of 3 days old bread.\n\nIn my lifetime, I've paid more for FOSS than some people have paid for proprietary apps. I'm not complaining. I'm proud of it. \n\nBut, it's not always easy… I have to go to GitHub, open an issue, and directly ask them to add a Monero and/or Bitcoin wallet - and offer to make the first donation myself…\n\nAnd how pleased I was (and at the same time surprised) to see that some of the FOSS developers whose work I use were happy to receive a ~200 USD donation via XMR!\n\nSo, if you're a FOSS developer for Linux/Android, please don't make me waste my time asking you to accept a donation from me!\n\nFirst things first, publish your FOSS on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgzqtdq0 and be sure to add your Monero wallet address to the README - trust me, people will donate to you!\n\nA colorful meme that sums up most of the FOSS community (unfortunately).\n\np.s. Thanks nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqv6g2cl for shilling to me ZapStore. I'll keep shilling it to others.\n\n https://image.nostr.build/d5cc2d894a45d31d8c533353af4ded12f64c10655edc865374238cef14a58e88.jpg",
+    "timestamp": "1784040220",
+    "date": "7/14/2026, 2:43:40 PM",
+    "id": "09baba32c581e5a34c55002e0832507aae81119df5cc6a29fdda9e9b60ebb273",
+    "kind": 6
+  },
+  {
+    "content": "https://github.com/andotherstuff/garland-protocol",
+    "timestamp": "1784040153",
+    "date": "7/14/2026, 2:42:33 PM",
+    "id": "431ba9e56cbed48569f7f2f90d6910391fda1b56a578a1e6ad19ad7e595a7a62",
+    "kind": 1
+  },
+  {
+    "content": "Episode 12 with nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap08pu8g0  , super great to have him on to talk about shipping with proxy merchants and private messaging protocol development. A lot to dive into too 🍿🎧\n\nhttps://fountain.fm/episode/43qDqdSlsrzbWlNmltAZ\n",
+    "timestamp": "1784040051",
+    "date": "7/14/2026, 2:40:51 PM",
+    "id": "2add874c2c7920d3d4857533fe9ed463e6cedb2fa74189123929c793240d1fcf",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqszv6q4uryjzr06xfxxew34wwc5hmjfmfpqn229d72gfegsdn2q3fgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0qyghwumn8ghj7mn0wd68ytnhd9hx2tcche307 probably has some good library in apple sauce.",
+    "timestamp": "1784040044",
+    "date": "7/14/2026, 2:40:44 PM",
+    "id": "ccc6d57c3dd30ee58944890f98ef6fb7b49af1132ea323dfef2ed3f03e6e37a9",
+    "kind": 1
+  },
+  {
     "content": "Recording the nostr:nprofile1qqs8wk257uc5zyjgnf9znmrf9dersm7kp0xwkqcg6s33q84f08zh4qqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7gd48nt podcast, if you want to join and talk about any of the mentioned project, here's the link, we go in an hour at 16 UTC.\nhttps://riverside.com/studio/ipfs-studio?t=80327b608d616377f954\nnostr:nevent1qqstrx37dx2cns94mda8uxaqvsk3p27apntvj5vv8radzsktsdp3sdqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczypm4j48hx9q3yjy6fg57c6ftwguxl4sten4sxzx5yvgpa2tec4agqqcyqqq823crrfga2",
     "timestamp": "1783609578",
     "date": "7/9/2026, 3:06:18 PM",
