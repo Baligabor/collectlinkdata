@@ -1,5 +1,61 @@
 [
   {
+    "content": "Either two phones, or you create an anonymous account on the website and they perform the other side. The only Privacy downside I think is the optional email notification address, just use a one time account and remember to check it for continuous verification reports.",
+    "timestamp": "1785737791",
+    "date": "8/3/2026, 6:16:31 AM",
+    "id": "ad9f47fd1586bb7bc9716c744b685c7d111c66aa6b83c1ebc4325addc17e46cc",
+    "kind": 1
+  },
+  {
+    "content": "We all need a bit of a break from the Coldcard shit show... \nLet's watch this together! I'll be there to chat with you. \nSet up your notification and join.\n\nhttps://youtu.be/7TYOadO6G2w?si=hrwscIiwMze6ZLxB\n\nnostr:nevent1qvzqqqqqqypzq634npfz8rwfq2hdr8am76s9t7dt7gwpe2y3t5wyufl4phe09yxeqythwue69uhh2mtzwfjkctnvda3kzmp6xsurgwp0qyt8wumn8ghj7etyv4hzumn0wd68ytnvv9hxgtcqypgjh5857grj4gn9yvr53vsn5e8h0ts4vt54u4v9fp34udtf3jw9z0e0apw ",
+    "timestamp": "1785672755",
+    "date": "8/2/2026, 12:12:35 PM",
+    "id": "b4d80597a585eda9af72c34ed410efd856b210cca277feec31d656781a905e87",
+    "kind": 6
+  },
+  {
+    "content": "Odd...\nCheck if you're up to date and use https://attestation.app to check the OS hasn't been tampered with.\n\nThen in settings > battery > battery usage you'll see what app goes crazy.",
+    "timestamp": "1785654126",
+    "date": "8/2/2026, 7:02:06 AM",
+    "id": "5d96929aba8249a7eb83645c5ffc186f5a553f7d79672f26f60fe7c16a47a59e",
+    "kind": 1
+  },
+  {
+    "content": "In general multiple sources of entropy is a good idea, in case one fails you still are protected by the others.",
+    "timestamp": "1785605818",
+    "date": "8/1/2026, 5:36:58 PM",
+    "id": "0b6c0a3f7fb6d487cacfd95618495e9af253cd057a854def22238f7a822da8da",
+    "kind": 1
+  },
+  {
+    "content": "It should be slim enough to fit into a small pocket, maybe even the form factor of a smartphone without screen for more battery life but tight space needs.",
+    "timestamp": "1785571406",
+    "date": "8/1/2026, 8:03:26 AM",
+    "id": "d50123b276f582d4b12ce4b198d2e0d99ddd9b1fe071a13522abbbd65b607543",
+    "kind": 1
+  },
+  {
+    "content": "A good ux for getting a silent.link esim into the device. Either camera in the device to scan the qr, or better some way to do this from the phone.",
+    "timestamp": "1785571111",
+    "date": "8/1/2026, 7:58:31 AM",
+    "id": "6fc9d87bb385ce7264e9d5c63f805b4dfbba781d039a10334f06d9df62ecda6b",
+    "kind": 1
+  },
+  {
+    "content": "I presume the dice rolls aren't ment to be the exclusive source of entropy, but concatenated on to it, so you never truly see all entropy when you roll dice, just a part of it.\n\nSo it cuts your security in a quarter?",
+    "timestamp": "1785570814",
+    "date": "8/1/2026, 7:53:34 AM",
+    "id": "b5bf24482db74c03a8f02a9d0120f625da8ecc0497851eb9de7ea2e6109a266f",
+    "kind": 1
+  },
+  {
+    "content": "🎙️ A 30-year cypherpunk lays out the playbook of the surveillance state. He wrote the \"Cypherpunks Bible,\" sat in the courtroom for the Ross Ulbricht trial, and says fear is a deliberate brain hack.🎧 New episode with the one & only nostr:npub1hgaj2a334ehaddmpusyu2xt74j73mvy3yw5rrvpktzjylcfnhaeq4ve7yf, dropping tomorrow. Don't miss this one!👉 Please subscribe to any nostr:npub1ms9urcp4yctm00g0w45ydlgsaluddpf203d20cgnhqvlv97nlz8s3s6kln channel, links in bio!🎥 Filmed at nostr:npub167n5w6cj2wseqtmk26zllc7n28uv9c4vw28k2kht206vnghe5a7stgzu3r\n\nhttps://blossom.primal.net/16d2215735e5e67c3c60fd9f98046e24302c806323539ab1de9e2fe7fcd1b205.png\n\n\n",
+    "timestamp": "1785567470",
+    "date": "8/1/2026, 6:57:50 AM",
+    "id": "0546544a7fadbb794f86f31969747bdcbcac04bb5a73e8fb9194e92cd830ecbd",
+    "kind": 6
+  },
+  {
     "content": "We are proud to announce that Wasabi Wallet v2.8.1 is out. It sets a major milestone which took more than a year to achieve: to make Wasabi unstoppable.",
     "timestamp": "1785348051",
     "date": "7/29/2026, 6:00:51 PM",
