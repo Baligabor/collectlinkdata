@@ -1,5 +1,54 @@
 [
   {
+    "content": "Anyone who relies on free software can now audit it: aim an agent at the repository that guards your keys, and for a few thousand sats a month it will review every pull request and publish reproducible findings where everyone can see them. The many-eyes promise of free software finally has the staff it always needed.\n\nnostr:naddr1qqfkw6tkv4hz6etwda6kw6pdv9nk2mn5wvq3gamnwvaz7tmjv4kxz7fwv3sk6atn9e5k7qgdwaehxw309ahx7uewd3hkcqgkwaehxw309aex2mrp0yh8qunfd4skctnwv46qzxthwden5te0wdjkuerfwshxummnvekxzun99e3k7mgzyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823chg5suj",
+    "timestamp": "1786040304",
+    "date": "8/6/2026, 6:18:24 PM",
+    "id": "fb57bce9f1318a7647454aae904f44a8595ad967bfd9ad5bff74cb4000a98cf5",
+    "kind": 1
+  },
+  {
+    "content": "Anyone who relies on free software can now audit it: aim an agent at the repository that guards your keys, and for a few thousand sats a month it will review every pull request and publish reproducible findings where everyone can see them. The many-eyes promise of free software finally has the staff it always needed.\n\nnostr:naddr1qqfkw6tkv4hz6etwda6kw6pdv9nk2mn5wvq3gamnwvaz7tmjv4kxz7fwv3sk6atn9e5k7qgdwaehxw309ahx7uewd3hkcqgkwaehxw309aex2mrp0yh8qunfd4skctnwv46qzxthwden5te0wdjkuerfwshxummnvekxzun99e3k7mgzyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823chg5suj",
+    "timestamp": "1786040049",
+    "date": "8/6/2026, 6:14:09 PM",
+    "id": "cd9fdd7625e0ed101727e921af3bbb265cef75f9293a41d4474a2be8d56fb520",
+    "kind": 1
+  },
+  {
+    "content": "🔥MAJOR ANNOUNCEMENT🔥 LNbits WASM sandboxed extensions!!! 2 years of R&D users can safely vibeslop/share/sell extensions with just a few lines of prompt! In this video we build a connect4 extension and test Streetfighter & Quake pay-to-play sandboxed extensions.\nhttps://youtu.be/YmArC9L7FB4?si=hfm3ga5zOqXMo-Ei&t=453",
+    "timestamp": "1786023671",
+    "date": "8/6/2026, 1:41:11 PM",
+    "id": "58f708f2130aeb49120facd5102425d1185b18a85613c14d15807bd88bbe1732",
+    "kind": 6
+  },
+  {
+    "content": "As a response to the ongoing Coldcard hack and other AI-related issues going on, I've decided to make Defending Bitcoin available entirely for free on https://\ndefendingbitcoin.com/reader\n\nIt was always in the plan to create a sort of \"reader companion\", and I'll be adding more features to cross-link the contents of the book with useful information on how to improve your Bitcoin security. But, for now, the entire text of Defending Bitcoin is readable from your browser. \n\nAND we've finally added it to the Bitcoin Infinity Store at https://\nbitcoininfinitystore.com, along with Max Hillebrand's Praxeology of Privacy (also freely available on Max's website). If you want to support either of us, you can now do so with Bitcoin. \n\nI also plan to update the chapter on AI Risks. I honestly hadn't anticipated quite how brutally AI attacks would hit, and, like most others, I certainly didn't expect one of the most widely-recommended hardware wallet manufacturers had simply neglected to implement such a fundamental feature as secure seed generation. In hindsight, I should have emphasized the risk of AI attack capabilities more strongly. \n\nI hope Defending Bitcoin can be useful to anyone looking to improve their Bitcoin security. Let me know what you think, and stay secure out there.",
+    "timestamp": "1785936954",
+    "date": "8/5/2026, 1:35:54 PM",
+    "id": "d883967a44c3e5ef5dff11e75b16e8ffd5ad6f064a5bd66f9edc06b82ebb15e4",
+    "kind": 6
+  },
+  {
+    "content": "Finally my book The Praxeology of Privacy is available for bitcoin at nostr:nprofile1qqstl90p53datmzu5r2zpa84tngpv3w8sj040lw38wx94lkya0wvsjqpzdmhxue69uhhqatjwpkx2urpvuhx2ue0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0tj9vlm shop.\nhttps://bitcoininfinitystore.com/product/praxeology-of-privacy/",
+    "timestamp": "1785931046",
+    "date": "8/5/2026, 11:57:26 AM",
+    "id": "d6c585d6ff7fdd899f5e65a508a5e2b6282c4363289ca3ecf6bb97fe0569dfdd",
+    "kind": 1
+  },
+  {
+    "content": "Most relays support nip 42 auth and white lists for npubs who paid.",
+    "timestamp": "1785915620",
+    "date": "8/5/2026, 7:40:20 AM",
+    "id": "dccf5d6e71acee502f098a3a5bb76bc347a83c78e9a0498c08c60cce00b9d14e",
+    "kind": 1
+  },
+  {
+    "content": "If you're using Orbot, try out the new Tor VPN app, its based on the new arti rust tor implementation, much faster and more modern.\nStill in beta, so beware.\nhttps://zapstore.dev/apps/naddr1qqfx7un89e6x7unswfhk5etrwsh8vurwqyv8wumn8ghj7un9d3shjtn6v9c8xar0wfjjuer9wcpzq7xwd748yfjrsu5yuerm56fcn9tntmyv04w95etn0e23xrczvvraqvzqqqr7pvtn8q3h",
+    "timestamp": "1785867371",
+    "date": "8/4/2026, 6:16:11 PM",
+    "id": "396280370e97a85263a07088e20c95a0380a22ce5bdb285db036c8a847ce7d86",
+    "kind": 1
+  },
+  {
     "content": "Either two phones, or you create an anonymous account on the website and they perform the other side. The only Privacy downside I think is the optional email notification address, just use a one time account and remember to check it for continuous verification reports.",
     "timestamp": "1785737791",
     "date": "8/3/2026, 6:16:31 AM",
