@@ -1,5 +1,26 @@
 [
   {
+    "content": "Update your btcpayservers.\nAnd set up an ai watchdog to screen for security announcements of your software, we'll be getting a lot of critical patches for a while.",
+    "timestamp": "1786125166",
+    "date": "8/7/2026, 5:52:46 PM",
+    "id": "a9fbd086f256ceb526e541febfa7f32915ca7b1378c4a47f46c9a4101811fc34",
+    "kind": 1
+  },
+  {
+    "content": "It's a great feature imo, especially with batched payments.\nIf an attacker gets you seed words, he doesn't know what addresses you paid, kinda wild.\nYou could probably do a subset sum attack tho.",
+    "timestamp": "1786110244",
+    "date": "8/7/2026, 1:44:04 PM",
+    "id": "8135c7b9a7f9268711fc6826680a9f96f2e6e3e56bdaced3ea429dc5e8daf7e1",
+    "kind": 1
+  },
+  {
+    "content": "They Tried to Control AI and It Blew Up in Their Face | CLIP\n\nPaul Rosenberg reveals the story of the Biden White House summoning Marc Andreessen to tell him they'd only allow 2-3 approved AI companies to exist and crush everything else. This overreach drove Silicon Valley money to the other side and broke centralized control of AI wide open. He argues that chaotic, messy, decentralized AI is exactly what freedom lovers should want, and that the Bitcoin and freedom community is now building AI tools just as powerful as anything the state controls.\n\nhttps://nostr.media/da355d2d46db2b425b5e77a5bd122f53eef19b5b3825403aaf1586a1aa0cd30d.mp4\n\nhttps://x.com/efenigson/status/2083905752721215501",
+    "timestamp": "1786107416",
+    "date": "8/7/2026, 12:56:56 PM",
+    "id": "0a44e7a38f8a1242dd6319c06d4cf845ba19280084da90b2a78f451b2dfcdc9d",
+    "kind": 6
+  },
+  {
     "content": "Anyone who relies on free software can now audit it: aim an agent at the repository that guards your keys, and for a few thousand sats a month it will review every pull request and publish reproducible findings where everyone can see them. The many-eyes promise of free software finally has the staff it always needed.\n\nnostr:naddr1qqfkw6tkv4hz6etwda6kw6pdv9nk2mn5wvq3gamnwvaz7tmjv4kxz7fwv3sk6atn9e5k7qgdwaehxw309ahx7uewd3hkcqgkwaehxw309aex2mrp0yh8qunfd4skctnwv46qzxthwden5te0wdjkuerfwshxummnvekxzun99e3k7mgzyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823chg5suj",
     "timestamp": "1786040304",
     "date": "8/6/2026, 6:18:24 PM",
