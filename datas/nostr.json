@@ -1,5 +1,19 @@
 [
   {
+    "content": "Yeah It's not great in low bandwidth.\nAmethyst has insane network usage, something like primal or nostria is much lighter.",
+    "timestamp": "1786171580",
+    "date": "8/8/2026, 6:46:20 AM",
+    "id": "496420a4cfdc548e2dd76a3259175b3bd643ecfdb129a35ef13a8b7c31b5e105",
+    "kind": 1
+  },
+  {
+    "content": "The next release will be on the main store with the new app.",
+    "timestamp": "1786171135",
+    "date": "8/8/2026, 6:38:55 AM",
+    "id": "78068def2849d1c447d9fd21959f967392b8fbbfc47cae4aa9f87fc40f004b5c",
+    "kind": 1
+  },
+  {
     "content": "Update your btcpayservers.\nAnd set up an ai watchdog to screen for security announcements of your software, we'll be getting a lot of critical patches for a while.",
     "timestamp": "1786125166",
     "date": "8/7/2026, 5:52:46 PM",
