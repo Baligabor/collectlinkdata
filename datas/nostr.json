@@ -1,5 +1,103 @@
 [
   {
+    "content": "Hardware attestation for end-to-end encrypted AI inference\n\nHype? Is it secure? Does it make sense for some use-cases, or is local AI strictly better?\n\nContains results of my audit, also mentioning @socrates1024's cool project auditing many providers.\n\nhttps://juraj.bednar.io/en/blog-en/2026/08/11/hardware-attestation-for-private-ai-inference/",
+    "timestamp": "1786455677",
+    "date": "8/11/2026, 1:41:17 PM",
+    "id": "5dc8e47795c6d6c2a467cfe0369673832966bba566088fc1ef2cfbad527f5642",
+    "kind": 6
+  },
+  {
+    "content": "For years, I searched for someone who could explain it in plain English.\n\nI never found that conversation.\n\nSo I recorded it with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e. \n\nComing in less than 24 hours.\n\n https://blossom.primal.net/1d790bc5a18a2ed70c6a934ad9f51b99c07be204a8dbebcc5074522faab5f1ee.jpg ",
+    "timestamp": "1786454822",
+    "date": "8/11/2026, 1:27:02 PM",
+    "id": "be218d1851ea9b961705c5a78e11ebb50b7bc0c5ee215307fbfc3feece2c4d28",
+    "kind": 6
+  },
+  {
+    "content": "Hermes.\nBoth work well in the new whitenoise apps btw.",
+    "timestamp": "1786430024",
+    "date": "8/11/2026, 6:33:44 AM",
+    "id": "a9c9c5b940625998f366d971b54e315df9b15a0609aad5257bdaea66a610ce10",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, sucks to migrate...\n\nThat's why #1 it has to work.\nAnd then have cool features that the old app doesnt have. \n\nWe're trying to tackle both in the next release.",
+    "timestamp": "1786429271",
+    "date": "8/11/2026, 6:21:11 AM",
+    "id": "f279728874404ffa83cc981c35dc258ccbad5a6c788d5dea7f4e9a970dc5fd9b",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e explains why privacy matters.\n\nFull conversation below. 👇\n\nPlease repost if you found it valuable.\n\n https://blossom.primal.net/8b3e52c06ac4b4c2d0e63a753dccf540535757b4b7fcd7ff18403c1bff889ab1.mp4 \n\nhttps://linktr.ee/allinbitcoin",
+    "timestamp": "1786391178",
+    "date": "8/10/2026, 7:46:18 PM",
+    "id": "428609d152bf4ef59de56533ecf9db240ce5d23d409f7d3ee6016dda0d72d810",
+    "kind": 6
+  },
+  {
+    "content": "Notifications also work way better in v2.",
+    "timestamp": "1786371874",
+    "date": "8/10/2026, 2:24:34 PM",
+    "id": "0c5f37b20082dc0e539d89e28533c9b1ee75150b3d9fccc5f030482acb69ce91",
+    "kind": 1
+  },
+  {
+    "content": "I've been using the upcoming new nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp app more than signal for the last couple weeks.\n\nNot just testing stuff, actual real use cases.\n\nThe hermes connector is amazing, it makes the app so useful. Can't wait to get this over the finish line and share with y'all.\n\nSorry again that it's been forever since the last whitenoise release, but we really want to get it right this time.\n\nThe main issue still is group reliability, we've made massive progress, but we can still make it better, and it's better to do these consensus changes before we release.\n\nWe're spending most time now to make sure group convergence is solid, and we keep adding cool UX and features to the app until the underlying spec and library work matures.\n\nThis means when we release, the apps will not only be reliable in sending messages to large groups, but also that it'll have more features than most messenger apps.\n\nIt'll be a massive release.\n\nGive us two more weeks ™️ and you'll see.",
+    "timestamp": "1786349293",
+    "date": "8/10/2026, 8:08:13 AM",
+    "id": "70666785addd4d92e2be9d7d88d05051ef4707145a6429c9dcf1be36795c1818",
+    "kind": 1
+  },
+  {
+    "content": "That's cool.",
+    "timestamp": "1786297002",
+    "date": "8/9/2026, 5:36:42 PM",
+    "id": "4d9fc6fb64c0dc5f8045f74341fdd770147cb399bc08d4c819348163a857d976",
+    "kind": 1
+  },
+  {
+    "content": "What would you do if governments banned privacy tomorrow?\n\n nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsz93elc's answer.\n\nFull conversation: https://linktr.ee/allinbitcoin\n\nhttps://blossom.primal.net/b68d2f2fd937e1409693b206fb2ca19a49742b771e072abbc8ac0f91122e8ceb.mov",
+    "timestamp": "1786291031",
+    "date": "8/9/2026, 3:57:11 PM",
+    "id": "86c0340ac206d5b6aecbf3de573d55cd16151c4da5c7cdf1fc1af0a81309307d",
+    "kind": 6
+  },
+  {
+    "content": "Go with the vibes.\nAsk it to prioritize them, open most as GitHub issues and send an email or GitHub security advisory with the high critical ones to the maintainers.",
+    "timestamp": "1786257691",
+    "date": "8/9/2026, 6:41:31 AM",
+    "id": "a72ce19a563a7495b441ed1d997a5f849be50fc156b4c6212e0f9ce017354302",
+    "kind": 1
+  },
+  {
+    "content": "Yes, a good harness is very important, seems like its all about context management, even tiny models find critical bugs if you scope their context to the right part of the codebase.\n\nAnyhow, I've found a surprising amount of vulnerabilities with a trivial prompt like \"do a security audit for this project, research best practices online first\". \n\nSure, professional pen testers with advanced harnesses will find even more bugs. But the fact that a non-dev with a one shot prompt can find criticale is wild.\n\nAnyhow, more eyes on the code is always a good thing.",
+    "timestamp": "1786257563",
+    "date": "8/9/2026, 6:39:23 AM",
+    "id": "8ba5e6c6bc5e3f68f6a407218618245da9710c0c6108ec13f09ec32207ecf1cc",
+    "kind": 1
+  },
+  {
+    "content": "wss://wot.nostr.net/\nwss://relay.ditto.pub/\nwss://relay.primal.net/\nwss://nos.lol/\n\nThese are popular and stable.",
+    "timestamp": "1786257245",
+    "date": "8/9/2026, 6:34:05 AM",
+    "id": "39c83fffab740909f1d97453374e13f328a9897fa9a67ddcd037b78e490b2aca",
+    "kind": 1
+  },
+  {
+    "content": "Congrats! \nReally looking forward to seeing these.",
+    "timestamp": "1786256392",
+    "date": "8/9/2026, 6:19:52 AM",
+    "id": "75074387aefee9ab4be50fbac64a35e8b0a68409ba30eead17b013e10b81fcd3",
+    "kind": 1
+  },
+  {
+    "content": "Today I launched Sovereign Sessions with 3 new freedom tech tutorials.\n\nLM Studio:\nHow do you start with the basics of running AI locally on your laptop? What do all the fancy terms mean? What is your hardware capable of running and where does it fall short? Find out here.\n\nhttps://youtu.be/vuii4FjH59g\n\nGrapheneOS:\nThe looming threat of OS level age verification, paired with the always-on tracking of Apple and Google are enough to make a lot of people look for an alternative. Graphene is one of the most private OS options for mobile out there. Here's how to install and use it.\n\nhttps://youtu.be/DXLAFrCVoEg\n\nUmbrel Pro:\nWhen people refer to sovereign computing, it can include a lot of things. Hosting your own files, photos, media, passwords, AI agents, Bitcoin node, etc. The Umbrel Pro is an accessible plug and play way to start setting foot in that world. Here's how to set up and navigate one as you start your journey.\n\nhttps://youtu.be/DFWZbTz5mW0\n\nThis channel will also be the new home for my Bitcoin tutorials - of which I have a dice roll/Seedsigner video and a multi-vendor multisig video both coming out on Tuesday.\n\nOf course, if you find this stuff useful then please do subscribe here:\n\nhttps://www.youtube.com/@SovereignSessions?sub_confirmation=1",
+    "timestamp": "1786256308",
+    "date": "8/9/2026, 6:18:28 AM",
+    "id": "c21e424186333726d3db99cc4c0badc4bd8c5d78da716c41ca0c94cccbf143a6",
+    "kind": 6
+  },
+  {
     "content": "Yeah It's not great in low bandwidth.\nAmethyst has insane network usage, something like primal or nostria is much lighter.",
     "timestamp": "1786171580",
     "date": "8/8/2026, 6:46:20 AM",
