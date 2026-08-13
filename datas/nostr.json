@@ -1,5 +1,33 @@
 [
   {
+    "content": "The new one is not yet released. You can build it yourself for now.\ngitHub.com/marmot-protocol/whitenoise-android",
+    "timestamp": "1786565554",
+    "date": "8/12/2026, 8:12:34 PM",
+    "id": "138f04f060d92eb905e6817eed00f6d04692c4f7129da26cce54224418b82537",
+    "kind": 1
+  },
+  {
+    "content": "The new white noise works great with Amber.",
+    "timestamp": "1786565362",
+    "date": "8/12/2026, 8:09:22 PM",
+    "id": "d1cd6e0c3b4a9be8ad721ef147063162bd5a569ee15a1a4d5b92ffd0ac097c18",
+    "kind": 1
+  },
+  {
+    "content": "Ah, you're talking about Radar.\nIt uses signal infrastructure, and that means your limited to use the network only from exactly one phone. You can't create an account on the laptop, and not have the same account in multiple phones, or multiple accounts in the same phone. \nThat's one of the big complaints I have with Signal, and exactly why we started nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp \nSo regarding this concern of yours, you won't get new PTSD here!",
+    "timestamp": "1786515549",
+    "date": "8/12/2026, 6:19:09 AM",
+    "id": "65e855d2ebd275456a2154e04946c371d8e723da2863675eba9060023625d302",
+    "kind": 1
+  },
+  {
+    "content": "Thats so cool!\nDoes it work on the coldcard Q?",
+    "timestamp": "1786512511",
+    "date": "8/12/2026, 5:28:31 AM",
+    "id": "bc3c80e4f1c61efbe00b1fe58d035bfceb3c276418858f088eb5553d0f27a4eb",
+    "kind": 1
+  },
+  {
     "content": "Hardware attestation for end-to-end encrypted AI inference\n\nHype? Is it secure? Does it make sense for some use-cases, or is local AI strictly better?\n\nContains results of my audit, also mentioning @socrates1024's cool project auditing many providers.\n\nhttps://juraj.bednar.io/en/blog-en/2026/08/11/hardware-attestation-for-private-ai-inference/",
     "timestamp": "1786455677",
     "date": "8/11/2026, 1:41:17 PM",
