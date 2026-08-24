@@ -1,5 +1,26 @@
 [
   {
+    "content": "Introducing Postr, a deliberately small Nostr composer for Android.\n\nPost. That's all.\n\nA durable outbox survives airplane mode, process death, and unreliable relays. Once Amber signs a note, Postr keeps working until it can verify that exact event on your relays.\n\nPrivate keys stay in Amber. Postr requests only two signing capabilities: kind-1 notes and file-scoped Blossom upload authorizations. It cannot read DMs, sign unrelated event kinds, or publish a relay list.\n\nPostr also includes verified Blossom attachments, mention search, opt-in link previews, and a zero-blue night theme you can retint end to end.\n\nInstall: https://zapstore.dev\nCode, issues, and contributions: https://gitworkshop.dev/npub1qwkd5wzftcxquuhtkcg0xn9ed7evksluuppf7qdmdh34ywe9uncs5uqfvl/postr\nInside the architecture: nostr:naddr1qvzqqqr4gupzqqavmguyjhsvpeewhdss7dxtjmajedpleczznuqmkm0r2gajte83qyxhwumn8ghj7mn0wvhxcmmvqyf8wumn8ghj7mmxve3ksctfdch8qatzqqf8qmmnw3ez6ctjvd5xjar9vd682un9y3wcn8\n\n#postr #nostr #android #foss #grownostr\n",
+    "timestamp": "1787460069",
+    "date": "8/23/2026, 4:41:09 AM",
+    "id": "5cdbb40da23dd289af98e12f6eec39ef0c03493ccaebf2e0b726c14561f370ba",
+    "kind": 6
+  },
+  {
+    "content": "Great news!",
+    "timestamp": "1787392174",
+    "date": "8/22/2026, 9:49:34 AM",
+    "id": "b089bf6564a5ea78678ed8d2749bd8157adf7454558b91eda0b07ec7965208f7",
+    "kind": 1
+  },
+  {
+    "content": "Most location and safety apps keep you safe by watching you. \n\nThey log where you go and sell the pattern.\n\nGart was built as a safety app that protects you by knowing nothing about you: no account, no tracking, no company that can be made to hand over what it never held.\n\nhttps://blossom.primal.net/42033279d6b81d44a423660b920f6734041280450d6fde1b8c5977bbbb98e9e8.mp4\n\n\nnostr:npub1ymxylj4lc7suuatmczl6etk73s3zl8zlp0qc8q0l3ev6n90lf42qjf6hd8 and the team explain why the whole category is a surveillance problem, and how a truly private alert actually works.\n\nThe full session is up on YouTube: https://www.youtube.com/watch?v=rmUPK4kErwk",
+    "timestamp": "1787378270",
+    "date": "8/22/2026, 5:57:50 AM",
+    "id": "b4663619c96ed8115d9f3eebf8494d4fb4a75f711965a60b482477376a339658",
+    "kind": 6
+  },
+  {
     "content": "Yes, and now do this with relays on the phone and fips connection between them, cypherpunk future is now.",
     "timestamp": "1787326624",
     "date": "8/21/2026, 3:37:04 PM",
