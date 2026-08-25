@@ -1,5 +1,61 @@
 [
   {
+    "content": "I guess nixOS runs on more phone hardware than graphene, haha",
+    "timestamp": "1787598957",
+    "date": "8/24/2026, 7:15:57 PM",
+    "id": "f06d406ea31e28cab295ba76a0c9671eb1c370cb23650bb81e276fe7cc533444",
+    "kind": 1
+  },
+  {
+    "content": "It's a unique differentiated for a niche player in a hard market.\nThere are a decent amount of graphene OS users who are eager for better hardware, so I imagine sales go up.\nI hope graphene devs will make sure that the hardware is up to par, seems like the two teams are collaborating well to make it solid.\nMotorola also has more capital and better supply chains than a startup like Daylight. It's expensive to keep up with the requirements of graphene os.",
+    "timestamp": "1787598843",
+    "date": "8/24/2026, 7:14:03 PM",
+    "id": "5b344611191a8a95daf6327ee9faff8abe599541b5bc29a574e105404f81d1be",
+    "kind": 1
+  },
+  {
+    "content": "Yes. \nLinux too\nI also can't wait for the graphene micro kernel.",
+    "timestamp": "1787598696",
+    "date": "8/24/2026, 7:11:36 PM",
+    "id": "d5d8ce4a212715a010ff5b28db291084d91205aa582bba0e9fdc39c5b1f7a7b4",
+    "kind": 1
+  },
+  {
+    "content": "I have high hopes they do it right.",
+    "timestamp": "1787598647",
+    "date": "8/24/2026, 7:10:47 PM",
+    "id": "74e13986be56ad2f5865748308717dbe03e19d74d844e4e1de210a13751ce6e4",
+    "kind": 1
+  },
+  {
+    "content": "So you're saying there is a chance for a thinkpad style track point on the phone? 👀",
+    "timestamp": "1787598607",
+    "date": "8/24/2026, 7:10:07 PM",
+    "id": "d7272280a6d1c267bdf5abb8914836457f695db4bea157cc5078203c505665b8",
+    "kind": 1
+  },
+  {
+    "content": "If you only watch one clip from my conversation with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e  Hillebrand, make it this one.\n\nThe perfect clip to share with friends and family.\n\nOne of the clearest explanations of why your money buys less every year.\n\nFull episode👇\n\nRumble: \nhttps://rumble.com/v7el16a-next-block-i-max-hillebrand-on-inflation-and-cantillion-effect-explained-in.html\n\nhttps://youtu.be/EmIp6rRXvYM",
+    "timestamp": "1787598402",
+    "date": "8/24/2026, 7:06:42 PM",
+    "id": "a46986827d1c694632f7d9432a1d05459fb813ffa35e71c45aaade80ca29b87b",
+    "kind": 6
+  },
+  {
+    "content": "Introducing Postr, a deliberately small Nostr composer for Android.\n\nPost. That's all.\n\nA durable outbox survives airplane mode, process death, and unreliable relays. Once Amber signs a note, Postr keeps working until it can verify that exact event on your relays.\n\nPrivate keys stay in Amber. Postr requests only two signing capabilities: kind-1 notes and file-scoped Blossom upload authorizations. It cannot read DMs, sign unrelated event kinds, or publish a relay list.\n\nPostr also includes verified Blossom attachments, mention search, opt-in link previews, and a zero-blue night theme you can retint end to end.\n\nInstall: https://zapstore.dev\nCode, issues, and contributions: https://gitworkshop.dev/npub1qwkd5wzftcxquuhtkcg0xn9ed7evksluuppf7qdmdh34ywe9uncs5uqfvl/postr\nInside the architecture: nostr:naddr1qvzqqqr4gupzqqavmguyjhsvpeewhdss7dxtjmajedpleczznuqmkm0r2gajte83qyxhwumn8ghj7mn0wvhxcmmvqyf8wumn8ghj7mmxve3ksctfdch8qatzqqf8qmmnw3ez6ctjvd5xjar9vd682un9y3wcn8\n\n#postr #nostr #android #foss #grownostr\n",
+    "timestamp": "1787598381",
+    "date": "8/24/2026, 7:06:21 PM",
+    "id": "e3a708176a577350b2996fe7c9e3363d2456c2773ff831ae955d8137e9e4e66f",
+    "kind": 6
+  },
+  {
+    "content": "I can't wait for the nostr:npub1kwarc5z9lwhen05uknd2nuwhhthd4ws0cku3t9j3rchm0fcd6luslse0nj compatible Motorola phone. Google hardware sucks.",
+    "timestamp": "1787563489",
+    "date": "8/24/2026, 9:24:49 AM",
+    "id": "cf3b8cf61724b14d106fbb8e83593b43cbd6cf03d8d89716fcc43e1e12c5946f",
+    "kind": 1
+  },
+  {
     "content": "Introducing Postr, a deliberately small Nostr composer for Android.\n\nPost. That's all.\n\nA durable outbox survives airplane mode, process death, and unreliable relays. Once Amber signs a note, Postr keeps working until it can verify that exact event on your relays.\n\nPrivate keys stay in Amber. Postr requests only two signing capabilities: kind-1 notes and file-scoped Blossom upload authorizations. It cannot read DMs, sign unrelated event kinds, or publish a relay list.\n\nPostr also includes verified Blossom attachments, mention search, opt-in link previews, and a zero-blue night theme you can retint end to end.\n\nInstall: https://zapstore.dev\nCode, issues, and contributions: https://gitworkshop.dev/npub1qwkd5wzftcxquuhtkcg0xn9ed7evksluuppf7qdmdh34ywe9uncs5uqfvl/postr\nInside the architecture: nostr:naddr1qvzqqqr4gupzqqavmguyjhsvpeewhdss7dxtjmajedpleczznuqmkm0r2gajte83qyxhwumn8ghj7mn0wvhxcmmvqyf8wumn8ghj7mmxve3ksctfdch8qatzqqf8qmmnw3ez6ctjvd5xjar9vd682un9y3wcn8\n\n#postr #nostr #android #foss #grownostr\n",
     "timestamp": "1787460069",
     "date": "8/23/2026, 4:41:09 AM",
