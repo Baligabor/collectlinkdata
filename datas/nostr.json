@@ -1,5 +1,54 @@
 [
   {
+    "content": "Voca 1.0 is out. If you can read it, Voca can say it.\n\nThe stack of things you saved and never got to now has somewhere to go. Share or paste text from any app. Hand it a web page and get the article, cleared of the navigation. Open a PDF and get the words, with the running headers left behind. Open a Markdown file and get a real document. Paste a Nostr link and hear the note itself, fetched from relays and checked against its own signature. Subscribe to an RSS feed or a Nostr author and their writing turns up as something to listen to, kept on the phone so it plays in airplane mode.\n\nIt reads to you and reports to nobody. Everything lives on the phone, you use it straight away without an account, and it is free of ads and analytics. It reaches the network only when you ask it to fetch something, and what you import is encrypted on the device.\n\nThen it behaves like something meant for hours: a queue you can reorder, a voice per item, bookmarks you can name and search, a sleep timer, pronunciation rules, and a home-screen widget that is a small reader in its own right. The page follows the voice and yields to your thumb. The sentence and word light up as they are spoken, timed against the audio itself.\n\nOn GrapheneOS the speech engine is already there, so it reads as soon as you install it.\n\nMIT licensed, whole repository published over Nostr:\nhttps://gitworkshop.dev/npub17h9fn2ny0lycg7kmvxmw6gqdnv2epya9h9excnjw9wvml87nyw8sqy3hpu/voca\n\nBuilt for GrapheneOS, runs on Android 10 and up. Zapstore is the recommended way to install it, and the package is also attached to the release in the repository.\n\nThe full story:\nnostr:naddr1qvzqqqr4gupzpaw2nx4xgl7fs3adkcdka5sqmxc4jzf6twtjd38yu2ueh70axgu0qyxhwumn8ghj7mn0wvhxcmmvqyf8wumn8ghj7mmxve3ksctfdch8qatzqq98vmmrvyknzt3s9ccqx9y59v\n\nIf you install it, reply with what breaks, what feels rough, or what you still cannot do.\n",
+    "timestamp": "1787853980",
+    "date": "8/27/2026, 6:06:20 PM",
+    "id": "80e7decb192b0da4bcc209652ce6fc94ea9794a66564fb050c1b85b8d63b2b4c",
+    "kind": 6
+  },
+  {
+    "content": "We only have the new app on testflight now.",
+    "timestamp": "1787846471",
+    "date": "8/27/2026, 4:01:11 PM",
+    "id": "bc70d73455b8787924941786d2429aafc9be4234a2c64a12fc6dd44815f5b1ef",
+    "kind": 1
+  },
+  {
+    "content": "Fear is a brain hack, and somebody is always running it on you. Paul Rosenberg's countermeasure costs nothing and requires you to be considerably less impressive than you think.\n\nhttps://24242.io/8de31f7119d37959d7ac49919583f99eb6c6f96e71235a0123f171b81c6c46ae.mp4",
+    "timestamp": "1787816657",
+    "date": "8/27/2026, 7:44:17 AM",
+    "id": "028f74edbbe5b3feca1e7b8b985fb71073c0f1acf69f6daeba68598c2ceb7026",
+    "kind": 6
+  },
+  {
+    "content": "The text to speech in the new nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec is so good! \nWe'll hold the release a bit longer, groups are still not as stable as they should be, we're getting there soon!",
+    "timestamp": "1787765282",
+    "date": "8/26/2026, 5:28:02 PM",
+    "id": "cde019b40081fd7f70aa6429edf3a7af1d18183d1721a424fa048bcbdc9a2968",
+    "kind": 1
+  },
+  {
+    "content": "Get it here\nhttps://towardsliberty.com/pop\n\nOr on my nostr blog feed.",
+    "timestamp": "1787757213",
+    "date": "8/26/2026, 3:13:33 PM",
+    "id": "a8d2cc804e317c4aaf1ebe5f81cac9cb671b866bcd20f2fa5bad1f42d5940b99",
+    "kind": 1
+  },
+  {
+    "content": "I'm more eager to drop Linux kernel in android and go to a graphene micro kernel.",
+    "timestamp": "1787727174",
+    "date": "8/26/2026, 6:52:54 AM",
+    "id": "f42431b1eafe2a1028f90be30678b74db2823e9660ffcf487e45b5ab5b1aefaf",
+    "kind": 1
+  },
+  {
+    "content": "What would be next level if Framework makes a phone with first class nostr:nprofile1qqs9g69ua6m5ec6ukstnmnyewj7a4j0gjjn5hu75f7w23d64gczunmgpzemhxue69uhhyetvv9ujuerfw36x7tnsw43z786xdyf support.\nThey're working with Ubuntu and redhat now to get official hardware support for those, not a big stretch for them to do the same with Graphene, if they ever build a phone.\nnostr:nevent1qqsv7wuv7ctjfv2dzphmhr5rtya58j7keupa3kyhzm7vg0s7ztzegmcpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgaxh6ag",
+    "timestamp": "1787683598",
+    "date": "8/25/2026, 6:46:38 PM",
+    "id": "a39db035c2daab1e677dd1d019877add634a67a3428813529f1a03acd9476a28",
+    "kind": 1
+  },
+  {
     "content": "I guess nixOS runs on more phone hardware than graphene, haha",
     "timestamp": "1787598957",
     "date": "8/24/2026, 7:15:57 PM",
