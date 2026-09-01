@@ -1,5 +1,33 @@
 [
   {
+    "content": "The seven deadly sins.\n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e Hillebrand.\n\nFull conversation below. 👇\n\n https://blossom.primal.net/d19794aded454ef5089c3e161527d27d3b78e15820663d583ae61ea9380666fb.mp4 \n\nhttps://linktr.ee/allinbitcoin",
+    "timestamp": "1788153068",
+    "date": "8/31/2026, 5:11:08 AM",
+    "id": "7012c1f03da86edb4349a4a50e01e279e72a6ba7e92639b3bcc6f44c3c80b2fe",
+    "kind": 6
+  },
+  {
+    "content": "My accent's kinda all over the place...",
+    "timestamp": "1787997956",
+    "date": "8/29/2026, 10:05:56 AM",
+    "id": "a86ac26b3134ee8c2587137d4ec0fa052ef1ac4e981e0d06ff4656cbc1112bd8",
+    "kind": 1
+  },
+  {
+    "content": "Years before the Bitcoin whitepaper, Paul Rosenberg wrote the astonishingly prophetic \"A Lodging of Wayfaring Men\", wherein he depicts governments scrambling against a decentralized cryptographic society beyond control or coercion.\n\nFanfares is honored to have, with nostr:npub1hgaj2a334ehaddmpusyu2xt74j73mvy3yw5rrvpktzjylcfnhaeq4ve7yf 's permission, the audiobook version of \"A Lodging of Wayfaring Men\" read by nostr:npub1klkk3vrzme455yh9rl2jshq7rc8dpegj3ndf82c3ks2sk40dxt7qulx3vt purchasable via bitcoin lightning at https://fanfares.io/s/vd1MA5 \n\nnostr:nevent1qvzqqqqqqypzq634npfz8rwfq2hdr8am76s9t7dt7gwpe2y3t5wyufl4phe09yxeqy88wumn8ghj7mn0wvhxcmmv9uqzp04j3zf9phc2jrkfu775j5r5yr8yv7jdsr0s0vcy6l6sg5tkfeamvj9kwc",
+    "timestamp": "1787997919",
+    "date": "8/29/2026, 10:05:19 AM",
+    "id": "0ac8dba0ff9b296e09ea0e0c1c7d2d7f7c6267a9282155168151398a97a1f3a9",
+    "kind": 6
+  },
+  {
+    "content": "Think about the COLDCARD disaster. \n\nNow read and listen to this. \n\n(10 years ago) Paul Rosenberg, OG Cypherpunk describes how the NSA operates behind the scenes, as appears in Snowden’s documents:\n\nNSA guys knocks on your door. \n“We want you to weaken your hash for creating the cryptographic key!”\n\nSource: https://youtu.be/CMNuPfvOK6s?t=2081&si=bsWzyeIbcCnnYaYl\nhttps://blossom.primal.net/046eb81c6479fb1ae989f7da6fd3848da7c92718815fd764181d98c2edd76076.mov",
+    "timestamp": "1787997861",
+    "date": "8/29/2026, 10:04:21 AM",
+    "id": "fd143afe024fea1166e822a3b3f7831319c755b459e7b686ab860e5716486d07",
+    "kind": 6
+  },
+  {
     "content": "Voca 1.0 is out. If you can read it, Voca can say it.\n\nThe stack of things you saved and never got to now has somewhere to go. Share or paste text from any app. Hand it a web page and get the article, cleared of the navigation. Open a PDF and get the words, with the running headers left behind. Open a Markdown file and get a real document. Paste a Nostr link and hear the note itself, fetched from relays and checked against its own signature. Subscribe to an RSS feed or a Nostr author and their writing turns up as something to listen to, kept on the phone so it plays in airplane mode.\n\nIt reads to you and reports to nobody. Everything lives on the phone, you use it straight away without an account, and it is free of ads and analytics. It reaches the network only when you ask it to fetch something, and what you import is encrypted on the device.\n\nThen it behaves like something meant for hours: a queue you can reorder, a voice per item, bookmarks you can name and search, a sleep timer, pronunciation rules, and a home-screen widget that is a small reader in its own right. The page follows the voice and yields to your thumb. The sentence and word light up as they are spoken, timed against the audio itself.\n\nOn GrapheneOS the speech engine is already there, so it reads as soon as you install it.\n\nMIT licensed, whole repository published over Nostr:\nhttps://gitworkshop.dev/npub17h9fn2ny0lycg7kmvxmw6gqdnv2epya9h9excnjw9wvml87nyw8sqy3hpu/voca\n\nBuilt for GrapheneOS, runs on Android 10 and up. Zapstore is the recommended way to install it, and the package is also attached to the release in the repository.\n\nThe full story:\nnostr:naddr1qvzqqqr4gupzpaw2nx4xgl7fs3adkcdka5sqmxc4jzf6twtjd38yu2ueh70axgu0qyxhwumn8ghj7mn0wvhxcmmvqyf8wumn8ghj7mmxve3ksctfdch8qatzqq98vmmrvyknzt3s9ccqx9y59v\n\nIf you install it, reply with what breaks, what feels rough, or what you still cannot do.\n",
     "timestamp": "1787853980",
     "date": "8/27/2026, 6:06:20 PM",
