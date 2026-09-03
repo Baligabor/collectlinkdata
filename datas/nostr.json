@@ -1,5 +1,26 @@
 [
   {
+    "content": "The largest nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp simulation group on a single computer with many virtual machines is at around 200 members, without a fork!\n\nThings are getting slow at that scale, so we're working on speed improvements and it's not a real test in production on different phones, but quite encouraging numbers.",
+    "timestamp": "1788380514",
+    "date": "9/2/2026, 8:21:54 PM",
+    "id": "482dc9425236d64cb1eeb5bbf5075b2fec73832e18043ae456848e337d2abed1",
+    "kind": 1
+  },
+  {
+    "content": "JoinMarket NG 0.38.0 is out!\n\nLots of security hardening, privacy improvements, new default for 5% zero fee maker allowance (including bondless), quantized feeround up for takers, concentrated mixdepth selection policy for improving maker liquidity, CJ ID logging, ...\n\nhttps://github.com/joinmarket-ng/joinmarket-ng/releases/tag/0.38.0",
+    "timestamp": "1788362558",
+    "date": "9/2/2026, 3:22:38 PM",
+    "id": "8631802f19757f26cabc9e5e79a06c1a357fdf6d68ea4b7b8026bb928084c204",
+    "kind": 6
+  },
+  {
+    "content": "That was a dream, never got one myself, but helped a couple friends set up theirs, fantastic idea.\nAlso interesting to have one flatbed truck and multiple shipping containers in different places to be flexible with moving them. That requires a big truck tho...",
+    "timestamp": "1788350958",
+    "date": "9/2/2026, 12:09:18 PM",
+    "id": "f795d9abc60b7ff31bab6932ae5d0782cefa31550e4b563bcd58471fc696e504",
+    "kind": 1
+  },
+  {
     "content": "What holidays?\nanyhow, we talk marmot now, join us!\nnostr:nevent1qqs2kgafv078v93ksw5g68mqufkk9txkwd7py8n4pqgryu2hdgdlvhqppemhxue69uhkummn9ekx7mp0qgsd73ah4jstdkrls0qulxxnd8ukn5l4xnldw4z9mg7ku48nkljyhvsrqsqqqqqpkq4ull",
     "timestamp": "1788278437",
     "date": "9/1/2026, 4:00:37 PM",
