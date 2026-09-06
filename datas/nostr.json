@@ -1,5 +1,26 @@
 [
   {
+    "content": "After 38 weeks of Nostr Compass, we are changing how we record the weekly podcast.\n\nLogbook is our new asynchronous podcast client, published as a Nostr-native nsite. Anyone can sign in with a Nostr key and choose a section from Compass #38. Record what you want to add, or respond to another contributor. Mention-based Web of Trust filtering helps surface contributions for review; Compass editors then shape the final episode and publish it to the podcast RSS feeds.\n\nRecording is open now:\nhttps://npub1wav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qq902923.nsite.lol/#/login\n\nRead the full announcement:\nnostr:naddr1qvzqqqr4gupzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyxhwumn8ghj7mn0wvhxcmmvqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqprpmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctvqy2hwumn8ghj7un9d3shjtnwdaehgu3wdejhgqpad9h8gun0v36kx6twvukkcmm8vfhk76edv9ehjmnrdpex7mn0w4ej6ur0v33kzum5d9hxwttxdaez6mn0wd68yttrdakhqctnwvjm8wh4\n\nTry it and let us know what would make the experience better.",
+    "timestamp": "1788550285",
+    "date": "9/4/2026, 7:31:25 PM",
+    "id": "4a61b5b631fc1698d6118ac99ea04a84a6e2617b0f5bd35727660217f5d5ddfd",
+    "kind": 6
+  },
+  {
+    "content": "How rich could humanity really become if the government got out of the way?\n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e Hillebrand\n\nFull conversation below. 👇\n\n https://blossom.primal.net/c494ddba20902e410f9f02719038aae0004dae89ea055be2907903632e910eda.mp4 \n\nhttps://fountain.fm/episode/iKDtY1KBcNh1q8aVnK9S\nhttps://linktr.ee/allinbitcoin",
+    "timestamp": "1788541577",
+    "date": "9/4/2026, 5:06:17 PM",
+    "id": "6c6d4afaa4b5f3b8f8e1cbaef8ec50f698cca6fe8a59ffad6aa6105d21f30701",
+    "kind": 6
+  },
+  {
+    "content": "Cool to see nostr:nprofile1qqsp4knsl6kjm3wnqzv4hqk5tvxw8j3unp34lcvm6h3zvap2lnlpf6gpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcppemhxue69uhkummn9ekx7mp0tu2wzn self signing on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4",
+    "timestamp": "1788416589",
+    "date": "9/3/2026, 6:23:09 AM",
+    "id": "1157b22080f85a9d715df17ebe3c6e3eddcea783673424b304f018db7d82ab7d",
+    "kind": 1
+  },
+  {
     "content": "The largest nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp simulation group on a single computer with many virtual machines is at around 200 members, without a fork!\n\nThings are getting slow at that scale, so we're working on speed improvements and it's not a real test in production on different phones, but quite encouraging numbers.",
     "timestamp": "1788380514",
     "date": "9/2/2026, 8:21:54 PM",
@@ -18,6 +39,13 @@
     "timestamp": "1788350958",
     "date": "9/2/2026, 12:09:18 PM",
     "id": "f795d9abc60b7ff31bab6932ae5d0782cefa31550e4b563bcd58471fc696e504",
+    "kind": 1
+  },
+  {
+    "content": "GitHub api rate limits are insufferable.\n#ngit is 100x better, you can just get ALL git metadata locally and browse through instantly and without constant network access.",
+    "timestamp": "1788281709",
+    "date": "9/1/2026, 4:55:09 PM",
+    "id": "1d720ba0072d503d3e751f77d06983fe7c92021a68fc0a53e309126ec19f39cc",
     "kind": 1
   },
   {
