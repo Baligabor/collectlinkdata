@@ -1,5 +1,40 @@
 [
   {
+    "content": "Interesting.",
+    "timestamp": "1788727733",
+    "date": "9/6/2026, 8:48:53 PM",
+    "id": "188101e4cf9a78f17f6baf7de77f9e5a7a83858f99574569a1a2158ae2a5d803",
+    "kind": 1
+  },
+  {
+    "content": "Yeah correct.\nSeems like nothing users can do other than wait and hope the hackers return money.\nIn that case recovery should be trivial from an accounting standpoint",
+    "timestamp": "1788722622",
+    "date": "9/6/2026, 7:23:42 PM",
+    "id": "189754638a1b73b0cd33f59b85cbfcb91d2c528500bed6d15f28fe7fe6fecf33",
+    "kind": 1
+  },
+  {
+    "content": "Seems like liquid is in trouble.\nPeg out if you can, I'm not sure if still possible.\nhttps://mempool.space/address/bc1qdlld6antmv4xug242ed83q7k4rqw50cwfns38szx4qu2f4jwaxxsuhwxxr",
+    "timestamp": "1788720672",
+    "date": "9/6/2026, 6:51:12 PM",
+    "id": "c76dc06871adf4cee74c13b22aad025f573aeb1731bb1e5a5255ca6f20fc1d54",
+    "kind": 1
+  },
+  {
+    "content": "Not if we build it right.",
+    "timestamp": "1788706206",
+    "date": "9/6/2026, 2:50:06 PM",
+    "id": "bd9aaa930a104668bef80c1578d39cb7c77c473d9ca9d925894ea502093a4225",
+    "kind": 1
+  },
+  {
+    "content": "/goal doge rain, but with cashu",
+    "timestamp": "1788702384",
+    "date": "9/6/2026, 1:46:24 PM",
+    "id": "e4231b67921ffda296025bb91c79dcf59bc865ece9638ce2586ea1ba7763ec15",
+    "kind": 1
+  },
+  {
     "content": "After 38 weeks of Nostr Compass, we are changing how we record the weekly podcast.\n\nLogbook is our new asynchronous podcast client, published as a Nostr-native nsite. Anyone can sign in with a Nostr key and choose a section from Compass #38. Record what you want to add, or respond to another contributor. Mention-based Web of Trust filtering helps surface contributions for review; Compass editors then shape the final episode and publish it to the podcast RSS feeds.\n\nRecording is open now:\nhttps://npub1wav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qq902923.nsite.lol/#/login\n\nRead the full announcement:\nnostr:naddr1qvzqqqr4gupzqa6e2nmnzsgjfzdy520vdy4hywr06c9ue6crpr2zxyq749uu275qqyxhwumn8ghj7mn0wvhxcmmvqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqprpmhxue69uhhyetvv9ujuumwdae8gtnnda3kjctvqy2hwumn8ghj7un9d3shjtnwdaehgu3wdejhgqpad9h8gun0v36kx6twvukkcmm8vfhk76edv9ehjmnrdpex7mn0w4ej6ur0v33kzum5d9hxwttxdaez6mn0wd68yttrdakhqctnwvjm8wh4\n\nTry it and let us know what would make the experience better.",
     "timestamp": "1788550285",
     "date": "9/4/2026, 7:31:25 PM",
