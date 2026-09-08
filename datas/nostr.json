@@ -1,5 +1,26 @@
 [
   {
+    "content": "Liquid promises private transfers backed one-for-one by bitcoin held behind a federated threshold. An incomplete cache key let forged L-BTC pass validation, then ordinary peg-out machinery moved nearly the entire real reserve, exposing failures in cryptographic context, operational release discipline, withdrawal controls, and the claim that seizing $320 million first was the least harmful path.\n\nnostr:naddr1qq5hg6r994c8ymm0vckhwctn943kzcmgv4jz6argv5kky6t5vdhkjm3dwashxttjv4skcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyxhwumn8ghj7mn0wvhxcmmvqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqpr9mhxue69uhhxetwv35hgtnwdaekvmrpwfjjucm0d5pzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4guscl586",
+    "timestamp": "1788794516",
+    "date": "9/7/2026, 3:21:56 PM",
+    "id": "a4e24bf6dc62ff18aa2cd8a93d82295bcad046db9477303fce746bfce842c49d",
+    "kind": 1
+  },
+  {
+    "content": "The Liquidity Issue\n\nTopical bitcoin short to start the week 😅 \n\n\n\nhttps://blossom.primal.net/821ca42957274c1e65aa5c59f37e4d597b4812be7d0a6286200ca5c6a3423562.mp4",
+    "timestamp": "1788776265",
+    "date": "9/7/2026, 10:17:45 AM",
+    "id": "aad904a461eb7a815ad005d93628e9fc245117222b243b230b382b2100b3f977",
+    "kind": 6
+  },
+  {
+    "content": "Seems like most money is sent back to the liquid bridge. Disaster averted. \nhttps://mempool.space/tx/3a3eac4a26395b8c2563aaf1eb8b1b77798c81c7d6337f51321827a244a480aa",
+    "timestamp": "1788763007",
+    "date": "9/7/2026, 6:36:47 AM",
+    "id": "e443417cfa23ceabe4fba57317100e69c2482f091f243ec96a8614c2fc4dd22e",
+    "kind": 1
+  },
+  {
     "content": "Interesting.",
     "timestamp": "1788727733",
     "date": "9/6/2026, 8:48:53 PM",
