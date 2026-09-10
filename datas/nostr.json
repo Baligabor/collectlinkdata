@@ -1,5 +1,26 @@
 [
   {
+    "content": "We replaced a single constrained cross-platform codebase with native implementations for Android, iOS, macOS, and Linux by delegating the raw coding labor to autonomous agents. This radical shift removes humans from rote syntax production, proving that a small team can orchestrate machines to build software while retaining responsibility for the final outcome.\n\nnostr:naddr1qqdhwefdwd6x7ursv4jz6amjd96xjmn8946xsefdvdhkgegpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qyvhwumn8ghj7um9dejxjapwdehhxenvv9ex2tnrdaksyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlspsgqqqw4rslvrpkk",
+    "timestamp": "1788974369",
+    "date": "9/9/2026, 5:19:29 PM",
+    "id": "fd7c06abef54af6bb0f07603bb368b2a6788899582a652aa1709776d8357492a",
+    "kind": 1
+  },
+  {
+    "content": "Final call for Nostr Compass Podcast submissions. Entries close at 16:03 UTC, one hour from now.\n\nWant to talk about your project, or a project you’re excited about? Record a contribution asynchronously in Logbook, our new Nostr-native podcast nsite:\n\nhttps://npub1wav4fae3gyfy3xj298kxj2mj8phavz7vavps34przq02j7w902qq902923.nsite\n\nChoose a newsletter section and add your voice.",
+    "timestamp": "1788966720",
+    "date": "9/9/2026, 3:12:00 PM",
+    "id": "a4dc957cca5b14ab3d16db2fda7fb2059f8b3cd22ba1a165e520a02c15458ec5",
+    "kind": 6
+  },
+  {
+    "content": "GM\n\nMünzweg - der Bitcoin-Podcast: Münzgasse #74 Ohne Fork wird Bitcoin sterben (mit Jan-Paul, Max Hillebrand & Robin Linus)\n\nWebseite der Episode: https://serve.podhome.fm/episodepage/muenzweg/360\n\nMediendatei: https://serve.podhome.fm/episode/ed969dc5-9736-42ec-3c2f-08de278e5058/6392450256845278124771e42b-c70c-4f01-b527-54b88063a478.mp3",
+    "timestamp": "1788935633",
+    "date": "9/9/2026, 6:33:53 AM",
+    "id": "6435d7a5e4b77a969e80ca9894339ce0f03c2fd28a2e98d92a5bb42f1d448a32",
+    "kind": 6
+  },
+  {
     "content": "Liquid promises private transfers backed one-for-one by bitcoin held behind a federated threshold. An incomplete cache key let forged L-BTC pass validation, then ordinary peg-out machinery moved nearly the entire real reserve, exposing failures in cryptographic context, operational release discipline, withdrawal controls, and the claim that seizing $320 million first was the least harmful path.\n\nnostr:naddr1qq5hg6r994c8ymm0vckhwctn943kzcmgv4jz6argv5kky6t5vdhkjm3dwashxttjv4skcqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyxhwumn8ghj7mn0wvhxcmmvqyt8wumn8ghj7un9d3shjtnswf5k6ctv9ehx2aqpr9mhxue69uhhxetwv35hgtnwdaekvmrpwfjjucm0d5pzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqvzqqqr4guscl586",
     "timestamp": "1788794516",
     "date": "9/7/2026, 3:21:56 PM",
