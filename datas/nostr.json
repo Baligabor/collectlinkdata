@@ -1,5 +1,26 @@
 [
   {
+    "content": "It took a little while, but finally here is the audio book of The Praxeology of Privacy.\n15 hours of economic reasoning and cypherpunk implementation, read by yours truly, available for free on Nostr.\n\nhttps://relay.towardsliberty.com/9bc667e1e9dc125c4e7d6c513e7d8570501bc7b9d4231ecce0cb49e367cf9ebb.mp3",
+    "timestamp": "1789190290",
+    "date": "9/12/2026, 5:18:10 AM",
+    "id": "8c8790ed84fe3669b087d162d222a91cd11dd5cffb902d469e82ca5ec63aaaf0",
+    "kind": 1
+  },
+  {
+    "content": "I think we did it...",
+    "timestamp": "1789140689",
+    "date": "9/11/2026, 3:31:29 PM",
+    "id": "6204c6995676f34ef32f1ec6648b92c6e7ce9d767aa2531b3efdc1b1ba9e8f18",
+    "kind": 1
+  },
+  {
+    "content": "Love it, thanks! \nI got very close to prompting the PR myself.",
+    "timestamp": "1789136811",
+    "date": "9/11/2026, 2:26:51 PM",
+    "id": "397cdd1a77271a56f967fab3843ffc7ec1e5334926e50b3b0badb4e2c5cf8e8c",
+    "kind": 1
+  },
+  {
     "content": "We replaced a single constrained cross-platform codebase with native implementations for Android, iOS, macOS, and Linux by delegating the raw coding labor to autonomous agents. This radical shift removes humans from rote syntax production, proving that a small team can orchestrate machines to build software while retaining responsibility for the final outcome.\n\nnostr:naddr1qqdhwefdwd6x7ursv4jz6amjd96xjmn8946xsefdvdhkgegpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs6amnwvaz7tmwdaejumr0dsq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qyvhwumn8ghj7um9dejxjapwdehhxenvv9ex2tnrdaksyg9ha45tqck7dd9p9egl6559c8s7pmgw2y5vm2f6kyd5z594tmfjlspsgqqqw4rslvrpkk",
     "timestamp": "1788974369",
     "date": "9/9/2026, 5:19:29 PM",
