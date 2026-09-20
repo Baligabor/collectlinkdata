@@ -1,5 +1,131 @@
 [
   {
+    "content": "It's just the old era app store, I never really liked how they are redoing the builds... I prefer p2p app distribution with direct signatures by the devs.",
+    "timestamp": "1789762681",
+    "date": "9/18/2026, 8:18:01 PM",
+    "id": "841a9a0a6e2abaf7b7e0e110472e305f53265b107bc351e21b03f29b777c7964",
+    "kind": 1
+  },
+  {
+    "content": "Still no public release, but I'll DM you the download link.",
+    "timestamp": "1789753140",
+    "date": "9/18/2026, 5:39:00 PM",
+    "id": "04cf60114752373644b2988e4165b25d43639b49340612deb9ab5ae9e4c46e37",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, taking a deep breath and pray that it works.",
+    "timestamp": "1789748716",
+    "date": "9/18/2026, 4:25:16 PM",
+    "id": "c4492447a09c459addf605a0ff5ff8478194355f6287fd47e4d8c718c3bc6f80",
+    "kind": 1
+  },
+  {
+    "content": "Not yet. As of now all messages get delivered via nostal relays, but we have big plans for FIPS mesh network support.",
+    "timestamp": "1789748560",
+    "date": "9/18/2026, 4:22:40 PM",
+    "id": "b94f2d0a8b54440859bf7a793c0bb6768f2196e36e9a20b886bdc0e2e711c20f",
+    "kind": 1
+  },
+  {
+    "content": "What do you mean by that? We already support your Noster follow list as your contact book, but don't have it for the native operating system contact book integration yet. I'm not quite sure how to do that.",
+    "timestamp": "1789748469",
+    "date": "9/18/2026, 4:21:09 PM",
+    "id": "1788cf68a312cecc1341e14e30b8bd3c26ff2cc729ff31205a0cbcd0d4b836a6",
+    "kind": 1
+  },
+  {
+    "content": "No, we will not release it on fdroid but it will soon be on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4",
+    "timestamp": "1789748301",
+    "date": "9/18/2026, 4:18:21 PM",
+    "id": "a360b63b4a72e14c0084241133965f646d9e90a5c3be3af96317ca989fda7f50",
+    "kind": 1
+  },
+  {
+    "content": "That's odd. It still doesn't work. Are you doing anything special? Are you on the latest release? The old app thats still on zapstore is abandoned.",
+    "timestamp": "1789748199",
+    "date": "9/18/2026, 4:16:39 PM",
+    "id": "f39f5906898a5d50db645048ae44a5bd7b624aef384631912fe1cbc3a6b2f27a",
+    "kind": 1
+  },
+  {
+    "content": "Did you create that key in White Noise? \nI don't see a keypackage, so I can't invite you.",
+    "timestamp": "1789728034",
+    "date": "9/18/2026, 10:40:34 AM",
+    "id": "2202dc9227cdb27063020765955410145dbaa568aa7726917a604f8c1b09c843",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin as Intended: P2P and NO KYC — Max Hillebrand, Lea Petrášová, Jörg Hermsdorf, Max Keidun\n\nhttps://relay.towardsliberty.com/2831f008dda9e02d28c956e96c1a4bfd9e3329dfac01b33fc3d9c09884442ee1.mp4",
+    "timestamp": "1789726069",
+    "date": "9/18/2026, 10:07:49 AM",
+    "id": "d65bbd129c789f4c33cb4311377a3091c3f5fe7d2dd93870736e8a18c969fc34",
+    "kind": 1
+  },
+  {
+    "content": "Already done \nhttps://towardsliberty.com/audiobooks/praxeology-of-privacy.xml",
+    "timestamp": "1789719354",
+    "date": "9/18/2026, 8:15:54 AM",
+    "id": "98b54ab5afd5da1e8e54ed8bb63f017736335109cabbce52caff02db927be50e",
+    "kind": 1
+  },
+  {
+    "content": "https://relay.towardsliberty.com/c0fa6c04993b6b80891fcf318edb6f3e8a69ab2a8eec3e57a66119a1428cef95.jpg\nnostr:nevent1qqszhslpjsqkj0gq6p5dh5e3ntcu7yd4tzy054kwzjchgx8ln73qsqcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygzd0ppq29uzurflavp569g2ms4khtjwuw6f0pne80l6g69k7kukkvpsgqqqqqqsa0hyez",
+    "timestamp": "1789716187",
+    "date": "9/18/2026, 7:23:07 AM",
+    "id": "39aa0df3dca667ade56e8d135974a167c88665a5244f912bd695f6dbf2557aa1",
+    "kind": 1
+  },
+  {
+    "content": "Zapstore signs with their indexer key all apps that are not self signed by the developer.\nSo you trust zapstore with TOFU in this case. So if you love an app thats not yet self signed on zapstore, go bother the devs to do it, its trivial, literally half a prompt.",
+    "timestamp": "1789578222",
+    "date": "9/16/2026, 5:03:42 PM",
+    "id": "fd61c7e97cd4bb4df5851d0e3a7742299ab9fc52dfd73b4855dd5cc5ef0a6a3b",
+    "kind": 1
+  },
+  {
+    "content": "Also the first install is validated by the devs on nsec, so I guess you trust zapstore to not have bugs, but the idea of the code is that it validates the actual devs signature which you can compare to your social follows.\n\nThen regular TOFU kicks in for android protection",
+    "timestamp": "1789577625",
+    "date": "9/16/2026, 4:53:45 PM",
+    "id": "19454a6bec5278dbead324bf8db2c39bb644c50405ee0e8d88dbdcf1f80697e1",
+    "kind": 1
+  },
+  {
+    "content": "Write the code with nostr:npub130mznv74rxs032peqym6g3wqavh472623mt3z5w73xq9r6qqdufs7ql29s \nPublish the repo with ngit\nDistribute the app with nostr:npub10r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7stjt2p8 \n\nFully anonymous software development pipeline.\n\nCypherpunk future is now.",
+    "timestamp": "1789576469",
+    "date": "9/16/2026, 4:34:29 PM",
+    "id": "94d5a159aac4a30eba5e7d55dc5a66f863bbcfaa84b61e39fb95ec77e1390387",
+    "kind": 1
+  },
+  {
+    "content": "Bisq v1.10.8 is released.\n\nThis important security update fixes vulnerabilities identified during our recent security audit.\n\nUpdating to this version is required to continue trading.\n\nhttps://github.com/bisq-network/bisq/releases/tag/v1.10.8 \n\nhttps://blossom.primal.net/5d0ae97e658e408ae32769be8218ba8db28de4ebfe6d7c9be4436aaf7d78dad3.png ",
+    "timestamp": "1789576304",
+    "date": "9/16/2026, 4:31:44 PM",
+    "id": "f20304b916deafc1aa8b4476beea12654ef155c1ab31360578b7c9a5496b1d77",
+    "kind": 6
+  },
+  {
+    "content": "Its hard to be private with most AI, even if you get the account on a burner mail/number, the content of your prompts will likely identify you to some degree.",
+    "timestamp": "1789544772",
+    "date": "9/16/2026, 7:46:12 AM",
+    "id": "748b3d4505a9a7dae0cb718c9090fbfb9841274e0b598d3466d2dde4ebe10aa8",
+    "kind": 1
+  },
+  {
+    "content": "GM\n\nhttps://inner.sebastix.social/cc14e06f466c732cced6c33102ee59f076c2a20688fc8381715f4c6fc3feeebf.jpg\n\nDiving deep with nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqv6g2cl",
+    "timestamp": "1789541997",
+    "date": "9/16/2026, 6:59:57 AM",
+    "id": "927d96f57a97ac5bb577772738983d5444f122fc17f5f6ff16152a417ea3229a",
+    "kind": 6
+  },
+  {
+    "content": "Yeah, I tried a couple times, but never really caught on.",
+    "timestamp": "1789318190",
+    "date": "9/13/2026, 4:49:50 PM",
+    "id": "8aab6d36e7e93275ea79021fa7369bbabcc31b4f39882eb2d3d011f02f1e9539",
+    "kind": 1
+  },
+  {
     "content": "It took a little while, but finally here is the audio book of The Praxeology of Privacy.\n15 hours of economic reasoning and cypherpunk implementation, read by yours truly, available for free on Nostr.\n\nhttps://relay.towardsliberty.com/9bc667e1e9dc125c4e7d6c513e7d8570501bc7b9d4231ecce0cb49e367cf9ebb.mp3",
     "timestamp": "1789190290",
     "date": "9/12/2026, 5:18:10 AM",
