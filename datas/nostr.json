@@ -1,5 +1,145 @@
 [
   {
+    "content": "Send me the npub you're using on nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp  and I'll add you to our community group.\n50 members so far, and it didn't break yet!",
+    "timestamp": "1790023707",
+    "date": "9/21/2026, 8:48:27 PM",
+    "id": "f0e896201f3a2a0ed128fabe376a93a0a268ee97029ee42d62eae0ada57b69c8",
+    "kind": 1
+  },
+  {
+    "content": "Running nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp\n https://npub1ts0wenl82qzh6kcn9qkaygpu09j9z9zlkvt3rskf3gn0q5usc5ts4sn9wd.blossom.band/fddefe52b3fd5b35605100ca801d37035f8a54f52da98843dbc273ef08e6f3f8.jpg",
+    "timestamp": "1790023033",
+    "date": "9/21/2026, 8:37:13 PM",
+    "id": "06184f7aa4aa02800fd412268c8c00d2b475d5f37669b7ab9466513953a5555e",
+    "kind": 6
+  },
+  {
+    "content": "We had a bunch of trouble to get it work with arbitrary relays. \nWe'll need a better way to check if a proposed relay will work.\nIts coming hopefully soon tho.",
+    "timestamp": "1790022697",
+    "date": "9/21/2026, 8:31:37 PM",
+    "id": "42a2735a426e5f8dd942872d57a0de422338073eb5ffe9b7afd6096d404287df",
+    "kind": 1
+  },
+  {
+    "content": "Zapstore was dope before.\nIt'll be unreal soon.\n\nnostr:nevent1qqs0m7zesjzznneu3sewpsq7yhym346sp70xeheuyw7qtf0wdslhhacpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygrceeh65u3xgwrjsnny0wnf8zv4wd0v3374ckn9wdl92yc0qf3s05psgqqqqqqshhyng0",
+    "timestamp": "1790021712",
+    "date": "9/21/2026, 8:15:12 PM",
+    "id": "65b4b4e0ccc8930d2143d2266918454d8422441602a96bf4f8d86bfb6ca8f230",
+    "kind": 1
+  },
+  {
+    "content": "I'm not sure what was harder...\nnostr:nprofile1qqsf80gvdu7vhtj88z9srtrvuzevqyc3fh9yczxkufcj6nlhzsz68scppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnwdaehgu3wvfskuep0qyg8wumn8ghj7um0d3hkxmewdekz7q6gldk 2.0 or nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp 2.0",
+    "timestamp": "1790021290",
+    "date": "9/21/2026, 8:08:10 PM",
+    "id": "255558f3f6c550b41f2d1681673ec89872f875246c77880ec759b411d37df6d7",
+    "kind": 1
+  },
+  {
+    "content": "Yes.\nBoth fully local notifications without a server, as well as privacy preserving notifications via apple / google servers.",
+    "timestamp": "1790020871",
+    "date": "9/21/2026, 8:01:11 PM",
+    "id": "c2598d6b6eec9e61f992839a982d0c4a01f2609db916cc139535456171e93c55",
+    "kind": 1
+  },
+  {
+    "content": "Ah now I see the problem, wrong link in the blog, fixed!",
+    "timestamp": "1790019894",
+    "date": "9/21/2026, 7:44:54 PM",
+    "id": "abf1d828329f9ba64576c60d5310053fbf68feee048e0f0546ae49e1d195f5db",
+    "kind": 1
+  },
+  {
+    "content": "Hopefully for a good reason.\nBad relay list were a huge issue in the last app to make it work.",
+    "timestamp": "1790018348",
+    "date": "9/21/2026, 7:19:08 PM",
+    "id": "def90bf0f6558cbe70d308a6c8ece680f2ff7ccead96466db2f6c2cb552cf4ed",
+    "kind": 1
+  },
+  {
+    "content": "Are you sure?\nlooks fine to me and it has downloads.\nhttps://testflight.apple.com/join/KrVBcjpA",
+    "timestamp": "1790015910",
+    "date": "9/21/2026, 6:38:30 PM",
+    "id": "bb8616ed4ce11a0f434aa73142f4030a5cfebff428d08562c5b403d9b5475619",
+    "kind": 1
+  },
+  {
+    "content": "Yeah you can uninstall the old one, its abandoned.",
+    "timestamp": "1790015837",
+    "date": "9/21/2026, 6:37:17 PM",
+    "id": "fe8cad289303624ef33adf0f86c97c538a5abdd1875f5abeabfd4e886bf153b8",
+    "kind": 1
+  },
+  {
+    "content": "Exactly.",
+    "timestamp": "1790015819",
+    "date": "9/21/2026, 6:36:59 PM",
+    "id": "965ccf2d6bd4d6a574d77386c4fcda0efcc9360f9cf1155b189f6d4ba743c2c9",
+    "kind": 1
+  },
+  {
+    "content": "http://Github.com/marmot-protocol/whitenoise-android is the right link.",
+    "timestamp": "1790015780",
+    "date": "9/21/2026, 6:36:20 PM",
+    "id": "1dd4af98f844e4a64a52ce7cf84153238a4bcd4bf22b45ff3897cc06fba14bcd",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, we were waiting for CI, which now works. So hopefully soon.",
+    "timestamp": "1790014587",
+    "date": "9/21/2026, 6:16:27 PM",
+    "id": "553671422275124abaf39b7d16ae3438a0b300744863f90f1cb84ba72ae5dd6d",
+    "kind": 1
+  },
+  {
+    "content": "The old app was, but this is a full rewrite of everything, much better now, give it a try",
+    "timestamp": "1790012535",
+    "date": "9/21/2026, 5:42:15 PM",
+    "id": "0d0b11e2c86cb36d684fab11099fa52202baacb598f44d3131f48a24bfea1893",
+    "kind": 1
+  },
+  {
+    "content": "Gotta keep refreshing, loads more releases to come",
+    "timestamp": "1790012498",
+    "date": "9/21/2026, 5:41:38 PM",
+    "id": "20a1c231fa7f0bab9eb849c5f14e5bd7997874ff7c9a4a04b2abae5428a538d2",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp is finally out on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4!\n\nThis was so damn hard. \nBut I think we finally did it.\n\nDecentralized encrypted group messaging.\nNot a single privileged server in sight.\n\nnostr:nevent1qqs9826rhjn5ukmfgpvpaum5udm0prlu5dya96q35lmylxkzpgqc4jqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyp6awd7rguj8zq5ugjrkkvcdy2zz3zjzw7d4jx3w6nd2r3kq0ma0wqcyqqqqqqg0r9jvg",
+    "timestamp": "1790009055",
+    "date": "9/21/2026, 4:44:15 PM",
+    "id": "bebc6e236724e1ab366f7dd1491cce922785ddf6cc03d34df25e1e0a9c740549",
+    "kind": 1
+  },
+  {
+    "content": "For a New Liberty ~ Bitcoin Reading Group — May 11, 2019\n\nhttps://relay.towardsliberty.com/f721f184a2957fd2ec6fca7fc350724374320e3bc347eb38d50386c25eb450aa.mp4",
+    "timestamp": "1789973847",
+    "date": "9/21/2026, 6:57:27 AM",
+    "id": "05688f7df8af4e711852e4f208f2d8ef5747af9220303ac9096f99e063b2ce51",
+    "kind": 1
+  },
+  {
+    "content": "It's happening.",
+    "timestamp": "1789971338",
+    "date": "9/21/2026, 6:15:38 AM",
+    "id": "e2f36f6c45d7c4256588646f2098472540ebe6f1a7a3bcee88290fd5ed742c5f",
+    "kind": 1
+  },
+  {
+    "content": "You're seeing the old app we stopped working on.\nWe'll release the new one soon.",
+    "timestamp": "1789918539",
+    "date": "9/20/2026, 3:35:39 PM",
+    "id": "db4dd98b8a5855bafc0a6140cd40a12d14b2a3abcb8d2fc348e89d1d7b77317b",
+    "kind": 1
+  },
+  {
+    "content": "\nSEC-08 report is here, dig in. We went full YOLO++ in Madeira, with FIPS over sound and Totems finally talking to each other after two years. Six weeks of building on the open seas of cryptography and the new adventures beyond.\n\nnostr:naddr1qvzqqqr4gupzpq7enxs5scju854msxd0xpjvpa4p94763rmgktrfyg0n5arpw8geqy88wumn8ghj7mn0wvhxcmmv9uq3zamnwvaz7tmwdaehgu3wwa5kuef0qqt8xetr95crstt5dpjj67t0d3hj6un9wphhyaq0s499k ",
+    "timestamp": "1789900132",
+    "date": "9/20/2026, 10:28:52 AM",
+    "id": "5224f9a94c1dce680ce9ed15c8b2aa1196e234d05843daa923ea7bfcd3ecfda6",
+    "kind": 6
+  },
+  {
     "content": "It's just the old era app store, I never really liked how they are redoing the builds... I prefer p2p app distribution with direct signatures by the devs.",
     "timestamp": "1789762681",
     "date": "9/18/2026, 8:18:01 PM",
