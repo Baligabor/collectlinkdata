@@ -1,5 +1,173 @@
 [
   {
+    "content": "You're in",
+    "timestamp": "1790183128",
+    "date": "9/23/2026, 5:05:28 PM",
+    "id": "f02763203e49025f2e96221624677442deedabd0ee4d04b4a36986a96f4fcad5",
+    "kind": 1
+  },
+  {
+    "content": "Yeah working on that right now.",
+    "timestamp": "1790100946",
+    "date": "9/22/2026, 6:15:46 PM",
+    "id": "eeb3052740c12df5082e2f3326c3910853302ae7103125ffb9b54032c04dfd52",
+    "kind": 1
+  },
+  {
+    "content": "Oh, Thanks for the report, haven't seen that yet, we'll fix it.",
+    "timestamp": "1790097717",
+    "date": "9/22/2026, 5:21:57 PM",
+    "id": "1766abc78326104178bf6c9feba7158059a4edd9222936d1ca35654802006892",
+    "kind": 1
+  },
+  {
+    "content": "Yes, hook up maple to opencode, and then hook up opencode to whitenoise. (In the android app you can copy a one shot prompt to do that)\n\nIt works wondeeful!",
+    "timestamp": "1790092511",
+    "date": "9/22/2026, 3:55:11 PM",
+    "id": "421d28d83bba4af903248b667f14eb0686e3660b304a8746dde1fc2ffadb2919",
+    "kind": 1
+  },
+  {
+    "content": "We only show these requests when a relay in your list is broken. If you have broken relays in your list then that slows down every client of every user who's viewing your posts. That's why a radical solution is adequate. We definitely have to work on these checks and fixes, they can be further improved.",
+    "timestamp": "1790081509",
+    "date": "9/22/2026, 12:51:49 PM",
+    "id": "4b68a150baff335000e749454e6a3934fc10925d0cb1c2cd445c5abe06d68462",
+    "kind": 1
+  },
+  {
+    "content": "It looks like you have bad relays in your list. Check and remove those that are not online at the moment. We should automatocally fix this in white noise.",
+    "timestamp": "1790081286",
+    "date": "9/22/2026, 12:48:06 PM",
+    "id": "80b0455936add77d6d27ba59899e8a199946acc05a6508a2514d11d75df13b19",
+    "kind": 1
+  },
+  {
+    "content": "The biggest pro@npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec right now is inefficient processing of the group state and inefficient relay connections. \n\nYou can think of white noise like the equivalent of a Bitcoin full note versus a bank account. Apps like Signal have the benefit of a central server that can offload a whole bunch of processing and therefore make it much more efficient on the client application. \n\nWhite noise is a local first convergence machine. So it has to do a whole bunch of processing to keep in sync with the group. This gets especially tricky when the app is closed or offline and has to catch up. \n\nCurrently it's designed so that it is very unlikely to fork the consensus, but at a huge computational cost. \n\nWhat we're working on now is to massively improve the performance of our convergence state machine, and to also make our relay connections a whole lot smarter. This is a big undertaking and it will take us about a week of back end library development but expect a lot performance improvements and battery optimizations in the coming weeks.",
+    "timestamp": "1790078840",
+    "date": "9/22/2026, 12:07:20 PM",
+    "id": "15617d8e629363d538c5a18f29205881b0c7f9774ff5f338e569df6083dabe0d",
+    "kind": 1
+  },
+  {
+    "content": "I'll look into it, we're using roborazzi atm.",
+    "timestamp": "1790078570",
+    "date": "9/22/2026, 12:02:50 PM",
+    "id": "bfccfa39b89512295394859295787f2056bef6bff4f3d7684d3ea40dee3d4d6d",
+    "kind": 1
+  },
+  {
+    "content": "\nOur website has been beautifully redesigned by nostr:nprofile1qqspqgwgjg25375f4w6vcl5xdz363h8t4c9ycv3ll6h4wppcsvkknycpqa3k7unpvdkx2qgcwaehxw309aex2mrp0yh8xmn0wf6zuum0vd5kzmqvmxa0h.\n\nHave a look .✨\nhttps://blossom.primal.net/a8ebdb700231590cea3b662c9b37df39ddc150d248c82208716f0da35c22635c.mp4",
+    "timestamp": "1790076277",
+    "date": "9/22/2026, 11:24:37 AM",
+    "id": "587c6b0cc0f4ca4b3d14efee7b8dee5ac3516af57ff70ec691f646027b19c91c",
+    "kind": 6
+  },
+  {
+    "content": "Let’s try this new version\n\nhttps://blossom-01.uid.ovh/a6badc90c8783693cd8fae44946bb0fb6e39e8ef06899f6c08c8c5c9bf992b68.png",
+    "timestamp": "1790073391",
+    "date": "9/22/2026, 10:36:31 AM",
+    "id": "35bf76bdc142bcb4a85be81f6998748c4a5758b1dd0d38f7a6693a3eb00c6242",
+    "kind": 6
+  },
+  {
+    "content": "Yes, but in that case they require a google account 😩",
+    "timestamp": "1790070887",
+    "date": "9/22/2026, 9:54:47 AM",
+    "id": "8d76f62ff2fa52e28a09e4c93dbdc3fd16eccac4651861c2723acbf38bb4b43c",
+    "kind": 1
+  },
+  {
+    "content": "That fixed it!",
+    "timestamp": "1790067858",
+    "date": "9/22/2026, 9:04:18 AM",
+    "id": "47615bb6a938df1dcd883b3335e291101301bc1ba8ba241c52cc53a47dfbd7a1",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, I get the pain \nTrade offs all the way down, the app is much simpler because we abandoned the old stack.\nWe dont plan to break user space again tho, so from now on it should migrate properly.",
+    "timestamp": "1790067572",
+    "date": "9/22/2026, 8:59:32 AM",
+    "id": "c596b49e5548d886ca6bc86dd85491a7f366cce9e32971d07c3a0b40c0b60560",
+    "kind": 1
+  },
+  {
+    "content": "Your follows will be migrated (regular nostr) \nBut even with your nsec the client can't find out what people you talked to in the old app, (that's the whole point) so you'll just have to start fresh chats with those.",
+    "timestamp": "1790067034",
+    "date": "9/22/2026, 8:50:34 AM",
+    "id": "612b3419a845eb213e01b8906db7c8d589ff03351835ac4fcb10c55d381498ab",
+    "kind": 1
+  },
+  {
+    "content": "We decided to not do that, too much work to get migration to work, and almost nobody used the old app cause it just didnt work.\nSorry, but full focus on the future.",
+    "timestamp": "1790066196",
+    "date": "9/22/2026, 8:36:36 AM",
+    "id": "a7e3c0db3ca3d6544282af8eea518255d3fff8be13ff9027ecbd219c6eb64466",
+    "kind": 1
+  },
+  {
+    "content": "It's coming hopefully soon.",
+    "timestamp": "1790066155",
+    "date": "9/22/2026, 8:35:55 AM",
+    "id": "0a14975b2b8795971ddb6847cfd3a4428e4e3b5025b4881837136bccad86cebe",
+    "kind": 1
+  },
+  {
+    "content": "You have a really old key package, can you go to developer settings, key packages, and then republish?",
+    "timestamp": "1790065510",
+    "date": "9/22/2026, 8:25:10 AM",
+    "id": "380cdb86165e3f8008b5cccd6583fae6a0ba8459ca81476a992da8f73df55d63",
+    "kind": 1
+  },
+  {
+    "content": "There's migration logic in the new client, so it should just work automagically.\nUnfortunately old chats are lost...",
+    "timestamp": "1790065447",
+    "date": "9/22/2026, 8:24:07 AM",
+    "id": "b809eed2c6ac56b973dc95b0c3a687d50a94e632154b5deda8eb7c941d469337",
+    "kind": 1
+  },
+  {
+    "content": "Yes, it's a new app from the ground up, you can delete the old one.",
+    "timestamp": "1790065042",
+    "date": "9/22/2026, 8:17:22 AM",
+    "id": "2e1e43b54aadc7b5d9c08fe5893ead42812d2151f439cdcb5552e99773de8879",
+    "kind": 1
+  },
+  {
+    "content": "Oh wow\nnostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp didnt break over night!\nWe're at 50+ members in the community chat.\nLots of new fixed already in progress.\nI think we did the thing...",
+    "timestamp": "1790064424",
+    "date": "9/22/2026, 8:07:04 AM",
+    "id": "5d4fe22519f66995649fd52f2ddc5517e01671c3b464ab422507129a0eee4a2d",
+    "kind": 1
+  },
+  {
+    "content": "The previous app just didn't work for groups.\nIt was super common to fork a group, so different members see different messages in the group.\nThe old spec was by far not rigorous enough. \nI haven't seen a fork in a couple weeks now, it's still slow to catch up sometimes, but that's easy to fix.",
+    "timestamp": "1790062491",
+    "date": "9/22/2026, 7:34:51 AM",
+    "id": "1ce19ed8b96047f21dec25dfc3850124a024e21d36944d04c121b70fd837742e",
+    "kind": 1
+  },
+  {
+    "content": "Honestly, agent comms are the most reliable in White Noise, and its instant useful even if none of your friends are on White Noise. \n\nI've been building White Noise INSIDE White Noise.",
+    "timestamp": "1790062418",
+    "date": "9/22/2026, 7:33:38 AM",
+    "id": "27502634e19d3a59414df1c9d2b347685f0a3abc2cfa87132cc1816154313f78",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsqzw64m y’all cooked with this Whitenoise update. \n\nThe AI Agent connector is a very nice move. Well done! \n\nSent you my whitenoise npub. Please add me. ",
+    "timestamp": "1790062345",
+    "date": "9/22/2026, 7:32:25 AM",
+    "id": "f2407e8a97895bfe1551540422976a4b4607304687ae93e5d36bd53648678416",
+    "kind": 6
+  },
+  {
+    "content": "Yes! Marmot is made for bots, it'll be awesome!",
+    "timestamp": "1790061372",
+    "date": "9/22/2026, 7:16:12 AM",
+    "id": "7b5a7b9811187f1bcf6ad7fc5ea4c907aadaac40128642f432185164cd960a6d",
+    "kind": 1
+  },
+  {
     "content": "Send me the npub you're using on nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp  and I'll add you to our community group.\n50 members so far, and it didn't break yet!",
     "timestamp": "1790023707",
     "date": "9/21/2026, 8:48:27 PM",
