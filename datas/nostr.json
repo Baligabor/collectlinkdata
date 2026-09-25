@@ -1,5 +1,82 @@
 [
   {
+    "content": "First successful messages between Scramble and nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp !\n\nThis is huge, because Scramble is a from the group up reimplementation of both MLS and Marmot in C#!\n\nIf nostr:nprofile1qqsfh94ydymgt7f27x3cz3rpnjj4xjql2gzsrd2ltrw7vjn433qqdcgppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnpdenk7u3wd9hj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09u22akkk can build a fully independent marmot ecosystem that's interoperable with MDK (rust) & nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp, then so can you!!\n\nhttps://github.com/DavidGershony/Scramble",
+    "timestamp": "1790284528",
+    "date": "9/24/2026, 9:15:28 PM",
+    "id": "07300bcaacc8334e638f77621bb4ac2f29fb7b4050195ea8f9103c2b33d5b51b",
+    "kind": 1
+  },
+  {
+    "content": "It's only a monopoly if force is initiated to stop new entrepreneurs from providing a good or service.\n\nIts irrelevant if a business is the only one that provides a service.",
+    "timestamp": "1790267206",
+    "date": "9/24/2026, 4:26:46 PM",
+    "id": "b125ac513ab04ce3709607845a7cbcec08d5ec8a6bc1b301ac28208a25c53478",
+    "kind": 1
+  },
+  {
+    "content": "Yeah.\nIts kinda like lightning or ordinals in this regard.",
+    "timestamp": "1790261909",
+    "date": "9/24/2026, 2:58:29 PM",
+    "id": "b8f7c363a4a2c8d89112acad4a506625c80f03d698174c142b8845ac747d9600",
+    "kind": 1
+  },
+  {
+    "content": "Not sure if 5 year olds get those buzzwords, lol",
+    "timestamp": "1790261526",
+    "date": "9/24/2026, 2:52:06 PM",
+    "id": "1c9e2fc1de872d9373b96e3c45fa01789a7a58d051ffafd70cf51bc159f866a6",
+    "kind": 1
+  },
+  {
+    "content": "Anonymous bitcoin transactions with zero knowledge proofs validated by a companion software alongside Bitcoin core.",
+    "timestamp": "1790261507",
+    "date": "9/24/2026, 2:51:47 PM",
+    "id": "92532f559e2c1a0f288dd1799a89bd6bb0ff364d758c001dcbfb2b5f885b96cc",
+    "kind": 1
+  },
+  {
+    "content": "New paper dropped.\n\nShielded Bitcoin\nAnonymous bitcoin transactions without a fork or operator needed.\n\nhttps://www.allocinit.xyz/uploads/shielded-bitcoin.pdf\nhttps://allocinit.notion.site/Shielded-Bitcoin-Private-Transfers-on-Bitcoin-L1-3e436974087f80f586acf2462bc547a5",
+    "timestamp": "1790260695",
+    "date": "9/24/2026, 2:38:15 PM",
+    "id": "8c2b551e93546ca16dad696a0f00ace19e4e9da4e6ea70442ef92842b9a91258",
+    "kind": 1
+  },
+  {
+    "content": "Nice.",
+    "timestamp": "1790259636",
+    "date": "9/24/2026, 2:20:36 PM",
+    "id": "3cbffbf41b799aced9f6ef83b082a11f06d0db48f31f66f17db0a13025f0e63a",
+    "kind": 1
+  },
+  {
+    "content": "its been a long time coming..... NEW MANGO RELEASE\n\n(some) new stuff:\n- direct onboarding to nostr:npub16g4umvwj2pduqc8kt2rv6heq2vhvtulyrsr2a20d4suldwnkl4hquekv4h  (just pay with ln to get credits, no api key shenanigans)\n- support for local/hybrid model use (if phone supports it), meaning you can have local model with confidential offloading \n- discover and use remote tools over nostr:npub1dvmcpmefwtnn6dctsj3728n64xhrf06p9yude77echmrkgs5zmyqw33jdm \n\nthe bad stuff:\n- i had to generate a new cert to sign the app so you wont be able to upgrade, you'll have to do a clean install\n\nhttps://blossom.primal.net/fcf60d878036e3b6d205914e43d3c5542c6da147b262803b43b214f3de7eb607.png\n\nhttps://blossom.primal.net/59eb725ccc2fff78e233cb70bc057bae90ded3d35833f9fc2f02254d74020267.png\nhttps://zapstore.dev/apps/dev.disobey.mango",
+    "timestamp": "1790259622",
+    "date": "9/24/2026, 2:20:22 PM",
+    "id": "1fbfaaac157fd4bf0775fb6948a0757ec3fee584ca90ac986da77ace84c5c11d",
+    "kind": 6
+  },
+  {
+    "content": "You need much more than just capital to be successful. \n\nAnd again, they wouldn't steal from anyone in this case. A business does not own the future purchase decisions of future customers, that would be slavery.",
+    "timestamp": "1790258738",
+    "date": "9/24/2026, 2:05:38 PM",
+    "id": "082e2ec24b905969e8d42bd06b34e5b169f2c331dbc9066f87ac61845ed4aec5",
+    "kind": 1
+  },
+  {
+    "content": "Fake news.\n\nIt used to be that engineers over estimate how fast they can ship something.\n\nnostr:nprofile1qqspwwwexlwgcrrnwz4zwkze8rq3ncjug8mvgsd96dxx6wzs8ccndmcppemhxue69uhkummn9ekx7mp0qyvhwumn8ghj7urjv4kkjatd9ec8y6tdv9kzumn9wshsz9thwden5te0wfjkccte9ejxzmt4wvhxjme0sqd6g2 said it'll take a week to build this complex piece.\n\nTurns out it is done in about two days.\n\nWe'll get a major nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp release out much sooner! Hopefully tomorrow.\n\nnostr:nevent1qqsp2cta3e3fxc748rz6rrefypvgrvx8l9m5la0n8rjknhmqs0dturgpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqghhhjq6",
+    "timestamp": "1790237101",
+    "date": "9/24/2026, 8:05:01 AM",
+    "id": "9166f310464823c4d19520943f81d987ad6ddc6759e3854fc4cb57e5e7d907fb",
+    "kind": 1
+  },
+  {
+    "content": "Make it more private, faster, and easier to discover the right apps.",
+    "timestamp": "1790234130",
+    "date": "9/24/2026, 7:15:30 AM",
+    "id": "f9a36dddf2cd7983bbb9581d13c5d704ac9e2df6e10ff0aed2faa6692474c658",
+    "kind": 1
+  },
+  {
     "content": "You're in",
     "timestamp": "1790183128",
     "date": "9/23/2026, 5:05:28 PM",
