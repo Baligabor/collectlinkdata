@@ -1,5 +1,19 @@
 [
   {
+    "content": "Sure, just read everything at mises.org and you basically got a PHD",
+    "timestamp": "1790348019",
+    "date": "9/25/2026, 2:53:39 PM",
+    "id": "5c91b5d71e34d43433c5e6ae67dabe54e3ac7a4912855ae8c3ecc365314a0f93",
+    "kind": 1
+  },
+  {
+    "content": "If you want a masters degree from a university that's not useless, check out Hesperides.\n\nA private university that goes to extreme lengths to not receive any money from the state, with a solid curriculum for both Austrian economics and Bitcoin.\nI'll be teaching the masters on Bitcoin Privacy next semester.\n\nhttps://hesperides.edu.es/estudios/master-in-bitcoin-global-edition/",
+    "timestamp": "1790333136",
+    "date": "9/25/2026, 10:45:36 AM",
+    "id": "d4325b9bf7323a1d5566c87c44b305ad3de7cfe2a0de6d3c727a769c35fb7a65",
+    "kind": 1
+  },
+  {
     "content": "First successful messages between Scramble and nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp !\n\nThis is huge, because Scramble is a from the group up reimplementation of both MLS and Marmot in C#!\n\nIf nostr:nprofile1qqsfh94ydymgt7f27x3cz3rpnjj4xjql2gzsrd2ltrw7vjn433qqdcgppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnpdenk7u3wd9hj7qg4waehxw309aex2mrp0yhxgctdw4eju6t09u22akkk can build a fully independent marmot ecosystem that's interoperable with MDK (rust) & nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp, then so can you!!\n\nhttps://github.com/DavidGershony/Scramble",
     "timestamp": "1790284528",
     "date": "9/24/2026, 9:15:28 PM",
