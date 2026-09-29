@@ -1,5 +1,47 @@
 [
   {
+    "content": "Next nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp release will increase maximum group members from 50 to 200.\n\nAnd we still haven't worked on scale properly. We'll get that higher!",
+    "timestamp": "1790620919",
+    "date": "9/28/2026, 6:41:59 PM",
+    "id": "fd944ed026fe006ffddd658c15687b1eee90e526e3a39b99798dd57764142a2f",
+    "kind": 1
+  },
+  {
+    "content": "Pro tip for @GrapheneOS \n\nPrevent random apps from getting your clipboard automatically when they're in the foreground.\n\nSettings > Security & Privacy > Privacy Controls > Clipboard Access > Default access for third party apps > Paste only",
+    "timestamp": "1790613804",
+    "date": "9/28/2026, 4:43:24 PM",
+    "id": "2a711310a8975bb8f15a643ed70f413c2e75231c2f479ad25f47385d38289570",
+    "kind": 1
+  },
+  {
+    "content": "Looking forward to see this out there",
+    "timestamp": "1790593651",
+    "date": "9/28/2026, 11:07:31 AM",
+    "id": "5ecb649ecc1acbb0eaaed933e14af7843125d3ac00042f4b980b3f045d8681a6",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e Hillebrand my favorite cypherpunk returns tomorrow, blowing my mind 🤯 with the latest in Freedom Technologies, Austrian economics & his new book. Stay tuned, links below!\n\nhttps://blossom.primal.net/38d2001577c0d2cb9aa54d1a5a9bf5b54bf7d6e64eaa4023650cbdce6d3b6803.png ",
+    "timestamp": "1790593641",
+    "date": "9/28/2026, 11:07:21 AM",
+    "id": "0abd99851dbac7b9fec6a81ad30c821926559ef7dc2d560c6bb4350be83c82ef",
+    "kind": 6
+  },
+  {
+    "content": "This is the way!",
+    "timestamp": "1790575075",
+    "date": "9/28/2026, 5:57:55 AM",
+    "id": "a031391c35c5f1055fc16609bd3a62b9def3c20f8ad8519a0e2793e96ae51420",
+    "kind": 1
+  },
+  {
+    "content": "Just switched to nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec  for my agent conversation and all I did was give my current agent a prompt I copied from the white noise app and then sent it a message. \n\nI did this while we were in the middle of chatting with nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpramhxue69uhhyetvv9ujuar0washyernd35kyetjw3ujucm0d5hsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshs79atvg  on the Roundtable. This is so cool 😂🔥\n\n\nhttps://blossom.primal.net/eb80dd738ea95046baa7d23aac149fbb47560fde0641a1a9a75e5020e8c2945c.png",
+    "timestamp": "1790575066",
+    "date": "9/28/2026, 5:57:46 AM",
+    "id": "ba1df3780b4ea1e15d4a88e089c31d78a2c57b7f5c2e7ecda6d9456b3a8b38de",
+    "kind": 6
+  },
+  {
     "content": "Sure, just read everything at mises.org and you basically got a PHD",
     "timestamp": "1790348019",
     "date": "9/25/2026, 2:53:39 PM",
