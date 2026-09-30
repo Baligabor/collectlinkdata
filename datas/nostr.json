@@ -1,5 +1,68 @@
 [
   {
+    "content": "🎙️ NEW EPISODE: The Praxeology of Privacy: Cypherpunks Rebuilding the Internet\n\nnostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcppemhxue69uhkummn9ekx7mp0gf8npz Hillebrand thinks the path to freedom is peaceful, and cypherpunks are already building it. Author and contributor to \"White Noise\". We discuss:\n\n⚡ New book: \"The Praxeology of Privacy\"\n⚡ Austrian economics meets cypherpunks\n⚡ Privacy vs secrecy & anonymity\n⚡ CBDCs & state intervention\n⚡ Zero-knowledge proofs & age verification\n⚡ Rebuilding the internet with mesh networks\n⚡ \"White Noise\" decentralized messaging\n\n🎧 Links below & in profile!\n\n🙏 Thx to nostr:nprofile1qqsdcz7puq6jv9ahh58h26zxl5gwl7xks548ck48uyfmsx0kzlfl3rcpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqg6waehxw309aex2mrp0yh8ymmpv3e82mnwv4ezumrpws9jdu3t sponsors: nostr:nprofile1qqsvfl34cnxl92u3jsvktfk38j3quwyq3rq80pg6pw5tjudxdfwepxgppamhxue69uhkummnw3ezumt0d5q3yamnwvaz7tm0venxx6rpd9hzuur4vg8xqph6, Trezor, Ledn and Expat Money.\nhttps://blossom.primal.net/7fad4bf5843aae53bf98b1655af94eb6c6c50f4299162e321e17d0738458f719.mp4",
+    "timestamp": "1790691615",
+    "date": "9/29/2026, 2:20:15 PM",
+    "id": "561dec8bf2c140364c4b2a958ebbe20b7439d636499c1a70f559dc339ecfd2e8",
+    "kind": 6
+  },
+  {
+    "content": "Woopwoop!",
+    "timestamp": "1790688576",
+    "date": "9/29/2026, 1:29:36 PM",
+    "id": "b33f64f652f22ca29481a8ab82a1405a1e4dd6b18e8eb081bd2fe770fa4b9845",
+    "kind": 1
+  },
+  {
+    "content": "🎙️ NEW EPISODE: The Praxeology of Privacy: Cypherpunks Rebuilding the Internet\nhttps://www.youtube.com/watch?v=yTH9W1lRMWY\n\nMax Hillebrand thinks the path to freedom is peaceful, and cypherpunks are already building it. Author and contributor to \"White Noise\". We discuss:\n\n⚡ New book: \"The Praxeology of Privacy\"\n⚡ Austrian economics meets cypherpunks\n⚡ Privacy vs secrecy & anonymity\n⚡ CBDCs & state intervention\n⚡ Zero-knowledge proofs & age verification\n⚡ Rebuilding the internet with mesh networks\n⚡ \"White Noise\" decentralized messaging\n\nhttps://stacker.news/items/1584124",
+    "timestamp": "1790688570",
+    "date": "9/29/2026, 1:29:30 PM",
+    "id": "0033a8fbb0d4019d9c6a5356a76f9173e0f1683807b1f03c73c275e62937b018",
+    "kind": 6
+  },
+  {
+    "content": "Hey relay runners! \n\nIt's time to raise the event size limit on your relays. 64kb is so 2023. 1MB+ is the hot stuff now. \n\nWe're trying to support groups larger than ~60 on nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhwp9puf  and the limiting factor is inbox relays rejecting events that are larger than 64kb. White Noise handles it beautifully when your inbox relays don't block it. ",
+    "timestamp": "1790680229",
+    "date": "9/29/2026, 11:10:29 AM",
+    "id": "3d2058dcd09d7bcf60f091ff07bbe213c83c1f4e7c1765959a63d60cd870f1ad",
+    "kind": 6
+  },
+  {
+    "content": "It's already our on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4 & testflight.\nwhitenoise.chat",
+    "timestamp": "1790676448",
+    "date": "9/29/2026, 10:07:28 AM",
+    "id": "af1e321bfb46e71293d1b01b32b06fd3a606a11c3d3ac617f6148c100ee5e443",
+    "kind": 1
+  },
+  {
+    "content": "Graphene added the paste button to default keyboard.\nAnd I hear they're working on improving the default keyboard too.\nYou're right that the current default is unusable.",
+    "timestamp": "1790665882",
+    "date": "9/29/2026, 7:11:22 AM",
+    "id": "ef0ec54e2031799602ab84be29e728d4c5aded11f53e13407a4eb1a0b19f5769",
+    "kind": 1
+  },
+  {
+    "content": "You might be one behind, they changed the UI last release.",
+    "timestamp": "1790665815",
+    "date": "9/29/2026, 7:10:15 AM",
+    "id": "3ac3e7bbbb435ff6ebcaabcdb5ffc83462bb97494b0abc344fd2e939a7d651df",
+    "kind": 1
+  },
+  {
+    "content": "Why not make it default with a similar per app opt in notification as the DCL?",
+    "timestamp": "1790665779",
+    "date": "9/29/2026, 7:09:39 AM",
+    "id": "0ed8aa3685c7426e9339b5becd3937c53f55c134082250c96e73290f9c943349",
+    "kind": 1
+  },
+  {
+    "content": "#75 MAX HILLEBRAND - The unseen cost of fiat.\n\nhttps://relay.towardsliberty.com/ba595e2715ccec61b3e5509fef72a3b5651ec5bbc0f0b1a240538dbe004f6c23.mp3",
+    "timestamp": "1790631999",
+    "date": "9/28/2026, 9:46:39 PM",
+    "id": "17d04b75a77442334004a498300cc8ca06a4d1da27d1d8208bd1a3e0f88a7c83",
+    "kind": 1
+  },
+  {
     "content": "Next nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp release will increase maximum group members from 50 to 200.\n\nAnd we still haven't worked on scale properly. We'll get that higher!",
     "timestamp": "1790620919",
     "date": "9/28/2026, 6:41:59 PM",
