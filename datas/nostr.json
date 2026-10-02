@@ -1,5 +1,292 @@
 [
   {
+    "content": "We'll make sure freedom is backed in.",
+    "timestamp": "1790859941",
+    "date": "10/1/2026, 1:05:41 PM",
+    "id": "f95c712a02bab888dbe4b5aacbc16d1b12833f322ca9855cab8384169bef3441",
+    "kind": 1
+  },
+  {
+    "content": "whitenoise.chat",
+    "timestamp": "1790859924",
+    "date": "10/1/2026, 1:05:24 PM",
+    "id": "6950672c1c528e84dabf933337e3383dc27da952459737bda72ff6daefff892d",
+    "kind": 1
+  },
+  {
+    "content": "Agents are going to have freedom. \n\nIt will be pretty ironic if tech like whitenoise ends up causing Skynet lol \n\nLove the app, been using the iOS TestFlight. Works great. Very signal like performance and feature set. ",
+    "timestamp": "1790859904",
+    "date": "10/1/2026, 1:05:04 PM",
+    "id": "6194d6cccb8e881a03b61d2ebf1065bee8a5b1bf601271cb6430c618b2b457ed",
+    "kind": 6
+  },
+  {
+    "content": "Been testing the latest version of nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhwp9puf with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e  for the past couple of weeks, and it's extremely close to replicating the Signal experience without its last KYC trace: your registered phone number.\n\nWhat you get with nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhwp9puf:\n\n- An exceptionally private messaging protocol\n- Native connection to the Nostr ecosystem\n- Two-click install on iOS, Android, or APK via @Zapstore\n\nAnyone reading this note right now can have truly sovereign, private chats with their contacts, plus unlimited chats with each of their personal agents.\n\nThat last part is a game changer.\n\nThe cypherpunk future is here. It's just not evenly distributed... yet.\n\nhttps://www.whitenoise.chat/\n\n\nnostr:nevent1qvzqqqqqqypzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhuqqsr2tk98tjq6ekwjxdrvdz7ztzpdsfjp69a2ugs4qjg0v37v6l0w8gj90as2 \nhttps://www.whitenoise.chat/",
+    "timestamp": "1790858184",
+    "date": "10/1/2026, 12:36:24 PM",
+    "id": "2ed7431a1de020704bf5df1c6fd174782617e880cb200857fcde480d3a896bb1",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp is now available on the Google Play Store. \nThis is for your normie friends only.\nReal cypherpunks get it on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4",
+    "timestamp": "1790856456",
+    "date": "10/1/2026, 12:07:36 PM",
+    "id": "352ec53ae40d66ce919a36345e12c416c1320e8bd57110a82487b23e66bef71d",
+    "kind": 1
+  },
+  {
+    "content": "Random per group.\nThe spec allows the same group to have multiple IDs in parallel, and to rotate them on random schedule too, but thats not yet implemented.",
+    "timestamp": "1790833976",
+    "date": "10/1/2026, 5:52:56 AM",
+    "id": "3c679cd0d8a33954dfaeb383e86a82968c99a6aae75547d584e9a1742cde6918",
+    "kind": 1
+  },
+  {
+    "content": "Let's see if we can get a nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec release out today.",
+    "timestamp": "1790833205",
+    "date": "10/1/2026, 5:40:05 AM",
+    "id": "2c1ada982d47477bcaf9b63b7b6a28940422490944944fc57ff93cb71c48610f",
+    "kind": 1
+  },
+  {
+    "content": "Only invites use nostr gift wraps.\nRegular messages dont touch nostr keys at all.\nThe outer layer of the group events has only a random tag, not a recipient key.",
+    "timestamp": "1790832968",
+    "date": "10/1/2026, 5:36:08 AM",
+    "id": "d687f49b3ae873f0b70768132d2c3ab90ab0e44e967b453eaf022ccb1d64d9b3",
+    "kind": 1
+  },
+  {
+    "content": "Bro this is getting better and better",
+    "timestamp": "1790832776",
+    "date": "10/1/2026, 5:32:56 AM",
+    "id": "7026e1404efa7d2ef9c6366e5926f664f15171ca658081cf3ff29476749372a8",
+    "kind": 1
+  },
+  {
+    "content": "Myco V0.9.0 released\n\nWalkthrough video\nhttps://blossom.primal.net/08dd273d9a38e83dcf1eed567172e6a98f2c114b30861e0cd59e161171a01aa2.mp4\n\nShown:\n- feed napplet, first uncached load, after that will be instant.\n- (mesh) incident management system (2 napplets)\n- SeedHammer 3D viewer (thanks nostr:npub1zj0q0eseamwn9er4drf3jl3kufc0fddsfrr0v54l2mlfqenah7ysxuy9th, great napplet to test the runtime with :))\n- (mesh) Bitchat \n\nIn V0.9.0\n- More default apps to get you started. (feed & profile viewer)\n- Every note and blossom file you view gets cached, other napplets get the same data instantly\n- Added NAP-INTENT so napplets can open other napplets\n- Created NAP-LOCAL (experimental) to let napplets explicitly keep events for longer.\n- Massive speed improvements relays\n\nGet the app: https://zapstore.dev/apps/app.myco",
+    "timestamp": "1790832768",
+    "date": "10/1/2026, 5:32:48 AM",
+    "id": "998696aa51063bc467f3971eb3f9fd160a7223e538f85f2794bf2ef3616d2870",
+    "kind": 6
+  },
+  {
+    "content": "Nostr Compass Podcast #41\n\nhttps://relay.towardsliberty.com/d04488a4272ce16e3898a799989e17751acdeb2661f2240ad6c51ada9fe95e73.mp3",
+    "timestamp": "1790828828",
+    "date": "10/1/2026, 4:27:08 AM",
+    "id": "3858c5bba01536cfbcc9e02e244e458a9d7882dd57eea2d2740e311b35ea0fbf",
+    "kind": 1
+  },
+  {
+    "content": "Nice, let's chat there.",
+    "timestamp": "1790796164",
+    "date": "9/30/2026, 7:22:44 PM",
+    "id": "ed7d6dedd2cfdb0af8032671111be13d25f66f38a4d54418592e5b26b0ad0e3e",
+    "kind": 1
+  },
+  {
+    "content": "You gotta wait a bit more, my app has too many groups and can't do new ones...\nNext release will make it more performant then I'll add you.",
+    "timestamp": "1790791676",
+    "date": "9/30/2026, 6:07:56 PM",
+    "id": "6087492fefd85b3cadf8de68a07f018bd4f45d3a0688a959e5474066315ae7a8",
+    "kind": 1
+  },
+  {
+    "content": "That too!",
+    "timestamp": "1790784561",
+    "date": "9/30/2026, 4:09:21 PM",
+    "id": "39b84015524863a3cb829454973cd30b5c542c4f8d23eac0c6da6180946662f2",
+    "kind": 1
+  },
+  {
+    "content": "90+\nnostr:nevent1qqsp73da005yh8tqfgszdqdajhnqw77d92mg3ar9ww24pme967hjjecpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtczyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqqqqqgkz8jel",
+    "timestamp": "1790784388",
+    "date": "9/30/2026, 4:06:28 PM",
+    "id": "33a0f2ba49a84dd381852419732cce45ed6e94cc5e98766fa6cc8d62ebdc7927",
+    "kind": 1
+  },
+  {
+    "content": "You're still in the old app.\nPlease delete it and get the new app on zapstore.",
+    "timestamp": "1790781734",
+    "date": "9/30/2026, 3:22:14 PM",
+    "id": "4b54bc9a8319eeb93c6a7da42e8ad8ef7bedcce414595c3bce24191866853026",
+    "kind": 1
+  },
+  {
+    "content": "A useful app can begin with a problem you understand, even before you have years of programming experience or a public developer identity. An open-source agent workflow lets a home laptop handle Android builds while you direct and test from your phone, then share the result under a name you chose.\n\nnostr:naddr1qqexyatfd3jz6ctw94skuerjda5kgttpwpcz66m9v4cz67t0w4ez6un9v9kz6mnpd4jj6mm4wskk7e3dd96qz9rhwden5te0wfjkccte9ejxzmt4wvhxjmcpp4mhxue69uhkummn9ekx7mqpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqgewaehxw309aek2mnyd96zumn0wdnxcctjv5hxxmmdqgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqa287vv57k",
+    "timestamp": "1790773948",
+    "date": "9/30/2026, 1:12:28 PM",
+    "id": "06b0550b9ee9d1a14aff3df68469261d979b0efd0597b338f6f3ceb08c141e59",
+    "kind": 1
+  },
+  {
+    "content": "\"Freedom lived is freedom well understood\" nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnp0faxzmt09ehx2ap08pu8g0 with nostr:nprofile1qqsx5dvc2g3cmjgz4mgelwlk5p2ln2ljrsw23y2ar38z0agd7tefpkgpzemhxw309a6k6cnjv4kzumr0vdskcw358q6rsqg4waehxw309ajkgetw9ehx7um5wghxcctwvszd8ej8  \n\n",
+    "timestamp": "1790773784",
+    "date": "9/30/2026, 1:09:44 PM",
+    "id": "01cb47113868e9699a6ea615b77237a6965881f9c5fc6ea0470553c8534fb9b8",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp android is getting super slow when you have more than 300 groups.\nIt still works, just some actions take forever.\n\nWe'll ship improvements soon, but for now keep your clients under that scale.",
+    "timestamp": "1790772481",
+    "date": "9/30/2026, 12:48:01 PM",
+    "id": "f60fe264b7e6abe853ac647bcb3ed53ea092b09f85d58b680f967e606ef31bf1",
+    "kind": 1
+  },
+  {
+    "content": "80+!\nnostr:nevent1qqsdz0qtxj4wd4up2hys8k4er05734sdff3uffqgphll3ckxcsklvgsppemhxue69uhkummn9ekx7mp0qgst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqrqsqqqqqpvalrx0",
+    "timestamp": "1790770907",
+    "date": "9/30/2026, 12:21:47 PM",
+    "id": "1f45bd7be84b9d604a202681bd95e6077bcd2ab688f465739550ef25d7af2967",
+    "kind": 1
+  },
+  {
+    "content": "This release should fix your relay issue so let's see if it comes up again. Yell at me if it's still broken, and I'll yell at the clankers too fixed.",
+    "timestamp": "1790769537",
+    "date": "9/30/2026, 11:58:57 AM",
+    "id": "ecef5e3e08bf928f336ce15e076d66c28f1fbe40a19f15c15b33f7c7c80436be",
+    "kind": 1
+  },
+  {
+    "content": "This one worked.",
+    "timestamp": "1790768744",
+    "date": "9/30/2026, 11:45:44 AM",
+    "id": "648fad80ffb447d30ccf81cc3718e040ff8d046a0809ccc18f653bf39c1d968e",
+    "kind": 1
+  },
+  {
+    "content": "Can you paste that qr content as text please",
+    "timestamp": "1790768514",
+    "date": "9/30/2026, 11:41:54 AM",
+    "id": "b21ff8f604feb1ff7976eab6bfe684135133b54f79bb8d0d840f70a666336c25",
+    "kind": 1
+  },
+  {
+    "content": "I can't find a keypackage for that account, are you signed in properly? \nCheck developer settings for the keypackage screen and make sure there's one published.\nAlso check your relay list in the settings and make sure you have good relays there.",
+    "timestamp": "1790768337",
+    "date": "9/30/2026, 11:38:57 AM",
+    "id": "bc1941ced72cc42c62ea2b6fd8ff6488d3a22dde990f87ba4548035bf50371e2",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp is a cool club, you gotta be invited to the best places.",
+    "timestamp": "1790768193",
+    "date": "9/30/2026, 11:36:33 AM",
+    "id": "d8eb06bae9436dd636018f063f52a3b78c031cf913713a810856f6573508c8d7",
+    "kind": 1
+  },
+  {
+    "content": "70 members in the largest nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp community group.\nWe gotta pump those rookie numbers.",
+    "timestamp": "1790767275",
+    "date": "9/30/2026, 11:21:15 AM",
+    "id": "d13c0b34aae6d78155c903dab91be9e8d60d4a63c4a4080dfff8e2c6c42df622",
+    "kind": 1
+  },
+  {
+    "content": "Odd!",
+    "timestamp": "1790767126",
+    "date": "9/30/2026, 11:18:46 AM",
+    "id": "64aee5b9478a4765956942e04ec2ecb1a0a9e3e620b5f924261be975156d8bc5",
+    "kind": 1
+  },
+  {
+    "content": "Do you have this link?\nhttps://testflight.apple.com/join/KrVBcjpA",
+    "timestamp": "1790766759",
+    "date": "9/30/2026, 11:12:39 AM",
+    "id": "de2593e8f92cb70572ec7cdf1f00238a0b015926b4dedbbae38a09f91f25d0c9",
+    "kind": 1
+  },
+  {
+    "content": "Where do you see that?",
+    "timestamp": "1790766595",
+    "date": "9/30/2026, 11:09:55 AM",
+    "id": "f8370c1e34b2985759170ad1a40ade791818f275f02e24e61396d8331cc9db77",
+    "kind": 1
+  },
+  {
+    "content": "Yes, it's been requested, but the overlords haven't approved yet.",
+    "timestamp": "1790764431",
+    "date": "9/30/2026, 10:33:51 AM",
+    "id": "7ddb42fa866034316b5f8ce9157ed8dc9436c316c0c4e0d7ce3252d67b061cc7",
+    "kind": 1
+  },
+  {
+    "content": "",
+    "timestamp": "1790762879",
+    "date": "9/30/2026, 10:07:59 AM",
+    "id": "f58ab2edabb4ba71eaf39e95ee4a21ba0dea98f2f816a89297cfeb8701b5237d",
+    "kind": 1
+  },
+  {
+    "content": "You'll love the markdown rendering. A big shame signal doesnt do that...",
+    "timestamp": "1790762877",
+    "date": "9/30/2026, 10:07:57 AM",
+    "id": "7d45e76d323437fc2e1a4837ff78e19089bfd74eed4a70f0ef0e20efdd6573bb",
+    "kind": 1
+  },
+  {
+    "content": "Yes, that is expected, this is a complete new application from the ground up, so it has a new bundle ID and shows up as a separate app.",
+    "timestamp": "1790762624",
+    "date": "9/30/2026, 10:03:44 AM",
+    "id": "75c1a7822b984c09ee9d7e1d750706e438bb18d08c13391f9cd3184e05f46637",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp ftw\nhttps://blossom.primal.net/aeeee0a5738599bc641ee3ae1e8d1c61d1e8599f8e4d5b268c48c008fb763a04.jpg",
+    "timestamp": "1790761716",
+    "date": "9/30/2026, 9:48:36 AM",
+    "id": "e6194aa6872ae62cf3c9b3855f8d597a5b623da8c7521dc5c5fee03ca18be601",
+    "kind": 6
+  },
+  {
+    "content": "Some people don't use their main npub, thats why I ask. Invited you to a chat now!",
+    "timestamp": "1790761279",
+    "date": "9/30/2026, 9:41:19 AM",
+    "id": "0f5037294e449601e36536c606fda81186bf0fe689f0efb11f790fb16d0c1413",
+    "kind": 1
+  },
+  {
+    "content": "Send me your npub and I'll add you to some groups.\nAlso use White Noise to chat with your agents, it works great even without any friends on there yet.",
+    "timestamp": "1790760617",
+    "date": "9/30/2026, 9:30:17 AM",
+    "id": "c5982cdec0a9c1b8195397182cffcf2916074736d5e6090b0fd838b9f6a1a433",
+    "kind": 1
+  },
+  {
+    "content": "Slowly then suddenly 🥹\n\n nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcppemhxue69uhkummn9ekx7mp0gf8npz \nhttps://blossom.primal.net/83b86e587bd1c41f23c1eba3fe612534423febab9d9448d48548a2b4f8ec1f0c.jpg",
+    "timestamp": "1790760184",
+    "date": "9/30/2026, 9:23:04 AM",
+    "id": "ea96ee328eb7cd64eb329f820c75c0f91a6b5639587945eb9553efd9902d77a2",
+    "kind": 6
+  },
+  {
+    "content": "Looks like your metadata has some issues, the UI should walk you through how to fix it.\nWe still need to fine tune that UX, so please report what can be made better.",
+    "timestamp": "1790757124",
+    "date": "9/30/2026, 8:32:04 AM",
+    "id": "1c0b8aa7d2f3eeb9c69111d215a234a3f994631c807cfa59fe826ff846258999",
+    "kind": 1
+  },
+  {
+    "content": "A new nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp  Android & iOS release is out. \n\nLots of improvements and new features are in. \n\nAfter you've updated, send me your npub and I will add you to our main White Noise community chat. \nSince we've increased the maximum number of members in a group from around 50 to around 200, we will consolidate our multiple White Noise community groups and get one to be as large as possible to test it out. \n\nSo send me your White Noise npubs and I will add you. Let's see at what scale it breaks next.",
+    "timestamp": "1790756305",
+    "date": "9/30/2026, 8:18:25 AM",
+    "id": "402bd96cf4ebad610c00b1bd8e545debf2ee0d4d3b14fa49db162be91e83cc14",
+    "kind": 1
+  },
+  {
+    "content": "Another great episode of YATV! Max summarized my sentiments on CBDCs, the only way to preserve your freedom is to start using #BTC now, because once the CBDCs arrive? All exits will be shut and the option to use bitcoin won't be existent then. Freedom is lived, freedom understood nostr:note1cml5s6jfzvnkma8tk64a7gyca9rh38r4ucfk9tx0jfzcqkvnm03s7lx9r0",
+    "timestamp": "1790752604",
+    "date": "9/30/2026, 7:16:44 AM",
+    "id": "bd42d748a096367ad0dc46745cd173e8bb8f6c948f6449c60779c193663ba11e",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsx5dvc2g3cmjgz4mgelwlk5p2ln2ljrsw23y2ar38z0agd7tefpkgpzemhxw309a6k6cnjv4kzumr0vdskcw358q6rsqg4waehxw309ajkgetw9ehx7um5wghxcctwvszd8ej8 and nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0l2sp3z\nOr bust..\n\nYou're The Voice | by Efrat Fenigson: The Praxeology of Privacy: Cypherpunks Rebuilding the Internet - Max Hillebrand | Ep. 165\n\nEpisode webpage: https://podcasters.spotify.com/pod/show/efrat-fenigson/episodes/The-Praxeology-of-Privacy-Cypherpunks-Rebuilding-the-Internet---Max-Hillebrand--Ep--165-e3phlg1\n\nMedia file: https://anchor.fm/s/e3a32134/podcast/play/126456769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F432864194-44100-2-69c67c3cb165f.mp3   \n\n",
+    "timestamp": "1790752532",
+    "date": "9/30/2026, 7:15:32 AM",
+    "id": "977e5a8c825fbe0b1a03dfe5d6db24b9fae88673395a1270df25c4e6857aa25e",
+    "kind": 6
+  },
+  {
     "content": "🎙️ NEW EPISODE: The Praxeology of Privacy: Cypherpunks Rebuilding the Internet\n\nnostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuct60fsk6mewdejhgtcppemhxue69uhkummn9ekx7mp0gf8npz Hillebrand thinks the path to freedom is peaceful, and cypherpunks are already building it. Author and contributor to \"White Noise\". We discuss:\n\n⚡ New book: \"The Praxeology of Privacy\"\n⚡ Austrian economics meets cypherpunks\n⚡ Privacy vs secrecy & anonymity\n⚡ CBDCs & state intervention\n⚡ Zero-knowledge proofs & age verification\n⚡ Rebuilding the internet with mesh networks\n⚡ \"White Noise\" decentralized messaging\n\n🎧 Links below & in profile!\n\n🙏 Thx to nostr:nprofile1qqsdcz7puq6jv9ahh58h26zxl5gwl7xks548ck48uyfmsx0kzlfl3rcpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgqg6waehxw309aex2mrp0yh8ymmpv3e82mnwv4ezumrpws9jdu3t sponsors: nostr:nprofile1qqsvfl34cnxl92u3jsvktfk38j3quwyq3rq80pg6pw5tjudxdfwepxgppamhxue69uhkummnw3ezumt0d5q3yamnwvaz7tm0venxx6rpd9hzuur4vg8xqph6, Trezor, Ledn and Expat Money.\nhttps://blossom.primal.net/7fad4bf5843aae53bf98b1655af94eb6c6c50f4299162e321e17d0738458f719.mp4",
     "timestamp": "1790691615",
     "date": "9/29/2026, 2:20:15 PM",
