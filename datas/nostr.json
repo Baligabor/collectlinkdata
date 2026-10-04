@@ -1,5 +1,54 @@
 [
   {
+    "content": "Did you install white Noise yet?\nWe made a release, and I can't find you there.",
+    "timestamp": "1791060642",
+    "date": "10/3/2026, 8:50:42 PM",
+    "id": "48e72a5784a9df9afdb263558bbf02442688ea844ba2e93e400c0c7c4edb8bc5",
+    "kind": 1
+  },
+  {
+    "content": "Seems like youre still using the old app?\nget the new one on zapstore.",
+    "timestamp": "1791060344",
+    "date": "10/3/2026, 8:45:44 PM",
+    "id": "ab43d53af8d38f10b78232a9af5b02ebdd61b0afde990e79b3626a18c554221a",
+    "kind": 1
+  },
+  {
+    "content": "Yup, on the roadmap for later.",
+    "timestamp": "1791060248",
+    "date": "10/3/2026, 8:44:08 PM",
+    "id": "77fc1b650c675e8a0a5701909eafad5e46f130a8907a538c40ec3641020fbb5a",
+    "kind": 1
+  },
+  {
+    "content": "New nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp release is out!\nNow much faster and more scapable.\nLet's test the next limits, send me your npubs and I'll add you to the community group.\n100 members so far!",
+    "timestamp": "1791060212",
+    "date": "10/3/2026, 8:43:32 PM",
+    "id": "0cb5d271d1efbbf7dc2b19d4f3025b7e23302d5c59245d4c5f9afb6e80986fa9",
+    "kind": 1
+  },
+  {
+    "content": "What can you do about privacy, in light of upcoming CBDCs? nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e  Hillebrand answers. Full episode out now on nostr:nprofile1qy28wumn8ghj7mtfwdekkete9ejx2umfvahqzrthwden5te0dehhxtnvdakqqgxup0q7qdfxz7mm6rm4dpr06y80lrtg22nut2n7zyacr8mp05lc3u69jf2l.\n https://blossom.primal.net/f925d7dba7a8997dfce7dd7d844ea65cf5c4ea4ee1962ce7acfe4d972fde421a.mp4 ",
+    "timestamp": "1790925802",
+    "date": "10/2/2026, 7:23:22 AM",
+    "id": "7652784001437242fa4ffa5106e0e8db0d507035e340f3d387a8745b4e46d74a",
+    "kind": 6
+  },
+  {
+    "content": "Magic, right?",
+    "timestamp": "1790925762",
+    "date": "10/2/2026, 7:22:42 AM",
+    "id": "9cc897e9881be1931bcd91af34588430e0ece3a9933d9b10f6b40da3b73c2e7a",
+    "kind": 1
+  },
+  {
+    "content": "I'm glad it's working well for you.\nWe got big plans.",
+    "timestamp": "1790859967",
+    "date": "10/1/2026, 1:06:07 PM",
+    "id": "054f99377c507ea795f6cc894e35e39ca5f53ef3f198f9c76f18129e5f0d887e",
+    "kind": 1
+  },
+  {
     "content": "We'll make sure freedom is backed in.",
     "timestamp": "1790859941",
     "date": "10/1/2026, 1:05:41 PM",
@@ -200,6 +249,13 @@
     "timestamp": "1790766595",
     "date": "9/30/2026, 11:09:55 AM",
     "id": "f8370c1e34b2985759170ad1a40ade791818f275f02e24e61396d8331cc9db77",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, that's why we have the native only notifications that keep the WebSockets to relays open in the background. But that consumes a bit more battery. And we'll keep optimizing this as we go.",
+    "timestamp": "1790765455",
+    "date": "9/30/2026, 10:50:55 AM",
+    "id": "4bc6b64b1fdebd61802f88d71b6f35141870dfab5afdf7742a3517f4551081d2",
     "kind": 1
   },
   {
