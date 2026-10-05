@@ -1,5 +1,19 @@
 [
   {
+    "content": "It doesnt.\nBecause you have 32 relays in your inbox list.\nThe best practice standard is 3, btw.\nWhen you have so many you force every client to do a huge amount of work to send you something. Whitenoise doesnt do it if there's more than 16. \nYou'll have a better experience on nostr if you reduce the number of relays in your list.",
+    "timestamp": "1791095891",
+    "date": "10/4/2026, 6:38:11 AM",
+    "id": "75383af07cf4a6c3a04e782b9100b2bf005d38fc9905a56e8b0fcecc8026f562",
+    "kind": 1
+  },
+  {
+    "content": "Youre still on the old version of the app.",
+    "timestamp": "1791093910",
+    "date": "10/4/2026, 6:05:10 AM",
+    "id": "7314f04b1007f1777616646a0201b68137f010a41131186b60aca818cf078023",
+    "kind": 1
+  },
+  {
     "content": "Did you install white Noise yet?\nWe made a release, and I can't find you there.",
     "timestamp": "1791060642",
     "date": "10/3/2026, 8:50:42 PM",
