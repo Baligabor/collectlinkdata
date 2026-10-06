@@ -1,5 +1,75 @@
 [
   {
+    "content": "Looking forward to that, lots to demo",
+    "timestamp": "1791216010",
+    "date": "10/5/2026, 4:00:10 PM",
+    "id": "78849b395f86cc44d0c5fad85c82168f946abd2aecd9f555544be86d1e3acdd1",
+    "kind": 1
+  },
+  {
+    "content": "Marmot community call tomorrow October 6 at 16:00 UTC.\n\nNow that the new nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp is out, the calls get more demo-heavy. \n\nBuilding a client, library, or interface on Marmot? Bring it! We want to see other UIs, and other ways to do things 🚀\n\nHere: meet.fulmo.org/marmot\nhttps://blossom.primal.net/6d0c7db2048ab301812a16b5fb5acede74f38389abf69a286e212c6d074132dd.jpg",
+    "timestamp": "1791216002",
+    "date": "10/5/2026, 4:00:02 PM",
+    "id": "672648b9bc21f1c85184112aa1caa832acf194ea9f4699042f5c1ae84229f0a1",
+    "kind": 6
+  },
+  {
+    "content": "The idea is that you create a group, and then add the agent.\nYou can have as many 2 person groups as you want with the same user.\nThe agent can also change those group names if he's admin.",
+    "timestamp": "1791214080",
+    "date": "10/5/2026, 3:28:00 PM",
+    "id": "07f724d9bde836650e37e47ee6e429ad050686b6f929a936391511fded2886ce",
+    "kind": 1
+  },
+  {
+    "content": "What do you mean with the chat sessions listed?",
+    "timestamp": "1791212943",
+    "date": "10/5/2026, 3:09:03 PM",
+    "id": "fb6f7a2533396db4923229a332d56aca6bd0abf7866c74104e5e9eafca736e08",
+    "kind": 1
+  },
+  {
+    "content": "/model should work, but we have to improve the slash command ux.",
+    "timestamp": "1791208042",
+    "date": "10/5/2026, 1:47:22 PM",
+    "id": "7322a260ee2ab5ec97bd2a23bbd9a2ffbc1a34e4718bc1ae309d31820e8a848c",
+    "kind": 1
+  },
+  {
+    "content": "Has anyone played with the nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp agent connectors yet?\nIs anything missing there or something that can be improved?",
+    "timestamp": "1791207350",
+    "date": "10/5/2026, 1:35:50 PM",
+    "id": "ed8d9ca3d609bff0bd203955e9965a5d87cdbc5d1cb0ef3af1927acb3ab921fe",
+    "kind": 1
+  },
+  {
+    "content": "Now it works.",
+    "timestamp": "1791204348",
+    "date": "10/5/2026, 12:45:48 PM",
+    "id": "b90af8ee946b7dc6e1c3498290ca4ff92c88c2088fc871535fb590fefb394216",
+    "kind": 1
+  },
+  {
+    "content": "It seems youre using the old app, uninstall it and get the new one in zapstore. V2026.10.03",
+    "timestamp": "1791203673",
+    "date": "10/5/2026, 12:34:33 PM",
+    "id": "478ab17b86058b89d3c72ccc84791c47290404588f0b4943ed681469496745b9",
+    "kind": 1
+  },
+  {
+    "content": "Did you sign in to White Noise with that pubkey?",
+    "timestamp": "1791200837",
+    "date": "10/5/2026, 11:47:17 AM",
+    "id": "5d4b9c336389f39f082deb55495fd047499b3f0de25145b6c26bd27c8ec47aaf",
+    "kind": 1
+  },
+  {
+    "content": "I love that nostr:nprofile1qqsw2v8exrhmxmkpmg847fy660dcahceken4wzk2hqtusgv9643w3zgppemhxue69uhkummn9ekx7mp0qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z78zvutd now has an android app.\nThanks nostr:nprofile1qqsxu35yyt0mwjjh8pcz4zprhxegz69t4wr9t74vk6zne58wzh0waycpz9mhxue69uhkummnw3ezuamfdejj7qgewaehxw309ac8yetdd96k6tnswf5k6ctv9ehx2ap0qy2hwumn8ghj7mn0wd68ytn00p68ytnyv4mz7xx9ccm, finally a good native search app!",
+    "timestamp": "1791182908",
+    "date": "10/5/2026, 6:48:28 AM",
+    "id": "36badebcbb41a65915c82a5a075202329c3e341040a09e9f6dd1ec0fe406bcc8",
+    "kind": 1
+  },
+  {
     "content": "It doesnt.\nBecause you have 32 relays in your inbox list.\nThe best practice standard is 3, btw.\nWhen you have so many you force every client to do a huge amount of work to send you something. Whitenoise doesnt do it if there's more than 16. \nYou'll have a better experience on nostr if you reduce the number of relays in your list.",
     "timestamp": "1791095891",
     "date": "10/4/2026, 6:38:11 AM",
