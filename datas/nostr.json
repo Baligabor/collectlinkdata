@@ -1,5 +1,138 @@
 [
   {
+    "content": "Done",
+    "timestamp": "1791396138",
+    "date": "10/7/2026, 6:02:18 PM",
+    "id": "054f3fff3c407e3bac6ef55c052e434eca71b70580acbb290745bd319d415851",
+    "kind": 1
+  },
+  {
+    "content": "That shows how bad the system is...\nIt should just work automagically, and it very much does not...",
+    "timestamp": "1791370027",
+    "date": "10/7/2026, 10:47:07 AM",
+    "id": "dcf0c2fc1bf3d87e1b8c4c0cf9b9b99f500106922aa36e78c85fa88cb026528f",
+    "kind": 1
+  },
+  {
+    "content": "True, that's alright.",
+    "timestamp": "1791369915",
+    "date": "10/7/2026, 10:45:15 AM",
+    "id": "7d2fc37cf3f0791697347390dc469cfd64b41bc18e07b3a93080ab2623c473ae",
+    "kind": 1
+  },
+  {
+    "content": "Private Provider is now on nostr:nprofile1qqs83nn04fezvsu89p8xg7axjwye2u67errat3dx2um725fs7qnrqlgpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsz9mhwden5te0wfjkccte9ec8y6tdv9kzumn9wshszrnhwden5te0dehhxtnvdakz7adgsu4 \n\nGrapheneOS Super Intelligence Workspace\nDevelop in Private - Publish without Permission\nResearch ▪ Pi Agent ▪ Ngit ▪ Cashu ▪ TEE models\nhttps://zapstore.dev/apps/xyz.privateprovider",
+    "timestamp": "1791361144",
+    "date": "10/7/2026, 8:19:04 AM",
+    "id": "49d191486517c07829e4aee607d90b9c139e42489b735f2cc04ca1c47c957c39",
+    "kind": 6
+  },
+  {
+    "content": "GM ☕️  what about two hours of nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqppemhxue69uhkummn9ekx7mp0qythwumn8ghj7un9d3shjtnswf5k6ctv9ehx2ap0ych0a7 talking freedom tech, White Noise and Marmot with nostr:nprofile1qqstnem9g6aqv3tw6vqaneftcj06frns56lj9q470gdww228vysz8hqpzamhxue69uhhyetvv9ujucm4wfex2mn59en8j6gpramhxue69uhhyetvv9ujumn0v3jhyatwdejhyuewdejhgam0wf4s2762st, Steve and Jeff? Worth the commute. \n\nhttps://feeds.fountain.fm/jju8hH7aXnP0afzXN7GS/items/tofQEJVxNnTbKkIu1kI2/files/VIDEO---DEFAULT---76e08fc0-fa0f-4fdd-a97e-c19d576e38ff.mp4/ORIGINAL.mp3",
+    "timestamp": "1791357688",
+    "date": "10/7/2026, 7:21:28 AM",
+    "id": "fb6591e77797531d1bfc458b748c1f2860eefc4868f4b3a078dfbc10d751fcd2",
+    "kind": 6
+  },
+  {
+    "content": "I was thinking to do a bot that comments under people's notes with help on identifying the problem and offering a quick solution.",
+    "timestamp": "1791355240",
+    "date": "10/7/2026, 6:40:40 AM",
+    "id": "9a62e8fef9626e54784ab78a37facbdf14dcdb6f4536d4a1717c82f2e4a87a28",
+    "kind": 1
+  },
+  {
+    "content": "That is because apparently you have 20 relays in your inbox list. The recommended is to have 3. Because if you have many, then everyone who wants to get your notes needs to connect to a huge amount of relays, which wastes bandwidth and processing time. We have a limit of 16 right now in white noise, which is much more than the recommended. There is still the bug that we're failing hard, because maybe you have key packages on 16 of your 20 and we could get those. But still I would recommend you to decrease the number of relays in your list substantially.",
+    "timestamp": "1791353931",
+    "date": "10/7/2026, 6:18:51 AM",
+    "id": "3308439cdddcf3b12e69075cf91601f539de26ca1bc69a0c6eca9ca5b1256cc0",
+    "kind": 1
+  },
+  {
+    "content": "Looks like youre not signed in to White Noise yet?",
+    "timestamp": "1791352367",
+    "date": "10/7/2026, 5:52:47 AM",
+    "id": "e80d69ee33a875a0044a9dd771ea78e895204418683feb75f0f7b3f7c85d8127",
+    "kind": 1
+  },
+  {
+    "content": "Oh wow, I didnt know, thats crazy",
+    "timestamp": "1791351745",
+    "date": "10/7/2026, 5:42:25 AM",
+    "id": "373a0eaee354004d60e21dcf29a314aaf5222ce8af9f2024e6c2925c60e38371",
+    "kind": 1
+  },
+  {
+    "content": "You need to have at least one good relay in your Outbox and Inbox relay list that supports larger events and more concurrent connections. I'd recommend adding the White Noise relay in addition to the other existing relays that you have. Then things should work well. There was a bug that instead of adding it replaced. But that's fixed already.",
+    "timestamp": "1791351500",
+    "date": "10/7/2026, 5:38:20 AM",
+    "id": "ec3f0c89c5e8b3da590626b4f38563f10dd26c626664350c9b3a7f9e07b5cb64",
+    "kind": 1
+  },
+  {
+    "content": "Depends on the purpose of the group I guess, but less than 1000.\nStill, even if there is a spy in the group, he might not collaborate with outside adversaries, who then would still be hindered by the encryption.",
+    "timestamp": "1791317204",
+    "date": "10/6/2026, 8:06:44 PM",
+    "id": "ce5ae915caa32e035f02d456639781936b6772803d4781050e235e3699e2ff1c",
+    "kind": 1
+  },
+  {
+    "content": "True, malicious insiders are only one potential adversary tho.",
+    "timestamp": "1791316627",
+    "date": "10/6/2026, 7:57:07 PM",
+    "id": "b5f90af2226fd1bf3cbadc3f8ca3721d9570281e704c1f3b458e20d3d7a0c891",
+    "kind": 1
+  },
+  {
+    "content": "I'd still rather encrypt it on the wire than have it out in cleartext.\n\nIt's all about layers of defense, and protecting against different adversaries.",
+    "timestamp": "1791316321",
+    "date": "10/6/2026, 7:52:01 PM",
+    "id": "a5dcee8ec1664fa8048cbfcda6d650abaaa1cf62b4bfa4d48c7977a8ab944e3e",
+    "kind": 1
+  },
+  {
+    "content": "You gotta be invited.\nWe dont have invite links yet, so there can't be a board with open groups.\nSend me your npub and I add you to a couple.",
+    "timestamp": "1791315592",
+    "date": "10/6/2026, 7:39:52 PM",
+    "id": "10f45b3a6f95582f9c8e5ab449ce1779fe30cdafe1f168c88203625bb729c26b",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, we started tinkering on threads and sub groups.",
+    "timestamp": "1791315556",
+    "date": "10/6/2026, 7:39:16 PM",
+    "id": "4b0ddd21078bdebabec019c14168cbb33376d2ec7e1958012ceca7157c947958",
+    "kind": 1
+  },
+  {
+    "content": "Would you consider native nostr:nprofile1qqsd73ah4jstdkrls0qulxxnd8ukn5l4xnldw4z9mg7ku48nkljyhvspzemhxue69uhhyetvv9ujuerfw36x7tnsw43z7qgcwaehxw309a6x7upww3jhxarjv4kxz7fww3hhqtcpzemhxue69uhhyetvv9ujumt0wd68ytnsw43z77vpe3a support?\nFully decentralized MLS over Nostr.",
+    "timestamp": "1791314368",
+    "date": "10/6/2026, 7:19:28 PM",
+    "id": "a9f49438c9a523e886f35f90604bf798039de02649b29898e1738a076ad92699",
+    "kind": 1
+  },
+  {
+    "content": "What's the largest @White Noise group you're in?\nHow important even is group size?\nWhat number of members would you want?",
+    "timestamp": "1791309607",
+    "date": "10/6/2026, 6:00:07 PM",
+    "id": "4b2e571833bcc358f628d0c09b02a73907ddf1bc4069e8145815f6be9e023410",
+    "kind": 1
+  },
+  {
+    "content": "Marmot community call is in 5 minutes.\nhttp://meet.fulmo.org/marmot\nnostr:nevent1qqs0l7az09se4qwaf5kl6dcsh876jhkueu5ndu82qluf83zeqa049dqppemhxue69uhkummn9ekx7mp0qgsd73ah4jstdkrls0qulxxnd8ukn5l4xnldw4z9mg7ku48nkljyhvsrqsqqqqqp85e35g",
+    "timestamp": "1791302204",
+    "date": "10/6/2026, 3:56:44 PM",
+    "id": "f5b1f09dcc852f84c1f2e223aa285889abaf956aa08d1e633399494731abb082",
+    "kind": 1
+  },
+  {
+    "content": "Why is that?\nwhat errors did you get?",
+    "timestamp": "1791294389",
+    "date": "10/6/2026, 1:46:29 PM",
+    "id": "f92093843fcbbfca9f51d6911abee7bcf4c24d7e66952868a070311f91aa6efc",
+    "kind": 1
+  },
+  {
     "content": "Looking forward to that, lots to demo",
     "timestamp": "1791216010",
     "date": "10/5/2026, 4:00:10 PM",
