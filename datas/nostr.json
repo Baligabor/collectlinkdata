@@ -1,5 +1,40 @@
 [
   {
+    "content": "Oh wow that's cool!",
+    "timestamp": "1791570053",
+    "date": "10/9/2026, 6:20:53 PM",
+    "id": "21a31be92c5293d0faddcad3944fcbeb031aa023823dc01dca9668f30c9ab0aa",
+    "kind": 1
+  },
+  {
+    "content": "Introducing Groundhog 🦫, a private messenger for the Linux desktop, built on Nostr with GTK/libadwaita.\n\nThe 0.12.0 alpha 5 release is out today. It's an early preview, so expect rough edges.\n\nWhat it does:\n🔒 Private DMs (NIP-17 gift-wrapped), with read-only support for older NIP-04 messages\n👥 Group chats over relay groups (NIP-29) and Marmot end-to-end encrypted groups (MLS)\n🔑 Your keys never touch the app. Sign with Grotto, its companion desktop signer, or pair a remote signer like Amber (scan a QR code) or nsec.app (paste a bunker:// link)\n📊 Polls, reactions, @-mentions, attachments and voice messages\n🧅 Optional Tor mode for all connections\n💾 Messages are stored locally in an encrypted database\n\nPackages for Ubuntu 24.04/26.04, Debian 13, Fedora, Arch, Flatpak and Nix:\nhttps://github.com/chebizarro/nostrc/releases/tag/groundhog-v0.12.0-alpha5\n\nFeedback and bug reports welcome! #nostr #linux #gnome #grownostr\n\nhttps://blossom.sharegap.net/a4f8be1bbb32fac28ccfbd5fb28711438828ed8dd889c9d936303f9d911209fe.png",
+    "timestamp": "1791570047",
+    "date": "10/9/2026, 6:20:47 PM",
+    "id": "2627164532910dd1695ec8428b74b68f4b6d9eba060d4f049e1bcc1539a6b5ff",
+    "kind": 6
+  },
+  {
+    "content": "Looking forward to hear this one.",
+    "timestamp": "1791566506",
+    "date": "10/9/2026, 5:21:46 PM",
+    "id": "2e2b09ce69fe5b15bff69111706d41f47786162ba82a8dc194e37507f14aa9e7",
+    "kind": 1
+  },
+  {
+    "content": "What if Signal had no central servers?\n\nNo phone number.\nNo email.\nNo login.\n\nJust private, end-to-end encrypted communication for humans and AI agents.\n\nnostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3jamnwvaz7tmswfjk66t4d5h8qunfd4skctnwv46z7qpqzuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhs6un0n6  and nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwv9a85ctdduhxuet59uqzpdlddzcx9hntfgfw28749pwpu8sw6rj39rx6jw43rdq4pd276vhu7r8p0e are building nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq3wamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet59uqzqawhxlp5wfr3q2wyfpmtxvxj9ppg3fp80x6erghdfk4pcmq8a7hhwp9puf    \n\nThis one goes deep.\n\nWatch now 👇\n\nhttps://fountain.fm/episode/X7ayMhHE1zvs1gAyDXAL\n\nhttps://podcasts.apple.com/nl/podcast/038-signals-fatal-flaw-fixed-and-ai-agents-love-it/id1792290510?i=1000794049671\n\nhttps://open.spotify.com/episode/1Q5rN5SBC4p2vkUNjq99GU\n\nhttps://rumble.com/v7gksm0-signals-fatal-flaw-fixed-and-ai-agents-love-it-jeff-gardner-and-white-noise.html?e9s=src_v1_upp_a\n\nhttps://www.youtube.com/watch?v=rQvWGiwvJCQ\n\nhttps://linktr.ee/allinbitcoin\n\n",
+    "timestamp": "1791566491",
+    "date": "10/9/2026, 5:21:31 PM",
+    "id": "25d858ca19014ddc1c63cf80834d3d0d0a629095a967dc1d8970f4d5113d6287",
+    "kind": 6
+  },
+  {
+    "content": "nostr:nprofile1qqsz9qvwcv7cq78xf9jt2cwg8xm5gvljxu2494l4h44tptejtfulg2gpr4mhxue69uhkummnw3ez6un9d3shjtnhd3m8xtnnwpskxef0qyv8wumn8ghj7mn0wd68ytnxd46zuamf0ghxy6t69uq32amnwvaz7tmwdaehgu3wdau8gu3wv3jhvtccskede joins the Marmot club!",
+    "timestamp": "1791566476",
+    "date": "10/9/2026, 5:21:16 PM",
+    "id": "bd8a25e6021cfa49bb951b3144297e1ce43bca00fbfd4cbd5c142c047e4fae48",
+    "kind": 1
+  },
+  {
     "content": "If you're using nostr:nprofile1qqsd0hut8c2pveuk4zkcws9sdap8465am9dh9cp8d2530yssuflcracpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszrnhwden5te0dehhxtnvdakz7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z75nhtuk Goose AI agent harness, now you can chat with him through nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp as well!\nhttps://github.com/marmot-protocol/mdk/tree/master/integrations/goose/marmot",
     "timestamp": "1791466782",
     "date": "10/8/2026, 1:39:42 PM",
