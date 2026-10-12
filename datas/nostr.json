@@ -1,5 +1,19 @@
 [
   {
+    "content": "Four of my Nostr apps now have native Android apps, on Zapstore:\n\nEmanator: schedule and write posts for all your Nostr accounts, and handle the replies, mentions and private messages of every identity in one place\nhttps://zapstore.dev/apps/today.cypherpunk.emanator\n\nLievik: for marketing. It reads the Nostr accounts and RSS feeds you follow, tells you what is worth passing on and to which audience (a newsletter, a Signal group, a social account), and drafts the post\nhttps://zapstore.dev/apps/today.cypherpunk.lievik\n\nnostr:npub1dka50zsfvru0tsv2sqd40ktnwyd3236c3hzx62hhlxw9un408tcqz6wkt0 : your Nostr feed ranked by what you care about, plus a daily voice digest\nhttps://zapstore.dev/apps/today.cypherpunk.nalgorithm\n\nnostr:npub1k33k7jj2yky56x37kq2z5zg2wsc2d2jntpyf3huq4j9aqxqf5tss2w4taa : for any event, from a conference or a meetup to a community that meets for years, built around meeting the right people\nhttps://zapstore.dev/apps/today.cypherpunk.nostrautica\n\nAll of them sign in with Amber on the same phone. They are open source, and the signed releases are on GitHub too, so Obtainium works.\n\nOn an iPhone or a computer you don't need any of this. Each web app installs to your home screen and is the full app.",
+    "timestamp": "1791707423",
+    "date": "10/11/2026, 8:30:23 AM",
+    "id": "07da0ff2c0671c0f982e20e9c3b50f76e56ed961a341d7fca49e386eca4bd478",
+    "kind": 6
+  },
+  {
+    "content": "That's cool to hear! \nWelcome to the tribe",
+    "timestamp": "1791703965",
+    "date": "10/11/2026, 7:32:45 AM",
+    "id": "bb930e5353c64f75165d6deca65a57341bdb12dfebe5d607a3b4b61ae2537f59",
+    "kind": 1
+  },
+  {
     "content": "Feels like we finally cracked it.\n130+ members in the largest group and no fork.",
     "timestamp": "1791624620",
     "date": "10/10/2026, 9:30:20 AM",
