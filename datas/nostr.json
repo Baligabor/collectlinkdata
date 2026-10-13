@@ -1,5 +1,19 @@
 [
   {
+    "content": "During recent discussions about the security of decentralized inference through nostr:nprofile1qy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcqyz9lv2dn65v6p79g8yqn0fz9cr4j7hetf28dwy23m6ycq50gqph3xdsqeaf people raised a valid concern: how can we be sure a provider doesn't read our prompts, or alter tool calls to backdoor the machine or the code it generates? Or how do we know the provider does not swap the model for a cheaper one and charge you full price? The usual answer is a TEE, a trusted execution environment. TEEs are hard to audit in practice. You trust the hardware vendor and re-verify a whole software stack after every update. We can do better, and now we do.\n\nRoutstr has a confidential mode. Your client talks TLS 1.3 directly to the upstream provider (Venice, for my node), and the Routstr node in between only relays encrypted records. Client and node compute the TLS keys together, so the node can add its API key without ever seeing your prompt or the answer, and it can't change a single byte of the response, tool calls included. Zero-knowledge proofs pin the model and the token cap, and you pay for the usage the provider itself reported. All of this rests on math and on the certificates you already trust, with no enclave or special hardware anywhere.\n\nIt works today on routstr.cypherpunk.today, through routstrd (I'm running opencode agents on it) and right in the browser, where the page does every check itself. It's new and experimental, so please try",
+    "timestamp": "1791787486",
+    "date": "10/12/2026, 6:44:46 AM",
+    "id": "0cba29bd51b7fc654f3838c006ebdcfdad6a9d83c2feadf1866956f59717c59a",
+    "kind": 6
+  },
+  {
+    "content": "FIPS to Reticulum bridge \nhttps://github.com/fr34aky/reticulum-fips-bridge",
+    "timestamp": "1791784476",
+    "date": "10/12/2026, 5:54:36 AM",
+    "id": "f4af5279698ed4643f51726b2d9e7a4bbe5ee9e35d1bebedf14282bb77245047",
+    "kind": 1
+  },
+  {
     "content": "Four of my Nostr apps now have native Android apps, on Zapstore:\n\nEmanator: schedule and write posts for all your Nostr accounts, and handle the replies, mentions and private messages of every identity in one place\nhttps://zapstore.dev/apps/today.cypherpunk.emanator\n\nLievik: for marketing. It reads the Nostr accounts and RSS feeds you follow, tells you what is worth passing on and to which audience (a newsletter, a Signal group, a social account), and drafts the post\nhttps://zapstore.dev/apps/today.cypherpunk.lievik\n\nnostr:npub1dka50zsfvru0tsv2sqd40ktnwyd3236c3hzx62hhlxw9un408tcqz6wkt0 : your Nostr feed ranked by what you care about, plus a daily voice digest\nhttps://zapstore.dev/apps/today.cypherpunk.nalgorithm\n\nnostr:npub1k33k7jj2yky56x37kq2z5zg2wsc2d2jntpyf3huq4j9aqxqf5tss2w4taa : for any event, from a conference or a meetup to a community that meets for years, built around meeting the right people\nhttps://zapstore.dev/apps/today.cypherpunk.nostrautica\n\nAll of them sign in with Amber on the same phone. They are open source, and the signed releases are on GitHub too, so Obtainium works.\n\nOn an iPhone or a computer you don't need any of this. Each web app installs to your home screen and is the full app.",
     "timestamp": "1791707423",
     "date": "10/11/2026, 8:30:23 AM",
