@@ -1,5 +1,19 @@
 [
   {
+    "content": "That's technically really difficult because a admin member has to do the commit to add a new person to the group. You can however keep the app running in the background and do that automatically, or have dedicated small server admin that is on a 24-7 online machine.\nI'm not sure if it's a good idea to have an optional rule where join commits can be made by members who are not even in the group.",
+    "timestamp": "1792309002",
+    "date": "10/18/2026, 7:36:42 AM",
+    "id": "329260445a6514399e688511508feb5ad5c16ce016d865c47f8d686014175614",
+    "kind": 1
+  },
+  {
+    "content": "Yes, we're working on invite links.\nBut in any case, the admin must be online to add the new members pubkey to the group.",
+    "timestamp": "1792304323",
+    "date": "10/18/2026, 6:18:43 AM",
+    "id": "e20c6146baf63ad7a108a48f56c98251dfb9ca99e99d5eba2591164a0eb279c6",
+    "kind": 1
+  },
+  {
     "content": "Do you really have issues with space? That should only happen if you receive a whole bunch of attachments.",
     "timestamp": "1792178854",
     "date": "10/16/2026, 7:27:34 PM",
