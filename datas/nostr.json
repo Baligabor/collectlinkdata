@@ -1,5 +1,61 @@
 [
   {
+    "content": "Come catch Danny of IPF/Marmot (nostr:nprofile1qyx8wumn8ghj7cnjvghxjmcpp4mhxue69uhkummn9ekx7mqqyr050dav5zmdslurc88e35mfl95a8af5lmt4g3w684h9fuahu39mym85zju) in Seoul this November at bitcoin++ privacy edition talking about protecting your privacy in the age of AI \n\nhttps://btcpp.dev/seoul \nhttps://blossom.primal.net/dce4258df4288686881d8d1943986c8fa0eb211becb85d743a9992d25986549f.jpg ",
+    "timestamp": "1792432059",
+    "date": "10/19/2026, 5:47:39 PM",
+    "id": "24312a1fbc478144baabd0e636a95b73e18cbe11b3c1350f5d8fa87ccb25feeb",
+    "kind": 6
+  },
+  {
+    "content": "Marmot TS v0.7.0 is published\n\nThis is for you if you want to build a secure chat app in the web.\nhttps://github.com/marmot-protocol/marmot-ts",
+    "timestamp": "1792424577",
+    "date": "10/19/2026, 3:42:57 PM",
+    "id": "1f80faa5f6464be8ccb90c26a4ad6cd5576bf3642f68c4c441b68afeed0b9fff",
+    "kind": 1
+  },
+  {
+    "content": "Dont log in with the same nsec in two clients tho.",
+    "timestamp": "1792423655",
+    "date": "10/19/2026, 3:27:35 PM",
+    "id": "8410ff9fd71eab05f7d9bd1004863181aa364a2d7cd4a13f52c86765d275e580",
+    "kind": 1
+  },
+  {
+    "content": "Yes!\nAlready done, just not publicly released.\ngithub.com/marmot-protocol/whitenoise-linux\ngithub.com/marmot-protocol/whitenoise-mac",
+    "timestamp": "1792423642",
+    "date": "10/19/2026, 3:27:22 PM",
+    "id": "d5a13b0b4cca63956024637525e2112f35f93c24f7f5bb09364f05c088e64069",
+    "kind": 1
+  },
+  {
+    "content": "Nice, let me know what you think about it.",
+    "timestamp": "1792413258",
+    "date": "10/19/2026, 12:34:18 PM",
+    "id": "4008ea66141648a304a6c1cfae768c77b9c418398aeae861a35961e111883fba",
+    "kind": 1
+  },
+  {
+    "content": "That's awesome. Glad it's working well for you!\n\nHere's the Mac app, It currently does not have multi-device support, so you should log in with a different nsec than the one you have on your phone, and then invite both to the group and tell agent to accept messages from both. \ngithub.com/marmot-protocol/whitenoise-mac",
+    "timestamp": "1792409074",
+    "date": "10/19/2026, 11:24:34 AM",
+    "id": "50f37a14fe7bc5c9f810c93fb039b71ef3696addb6eab50061a9979c7d1b9101",
+    "kind": 1
+  },
+  {
+    "content": "We have a documentation now, if you have any questions about how nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp works and how to use it, check it out. \nhttps://www.whitenoise.chat/docs",
+    "timestamp": "1792395725",
+    "date": "10/19/2026, 7:42:05 AM",
+    "id": "7df75b3a1ad234463cf15b5452f421b3a6aa35afb2c67f3d15776f29dd1858a7",
+    "kind": 1
+  },
+  {
+    "content": "Lightning Piggy v1.6.0 is out ⚡🐷\n\nNew\n\n• Product image gallery with full-screen viewer (#1532)\n• My shop hub — currencies, shipping, collections, products, orders (#1551)\n• More-from-seller and you-might-like carousels (#1545)\n• Price in your currency under the listing price (#1538)\n• Weekly key backup reminder (#1553)\n• Ships-to filter from sellers' shipping options (#1536)\n• Remove a relay straight from the Nostr Network list (#1568)\n• Test accounts publish only to the LAN test relay (#1573)\n• Like and share listings; Liked items screen (#1549)\n• Buy on Nostr listings via Gamma orders (#1535)\n• Friends-of-friends and All scopes (experimental) (#1555)\n• NIP-42 relay login so DMs on auth-only relays load (#1578)\n• Notify sellers about comments, replies and reviews; sellers can reply (#1585)\n• Sellers send an invoice for incoming Gamma orders (#1550)\n• Thumbnail strip under the listing gallery (#1591)\n• Publish key packages to well-known Marmot relays + kind-10051 list (#1586)\n• Pre-approve relay login when connecting Amber or NIP-46 (#1594)\n• Messages-style Market header with search, filter and one menu (#1583)\n• File attachments in NIP-17 and NIP-04 chats (#1588)\n• Republish listings and show relay coverage in My shop (#1604)\n• Marketplace relays in settings, add Conduit (#1611)\n• Simpler Nostr network screen, instant publish sheet, App Relays toggles (#1619)\n• Shortcut row, profile icon and Orders/My Shop in the profile menu (#1617)\n• Keep sent chat bubbles mostly pink (#1636)\n• Tip a relay's operator with a zap (#1640)\n• Join and chat in NIP-171 groups (#1634)\n• Collapse shipping options to a one-line summary (#1622)\n\nImproved\n\n• Move DM store change notifications into their own module (#1652)\n\nFixed\n\n• Replace the wallet strip with carousel dots (#1521)\n• Show when filters are active; merge SAT and SATS chips (#1523)\n• Remove the Open listing button that only reached njump (#1526)\n• Edit a comment in place (#1528)\n• Open chats on Marmot when the peer supports it (#1529)\n• Compact one-line wallet rows (#1556)\n• Photo sends fail on Blossom CDN descriptors (#1561)\n• Info before the arrow, external links without arrows, compact rows (#1557)\n• Existing 1:1s reach a contact's newer devices (#1562)\n• Dark-mode surfaces and System theme follows the OS (#1567)\n• Keep the chosen merchant across partial refreshes (#1543)\n• Only warn about unreachable sellers when it's true (#1579)\n• Geo-Caches rail shows an empty state instead of endless skeletons (#1589)\n• Even spacing around the seller-scope pill (#1601)\n• Shared listings render as product cards in chat (#1602)\n• Image placeholder fills the chat card width (#1615)\n• Own device notices show the app name (#1612)\n• 1:1 messages stay in the direct chat when a same-member group exists (#1610)\n• Strip EXIF and GPS from photos sent as files (#1614)\n• Order cards in chat don't repeat the totals (#1618)\n• Mentions and group senders show names, not npubs (#1597)\n• Don't crash on cold start before App Relays prefs load (#1627)\n• Replying to someone lets their later messages through (#1625)\n• Every group invite waits for Accept / Decline (#1642)\n• No scroll-to-latest arrow when opening at the bottom (#1648)\n• Media placeholders readable on your own messages (#1644)\n• Show messages that arrived while the app was closed straight away (#1632)\n• Group previews name mentioned people (#1646)\n• Gift-wrap NIP-17 reactions and read wrapped ones (#1624)\n• Open the republish sheet immediately with live progress (#1621)\n• Separate, visible save for each Bitcoin network server (#1654)\n\nInstall\nAndroid APK: https://github.com/LightningPiggy/lightning-piggy-mobile/releases/tag/v1.6.0\niOS TestFlight: https://testflight.apple.com/join/bzfvEecu\nWebsite: https://lightningpiggy.com/app\n\n#LightningPiggy #bitcoin #nostr",
+    "timestamp": "1792394213",
+    "date": "10/19/2026, 7:16:53 AM",
+    "id": "8de673b4eeb1cdb937d1edf3e500ec9a9c4cac7b9a8c1a0e7c78b06418456b55",
+    "kind": 6
+  },
+  {
     "content": "That's technically really difficult because a admin member has to do the commit to add a new person to the group. You can however keep the app running in the background and do that automatically, or have dedicated small server admin that is on a 24-7 online machine.\nI'm not sure if it's a good idea to have an optional rule where join commits can be made by members who are not even in the group.",
     "timestamp": "1792309002",
     "date": "10/18/2026, 7:36:42 AM",
