@@ -1,5 +1,82 @@
 [
   {
+    "content": "Glad you liked it.",
+    "timestamp": "1792690860",
+    "date": "10/22/2026, 5:41:00 PM",
+    "id": "1e4a309f947794bc5f96513bac2553f7e790c7c88db853df2e710f6f6215fb70",
+    "kind": 1
+  },
+  {
+    "content": " Such a great discussion by the nostr:nprofile1qqspnzgrfett3asxcuj0gksje6z2zxzpvgd27uvz58m9vsuqh8zzw6cpremhxue69uhhyetvv9ujuet49emks6t5v4hx76tnv5hxx6rpwsq3uamnwvaz7tmjv4kxz7fww4ejuamgd96x2mn0d9ek2tnrdpshg5jeygs guys with nostr:nprofile1qqst0mtgkp3du662ztj3l4fgts0purksu5fgek5n4vgmg9gt2hkn9lqpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp04rynpa (knowledgeable guy and eloquent speaker.. could listen to him for hours!)\n\nhttps://youtu.be/GYyHcPEaS3Y",
+    "timestamp": "1792690854",
+    "date": "10/22/2026, 5:40:54 PM",
+    "id": "6b66f014260af75fcfe7e58b28c4277f6a7fc43d15788c234e04ba724d387394",
+    "kind": 6
+  },
+  {
+    "content": "You are seeing the old version of the application, which we stopped working on more than half a year ago. We now have a new test flight link that you can get on the website.  https://whitenoise.chat",
+    "timestamp": "1792673009",
+    "date": "10/22/2026, 12:43:29 PM",
+    "id": "20e1295ef12b1bc45563a4ea9d47b2e670cf1ea9c02e9da0721ed458bdbffa00",
+    "kind": 1
+  },
+  {
+    "content": "🧌 Mostro evolved, and you can now download the new version of the app on Zapstore! ⚡\n\nIn this video we show you everything we've been working on for our Mostros.\n\n🎥 https://youtu.be/7k9bjumtvQc\n📱 https://zapstore.dev/apps/foundation.mostro.app\n📦 https://github.com/MostroP2P/app/releases/tag/v2.1.0\n\n#Mostro #Bitcoin #Lightning #Nostr #P2P #OpenSource \n\n\n\nhttps://blossom.primal.net/73696441ad01d9de22dacd33c07e364be643565920c9b9ec7e4272de53478606.mp4",
+    "timestamp": "1792671097",
+    "date": "10/22/2026, 12:11:37 PM",
+    "id": "28336eb18280ac5325b43208177fcb7d18888b46677330c4f83b1d15b4a3ef4d",
+    "kind": 6
+  },
+  {
+    "content": "Right now we do not support signing in with the same nsec into multiple apps. So if you do that, it is expected to break. We will be working on that very soon. So for now, create a new nsec on your desktop and then invite both pubkey into the groups. ",
+    "timestamp": "1792670787",
+    "date": "10/22/2026, 12:06:27 PM",
+    "id": "9c6cb95568915bae4fbf83df3c5b6339830c9b7ba5876c9f41636a07a4065169",
+    "kind": 1
+  },
+  {
+    "content": "mission accomplished",
+    "timestamp": "1792662831",
+    "date": "10/22/2026, 9:53:51 AM",
+    "id": "3ed30a3f15be71abfdb4c0b1858910167622733990973ee8d291e271040e642e",
+    "kind": 1
+  },
+  {
+    "content": "So cool",
+    "timestamp": "1792662819",
+    "date": "10/22/2026, 9:53:39 AM",
+    "id": "1005b9985608513dd67bb29fb91e2330c08784a42d26ebde057376b84d0ca3e7",
+    "kind": 1
+  },
+  {
+    "content": "Yes, that ones in the pipeline to be published too.",
+    "timestamp": "1792649453",
+    "date": "10/22/2026, 6:10:53 AM",
+    "id": "8c7bf69e35e84857c2533e043930ba02751d95ba1bce516e7478c77e82e0d792",
+    "kind": 1
+  },
+  {
+    "content": "I sent another one null.",
+    "timestamp": "1792649423",
+    "date": "10/22/2026, 6:10:23 AM",
+    "id": "63e6b2010317c1df0432089f44b30785e16fb1d3f23a2a27eb557c8abe0998f2",
+    "kind": 1
+  },
+  {
+    "content": "Introducing codr: a lightweight Herdr plugin built on the Marmot Development Kit (MDK), using White Noise as its mobile interface.\n\nEach White Noise group maps to one Herdr agent session. A Rust bridge uses a single Marmot identity to route prompts, final replies, and agent status updates between your phone and your running sessions.\n\nThe current release runs on Linux, with structured final replies supported for OpenCode.\n\nOne-prompt installation instructions for your agent at the top of the README.\n\nhttps://github.com/tidley/codr\n https://npub19at4nqjjymca2lh3v546vcg5ktun3al4c5xu2pts3ewckv0y70ys0gupzr.blossom.band/f175a4ddeb1ca3fb76f68d13f0dfbd607f8817011c9494ade22a9184bee49522.jpg https://npub19at4nqjjymca2lh3v546vcg5ktun3al4c5xu2pts3ewckv0y70ys0gupzr.blossom.band/1b1edb77a108252c0faf4e27277ab556ab35bb3e852c1b6cfeb1c4ff14c73446.jpg https://npub19at4nqjjymca2lh3v546vcg5ktun3al4c5xu2pts3ewckv0y70ys0gupzr.blossom.band/d817d0c646781110f86953710ea93d5729e47d6d9181d4a421577b8fee2812ee.jpg",
+    "timestamp": "1792649050",
+    "date": "10/22/2026, 6:04:10 AM",
+    "id": "df601041ac240d9671fa17393435e76cb17de14d1ebe7c79189f035bbb5e4085",
+    "kind": 6
+  },
+  {
+    "content": "FIPS v0.5.3 released, bug fixes and security hardening\n\nnostr:naddr1qvzqqqr4gupzqg739mu828j7ufnlkc6p6lzph9p55xues60qyyhtxn2k4wmtzt52qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qgwwaehxw309ahx7uewd3hkctcqz9nxjurn94mrqdfn94ex2mr9v9ek2ksw8u8 ",
+    "timestamp": "1792649043",
+    "date": "10/22/2026, 6:04:03 AM",
+    "id": "e4e34f650541796ba504055caa9de540d9e2ee3f853dab8be51a73e0e1be0246",
+    "kind": 6
+  },
+  {
     "content": "That's a cool list, didn't read most of them.",
     "timestamp": "1792571351",
     "date": "10/21/2026, 8:29:11 AM",
