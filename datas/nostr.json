@@ -1,5 +1,152 @@
 [
   {
+    "content": "You're looking at the new app, not the old one?\nhttps://zapstore.dev/apps/naddr1qqdxgetk9e5hqe3wwa5xjar9dehkjum99eskuerjda5kgqgcwaehxw309aex2mrp0yh85ctswd6x7un99ejx2aszyp6awd7rguj8zq5ugjrkkvcdy2zz3zjzw7d4jx3w6nd2r3kq0ma0wqcyqqq8uzcrvt72a",
+    "timestamp": "1793368361",
+    "date": "10/30/2026, 1:52:41 PM",
+    "id": "69962fec836d373bcb00c0ae3107c881b42e7b3a945582fc35e1755cdb40bf4f",
+    "kind": 1
+  },
+  {
+    "content": "Oh wow, yeah.",
+    "timestamp": "1793348836",
+    "date": "10/30/2026, 8:27:16 AM",
+    "id": "70aa56e407d223c65f2139455c96c09dc1c6ac170c7ee1e2185858497c3ad937",
+    "kind": 1
+  },
+  {
+    "content": "Good thing is you can trivially make your own client.",
+    "timestamp": "1793341869",
+    "date": "10/30/2026, 6:31:09 AM",
+    "id": "c312861290b2621e53fe7304baeac6df972e9b1d3371e803236afc452df668eb",
+    "kind": 1
+  },
+  {
+    "content": "Can you long press and delete those placeholders too?",
+    "timestamp": "1793275768",
+    "date": "10/29/2026, 12:09:28 PM",
+    "id": "76fdae8d4405986f84051b3a91b19ffb65df476cbfaed0af53b43c5ef61d00bc",
+    "kind": 1
+  },
+  {
+    "content": "Interesting, I'll put it on the list.",
+    "timestamp": "1793271281",
+    "date": "10/29/2026, 10:54:41 AM",
+    "id": "1cb9fcfac8190e6bc06b6c924574da6942a161f7ad5e8faa1b2ed1295fba480c",
+    "kind": 1
+  },
+  {
+    "content": "What do you mean?",
+    "timestamp": "1793271212",
+    "date": "10/29/2026, 10:53:32 AM",
+    "id": "4bb03abb5c35499b0f1e1e557be932aaf009da12e232559e42fd0c0059bd0f9f",
+    "kind": 1
+  },
+  {
+    "content": "Yes!\nhttps://github.com/marmot-protocol/whitenoise-linux",
+    "timestamp": "1793271173",
+    "date": "10/29/2026, 10:52:53 AM",
+    "id": "e6cf04980d0388d71c115a26746ae2c7d90f9849d9b811864b0501198ac0a96a",
+    "kind": 1
+  },
+  {
+    "content": "Oh nice.",
+    "timestamp": "1793271129",
+    "date": "10/29/2026, 10:52:09 AM",
+    "id": "a983b99a8c5422b9ceafde5ba78cceb0f6d46760786307dd8f98e12f4f9b501a",
+    "kind": 1
+  },
+  {
+    "content": "What do you not like about them?",
+    "timestamp": "1793271109",
+    "date": "10/29/2026, 10:51:49 AM",
+    "id": "f607da0e58b9f6f3ca58d5d8304f07c0c8e6c6616c368ab6a5e65456af127110",
+    "kind": 1
+  },
+  {
+    "content": "Yes, whatever size limit is on the blossom server will be there too.\nIt's not really optimized for large files.",
+    "timestamp": "1793270980",
+    "date": "10/29/2026, 10:49:40 AM",
+    "id": "657e57ed9c9b0d8eb1df86565c4b4693aab792227ef3be5d53457748f6ba2bb3",
+    "kind": 1
+  },
+  {
+    "content": "Yeah that's true ",
+    "timestamp": "1793185380",
+    "date": "10/28/2026, 11:03:00 AM",
+    "id": "fbf40a2808bb657c0378ace97dd743b2800eb3ddf3ffee64100124c6bc6e7352",
+    "kind": 1
+  },
+  {
+    "content": "What do you need from White Noise to convince them?",
+    "timestamp": "1793185080",
+    "date": "10/28/2026, 10:58:00 AM",
+    "id": "7b82a52d003fcb352deb42ce713e6776243ff6456e21c95ee6aa4d9e637ff2c9",
+    "kind": 1
+  },
+  {
+    "content": "Looks lime you only have 0xchat relay in your DM inbox list, and that has a domain issue.\nAdd wss://relay.eu.whitenoise.chat or wss://relay.us.whitenoise.chat to that list and it should work.\nBest to review all of your relays in your lists and clean up a bit.",
+    "timestamp": "1793184707",
+    "date": "10/28/2026, 10:51:47 AM",
+    "id": "21d08eda6250382579fb2daac835f0d14720aa201414ef5c6429f79abb5f2554",
+    "kind": 1
+  },
+  {
+    "content": "We're already troubleshooting this, thanks for the report",
+    "timestamp": "1793184275",
+    "date": "10/28/2026, 10:44:35 AM",
+    "id": "290d36a1ce673b2d55b311dc2f3e6097a899481d5c4a37319cfd02090e282284",
+    "kind": 1
+  },
+  {
+    "content": "The Pi agent connector also works with nostr:npub1whtn0s68y3cs98zysa4nxrfzss5g5snhndv35tk5m2sudsr7ltms48r3ec btw.",
+    "timestamp": "1793178393",
+    "date": "10/28/2026, 9:06:33 AM",
+    "id": "0c6c30d7775e7ecb581ff0f86cd8a98043d0247f87ee2b80938a17d234482f06",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, the native hole punching of nostr / marmot is so useful.",
+    "timestamp": "1793178280",
+    "date": "10/28/2026, 9:04:40 AM",
+    "id": "433e006d3bf8051e3835c5298b483f99e3911ea51c967a342f51affb9c8ad5af",
+    "kind": 1
+  },
+  {
+    "content": "White Noise for Android 2026.10.27 decodes GIF and WebP animation in a permissionless worker, away from account data and group keys, and requests native heap memory tagging checks on MTE-capable phones, so a malicious animated image has far less of your private data within reach. Thank you to nostr:npub1hxx76n82ags8jrduk0p3gqrfyqyaxnrlnynu9p5rt2vmwjq6ts3q4sg75y for the conversations that inspired this hardening.\n\nnostr:naddr1qq58w6rfw3jj6mn0d9ek2ttpdej8ymmfvskkzar5v93ksmt9de6z66rpwfjx2mnfdensz8nhwden5te0wfjkccte9e6x7ampwfj8xmrfvfjhyare9e3k7mgzyzm7669svt0xkjsju50a22zurc0qa589z2xd4yatzx6p2z64a5e0cqcyqqq823cuhws0c",
+    "timestamp": "1793174373",
+    "date": "10/28/2026, 7:59:33 AM",
+    "id": "d779e080aff6d7a558ec1c37bca06cf4fc6c99c665fdaa77784e4bc004260ce7",
+    "kind": 1
+  },
+  {
+    "content": "Next Marmot app:\nLabradorite - talk to your agents from the phone.\nhttps://zapstore.dev/apps/naddr1qq8kxmmd9enhyet9deshyaphvveszxrhwden5te0wfjkccte9eaxzurnw3hhyefwv3jhvq3qw4uswmv6lu9yel005l3qgheysmr7tk9uvwluddznju3nuxalevvsxpqqqplqksxhc2g\nBy nostr:nprofile1qqs827g8dkd07zjvlhh60csytujgd3l9mz7x807xk3fewge7rwlukxgppemhxue69uhkummn9ekx7mp0qydhwumn8ghj7argv4nx7un9wd6zumn0wd68yvfwvdhk6tcpz9mhxue69uhkummnw3ezumrpdejz7d9xcpk",
+    "timestamp": "1793124733",
+    "date": "10/27/2026, 6:12:13 PM",
+    "id": "8847e648801a47aad9f6fe05bf3d91c734ff4986ac76c876bcd0a82dce8839ac",
+    "kind": 1
+  },
+  {
+    "content": "First leg of Zapstore v2 released:\n\n1️⃣ Relay v2 with indexer deployed\n2️⃣ zsp v2 now available\n3️⃣ hotbox is out too!\n\nNew app and webapp next week 🤞! The vision for zapstore is becoming reality",
+    "timestamp": "1793109923",
+    "date": "10/27/2026, 2:05:23 PM",
+    "id": "7f51786a9e13c684ecd4eec9eea65a84adfba5f7a8b97bc88f7dec3257b1111e",
+    "kind": 6
+  },
+  {
+    "content": "New nostr:nprofile1qqs8t4ehcdrjgugzn3zgw6enp53gg2y2gfmekkg69m2d4gwxcpl04acpzamhxue69uhhyetvv9ujuurjd9kkzmpwdejhgtcppemhxue69uhkummn9ekx7mp0w3radp release is out,\ngo get it.",
+    "timestamp": "1793109915",
+    "date": "10/27/2026, 2:05:15 PM",
+    "id": "37500b44fa5b081110fbcf2b77981252a67afb170bf00b80bd12ee45a8bd1b89",
+    "kind": 1
+  },
+  {
+    "content": "thanks - these are good issues, we'll get them fixed. But we're about to cut a release now, so those fixes will come in the one after that.",
+    "timestamp": "1793082639",
+    "date": "10/27/2026, 6:30:39 AM",
+    "id": "71f2b5d0e5a650338b4dfa6395340600c444f144dfd46acbbfaa93c31441e8bb",
+    "kind": 1
+  },
+  {
     "content": "https://github.com/marmot-protocol/whitenoise-android",
     "timestamp": "1793035326",
     "date": "10/26/2026, 5:22:06 PM",
