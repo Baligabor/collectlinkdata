@@ -1,5 +1,26 @@
 [
   {
+    "content": "Marmot community call happening now, get updated on the latest progress for encrypted messages over nostr.\nnostr:nevent1qqs9tam906m2n6xdeeshv7ghqjer32lvkc5puhz3dh6r69de34qtmgcprfmhxue69uhhwmm59e3k7erfdenkzun9desjuar0wqhsygxlg7m6eg9kmplc8sw0nrfkn7tf606nflkh23za50tw2nem0eztkgpsgqqqqqqsnx0d99",
+    "timestamp": "1793721816",
+    "date": "11/3/2026, 4:03:36 PM",
+    "id": "fbba661bba077564313c3d4143345a1571b667534fcdd080d75f7ac7a08bb097",
+    "kind": 1
+  },
+  {
+    "content": "Yes, not yet fully released, but here's a sneak peak https://github.com/marmot-protocol/whitenoise-linux",
+    "timestamp": "1793692492",
+    "date": "11/3/2026, 7:54:52 AM",
+    "id": "a635c281b5157c225ad270d2eb0c5c93c596e4e2eb7ead77eeb2b3a4354ec319",
+    "kind": 1
+  },
+  {
+    "content": "Marmot is the protocol that powers White Noise.\nIt brings together MLS for group encryption, Nostr keys for identity, Nostr relays and blossom servers for data delivery, and a local state machine to ensure members of a group agree on what key to use next next for encryption.\nYou can read the spec here https://gitHub.com/marmot-protocol/marmot\nAnd check out all the library and client applications here https://gitHub.com/marmot-protocol/awesome-marmot",
+    "timestamp": "1793692405",
+    "date": "11/3/2026, 7:53:25 AM",
+    "id": "768534b2dd190b6423c24855801b33913d53f4a9ee0a2696eedc446218803366",
+    "kind": 1
+  },
+  {
     "content": "You're looking at the new app, not the old one?\nhttps://zapstore.dev/apps/naddr1qqdxgetk9e5hqe3wwa5xjar9dehkjum99eskuerjda5kgqgcwaehxw309aex2mrp0yh85ctswd6x7un99ejx2aszyp6awd7rguj8zq5ugjrkkvcdy2zz3zjzw7d4jx3w6nd2r3kq0ma0wqcyqqq8uzcrvt72a",
     "timestamp": "1793368361",
     "date": "10/30/2026, 1:52:41 PM",
