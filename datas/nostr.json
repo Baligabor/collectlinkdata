@@ -1,5 +1,40 @@
 [
   {
+    "content": "That's super cool.",
+    "timestamp": "1793807979",
+    "date": "11/4/2026, 3:59:39 PM",
+    "id": "d146a27d7c28191bb5e36e5fb3755ed8c22092cd4f7e5060a9e80e544ea1c620",
+    "kind": 1
+  },
+  {
+    "content": "nostr:nprofile1qqszedrn6ruhul9wpzjqsy9zs24w03jugz6q7zcse9cuwhl5qw6fx3spr9mhxue69uhhyetvv9uju7npwpehgmmjv5hxgetk9uqjw50y now runs on the new nostr:nprofile1qqsd73ah4jstdkrls0qulxxnd8ukn5l4xnldw4z9mg7ku48nkljyhvspzemhxue69uhhyetvv9ujumt0wd68ytnsw43z7qgawaehxw309ahx7um5wghxy6t5vdhkjmn9wgh8xmmrd9skctcpz4mhxue69uhkummnw3ezummcw3ezuer9wchscw7wmv spec version, nice!\nnostr:naddr1qqtx7un89enk2arhdp5hxarvv5h8w6rfwd6xcegpr9mhxue69uhhyetvv9uju7npwpehgmmjv5hxgetk9upzqt95w0g0jlnu4cy2gzqs52p24e7xt3qtgrctzryhr36l7spmfy6xqvzqqqr7pvta97ec",
+    "timestamp": "1793798926",
+    "date": "11/4/2026, 1:28:46 PM",
+    "id": "818ee254ba77e35a2057abff6e4a285823ea0eedf4a8024c9ef3ba15ba3e27a5",
+    "kind": 1
+  },
+  {
+    "content": "Oh that's cool, what's the link to the source?",
+    "timestamp": "1793795244",
+    "date": "11/4/2026, 12:27:24 PM",
+    "id": "d54d46829d342ab1157d4c6c4632cc8877aaa77808d6c633c0153577db22b3dc",
+    "kind": 1
+  },
+  {
+    "content": "People have been building super cool stuff with Marmot, check out the list and add to it\nnostr:nevent1qqsv62hua7t78u0qkpvhvgf5pdfhqfn2epfzea4vmzquus5d009v9yspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsygxlg7m6eg9kmplc8sw0nrfkn7tf606nflkh23za50tw2nem0eztkgpsgqqqqqqsvh5d43",
+    "timestamp": "1793791779",
+    "date": "11/4/2026, 11:29:39 AM",
+    "id": "75b4f4a5732d03ac42e63c0ad1b9464c300d8a344f200f7567a75c123b872584",
+    "kind": 1
+  },
+  {
+    "content": "Bitcoin meetup will be packed this week.",
+    "timestamp": "1793783189",
+    "date": "11/4/2026, 9:06:29 AM",
+    "id": "4f0c6e5cdf140e8746a3113c2833f28a14a6a4ae68ed38d89859f03a35c102a8",
+    "kind": 1
+  },
+  {
     "content": "Marmot community call happening now, get updated on the latest progress for encrypted messages over nostr.\nnostr:nevent1qqs9tam906m2n6xdeeshv7ghqjer32lvkc5puhz3dh6r69de34qtmgcprfmhxue69uhhwmm59e3k7erfdenkzun9desjuar0wqhsygxlg7m6eg9kmplc8sw0nrfkn7tf606nflkh23za50tw2nem0eztkgpsgqqqqqqsnx0d99",
     "timestamp": "1793721816",
     "date": "11/3/2026, 4:03:36 PM",
