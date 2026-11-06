@@ -1,5 +1,33 @@
 [
   {
+    "content": "If you use GN ReSound hearing aids and don't like the official app, I made one that I think is better. Especially better use of the buttons. I can now interact with my agents, record notes, transcribe on device. Everything is either happening on my phone (running nostr:npub1235tem4hfn34edqh8hxfja9amty73998f0eagnuu4zm423s9e8ksdg0ht5 ) or is sent end-to-end encrypted through Marmot to my agent.\n\nBut even if you are not using agents, at least for me, my app is better. It can pause podcast/music with a button, etc.\n\nAvailable through Obtainium or nostr:npub10r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7stjt2p8 - free and open-source.\n\nThis is a predecesor to nostr:npub1qmmms87efllcm72ap8ymvyn75elh0zyu53ndz0d3n57m0yz0rwksyds3d9 - which has features for other users, but does not allow \"do not touch phone\" control, because I don't know of standard way to handle the buttons. And \"I hear you\" can change all the hearing aid settings. So I use both.\n\nhttps://jooray.github.io/i-hear-you/",
+    "timestamp": "1793914669",
+    "date": "11/5/2026, 9:37:49 PM",
+    "id": "7b29b088c86490aa44763cf4de4a96643c26c99d3ff945c0873135b0e87635a1",
+    "kind": 6
+  },
+  {
+    "content": "Woopwoop",
+    "timestamp": "1793909659",
+    "date": "11/5/2026, 8:14:19 PM",
+    "id": "ea4e78fd6bc298dfa68c0d5afd0c422dd1d2e051344638a14b90a2880830ea79",
+    "kind": 1
+  },
+  {
+    "content": "Just a bar of soap...",
+    "timestamp": "1793873307",
+    "date": "11/5/2026, 10:08:27 AM",
+    "id": "12e018a1f861d9ac6d72e63b9ba64ca6cd57a00a259baa4faddb539d37be6f6c",
+    "kind": 1
+  },
+  {
+    "content": "Yeah I noticed that too, probably related to relay connection, which will get a big refactoring in the upcoming release, hopefully this fixes it, thanks for the report, please let me know if it happens again later.",
+    "timestamp": "1793861973",
+    "date": "11/5/2026, 6:59:33 AM",
+    "id": "7b468f3f7bb7f208d86f0a5607735ba6b3e641bb86fafa1f6afcaeac30d06b54",
+    "kind": 1
+  },
+  {
     "content": "That's super cool.",
     "timestamp": "1793807979",
     "date": "11/4/2026, 3:59:39 PM",
