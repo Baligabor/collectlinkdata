@@ -1,5 +1,96 @@
 [
   {
+    "content": "Amber for iOS",
+    "timestamp": "1793987616",
+    "date": "11/6/2026, 5:53:36 PM",
+    "id": "b389f568a45bf1144e0d6043701cec0f3cd43d7c27ea45dba1c9039e35daa58d",
+    "kind": 1
+  },
+  {
+    "content": "The minimum supported version is Android 11. There would be some security downsides of supporting older devices. You should consider upgrading your phone.",
+    "timestamp": "1793983824",
+    "date": "11/6/2026, 4:50:24 PM",
+    "id": "dbf5367451839f1c6414bfc835193304dd62901f738708b1a238e754a1c524fc",
+    "kind": 1
+  },
+  {
+    "content": "Didn't get to it yet, and you'll need to convince nostr:npub1zuuajd7u3sx8xu92yav9jwxpr839cs0kc3q6t56vd5u9q033xmhsk6c2uc ",
+    "timestamp": "1793983412",
+    "date": "11/6/2026, 4:43:32 PM",
+    "id": "586989dd7566fb9d10b0728c8a7a95f591c93887ca7f5d3ea56132b8bc183e3c",
+    "kind": 1
+  },
+  {
+    "content": "Yes, we'll be working on that soon.",
+    "timestamp": "1793983226",
+    "date": "11/6/2026, 4:40:26 PM",
+    "id": "e71b64baa80e32df10b2783e3954e42b8b81c760a225aaa4082b3555583bc8cf",
+    "kind": 1
+  },
+  {
+    "content": "Multi-device between mobile and desktop, as well as between the different Marmot clients is coming very soon. Audio and video chats will come later.",
+    "timestamp": "1793983032",
+    "date": "11/6/2026, 4:37:12 PM",
+    "id": "bb79c311f92a3022e0f3abbe0f643fb5ff5032a9a320819cd551f628d27e73b4",
+    "kind": 1
+  },
+  {
+    "content": "On Android right now we have two options to do notifications. One is without Google Play services to keep multiple WebSockets open to the relays and watch for incoming messages, that necessarily will drain more battery, but we're continuously working on making that more efficient. \nThe second option is to connect via Google Firebase notification services where we have a custom protocol to make that as private as we could manage. Still you connect to Google. \nBoth options are available. You can change them in the settings.",
+    "timestamp": "1793982988",
+    "date": "11/6/2026, 4:36:28 PM",
+    "id": "e6f8c33978ee31ab2ae77a110befb5cdf00830bd23422cece01a3357be382c64",
+    "kind": 1
+  },
+  {
+    "content": "You probably tried the old version of the app, we've abandoned that. What we released a month ago is a complete rewrite, and it's working much better. Still has a lot of rough edges to iron out though, it's a hard problem.",
+    "timestamp": "1793982874",
+    "date": "11/6/2026, 4:34:34 PM",
+    "id": "7d40033ba928651522235c3a4da8008c7dc8ed8ebcb03da76db8eae02fe05fe4",
+    "kind": 1
+  },
+  {
+    "content": "We're now on both Apple App Store and Google Play Store, ready for the normies",
+    "timestamp": "1793982611",
+    "date": "11/6/2026, 4:30:11 PM",
+    "id": "f27b5960a2e4bf4227751e5b0dd0475d060d22ee3fe2259d9ea4b4c5ab4c6c99",
+    "kind": 1
+  },
+  {
+    "content": "What's the biggest annoyance you have with White Noise at the moment? What needs to be made better?",
+    "timestamp": "1793973168",
+    "date": "11/6/2026, 1:52:48 PM",
+    "id": "74d3661ac99732277a222b90caf55950514db46194fccae00761d65e6211e7b3",
+    "kind": 1
+  },
+  {
+    "content": "Download, pick the name you want, start a chat. No number needed.\n\nWhite Noise is available on App Store, Google Play and Zapstore.\n\nDownload links in the comments.\nhttps://blossom.primal.net/a75e9643049cb8f96aaf53a968f344002af53c23742e55ec8e7abaf255c691dc.png",
+    "timestamp": "1793971872",
+    "date": "11/6/2026, 1:31:12 PM",
+    "id": "0182519f86e4e0178aa970c1db425ceb3bb7f8dca0198741bdefdf1abfe1c921",
+    "kind": 6
+  },
+  {
+    "content": "\nhttps://zapstore.dev/apps/dev.ipf.whitenoise.android\n",
+    "timestamp": "1793971655",
+    "date": "11/6/2026, 1:27:35 PM",
+    "id": "be4d5dd8da5403e821f1a00b188262d69013cdb5c378e44a55f3bef4efa76e5b",
+    "kind": 1
+  },
+  {
+    "content": "That sounds like a bug, here's the pubkey of the main catalogue.\nnpub1gnwq4vrqvsmvz3z56lk0xkqm0d83kjy90lvc2xyk5p7u72mjk2asthdn3y",
+    "timestamp": "1793951369",
+    "date": "11/6/2026, 7:49:29 AM",
+    "id": "87e04f1bd3c9d634ec317eef6bcbbd00920bd036e674d34ec104a3a5d101f41e",
+    "kind": 1
+  },
+  {
+    "content": "The new rewrite of nostr:npub10r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7stjt2p8 v2 is released!\nA massive improvement to scalability and privacy, this is now the most anonymous app store for both developers and users, amazing.\n\nhttps://zapstore.dev/apps/dev.zapstore.app",
+    "timestamp": "1793916067",
+    "date": "11/5/2026, 10:01:07 PM",
+    "id": "6ac0e6201bd9452a1fbbff097422a19f103f916cf25aa00da05c43234ab64bc1",
+    "kind": 1
+  },
+  {
     "content": "If you use GN ReSound hearing aids and don't like the official app, I made one that I think is better. Especially better use of the buttons. I can now interact with my agents, record notes, transcribe on device. Everything is either happening on my phone (running nostr:npub1235tem4hfn34edqh8hxfja9amty73998f0eagnuu4zm423s9e8ksdg0ht5 ) or is sent end-to-end encrypted through Marmot to my agent.\n\nBut even if you are not using agents, at least for me, my app is better. It can pause podcast/music with a button, etc.\n\nAvailable through Obtainium or nostr:npub10r8xl2njyepcw2zwv3a6dyufj4e4ajx86hz6v4ehu4gnpupxxp7stjt2p8 - free and open-source.\n\nThis is a predecesor to nostr:npub1qmmms87efllcm72ap8ymvyn75elh0zyu53ndz0d3n57m0yz0rwksyds3d9 - which has features for other users, but does not allow \"do not touch phone\" control, because I don't know of standard way to handle the buttons. And \"I hear you\" can change all the hearing aid settings. So I use both.\n\nhttps://jooray.github.io/i-hear-you/",
     "timestamp": "1793914669",
     "date": "11/5/2026, 9:37:49 PM",
