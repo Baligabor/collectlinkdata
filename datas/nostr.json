@@ -1,5 +1,61 @@
 [
   {
+    "content": "GM is out",
+    "timestamp": "1794144518",
+    "date": "11/8/2026, 1:28:38 PM",
+    "id": "288693b059bc6a077e649cea95f6746e1d5c1feb9eabffe2c34f8ac311477a4c",
+    "kind": 1
+  },
+  {
+    "content": "Yes. Some groups are joker groups where I do side quests that don't relate to each other.\nBut for projects that are longer term, each gets one dedicated group so that context is more aligned.\nOr a dedicated group for a specific scoped goal like a PR.\nThere's auto compaction, but a /new works to start a clean session in the same group.\nGroup titles get automatically edited by the agent to reflect what the current session is about, and the folder filters in White Noise help to keep it easy to overview.",
+    "timestamp": "1794144396",
+    "date": "11/8/2026, 1:26:36 PM",
+    "id": "1990261d946e995920c462bff9ecea09c0b3b90e41988760e10fab9a1c016d8d",
+    "kind": 1
+  },
+  {
+    "content": "Nope.",
+    "timestamp": "1794144085",
+    "date": "11/8/2026, 1:21:25 PM",
+    "id": "1483b7791269f3b4f785a7f7a64258aa6b8a3b6908127c2e68ec66a0c8f1afc1",
+    "kind": 1
+  },
+  {
+    "content": "My latest agent setup is to have multiple harnesses installed in one machine, and give each of them their own Marmot key, then create a bunch of groups, and invite all of the agents in.\nEach group is an ongoing session, and dedicated projects get their own long lived group. \nWhenever a provider hits a limit, it automatically switches over to the next agent harness and continues the work in the same Marmot group.\nWhite Noise is the one static UI with great local search that exposes stable groups per project regardless of model provider.",
+    "timestamp": "1794138278",
+    "date": "11/8/2026, 11:44:38 AM",
+    "id": "679184e4e62a3a508bc08c19eff69326eb6a1162d88dbbe897baa8f9f6e0c06b",
+    "kind": 1
+  },
+  {
+    "content": "It's probably a problem with your relay list, make sure you have ~3 high quality relays there.\nWe'll make that screen more helpful.",
+    "timestamp": "1794044267",
+    "date": "11/7/2026, 9:37:47 AM",
+    "id": "08f1114f3043473995eb7e3e1a6102625a129fb576767ad5fbc785c97a183ea6",
+    "kind": 1
+  },
+  {
+    "content": "Yes, that's coming.",
+    "timestamp": "1794038745",
+    "date": "11/7/2026, 8:05:45 AM",
+    "id": "e523ea0ced54d7837814008964a997f3a121527103a82d1d57bc18f7491d50f3",
+    "kind": 1
+  },
+  {
+    "content": "Big plans...",
+    "timestamp": "1794038550",
+    "date": "11/7/2026, 8:02:30 AM",
+    "id": "eb623633d02c67c950e88b752348efa1539b8c5fdb167b5e53d68d10442c19fa",
+    "kind": 1
+  },
+  {
+    "content": "Yeah, we just noticed that, its weird, will be fixed ",
+    "timestamp": "1794036203",
+    "date": "11/7/2026, 7:23:23 AM",
+    "id": "fad8f4ed5450b147c4fbe386a7cbbdb696940d7d2933f4eaa3261290df52d7be",
+    "kind": 1
+  },
+  {
     "content": "Amber for iOS",
     "timestamp": "1793987616",
     "date": "11/6/2026, 5:53:36 PM",
